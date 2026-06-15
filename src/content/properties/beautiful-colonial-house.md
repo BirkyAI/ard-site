@@ -1,15 +1,16 @@
 ---
 title: "Beautiful Colonial House"
 location: "Antigua Centro"
-price: 520000
+price: 485000
 beds: 4
 baths: 3
 area: "320m²"
-status: "For Sale"
-badge: "For Sale"
+status: "Sold"
+badge: "Sold"
 image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/07/1-1.jpg"
 alt: "Beautiful colonial house with traditional tile roof in Antigua Guatemala"
-featured: true
+featured: false
+hidden: true
 date: 2025-08-10
 ---
 
