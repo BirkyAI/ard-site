@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Real Estate Services | Antigua Real Estate Development" description="Full-service real estate in Antigua Guatemala — property search, relocation support, investment advisory, and legal guidance for expats.">
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">Services</div>
+      <h1 class="page-hero__title">How I Can Help You</h1>
+      <p class="page-hero__subtitle">Full-service real estate support for expats and Guatemalans abroad.</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div style="max-width:960px;margin:0 auto;">
+        <div style="display:grid;grid-template-columns:1fr;gap:32px;">
+          {[
+            {title:'Property Search',desc:'I help you find the perfect property based on your needs, budget, and lifestyle preferences. From colonial homes in the centro to land with volcano views — I know every neighborhood.',icon:'🔍'},
+            {title:'Relocation Support',desc:'Moving to a new country is overwhelming. I connect you with everything you need: lawyers, notaries, contractors, schools, healthcare, and more. Think of me as your local guide.',icon:'🏠'},
+            {title:'Investment Advisory',desc:'Looking for rental income or capital appreciation? I analyze ROI, Airbnb potential, and market trends to help you make smart investment decisions in the Antigua market.',icon:'📈'},
+            {title:'Legal Guidance',desc:"While I'm not a lawyer, I work with trusted legal professionals who specialize in real estate transactions for foreign buyers. I guide you through every step of the process.",icon:'⚖️'},
+          ].map(s => (
+            <div style="display:grid;grid-template-columns:auto 1fr;gap:24px;padding:32px;background:var(--color-surface);border-radius:16px;border:1px solid var(--color-border);align-items:start;">
+              <div style="width:56px;height:56px;background:white;border:1px solid #ddd;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0;">{s.icon}</div>
+              <div>
+                <h2 style="font-size:20px;font-weight:600;margin-bottom:8px;">{s.title}</h2>
+                <p style="font-size:15px;color:var(--color-text-secondary);line-height:1.6;">{s.desc}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+        <div style="text-align:center;margin-top:48px;padding:48px;background:#111;border-radius:16px;color:white;">
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;">Ready to Get Started?</h2>
+          <p style="opacity:0.8;margin-bottom:24px;">Book a free consultation — no strings attached.</p>
+          <a href="/contact/" class="btn btn--primary">Book Free Consultation</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

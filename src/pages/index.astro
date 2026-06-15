@@ -1,0 +1,188 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+const allProperties = await getCollection('properties');
+const featured = allProperties.filter(p => p.data.featured).slice(0, 3);
+const allBlog = await getCollection('blog');
+const recentBlog = allBlog.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
+const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type":"RealEstateAgent","name":"Luna Jerney","jobTitle":"Real Estate Agent"},{"@type":"WebSite","name":"Antigua Real Estate Development","url":"https://antiguarealestatedevelopment.com"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can foreigners buy property in Antigua Guatemala?","acceptedAnswer":{"@type":"Answer","text":"Yes! Foreigners can buy property in Guatemala with full ownership rights."}},{"@type":"Question","name":"How much does a house cost in Antigua Guatemala?","acceptedAnswer":{"@type":"Answer","text":"Colonial homes range from $150,000 to $800,000+."}},{"@type":"Question","name":"Is Antigua Guatemala good for expats?","acceptedAnswer":{"@type":"Answer","text":"One of the most popular expat destinations in Central America."}},{"@type":"Question","name":"Do I need a real estate agent?","acceptedAnswer":{"@type":"Answer","text":"Highly recommended for foreign buyers."}}]}]});
+---
+<script type="application/ld+json" set:html={jsonLD} />
+<BaseLayout title="Antigua Real Estate Development | Real Estate in Antigua Guatemala" description="Find your dream home in Antigua Guatemala. Expert real estate guidance for expats and Guatemalans abroad — colonial homes, land, and investment properties.">
+  <script type="application/ld+json" set:html={jsonLD} />
+
+  <!-- HERO -->
+  <section class="hero" style="position:relative;min-height:85vh;display:flex;align-items:center;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,0.25),rgba(0,0,0,0.6)),url('https://antiguarealestatedevelopment.com/wp-content/uploads/2025/07/properties-for-sale-in-antigua-guatemala-scaled.jpg');background-size:cover;background-position:center 40%;filter:grayscale(25%);"></div>
+    <div class="container" style="position:relative;z-index:2;color:white;padding:64px 0;">
+      <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,0.15);backdrop-filter:blur(8px);padding:6px 16px;border-radius:9999px;font-size:13px;font-weight:500;margin-bottom:24px;border:1px solid rgba(255,255,255,0.2);">Antigua Guatemala</div>
+      <h1 style="font-size:clamp(32px,7vw,56px);font-weight:600;line-height:1.1;letter-spacing:-1px;margin-bottom:24px;max-width:600px;">Find Your Home in<br>Antigua Guatemala</h1>
+      <p style="font-size:clamp(16px,2.5vw,19px);line-height:1.6;opacity:0.9;max-width:480px;margin-bottom:32px;">Expert real estate guidance for expats and Guatemalans abroad. Colonial homes, land, and investment properties.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:16px;">
+        <a href="/properties/" class="btn btn--primary">Browse Properties</a>
+        <a href="/contact/" class="btn btn--outline">Free Consultation</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS -->
+  <section style="background:var(--color-surface);border-top:1px solid var(--color-border);border-bottom:1px solid var(--color-border);padding:32px 0;">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:24px;text-align:center;">
+        <div><div style="font-size:clamp(28px,5vw,36px);font-weight:600;letter-spacing:-0.5px;">25+</div><div style="font-size:13px;color:var(--color-text-muted);font-weight:500;">Properties Listed</div></div>
+        <div><div style="font-size:clamp(28px,5vw,36px);font-weight:600;letter-spacing:-0.5px;">50+</div><div style="font-size:13px;color:var(--color-text-muted);font-weight:500;">Happy Clients</div></div>
+        <div><div style="font-size:clamp(28px,5vw,36px);font-weight:600;letter-spacing:-0.5px;">5</div><div style="font-size:13px;color:var(--color-text-muted);font-weight:500;">Years in Antigua</div></div>
+        <div><div style="font-size:clamp(28px,5vw,36px);font-weight:600;letter-spacing:-0.5px;">3</div><div style="font-size:13px;color:var(--color-text-muted);font-weight:500;">Languages Spoken</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED PROPERTIES -->
+  <section style="padding:64px 0;">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">Featured Listings</div>
+        <h2 class="section-title">Properties in Antigua Guatemala</h2>
+        <p class="section-subtitle">Handpicked colonial homes, modern apartments, and land opportunities in and around Antigua.</p>
+      </div>
+      <div class="grid-3">
+        {featured.map(p => (
+          <article class="property-card">
+            <div class="property-card__image">
+              <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">
+              <div class="property-card__badge">{p.data.badge}</div>
+            </div>
+            <div class="property-card__content">
+              <div class="property-card__location">{p.data.location}</div>
+              <h3 class="property-card__title">{p.data.title}</h3>
+              <div class="property-card__details">
+                {p.data.beds && <span>{p.data.beds} Beds</span>}
+                {p.data.baths && <span>{p.data.baths} Baths</span>}
+                {p.data.area && <span>{p.data.area}</span>}
+              </div>
+              <div class="property-card__price">${p.data.price.toLocaleString()}</div>
+            </div>
+          </article>
+        ))}
+      </div>
+      <div style="text-align:center;margin-top:32px;"><a href="/properties/" class="btn btn--dark">View All Properties</a></div>
+    </div>
+  </section>
+
+  <!-- WHY ANTIGUA -->
+  <section style="padding:64px 0;">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">Why Antigua Guatemala</div>
+        <h2 class="section-title">The Best Place to Live in Central America</h2>
+      </div>
+      <div class="grid-3">
+        {[
+          {icon:'☀',title:'Perfect Climate Year-Round',text:'Spring-like weather 18-25°C. 300+ days of sunshine. No heating or AC needed.'},
+          {icon:'$',title:'Affordable Cost of Living',text:'Live well for $1,500-2,500/month. Property prices a fraction of US/European markets.'},
+          {icon:'✈',title:'Easy Access',text:'45 minutes from Guatemala City airport. Direct flights to major US and European cities.'},
+          {icon:'🏘',title:'Vibrant Expat Community',text:'Thousands of expats call Antigua home. International restaurants, coworking, social events.'},
+          {icon:'🏛',title:'UNESCO World Heritage',text:'Stunning colonial architecture, cobblestone streets, and three volcanoes as your backdrop.'},
+          {icon:'↑',title:'Strong Investment Returns',text:'Growing tourism. Airbnb rental yields 8-15%. Property values steadily appreciating.'},
+        ].map(item => (
+          <div style="padding:32px;background:var(--color-surface);border-radius:16px;border:1px solid var(--color-border);transition:all 0.3s;">
+            <div style="width:48px;height:48px;background:#f0f0f0;border:1px solid #ddd;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;margin-bottom:16px;">{item.icon}</div>
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;letter-spacing:-0.2px;">{item.title}</h3>
+            <p style="font-size:14px;color:var(--color-text-secondary);line-height:1.6;">{item.text}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section style="padding:64px 0;background:var(--color-surface);">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr;gap:48px;align-items:center;">
+        <div style="border-radius:24px;overflow:hidden;aspect-ratio:3/4;box-shadow:var(--shadow-lg);">
+          <img src="https://antiguarealestatedevelopment.com/wp-content/uploads/2025/11/Realtor-in-Antigua-Guatemala-profile-website.png" alt="Luna Jerney, real estate agent in Antigua Guatemala" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
+        </div>
+        <div>
+          <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:var(--color-text-muted);margin-bottom:8px;">Your Agent</div>
+          <h2 style="font-size:clamp(26px,4vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:24px;">Hi, I'm Luna Jerney</h2>
+          <p style="font-size:16px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:16px;">I moved to Antigua Guatemala from the Netherlands over 5 years ago and fell in love with this city — the colonial beauty, the volcanoes, the community, and the lifestyle.</p>
+          <p style="font-size:16px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:24px;">As a fellow expat, I understand the challenges of buying property in a foreign country. I specialize in helping expats and Guatemalans abroad navigate the real estate market with confidence.</p>
+          <div style="display:flex;gap:8px;margin-bottom:24px;flex-wrap:wrap;">
+            <span style="padding:6px 14px;background:white;border:1px solid #ccc;border-radius:9999px;font-size:13px;font-weight:500;">English</span>
+            <span style="padding:6px 14px;background:white;border:1px solid #ccc;border-radius:9999px;font-size:13px;font-weight:500;">Español</span>
+            <span style="padding:6px 14px;background:white;border:1px solid #ccc;border-radius:9999px;font-size:13px;font-weight:500;">Nederlands</span>
+          </div>
+          <a href="/contact/" class="btn btn--dark">Book a Free Consultation</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BLOG -->
+  {recentBlog.length > 0 && (
+    <section style="padding:64px 0;">
+      <div class="container">
+        <div class="section-header">
+          <div class="section-label">From the Blog</div>
+          <h2 class="section-title">Antigua Guatemala Living & Real Estate</h2>
+        </div>
+        <div class="grid-3">
+          {recentBlog.map(post => (
+            <a href={`/blog/${post.id}/`} class="blog-card">
+              <div class="blog-card__image"><img src={post.data.image} alt={post.data.alt} loading="lazy" width="400" height="250"></div>
+              <div class="blog-card__content">
+                <div class="blog-card__tag">{post.data.tag}</div>
+                <h3 class="blog-card__title">{post.data.title}</h3>
+                <p class="blog-card__excerpt">{post.data.excerpt}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+        <div style="text-align:center;margin-top:32px;"><a href="/blog/" class="btn btn--dark">Read More Articles</a></div>
+      </div>
+    </section>
+  )}
+
+  <!-- FAQ -->
+  <section style="padding:64px 0;background:var(--color-surface);">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">Common Questions</div>
+        <h2 class="section-title">Buying Property in Antigua Guatemala</h2>
+      </div>
+      <div style="max-width:720px;margin:0 auto;display:flex;flex-direction:column;gap:8px;">
+        {[
+          {q:'Can foreigners buy property in Antigua Guatemala?',a:'Yes! Foreigners can buy property in Guatemala with full ownership rights. There are no restrictions on foreign property ownership. You need a Guatemalan lawyer to handle the legal process.'},
+          {q:'How much does a house cost in Antigua Guatemala?',a:'Colonial homes in the historic center range from $150,000 to $800,000+. Properties outside the center start around $80,000 for land and $120,000 for homes.'},
+          {q:'Is Antigua Guatemala a good place for expats to live?',a:'One of the most popular expat destinations in Central America. Low cost of living, spring-like weather, vibrant international community, and rich colonial heritage.'},
+          {q:'Do I need a real estate agent to buy property?',a:'Highly recommended for foreign buyers. A local agent understands the market, can negotiate in Spanish, and connects you with trusted lawyers and notaries.'},
+        ].map(item => (
+          <details style="border:1px solid var(--color-border);border-radius:12px;background:white;padding:0;">
+            <summary style="padding:24px;font-size:15px;font-weight:600;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;">{item.q}<span style="font-size:20px;color:var(--color-text-muted);transition:transform 0.3s;">+</span></summary>
+            <div style="padding:0 24px 24px;font-size:14px;color:var(--color-text-secondary);line-height:1.7;">{item.a}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section style="padding:64px 0;background:#111;color:white;text-align:center;">
+    <div class="container">
+      <h2 style="font-size:clamp(24px,4vw,36px);font-weight:600;letter-spacing:-0.5px;margin-bottom:16px;">Ready to Find Your Home in Antigua?</h2>
+      <p style="font-size:16px;opacity:0.8;max-width:480px;margin:0 auto 32px;line-height:1.6;">Book a free consultation and let's discuss your property goals. No pressure, just honest advice.</p>
+      <a href="/contact/" class="btn btn--primary">Book Free Consultation</a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  @media (min-width: 768px) {
+    .grid-3 > div:nth-child(4),
+    .grid-3 > div:nth-child(5),
+    .grid-3 > div:nth-child(6) { grid-column: span 1; }
+  }
+  details summary::-webkit-details-marker { display: none; }
+  details[open] summary span { transform: rotate(45deg); }
+  details summary:hover { color: #555; }
+</style>

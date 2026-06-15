@@ -1,0 +1,108 @@
+---
+export interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  canonical?: string;
+}
+const { title, description, image = '/images/og-default.jpg', canonical } = Astro.props;
+const canonicalURL = canonical || Astro.url.href;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{title}</title>
+  <meta name="description" content={description}>
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="canonical" href={canonicalURL}>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content={title}>
+  <meta property="og:description" content={description}>
+  <meta property="og:url" content={canonicalURL}>
+  <meta property="og:site_name" content="Antigua Real Estate Development">
+  <meta property="og:image" content={image}>
+  <meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content={title}>
+  <meta name="twitter:description" content={description}>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles/global.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header__inner">
+      <a href="/" class="header__logo">
+        <img src="/images/logo.jpg" alt="Antigua Real Estate Development" class="header__logo-img" width="42" height="42">
+        <div class="header__logo-text">Antigua Real Estate<span class="header__logo-sub">Development</span></div>
+      </a>
+      <nav class="header__nav">
+        <a href="/properties/">Properties</a>
+        <a href="/services/">Services</a>
+        <a href="/blog/">Blog</a>
+        <a href="/about/">About</a>
+        <a href="/contact/">Contact</a>
+      </nav>
+      <a href="/contact/" class="header__cta">Get in Touch</a>
+      <button class="header__menu-btn" onclick="document.querySelector('.mobile-menu').classList.toggle('active')" aria-label="Menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+  <div class="mobile-menu">
+    <a href="/properties/">Properties</a>
+    <a href="/services/">Services</a>
+    <a href="/blog/">Blog</a>
+    <a href="/about/">About</a>
+    <a href="/contact/">Contact</a>
+  </div>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer__grid">
+        <div>
+          <div class="footer__brand-name">Antigua Real Estate <span>Development</span></div>
+          <p class="footer__brand-text">Helping expats and Guatemalans abroad relocate, return, or retire in Antigua Guatemala through real estate and lifestyle guidance.</p>
+          <div class="footer__social">
+            <a href="https://www.instagram.com/antiguarealestatedevelopment/" aria-label="Instagram" target="_blank" rel="noopener">IG</a>
+            <a href="https://www.facebook.com/AntiguaRealEstateDevelopment" aria-label="Facebook" target="_blank" rel="noopener">FB</a>
+            <a href="https://www.tiktok.com/@antiguarealestatedvlpmnt" aria-label="TikTok" target="_blank" rel="noopener">TT</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer__heading">Quick Links</div>
+          <div class="footer__links">
+            <a href="/properties/">Properties</a>
+            <a href="/services/">Services</a>
+            <a href="/about/">About Luna</a>
+            <a href="/blog/">Blog</a>
+            <a href="/contact/">Contact</a>
+          </div>
+        </div>
+        <div>
+          <div class="footer__heading">Services</div>
+          <div class="footer__links">
+            <a href="/services/">Property Search</a>
+            <a href="/services/">Relocation Support</a>
+            <a href="/services/">Investment Advisory</a>
+            <a href="/services/">Legal Guidance</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <span>&copy; 2026 Antigua Real Estate Development. All rights reserved.</span>
+        <span>Luna Jerney &middot; Antigua Guatemala</span>
+      </div>
+    </div>
+  </footer>
+
+  <a href="https://wa.me/502XXXXXXXX?text=Hi%20Luna!%20I'm%20interested%20in%20property%20in%20Antigua%20Guatemala" class="whatsapp-fab" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">WA</a>
+</body>
+</html>

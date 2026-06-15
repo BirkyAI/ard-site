@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+const posts = (await getCollection('blog')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+<BaseLayout title="Antigua Guatemala Real Estate Blog | Antigua Real Estate Development" description="Expert insights on relocating, investing, and living in Antigua Guatemala. Real estate tips and expat advice.">
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">Blog</div>
+      <h1 class="page-hero__title">Antigua Guatemala Living & Real Estate</h1>
+      <p class="page-hero__subtitle">Expert insights on relocating, investing, and living your best life in Antigua Guatemala.</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div class="grid-3">
+        {posts.map(post => (
+          <a href={`/blog/${post.id}/`} class="blog-card">
+            <div class="blog-card__image"><img src={post.data.image} alt={post.data.alt} loading="lazy" width="400" height="250"></div>
+            <div class="blog-card__content">
+              <div class="blog-card__tag">{post.data.tag}</div>
+              <h2 class="blog-card__title">{post.data.title}</h2>
+              <p class="blog-card__excerpt">{post.data.excerpt}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
