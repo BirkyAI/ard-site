@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 const allProperties = await getCollection('properties');
-const featured = allProperties.filter(p => p.data.featured).slice(0, 3);
+const featured = allProperties.filter(p => p.data.featured && !p.data.hidden).slice(0, 3);
 const allBlog = await getCollection('blog');
 const recentBlog = allBlog.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
 const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type":"RealEstateAgent","name":"Luna Jerney","jobTitle":"Real Estate Agent"},{"@type":"WebSite","name":"Antigua Real Estate Development","url":"https://antiguarealestatedevelopment.com"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can foreigners buy property in Antigua Guatemala?","acceptedAnswer":{"@type":"Answer","text":"Yes! Foreigners can buy property in Guatemala with full ownership rights."}},{"@type":"Question","name":"How much does a house cost in Antigua Guatemala?","acceptedAnswer":{"@type":"Answer","text":"Colonial homes range from $150,000 to $800,000+."}},{"@type":"Question","name":"Is Antigua Guatemala good for expats?","acceptedAnswer":{"@type":"Answer","text":"One of the most popular expat destinations in Central America."}},{"@type":"Question","name":"Do I need a real estate agent?","acceptedAnswer":{"@type":"Answer","text":"Highly recommended for foreign buyers."}}]}]});
@@ -13,7 +13,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
 
   <!-- HERO -->
   <section class="hero" style="position:relative;min-height:85vh;display:flex;align-items:center;overflow:hidden;">
-    <div style="position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,0.25),rgba(0,0,0,0.6)),url('https://antiguarealestatedevelopment.com/wp-content/uploads/2025/07/properties-for-sale-in-antigua-guatemala-scaled.jpg');background-size:cover;background-position:center 40%;filter:grayscale(25%);"></div>
+    <div style="position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,0.25),rgba(0,0,0,0.6)),url('/images/header-pool-villa.jpg');background-size:cover;background-position:center 40%;"></div>
     <div class="container" style="position:relative;z-index:2;color:white;padding:64px 0;">
       <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,0.15);backdrop-filter:blur(8px);padding:6px 16px;border-radius:9999px;font-size:13px;font-weight:500;margin-bottom:24px;border:1px solid rgba(255,255,255,0.2);">Antigua Guatemala</div>
       <h1 style="font-size:clamp(32px,7vw,56px);font-weight:600;line-height:1.1;letter-spacing:-1px;margin-bottom:24px;max-width:600px;">Find Your Home in<br>Antigua Guatemala</h1>

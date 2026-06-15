@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-const properties = (await getCollection('properties')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const properties = (await getCollection('properties')).filter(p => !p.data.hidden).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 ---
 <BaseLayout title="Properties for Sale in Antigua Guatemala | Antigua Real Estate Development" description="Browse colonial homes, land, and investment properties for sale in Antigua Guatemala. Expert guidance for expats and foreign buyers.">
   <section class="page-hero">
