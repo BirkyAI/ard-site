@@ -17,6 +17,9 @@ const properties = defineCollection({
     featured: z.boolean().default(false),
     hidden: z.boolean().default(false),
     date: z.coerce.date(),
+    type: z.string().optional(),
+    priceLabel: z.string().optional(),
+    gallery: z.array(z.string()).optional(),
   }),
 });
 
