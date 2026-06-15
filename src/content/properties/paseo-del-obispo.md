@@ -1,15 +1,16 @@
 ---
 title: "Stunning Colonial Home"
 location: "Paseo del Obispo"
-price: 385000
+price: 185000
 beds: 3
 baths: 2
 area: "250m²"
-status: "For Sale"
-badge: "For Sale"
+status: "Sold"
+badge: "Sold"
 image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/05/front-house.avif"
 alt: "Colonial house with courtyard in Paseo del Obispo, Antigua Guatemala"
-featured: true
+featured: false
+hidden: true
 date: 2025-08-10
 ---
 
