@@ -2,19 +2,59 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 const properties = (await getCollection('properties')).filter(p => !p.data.hidden).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const forSale = properties.filter(p => p.data.type !== 'rental');
+const rentals = properties.filter(p => p.data.type === 'rental');
 ---
-<BaseLayout title="Properties for Sale in Antigua Guatemala | Antigua Real Estate Development" description="Browse colonial homes, land, and investment properties for sale in Antigua Guatemala. Expert guidance for expats and foreign buyers.">
+<BaseLayout title="Properties for Sale & Rent in Antigua Guatemala | Antigua Real Estate Development" description="Browse colonial homes, land, investment properties, and rentals in Antigua Guatemala. Expert guidance for expats and foreign buyers.">
   <section class="page-hero">
     <div class="container">
       <div class="section-label">Listings</div>
-      <h1 class="page-hero__title">Properties for Sale</h1>
-      <p class="page-hero__subtitle">Colonial homes, modern apartments, and land opportunities in and around Antigua Guatemala.</p>
+      <h1 class="page-hero__title">Properties for Sale & Rent</h1>
+      <p class="page-hero__subtitle">Colonial homes, modern apartments, land, and rentals in and around Antigua Guatemala.</p>
     </div>
   </section>
+
+  {rentals.length > 0 && (
+    <section class="content-section">
+      <div class="container">
+        <div class="section-header">
+          <div class="section-label">For Rent</div>
+          <h2 class="section-title">Rental Properties</h2>
+          <p class="section-subtitle">Fully furnished homes and apartments available for rent in Antigua Guatemala and surrounding areas.</p>
+        </div>
+        <div class="grid-3">
+          {rentals.map(p => (
+            <a href={`/properties/${p.id}/`} class="property-card">
+              <div class="property-card__image">
+                <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">
+                <div class="property-card__badge" style="background:#16a34a;">{p.data.badge}</div>
+              </div>
+              <div class="property-card__content">
+                <div class="property-card__location">{p.data.location}</div>
+                <h2 class="property-card__title">{p.data.title}</h2>
+                <div class="property-card__details">
+                  {p.data.beds && <span>{p.data.beds} Beds</span>}
+                  {p.data.baths && <span>{p.data.baths} Baths</span>}
+                  {p.data.area && <span>{p.data.area}</span>}
+                </div>
+                <div class="property-card__price">{p.data.priceLabel || `$${p.data.price.toLocaleString()}/mo`}</div>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
   <section class="content-section">
     <div class="container">
+      <div class="section-header">
+        <div class="section-label">For Sale</div>
+        <h2 class="section-title">Properties for Sale</h2>
+        <p class="section-subtitle">Colonial homes, modern apartments, and land opportunities in and around Antigua Guatemala.</p>
+      </div>
       <div class="grid-3">
-        {properties.map(p => (
+        {forSale.map(p => (
           <a href={`/properties/${p.id}/`} class="property-card">
             <div class="property-card__image">
               <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">

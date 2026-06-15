@@ -43,14 +43,14 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
       <div class="section-header">
         <div class="section-label">Featured Listings</div>
         <h2 class="section-title">Properties in Antigua Guatemala</h2>
-        <p class="section-subtitle">Handpicked colonial homes, modern apartments, and land opportunities in and around Antigua.</p>
+        <p class="section-subtitle">Handpicked colonial homes, modern apartments, land, and rentals in and around Antigua.</p>
       </div>
       <div class="grid-3">
         {featured.map(p => (
-          <article class="property-card">
+          <a href={`/properties/${p.id}/`} class="property-card">
             <div class="property-card__image">
               <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">
-              <div class="property-card__badge">{p.data.badge}</div>
+              <div class="property-card__badge" style={p.data.type === 'rental' ? 'background:#16a34a;' : ''}>{p.data.badge}</div>
             </div>
             <div class="property-card__content">
               <div class="property-card__location">{p.data.location}</div>
@@ -60,9 +60,9 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
                 {p.data.baths && <span>{p.data.baths} Baths</span>}
                 {p.data.area && <span>{p.data.area}</span>}
               </div>
-              <div class="property-card__price">${p.data.price.toLocaleString()}</div>
+              <div class="property-card__price">{p.data.priceLabel || `$${p.data.price.toLocaleString()}`}</div>
             </div>
-          </article>
+          </a>
         ))}
       </div>
       <div style="text-align:center;margin-top:32px;"><a href="/properties/" class="btn btn--dark">View All Properties</a></div>
