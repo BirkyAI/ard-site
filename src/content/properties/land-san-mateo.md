@@ -5,10 +5,13 @@ price: 150000
 area: "2,000m²"
 status: "For Sale"
 badge: "For Sale"
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2026/03/Land-For-Sale-San-Mateo-Milpas-Altas-Antigua-Guatemala.jpg"
+image: "/images/land-san-mateo/1.jpg"
 alt: "Land for sale in San Mateo Milpas Altas near Antigua Guatemala with mountain views"
 featured: true
 date: 2026-03-09
+gallery:
+  - "/images/land-san-mateo/1.jpg"
+  - "/images/land-san-mateo/2.jpg"
 ---
 
 ## About This Property

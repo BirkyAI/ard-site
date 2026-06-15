@@ -5,10 +5,13 @@ price: 85000
 area: "2,934m²"
 status: "For Sale"
 badge: "For Sale"
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/05/Agua-Antigua.jpeg"
+image: "/images/land-el-hato/1.jpg"
 alt: "Land for sale in El Hato Antigua Guatemala with Volcán de Agua view, perfect for self-sustainable living"
 featured: true
 date: 2025-05-01
+gallery:
+  - "/images/land-el-hato/1.jpg"
+  - "/images/land-el-hato/2.jpg"
 ---
 
 ## About This Property
