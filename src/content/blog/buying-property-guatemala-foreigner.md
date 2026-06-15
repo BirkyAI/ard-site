@@ -2,7 +2,7 @@
 title: "Buying Property in Guatemala as a Foreigner: 2026 Guide"
 tag: "Legal"
 excerpt: "Everything foreigners need to know about buying property in Guatemala — legal steps, restrictions, costs, and expert tips for a safe purchase."
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/07/1-1.jpg"
+image: "/images/blog/antigua-guatemala-real-estate-colonial-home.png"
 alt: "Colonial homes with colorful facades in Antigua Guatemala available for foreign buyers"
 date: 2026-06-15
 ---
