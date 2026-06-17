@@ -23,7 +23,7 @@ gallery:
 
 ## Acerca de Esta Propiedad
 
-Una emocionante oportunidad de preventa está llegando a **5 Avenida Sur** en el corazón de Antigua Guatemala — una comunidad cerrada exclusiva de solo **9 casas**, ubicada en una de las zonas más deseables de la ciudad, cerca de la querida **Caoba Farms**. Desarrollado por [Lift Investments](https://liftinvestments.net/), una firma de inversión con sede en Panamá y orígenes alemanes (Hamburgo), este proyecto está diseñado por el arquitecto Fernando y se ofrece directamente a través de Antigua Real Estate Development para promoción exclusiva de ventas.
+Una emocionante oportunidad de preventa está llegando a **5 Avenida Sur** en el corazón de Antigua Guatemala — una comunidad cerrada exclusiva de solo **9 casas**, ubicada en una de las zonas más deseables de la ciudad, cerca de la querida **Caoba Farms**. Desarrollado por <a href="https://liftinvestments.net/" target="_blank"><strong>Lift Investments</strong></a>, una firma de inversión con sede en Panamá y orígenes alemanes (Hamburgo), este proyecto está diseñado por el arquitecto Fernando y se ofrece directamente a través de Antigua Real Estate Development para promoción exclusiva de ventas.
 
 **Referencia:** ARD-5AV-001
 

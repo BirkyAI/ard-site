@@ -22,7 +22,7 @@ gallery:
 
 ## About This Property
 
-An exciting new pre-construction opportunity is coming to **5 Avenida Sur** in the heart of Antigua Guatemala — an exclusive gated community of just **9 townhouses**, nestled in one of the city's most desirable locations near the beloved **Caoba Farms**. Developed by [Lift Investments](https://liftinvestments.net/), a Panama-based investment firm with German origins (Hamburg), this project is designed by architect Fernando and offered directly through Antigua Real Estate Development for exclusive sales promotion.
+An exciting new pre-construction opportunity is coming to **5 Avenida Sur** in the heart of Antigua Guatemala — an exclusive gated community of just **9 townhouses**, nestled in one of the city's most desirable locations near the beloved **Caoba Farms**. Developed by <a href="https://liftinvestments.net/" target="_blank"><strong>Lift Investments</strong></a>, a Panama-based investment firm with German origins (Hamburg), this project is designed by architect Fernando and offered directly through Antigua Real Estate Development for exclusive sales promotion.
 
 **Reference:** ARD-5AV-001
 
