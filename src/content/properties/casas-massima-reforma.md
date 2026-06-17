@@ -26,7 +26,7 @@ gallery:
 
 ## About This Property
 
-Welcome to **Casas Massima Reforma** — three extraordinary luxury residences rising in the prestigious **Jardines de Antigua** neighborhood. Priced at **$1,500,000 USD** each (plus taxes), these homes represent the pinnacle of modern Antigua living: bold architecture, soaring double-height spaces, and the warmth of natural materials — all set within one of Antigua Guatemala's most exclusive residential enclaves.
+Welcome to **Casas Massima Reforma** — a collection of **three identical luxury residences** rising in the prestigious **Jardines de Antigua** neighborhood. Developed by [Lift Investments](https://liftinvestments.net/), a Panama-based investment firm with German origins (Hamburg), these homes are designed by architect Fernando and offered directly through Antigua Real Estate Development for exclusive sales promotion. Priced at **$1,500,000 USD** each (plus taxes), these homes represent the pinnacle of modern Antigua living: bold architecture, soaring double-height spaces, and the warmth of natural materials — all set within one of Antigua Guatemala's most exclusive residential enclaves.
 
 **Reference:** ARD-REF-001
 
