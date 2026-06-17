@@ -7,7 +7,7 @@ baths: 4
 area: "300m² construction on 12x23m lot"
 status: "Pre-Construction"
 badge: "Pre-Construction"
-image: "/images/properties/los-apostoles/los-apostoles-1.jpg"
+image: "/images/properties/los-apostoles/los-apostoles-7.jpg"
 alt: "Modern colonial home for sale in Los Apóstoles gated community near Antigua Guatemala with volcano views"
 featured: true
 hidden: false
