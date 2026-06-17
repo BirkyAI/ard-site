@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getTranslation } from '../../i18n';
+const t = getTranslation('es');
+---
+<BaseLayout locale="es" title="Servicios Inmobiliarios | Antigua Real Estate Development" description="Servicio integral de bienes raíces en Antigua Guatemala — búsqueda de propiedades, apoyo de reubicación, asesoría de inversión y orientación legal para extranjeros.">
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">{t.services.label}</div>
+      <h1 class="page-hero__title">{t.services.title}</h1>
+      <p class="page-hero__subtitle">{t.services.subtitle}</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div style="max-width:960px;margin:0 auto;">
+        <div style="display:grid;grid-template-columns:1fr;gap:32px;">
+          {t.services.items.map(s => (
+            <div style="display:grid;grid-template-columns:auto 1fr;gap:24px;padding:32px;background:var(--color-surface);border-radius:16px;border:1px solid var(--color-border);align-items:start;">
+              <div style="width:56px;height:56px;background:white;border:1px solid #ddd;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0;">{s.icon}</div>
+              <div>
+                <h2 style="font-size:20px;font-weight:600;margin-bottom:8px;">{s.title}</h2>
+                <p style="font-size:15px;color:var(--color-text-secondary);line-height:1.6;">{s.desc}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+        <div style="text-align:center;margin-top:48px;padding:48px;background:#111;border-radius:16px;color:white;">
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;">{t.services.ctaTitle}</h2>
+          <p style="opacity:0.8;margin-bottom:24px;">{t.services.ctaSubtitle}</p>
+          <a href="/es/contact/" class="btn btn--primary">{t.labels.bookFreeConsultation}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

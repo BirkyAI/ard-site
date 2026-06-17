@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-const posts = (await getCollection('blog')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const posts = (await getCollection('blog')).filter(p => p.data.lang !== 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 ---
 <BaseLayout title="Antigua Guatemala Real Estate Blog | Antigua Real Estate Development" description="Expert insights on relocating, investing, and living in Antigua Guatemala. Real estate tips and expat advice.">
   <section class="page-hero">

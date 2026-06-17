@@ -1,15 +1,23 @@
 ---
+import { getTranslation, getLocaleFromUrl, getOppositeLocalePath, type Locale } from '../i18n';
+
 export interface Props {
   title: string;
   description: string;
   image?: string;
   canonical?: string;
+  locale?: Locale;
 }
-const { title, description, image = '/images/og-default.jpg', canonical } = Astro.props;
+const { title, description, image = '/images/og-default.jpg', canonical, locale: localeProp } = Astro.props;
+const locale: Locale = localeProp || getLocaleFromUrl(Astro.url);
+const t = getTranslation(locale);
 const canonicalURL = canonical || Astro.url.href;
+const switchPath = getOppositeLocalePath(Astro.url);
+const switchLabel = locale === 'en' ? 'ES' : 'EN';
+const whatsappMsg = encodeURIComponent(t.whatsappMessage);
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang={locale}>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,7 +31,9 @@ const canonicalURL = canonical || Astro.url.href;
   <meta property="og:url" content={canonicalURL}>
   <meta property="og:site_name" content="Antigua Real Estate Development">
   <meta property="og:image" content={image}>
-  <meta property="og:locale" content="en_US">
+  <meta property="og:locale" content={locale === 'es' ? 'es_GT' : 'en_US'}>
+  {locale === 'en' && <meta property="og:locale:alternate" content="es_GT" />}
+  {locale === 'es' && <meta property="og:locale:alternate" content="en_US" />}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content={title}>
   <meta name="twitter:description" content={description}>
@@ -31,33 +41,39 @@ const canonicalURL = canonical || Astro.url.href;
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/styles/global.css">
+  <link rel="alternate" hreflang="en" href={`https://antiguarealestatedevelopment.com${locale === 'es' ? switchPath : Astro.url.pathname}`} />
+  <link rel="alternate" hreflang="es" href={`https://antiguarealestatedevelopment.com/es${locale === 'es' ? Astro.url.pathname : Astro.url.pathname}`} />
 </head>
 <body>
   <header class="header">
     <div class="container header__inner">
-      <a href="/" class="header__logo">
+      <a href={locale === 'es' ? '/es/' : '/'} class="header__logo">
         <img src="/images/logo.jpg" alt="Antigua Real Estate Development" class="header__logo-img" width="42" height="42">
         <div class="header__logo-text">Antigua Real Estate<span class="header__logo-sub">Development</span></div>
       </a>
       <nav class="header__nav">
-        <a href="/properties/">Properties</a>
-        <a href="/services/">Services</a>
-        <a href="/blog/">Blog</a>
-        <a href="/about/">About</a>
-        <a href="/contact/">Contact</a>
+        <a href={locale === 'es' ? '/es/properties/' : '/properties/'}>{t.nav.properties}</a>
+        <a href={locale === 'es' ? '/es/services/' : '/services/'}>{t.nav.services}</a>
+        <a href={locale === 'es' ? '/es/blog/' : '/blog/'}>{t.nav.blog}</a>
+        <a href={locale === 'es' ? '/es/about/' : '/about/'}>{t.nav.about}</a>
+        <a href={locale === 'es' ? '/es/contact/' : '/contact/'}>{t.nav.contact}</a>
       </nav>
-      <a href="/contact/" class="header__cta">Get in Touch</a>
+      <div class="header__actions">
+        <a href={switchPath} class="header__lang-btn" aria-label={locale === 'en' ? 'Switch to Spanish' : 'Cambiar a Inglés'}>{switchLabel}</a>
+        <a href={locale === 'es' ? '/es/contact/' : '/contact/'} class="header__cta">{t.headerCta}</a>
+      </div>
       <button class="header__menu-btn" onclick="document.querySelector('.mobile-menu').classList.toggle('active')" aria-label="Menu">
         <span></span><span></span><span></span>
       </button>
     </div>
   </header>
   <div class="mobile-menu">
-    <a href="/properties/">Properties</a>
-    <a href="/services/">Services</a>
-    <a href="/blog/">Blog</a>
-    <a href="/about/">About</a>
-    <a href="/contact/">Contact</a>
+    <a href={locale === 'es' ? '/es/properties/' : '/properties/'}>{t.nav.properties}</a>
+    <a href={locale === 'es' ? '/es/services/' : '/services/'}>{t.nav.services}</a>
+    <a href={locale === 'es' ? '/es/blog/' : '/blog/'}>{t.nav.blog}</a>
+    <a href={locale === 'es' ? '/es/about/' : '/about/'}>{t.nav.about}</a>
+    <a href={locale === 'es' ? '/es/contact/' : '/contact/'}>{t.nav.contact}</a>
+    <a href={switchPath} class="mobile-lang-btn">{locale === 'en' ? '🇪🇸 Español' : '🇺🇸 English'}</a>
   </div>
 
   <main>
@@ -69,40 +85,40 @@ const canonicalURL = canonical || Astro.url.href;
       <div class="footer__grid">
         <div>
           <div class="footer__brand-name">Antigua Real Estate <span>Development</span></div>
-          <p class="footer__brand-text">Helping expats and Guatemalans abroad relocate, return, or retire in Antigua Guatemala through real estate and lifestyle guidance.</p>
+          <p class="footer__brand-text">{t.footer.brandText}</p>
           <div class="footer__social">
             <a href="https://www.instagram.com/antiguarealestatedevelopment/" aria-label="Instagram" target="_blank" rel="noopener">IG</a>
             <a href="https://www.facebook.com/AntiguaRealEstateDevelopment" aria-label="Facebook" target="_blank" rel="noopener">FB</a>
-            <a href="https://www.tiktok.com/@antiguarealestatedvlpmnt" aria-label="TikTok" target="_blank" rel="noopener">TT</a>
+            <a href="https://www.tiktok.com/@antiguarealestatedvlp" aria-label="TikTok" target="_blank" rel="noopener">TT</a>
           </div>
         </div>
         <div>
-          <div class="footer__heading">Quick Links</div>
+          <div class="footer__heading">{t.footer.quickLinks}</div>
           <div class="footer__links">
-            <a href="/properties/">Properties</a>
-            <a href="/services/">Services</a>
-            <a href="/about/">About Luna</a>
-            <a href="/blog/">Blog</a>
-            <a href="/contact/">Contact</a>
+            <a href={locale === 'es' ? '/es/properties/' : '/properties/'}>{t.nav.properties}</a>
+            <a href={locale === 'es' ? '/es/services/' : '/services/'}>{t.nav.services}</a>
+            <a href={locale === 'es' ? '/es/about/' : '/about/'}>{t.footer.aboutLuna}</a>
+            <a href={locale === 'es' ? '/es/blog/' : '/blog/'}>{t.nav.blog}</a>
+            <a href={locale === 'es' ? '/es/contact/' : '/contact/'}>{t.nav.contact}</a>
           </div>
         </div>
         <div>
-          <div class="footer__heading">Services</div>
+          <div class="footer__heading">{t.footer.services}</div>
           <div class="footer__links">
-            <a href="/services/">Property Search</a>
-            <a href="/services/">Relocation Support</a>
-            <a href="/services/">Investment Advisory</a>
-            <a href="/services/">Legal Guidance</a>
+            <a href={locale === 'es' ? '/es/services/' : '/services/'}>{t.footer.propertySearch}</a>
+            <a href={locale === 'es' ? '/es/services/' : '/services/'}>{t.footer.relocationSupport}</a>
+            <a href={locale === 'es' ? '/es/services/' : '/services/'}>{t.footer.investmentAdvisory}</a>
+            <a href={locale === 'es' ? '/es/services/' : '/services/'}>{t.footer.legalGuidance}</a>
           </div>
         </div>
       </div>
       <div class="footer__bottom">
-        <span>&copy; 2026 Antigua Real Estate Development. All rights reserved.</span>
-        <span>Luna Jerney &middot; Antigua Guatemala</span>
+        <span>{t.footer.copyright}</span>
+        <span>{t.footer.location}</span>
       </div>
     </div>
   </footer>
 
-  <a href="https://wa.me/502XXXXXXXX?text=Hi%20Luna!%20I'm%20interested%20in%20property%20in%20Antigua%20Guatemala" class="whatsapp-fab" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">WA</a>
+  <a href={`https://wa.me/502XXXXXXXX?text=${whatsappMsg}`} class="whatsapp-fab" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">WA</a>
 </body>
 </html>

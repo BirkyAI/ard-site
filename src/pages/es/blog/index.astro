@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { getTranslation } from '../../../i18n';
+const t = getTranslation('es');
+const posts = (await getCollection('blog')).filter(p => p.data.lang === 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+<BaseLayout locale="es" title="Blog de Inmobiliaria en Antigua Guatemala | Antigua Real Estate Development" description="Perspectivas expertas sobre reubicación, inversión y vida en Antigua Guatemala. Consejos inmobiliarios y asesoría para extranjeros.">
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">{t.blog.label}</div>
+      <h1 class="page-hero__title">{t.blog.title}</h1>
+      <p class="page-hero__subtitle">{t.blog.subtitle}</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div class="grid-3">
+        {posts.map(post => (
+          <a href={`/es/blog/${post.id}/`} class="blog-card">
+            <div class="blog-card__image"><img src={post.data.image} alt={post.data.alt} loading="lazy" width="400" height="250"></div>
+            <div class="blog-card__content">
+              <div class="blog-card__tag">{post.data.tag}</div>
+              <h2 class="blog-card__title">{post.data.title}</h2>
+              <p class="blog-card__excerpt">{post.data.excerpt}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

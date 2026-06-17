@@ -36,10 +36,14 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 .header__cta:hover { background: #333; transform: translateY(-1px); }
 .header__menu-btn { display: flex; flex-direction: column; gap: 5px; padding: 8px; }
 .header__menu-btn span { width: 22px; height: 2px; background: var(--color-text); border-radius: 2px; }
+.header__actions { display: none; align-items: center; gap: 12px; }
+.header__lang-btn { display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: var(--radius-full); border: 1.5px solid var(--color-border); font-size: 12px; font-weight: 600; color: var(--color-text-secondary); transition: all 0.2s; letter-spacing: 0.5px; }
+.header__lang-btn:hover { border-color: var(--color-text); color: var(--color-text); }
+.mobile-lang-btn { font-size: 20px; font-weight: 500; color: var(--color-text-secondary); padding: 8px 0; border-top: 1px solid var(--color-border); margin-top: 8px; }
 .mobile-menu { display: none; position: fixed; inset: 0; background: rgba(255,255,255,0.98); backdrop-filter: blur(20px); z-index: 99; padding: 80px 24px 24px; }
 .mobile-menu.active { display: flex; flex-direction: column; gap: 24px; }
 .mobile-menu a { font-size: 24px; font-weight: 500; color: var(--color-text); padding: 8px 0; border-bottom: 1px solid var(--color-border); }
-@media (min-width: 768px) { .header__nav { display: flex; } .header__cta { display: inline-flex; } .header__menu-btn { display: none; } }
+@media (min-width: 768px) { .header__nav { display: flex; } .header__actions { display: flex; } .header__cta { display: inline-flex; } .header__menu-btn { display: none; } }
 
 /* Buttons */
 .btn { display: inline-flex; align-items: center; gap: 8px; padding: 14px 28px; border-radius: var(--radius-full); font-size: 15px; font-weight: 500; transition: all 0.2s; letter-spacing: 0.2px; }

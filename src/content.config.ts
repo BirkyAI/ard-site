@@ -20,6 +20,7 @@ const properties = defineCollection({
     type: z.string().optional(),
     priceLabel: z.string().optional(),
     gallery: z.array(z.string()).optional(),
+    lang: z.enum(['en', 'es']).default('en'),
   }),
 });
 
@@ -32,6 +33,7 @@ const blog = defineCollection({
     image: z.string(),
     alt: z.string(),
     date: z.coerce.date(),
+    lang: z.enum(['en', 'es']).default('en'),
   }),
 });
 

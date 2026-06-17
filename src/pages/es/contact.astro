@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getTranslation } from '../../i18n';
+const t = getTranslation('es');
+---
+<BaseLayout locale="es" title="Contactar a Luna Jerney | Antigua Real Estate Development" description="Ponte en contacto con Luna Jerney para bienes raíces en Antigua Guatemala. Consulta gratis para extranjeros y compradores internacionales.">
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">{t.contact.label}</div>
+      <h1 class="page-hero__title">{t.contact.title}</h1>
+      <p class="page-hero__subtitle">{t.contact.subtitle}</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr;gap:48px;max-width:960px;margin:0 auto;">
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:24px;">
+          <div style="padding:32px;background:var(--color-surface);border-radius:16px;border:1px solid var(--color-border);">
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;">{t.contact.whatsappTitle}</h3>
+            <p style="font-size:14px;color:var(--color-text-secondary);margin-bottom:12px;">{t.contact.whatsappDesc}</p>
+            <a href="https://wa.me/502XXXXXXXX" class="btn btn--dark" style="padding:10px 20px;font-size:14px;">{t.contact.whatsappBtn}</a>
+          </div>
+          <div style="padding:32px;background:var(--color-surface);border-radius:16px;border:1px solid var(--color-border);">
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;">{t.contact.emailTitle}</h3>
+            <p style="font-size:14px;color:var(--color-text-secondary);margin-bottom:12px;">{t.contact.emailDesc}</p>
+            <a href="mailto:info@antiguarealestatedevelopment.com" style="font-weight:500;">info@antiguarealestatedevelopment.com</a>
+          </div>
+          <div style="padding:32px;background:var(--color-surface);border-radius:16px;border:1px solid var(--color-border);">
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;">{t.contact.instagramTitle}</h3>
+            <p style="font-size:14px;color:var(--color-text-secondary);margin-bottom:12px;">{t.contact.instagramDesc}</p>
+            <a href="https://www.instagram.com/antiguarealestatedevelopment/" target="_blank" rel="noopener" style="font-weight:500;">@antiguarealestatedevelopment</a>
+          </div>
+        </div>
+        <div style="background:var(--color-surface);border-radius:16px;border:1px solid var(--color-border);padding:48px;text-align:center;">
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:16px;">{t.contact.consultationTitle}</h2>
+          <p style="font-size:16px;color:var(--color-text-secondary);margin-bottom:24px;max-width:480px;margin-left:auto;margin-right:auto;">{t.contact.consultationDesc}</p>
+          <a href="https://wa.me/502XXXXXXXX?text=Hola%20Luna!%20Me%20gustaría%20agendar%20una%20consulta%20gratuita%20sobre%20propiedad%20en%20Antigua%20Guatemala" class="btn btn--dark" target="_blank" rel="noopener">{t.labels.bookViaWhatsApp}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,43 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getTranslation } from '../../i18n';
+const t = getTranslation('es');
+---
+<BaseLayout locale="es" title="Conoce a Luna Jerney | Antigua Real Estate Development" description="Conoce a Luna Jerney, tu agente inmobiliaria extranjera en Antigua Guatemala. Originalmente de los Países Bajos, ayudando a extranjeros desde 2021.">
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">{t.about.label}</div>
+      <h1 class="page-hero__title">{t.about.title}</h1>
+      <p class="page-hero__subtitle">{t.about.subtitle}</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr;gap:48px;align-items:start;max-width:960px;margin:0 auto;">
+        <div style="border-radius:24px;overflow:hidden;box-shadow:var(--shadow-lg);max-width:400px;">
+          <img src="https://antiguarealestatedevelopment.com/wp-content/uploads/2025/11/Realtor-in-Antigua-Guatemala-profile-website.png" alt="Luna Jerney" style="width:100%;object-fit:cover;">
+        </div>
+        <div class="prose">
+          <h2>{t.about.heading1}</h2>
+          <p>{t.about.p1}</p>
+          <p>{t.about.p2}</p>
+          <h2>{t.about.heading2}</h2>
+          <p>{t.about.p3}</p>
+          <p>{t.about.p4}</p>
+          <h2>{t.about.heading3}</h2>
+          <ul>
+            <li><strong>English</strong> — {t.about.langEn}</li>
+            <li><strong>Español</strong> — {t.about.langEs}</li>
+            <li><strong>Nederlands</strong> — {t.about.langNl}</li>
+          </ul>
+          <h2>{t.about.heading4}</h2>
+          <ul>
+            {t.about.offerItems.map(item => (
+              <li>{item}</li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

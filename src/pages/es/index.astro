@@ -1,0 +1,201 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { getTranslation } from '../../i18n';
+const t = getTranslation('es');
+const allProperties = await getCollection('properties');
+const featured = allProperties.filter(p => p.data.featured && !p.data.hidden && p.data.lang === 'es').slice(0, 3);
+const allBlog = await getCollection('blog');
+const recentBlog = allBlog.filter(p => p.data.lang === 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
+const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type":"RealEstateAgent","name":"Luna Jerney","jobTitle":"Agente de Bienes Raíces"},{"@type":"WebSite","name":"Antigua Real Estate Development","url":"https://antiguarealestatedevelopment.com"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Los extranjeros pueden comprar propiedad en Antigua Guatemala?","acceptedAnswer":{"@type":"Answer","text":"¡Sí! Los extranjeros pueden comprar propiedad en Guatemala con derechos de propiedad plenos."}},{"@type":"Question","name":"¿Cuánto cuesta una casa en Antigua Guatemala?","acceptedAnswer":{"@type":"Answer","text":"Las casas coloniales van desde $150,000 hasta $800,000+."}},{"@type":"Question","name":"¿Es Antigua Guatemala un buen lugar para extranjeros?","acceptedAnswer":{"@type":"Answer","text":"Uno de los destinos más populares para extranjeros en Centroamérica."}},{"@type":"Question","name":"¿Necesito un agente inmobiliario?","acceptedAnswer":{"@type":"Answer","text":"Muy recomendado para compradores extranjeros."}}]}]});
+---
+<script type="application/ld+json" set:html={jsonLD} />
+<BaseLayout locale="es" title="Antigua Real Estate Development | Bienes Raíces en Antigua Guatemala" description="Encuentra tu hogar soñado en Antigua Guatemala. Asesoría inmobiliaria experta para extranjeros y guatemaltecos en el exterior.">
+  <!-- HERO -->
+  <section class="hero" style="position:relative;min-height:85vh;display:flex;align-items:center;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,0.25),rgba(0,0,0,0.6)),url('/images/header-pool-villa.jpg');background-size:cover;background-position:center 40%;"></div>
+    <div class="container" style="position:relative;z-index:2;color:white;padding:64px 0;">
+      <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,0.15);backdrop-filter:blur(8px);padding:6px 16px;border-radius:9999px;font-size:13px;font-weight:500;margin-bottom:24px;border:1px solid rgba(255,255,255,0.2);">{t.home.heroTag}</div>
+      <h1 style="font-size:clamp(32px,7vw,56px);font-weight:600;line-height:1.1;letter-spacing:-1px;margin-bottom:24px;max-width:600px;" set:html={t.home.heroTitle} />
+      <p style="font-size:clamp(16px,2.5vw,19px);line-height:1.6;opacity:0.9;max-width:480px;margin-bottom:32px;">{t.home.heroSubtitle}</p>
+      <div style="display:flex;flex-wrap:wrap;gap:16px;">
+        <a href="/es/properties/" class="btn btn--primary">{t.labels.browseProperties}</a>
+        <a href="/es/contact/" class="btn btn--outline">{t.labels.freeConsultation}</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS -->
+  <section style="background:var(--color-surface);border-top:1px solid var(--color-border);border-bottom:1px solid var(--color-border);padding:32px 0;">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:24px;text-align:center;">
+        <div><div style="font-size:clamp(28px,5vw,36px);font-weight:600;letter-spacing:-0.5px;">25+</div><div style="font-size:13px;color:var(--color-text-muted);font-weight:500;">{t.home.stats.propertiesListed}</div></div>
+        <div><div style="font-size:clamp(28px,5vw,36px);font-weight:600;letter-spacing:-0.5px;">50+</div><div style="font-size:13px;color:var(--color-text-muted);font-weight:500;">{t.home.stats.happyClients}</div></div>
+        <div><div style="font-size:clamp(28px,5vw,36px);font-weight:600;letter-spacing:-0.5px;">5</div><div style="font-size:13px;color:var(--color-text-muted);font-weight:500;">{t.home.stats.yearsInAntigua}</div></div>
+        <div><div style="font-size:clamp(28px,5vw,36px);font-weight:600;letter-spacing:-0.5px;">3</div><div style="font-size:13px;color:var(--color-text-muted);font-weight:500;">{t.home.stats.languagesSpoken}</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED PROPERTIES -->
+  <section style="padding:64px 0;">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">{t.home.featuredLabel}</div>
+        <h2 class="section-title">{t.home.featuredTitle}</h2>
+        <p class="section-subtitle">{t.home.featuredSubtitle}</p>
+      </div>
+      <div class="grid-3">
+        {featured.map(p => (
+          <a href={`/es/properties/${p.id}/`} class="property-card">
+            <div class="property-card__image">
+              <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">
+              <div class="property-card__badge" style={p.data.type === 'rental' ? 'background:#16a34a;' : ''}>{p.data.badge}</div>
+            </div>
+            <div class="property-card__content">
+              <div class="property-card__location">{p.data.location}</div>
+              <h3 class="property-card__title">{p.data.title}</h3>
+              <div class="property-card__details">
+                {p.data.beds && <span>{p.data.beds} {t.labels.beds}</span>}
+                {p.data.baths && <span>{p.data.baths} {t.labels.baths}</span>}
+                {p.data.area && <span>{p.data.area}</span>}
+              </div>
+              <div class="property-card__price">{p.data.priceLabel || `$${p.data.price.toLocaleString()}`}</div>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div style="text-align:center;margin-top:32px;"><a href="/es/properties/" class="btn btn--dark">{t.labels.viewAllProperties}</a></div>
+    </div>
+  </section>
+
+  <!-- WHY ANTIGUA -->
+  <section style="padding:64px 0;">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">{t.home.whyLabel}</div>
+        <h2 class="section-title">{t.home.whyTitle}</h2>
+      </div>
+      <div class="grid-3">
+        {t.home.whyItems.map(item => (
+          <div style="padding:32px;background:var(--color-surface);border-radius:16px;border:1px solid var(--color-border);transition:all 0.3s;">
+            <div style="width:48px;height:48px;background:#f0f0f0;border:1px solid #ddd;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;margin-bottom:16px;">{item.icon}</div>
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;letter-spacing:-0.2px;">{item.title}</h3>
+            <p style="font-size:14px;color:var(--color-text-secondary);line-height:1.6;">{item.text}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section style="padding:64px 0;">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">{t.home.reviewsLabel}</div>
+        <h2 class="section-title">{t.home.reviewsTitle}</h2>
+        <p class="section-subtitle">{t.home.reviewsSubtitle}</p>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;margin-bottom:32px;">
+        <div style="border-radius:16px;overflow:hidden;box-shadow:var(--shadow-md);transition:transform 0.3s;">
+          <img src="/images/reviews/1-1.jpg" alt="Reseña de cliente - Antigua Real Estate Development" loading="lazy" style="width:100%;height:auto;display:block;">
+        </div>
+        <div style="border-radius:16px;overflow:hidden;box-shadow:var(--shadow-md);transition:transform 0.3s;">
+          <img src="/images/reviews/2-1.jpg" alt="Reseña de cliente - Antigua Real Estate Development" loading="lazy" style="width:100%;height:auto;display:block;">
+        </div>
+        <div style="border-radius:16px;overflow:hidden;box-shadow:var(--shadow-md);transition:transform 0.3s;">
+          <img src="/images/reviews/3-1.jpg" alt="Reseña de cliente - Antigua Real Estate Development" loading="lazy" style="width:100%;height:auto;display:block;">
+        </div>
+      </div>
+      <div style="text-align:center;">
+        <a href="https://share.google/kvtD4Km0AsmhNFZD6" class="btn btn--dark" target="_blank" rel="noopener">{t.labels.leaveReview}</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section style="padding:64px 0;background:var(--color-surface);">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr;gap:48px;align-items:center;">
+        <div style="border-radius:24px;overflow:hidden;aspect-ratio:3/4;box-shadow:var(--shadow-lg);">
+          <img src="https://antiguarealestatedevelopment.com/wp-content/uploads/2025/11/Realtor-in-Antigua-Guatemala-profile-website.png" alt="Luna Jerney, agente inmobiliaria en Antigua Guatemala" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
+        </div>
+        <div>
+          <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:var(--color-text-muted);margin-bottom:8px;">{t.home.agentLabel}</div>
+          <h2 style="font-size:clamp(26px,4vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:24px;">{t.home.agentTitle}</h2>
+          <p style="font-size:16px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:16px;">{t.home.agentP1}</p>
+          <p style="font-size:16px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:24px;">{t.home.agentP2}</p>
+          <div style="display:flex;gap:8px;margin-bottom:24px;flex-wrap:wrap;">
+            <span style="padding:6px 14px;background:white;border:1px solid #ccc;border-radius:9999px;font-size:13px;font-weight:500;">English</span>
+            <span style="padding:6px 14px;background:white;border:1px solid #ccc;border-radius:9999px;font-size:13px;font-weight:500;">Español</span>
+            <span style="padding:6px 14px;background:white;border:1px solid #ccc;border-radius:9999px;font-size:13px;font-weight:500;">Nederlands</span>
+          </div>
+          <a href="/es/contact/" class="btn btn--dark">{t.home.agentCta}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BLOG -->
+  {recentBlog.length > 0 && (
+    <section style="padding:64px 0;">
+      <div class="container">
+        <div class="section-header">
+          <div class="section-label">{t.home.blogLabel}</div>
+          <h2 class="section-title">{t.home.blogTitle}</h2>
+        </div>
+        <div class="grid-3">
+          {recentBlog.map(post => (
+            <a href={`/es/blog/${post.id}/`} class="blog-card">
+              <div class="blog-card__image"><img src={post.data.image} alt={post.data.alt} loading="lazy" width="400" height="250"></div>
+              <div class="blog-card__content">
+                <div class="blog-card__tag">{post.data.tag}</div>
+                <h3 class="blog-card__title">{post.data.title}</h3>
+                <p class="blog-card__excerpt">{post.data.excerpt}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+        <div style="text-align:center;margin-top:32px;"><a href="/es/blog/" class="btn btn--dark">{t.labels.readMoreArticles}</a></div>
+      </div>
+    </section>
+  )}
+
+  <!-- FAQ -->
+  <section style="padding:64px 0;background:var(--color-surface);">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">{t.home.faqLabel}</div>
+        <h2 class="section-title">{t.home.faqTitle}</h2>
+      </div>
+      <div style="max-width:720px;margin:0 auto;display:flex;flex-direction:column;gap:8px;">
+        {t.home.faqItems.map(item => (
+          <details style="border:1px solid var(--color-border);border-radius:12px;background:white;padding:0;">
+            <summary style="padding:24px;font-size:15px;font-weight:600;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;">{item.q}<span style="font-size:20px;color:var(--color-text-muted);transition:transform 0.3s;">+</span></summary>
+            <div style="padding:0 24px 24px;font-size:14px;color:var(--color-text-secondary);line-height:1.7;">{item.a}</div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section style="padding:64px 0;background:#111;color:white;text-align:center;">
+    <div class="container">
+      <h2 style="font-size:clamp(24px,4vw,36px);font-weight:600;letter-spacing:-0.5px;margin-bottom:16px;">{t.home.ctaTitle}</h2>
+      <p style="font-size:16px;opacity:0.8;max-width:480px;margin:0 auto 32px;line-height:1.6;">{t.home.ctaSubtitle}</p>
+      <a href="/es/contact/" class="btn btn--primary">{t.labels.bookFreeConsultation}</a>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  @media (min-width: 768px) {
+    .grid-3 > div:nth-child(4),
+    .grid-3 > div:nth-child(5),
+    .grid-3 > div:nth-child(6) { grid-column: span 1; }
+  }
+  details summary::-webkit-details-marker { display: none; }
+  details[open] summary span { transform: rotate(45deg); }
+  details summary:hover { color: #555; }
+</style>
