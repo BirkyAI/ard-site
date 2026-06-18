@@ -2,7 +2,8 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 const allProperties = await getCollection('properties');
-const featured = allProperties.filter(p => p.data.featured && !p.data.hidden && p.data.lang !== 'es').slice(0, 3);
+const featuredOrder = ['rental-barrios-coloniales', 'casas-massima-reforma', 'rental-barrios-coloniales-unfurnished'];
+const featured = featuredOrder.map(id => allProperties.find(p => p.id === id && p.data.lang !== 'es' && !p.data.hidden)).filter(Boolean);
 const allBlog = await getCollection('blog');
 const recentBlog = allBlog.filter(p => p.data.lang !== 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
 const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type":"RealEstateAgent","name":"Luna Jerney","jobTitle":"Real Estate Agent"},{"@type":"WebSite","name":"Antigua Real Estate Development","url":"https://antiguarealestatedevelopment.com"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can foreigners buy property in Antigua Guatemala?","acceptedAnswer":{"@type":"Answer","text":"Yes! Foreigners can buy property in Guatemala with full ownership rights."}},{"@type":"Question","name":"How much does a house cost in Antigua Guatemala?","acceptedAnswer":{"@type":"Answer","text":"Colonial homes range from $150,000 to $800,000+."}},{"@type":"Question","name":"Is Antigua Guatemala good for expats?","acceptedAnswer":{"@type":"Answer","text":"One of the most popular expat destinations in Central America."}},{"@type":"Question","name":"Do I need a real estate agent?","acceptedAnswer":{"@type":"Answer","text":"Highly recommended for foreign buyers."}}]}]});
