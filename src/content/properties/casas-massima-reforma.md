@@ -32,7 +32,7 @@ Welcome to **Casas Massima Reforma** — a collection of **three identical luxur
 
 ## Property Details
 
-- 📍 **Location:** Jardines de Antigua — access via Av. Reforma and Calle del Rastro
+- 📍 **Location:** Jardines de Antigua — access via Av. Reforma and Calle del Rastro (2.3 km from Central Square)
 - 📐 **Lot Size:** 1,000m² per residence
 - 🏗️ **Construction:** 409m² across two levels
 - 🏠 **Bedrooms:** 4 — each with its own private bathroom
@@ -40,6 +40,7 @@ Welcome to **Casas Massima Reforma** — a collection of **three identical luxur
 - 💰 **Price:** $1,500,000 USD (plus taxes)
 - 🚗 **Parking:** Private covered parking for 2 vehicles
 - 🏡 **Style:** Contemporary luxury with Spanish colonial influences
+- 🏊 **Pool:** Private swimming pool in each residence
 - ⏱️ **Availability:** Pre-construction
 
 ## Architectural Highlights
@@ -66,6 +67,7 @@ All **four bedrooms feature en-suite bathrooms**, offering privacy and comfort f
 
 ## Additional Features
 
+- ✅ Private swimming pool
 - ✅ Complete service/laundry area
 - ✅ Covered parking for 2 vehicles
 - ✅ Premium finishes throughout

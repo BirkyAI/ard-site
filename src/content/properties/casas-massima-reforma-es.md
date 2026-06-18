@@ -33,7 +33,7 @@ Bienvenido a **Casas Massima Reforma** — una colección de **tres residencias 
 
 ## Detalles de la Propiedad
 
-- 📍 **Ubicación:** Jardines de Antigua — acceso por Av. Reforma y Calle del Rastro
+- 📍 **Ubicación:** Jardines de Antigua — acceso por Av. Reforma y Calle del Rastro (2.3 km de la Plaza Central)
 - 📐 **Superficie del Lote:** 1,000m² por residencia
 - 🏗️ **Construcción:** 409m² en dos niveles
 - 🏠 **Recámaras:** 4 — cada una con baño privado
@@ -41,6 +41,7 @@ Bienvenido a **Casas Massima Reforma** — una colección de **tres residencias 
 - 💰 **Precio:** $1,500,000 USD (más impuestos)
 - 🚗 **Estacionamiento:** Estacionamiento privado techado para 2 vehículos
 - 🏡 **Estilo:** Lujo contemporáneo con influencias coloniales españolas
+- 🏊 **Alberca:** Alberca privada en cada residencia
 - ⏱️ **Disponibilidad:** En preventa
 
 ## Destacados Arquitectónicos
@@ -67,6 +68,7 @@ Las **cuatro recámaras cuentan con baños en suite**, ofreciendo privacidad y c
 
 ## Características Adicionales
 
+- ✅ Alberca privada
 - ✅ Área de servicio/lavandería completa
 - ✅ Estacionamiento techado para 2 vehículos
 - ✅ Acabados premium en toda la casa
