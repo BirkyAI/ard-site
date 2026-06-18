@@ -28,7 +28,7 @@ An exciting new pre-construction opportunity is coming to **5 Avenida Sur** in t
 
 ## What We Know So Far
 
-- 📍 **Location:** 5 Avenida Sur, Antigua Guatemala — just steps from Caoba Farms
+- 📍 **Location:** 5 Avenida Sur, Antigua Guatemala — just 15 blocks from the Central Square and steps from Caoba Farms
 - 🏘️ **Project:** Exclusive condominium with only 9 townhouses
 - 🏗️ **Status:** Pre-construction — renders available, technical specs coming soon
 - 🔒 **Setting:** Gated community for privacy and security

@@ -29,7 +29,7 @@ Una emocionante oportunidad de preventa está llegando a **5 Avenida Sur** en el
 
 ## Lo Que Sabemos Hasta Ahora
 
-- 📍 **Ubicación:** 5 Avenida Sur, Antigua Guatemala — a pasos de Caoba Farms
+- 📍 **Ubicación:** 5 Avenida Sur, Antigua Guatemala — a solo 15 cuadras de la Plaza Central y a pasos de Caoba Farms
 - 🏘️ **Proyecto:** Condominio exclusivo con solo 9 casas
 - 🏗️ **Estado:** En preventa — renders disponibles, especificaciones técnicas próximamente
 - 🔒 **Ambiente:** Comunidad cerrada para privacidad y seguridad
