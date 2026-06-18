@@ -9,7 +9,7 @@ area: "N/A"
 type: "rental"
 status: "For Rent"
 badge: "For Rent"
-image: "/images/properties/rental-barrios-coloniales/1.jpg"
+image: "/images/properties/rental-barrios-coloniales/23.jpg"
 alt: "Furnished 4 bedroom rental home in gated community with pool and volcano views in San Pedro Las Huertas, near Antigua Guatemala"
 featured: true
 hidden: false
@@ -37,6 +37,7 @@ gallery:
   - "/images/properties/rental-barrios-coloniales/20.jpg"
   - "/images/properties/rental-barrios-coloniales/21.jpg"
   - "/images/properties/rental-barrios-coloniales/22.jpg"
+  - "/images/properties/rental-barrios-coloniales/23.jpg"
 ---
 
 ## About This Rental

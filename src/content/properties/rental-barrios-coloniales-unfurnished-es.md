@@ -9,7 +9,7 @@ area: "N/A"
 type: "rental"
 status: "En Renta"
 badge: "En Renta"
-image: "/images/properties/barrios-coloniales-unfurnished-rental/1.jpg"
+image: "/images/properties/barrios-coloniales-unfurnished-rental/3.jpg"
 alt: "Casa de 3 recámaras sin amueblar en renta en comunidad cerrada con piscina y vista a volcanes en San Pedro Las Huertas, cerca de Antigua Guatemala"
 featured: false
 hidden: false

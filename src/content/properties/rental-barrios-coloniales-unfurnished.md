@@ -9,7 +9,7 @@ area: "N/A"
 type: "rental"
 status: "For Rent"
 badge: "For Rent"
-image: "/images/properties/barrios-coloniales-unfurnished-rental/1.jpg"
+image: "/images/properties/barrios-coloniales-unfurnished-rental/3.jpg"
 alt: "Unfurnished 3 bedroom rental home in gated community with pool and volcano views in San Pedro Las Huertas, near Antigua Guatemala"
 featured: false
 hidden: false

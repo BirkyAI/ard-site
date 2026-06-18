@@ -9,7 +9,7 @@ area: "N/A"
 type: "rental"
 status: "En Renta"
 badge: "En Renta"
-image: "/images/properties/rental-barrios-coloniales/1.jpg"
+image: "/images/properties/rental-barrios-coloniales/23.jpg"
 alt: "Casa amueblada de 4 recámaras en renta en comunidad cerrada con piscina y vista a volcanes en San Pedro Las Huertas, cerca de Antigua Guatemala"
 featured: true
 hidden: false
@@ -38,6 +38,7 @@ gallery:
   - "/images/properties/rental-barrios-coloniales/20.jpg"
   - "/images/properties/rental-barrios-coloniales/21.jpg"
   - "/images/properties/rental-barrios-coloniales/22.jpg"
+  - "/images/properties/rental-barrios-coloniales/23.jpg"
 ---
 
 ## Acerca de Esta Renta
