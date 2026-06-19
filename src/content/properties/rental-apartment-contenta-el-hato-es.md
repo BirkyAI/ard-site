@@ -5,7 +5,7 @@ price: 1600
 priceLabel: "$1,600/mes"
 beds: 1
 baths: 1
-area: "N/A"
+area: "80 m²"
 type: "rental"
 status: "For Rent"
 badge: "Se Alquila"
@@ -50,7 +50,7 @@ Ubicado dentro de la exclusiva **Finca El Tambor** en El Hato — un entorno nat
 
 ### Lo Que Incluye
 
-- 🏡 **Amplia distribución de concepto abierto** con ventanales del piso al techo
+- 🏡 **80 m²** amplia distribución de concepto abierto con ventanales del piso al techo
 - 🌋 **Vistas panorámicas al volcán** — despejadas a través del valle
 - 🌿 **Amplia terraza privada** inmersa en el dosel del bosque
 - 🔥 **Chimenea interior** — perfecta para las frescas noches de montaña

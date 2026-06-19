@@ -5,7 +5,7 @@ price: 1600
 priceLabel: "$1,600/month"
 beds: 1
 baths: 1
-area: "N/A"
+area: "80 m²"
 type: "rental"
 status: "For Rent"
 badge: "For Rent"
@@ -50,7 +50,7 @@ Set within the exclusive **Finca El Tambor** in El Hato — a private, secure na
 
 ### What You Get
 
-- 🏡 **Spacious open-concept layout** with floor-to-ceiling windows
+- 🏡 **80 m²** spacious open-concept layout with floor-to-ceiling windows
 - 🌋 **Panoramic volcano views** — unobstructed across the valley
 - 🌿 **Large private terrace** immersed in the forest canopy
 - 🔥 **Indoor fireplace** — perfect for cool mountain evenings
