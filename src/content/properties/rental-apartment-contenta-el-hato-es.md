@@ -9,7 +9,7 @@ area: "N/A"
 type: "rental"
 status: "For Rent"
 badge: "Se Alquila"
-image: "/images/properties/apartment-contenta-el-hato/contenta-4.jpg"
+image: "/images/properties/apartment-contenta-el-hato/contenta-3.jpg"
 alt: "Amplio apartamento moderno con vistas panorámicas al volcán y terraza privada rodeado de bosque en Finca El Tambor, El Hato, Antigua Guatemala"
 featured: true
 hidden: false
