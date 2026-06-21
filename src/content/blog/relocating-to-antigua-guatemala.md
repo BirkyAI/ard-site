@@ -2,7 +2,7 @@
 title: "Complete Guide to Relocating to Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Everything you need to know about moving to Antigua — from visas to finding your first home."
-image: "/images/blog-placeholder.svg"
+image: "/images/blog/relocating-to-antigua-guatemala.jpeg"
 alt: "Relocating to Antigua Guatemala"
 date: 2025-11-07
 ---
