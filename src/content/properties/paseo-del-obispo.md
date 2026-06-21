@@ -7,7 +7,7 @@ baths: 2
 area: "250m²"
 status: "Sold"
 badge: "Sold"
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/05/front-house.avif"
+image: "/images/blog-placeholder.svg"
 alt: "Colonial house with courtyard in Paseo del Obispo, Antigua Guatemala"
 featured: false
 hidden: true

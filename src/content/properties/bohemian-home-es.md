@@ -7,7 +7,7 @@ baths: 2
 area: "Lote de 10x20m"
 status: "Vendido"
 badge: "Vendido"
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/09/2-1.jpg"
+image: "/images/blog-placeholder.svg"
 alt: "Casa estilo bohemio en venta en comunidad cerrada Panorama Antigua cerca de Antigua Guatemala"
 featured: false
 hidden: true

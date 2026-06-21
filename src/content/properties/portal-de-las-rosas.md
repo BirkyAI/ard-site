@@ -7,7 +7,7 @@ baths: 2
 area: "Condominium"
 status: "Sold"
 badge: "Sold"
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/11/portal-de-las-rosas.jpg"
+image: "/images/blog-placeholder.svg"
 alt: "Affordable condo for sale in San Miguel Dueñas near Antigua Guatemala with swimming pool"
 featured: false
 hidden: true

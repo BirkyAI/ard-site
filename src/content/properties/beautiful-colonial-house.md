@@ -7,7 +7,7 @@ baths: 3
 area: "320m²"
 status: "Sold"
 badge: "Sold"
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/07/1-1.jpg"
+image: "/images/blog-placeholder.svg"
 alt: "Beautiful colonial house with traditional tile roof in Antigua Guatemala"
 featured: false
 hidden: true

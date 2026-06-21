@@ -7,7 +7,7 @@ baths: 2
 area: "10x20m lot"
 status: "Sold"
 badge: "Sold"
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/09/2-1.jpg"
+image: "/images/blog-placeholder.svg"
 alt: "Bohemian style home for sale in Panorama Antigua gated community near Antigua Guatemala"
 featured: false
 hidden: true

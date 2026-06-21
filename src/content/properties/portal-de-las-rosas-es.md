@@ -7,7 +7,7 @@ baths: 2
 area: "Condominio"
 status: "Vendido"
 badge: "Vendido"
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/11/portal-de-las-rosas.jpg"
+image: "/images/blog-placeholder.svg"
 alt: "Condominio accesible en venta en San Miguel Dueñas cerca de Antigua Guatemala con alberca"
 featured: false
 hidden: true

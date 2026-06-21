@@ -7,7 +7,7 @@ baths: 2.5
 area: "170m²"
 status: "Vendido"
 badge: "Vendido"
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2026/02/16.jpg"
+image: "/images/blog-placeholder.svg"
 alt: "Casa estilo loft colonial en comunidad cerrada en San Miguel Dueñas cerca de Antigua Guatemala"
 featured: false
 hidden: true

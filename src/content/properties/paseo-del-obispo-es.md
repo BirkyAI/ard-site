@@ -7,7 +7,7 @@ baths: 2
 area: "250m²"
 status: "Vendido"
 badge: "Vendido"
-image: "https://antiguarealestatedevelopment.com/wp-content/uploads/2025/05/front-house.avif"
+image: "/images/blog-placeholder.svg"
 alt: "Casa colonial con patio en Paseo del Obispo, Antigua Guatemala"
 featured: false
 hidden: true
