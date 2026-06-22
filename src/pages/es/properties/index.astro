@@ -5,7 +5,9 @@ import { getTranslation } from '../../../i18n';
 const t = getTranslation('es');
 const properties = (await getCollection('properties')).filter(p => !p.data.hidden && p.data.lang === 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 const forSale = properties.filter(p => p.data.type !== 'rental');
-const rentals = properties.filter(p => p.data.type === 'rental');
+const rentalsOrder = ['rental-barrios-coloniales-es', 'rental-barrios-coloniales-unfurnished-es', 'rental-apartment-contenta-el-hato-es', 'rental-casa-coi-el-hato-es', 'apartment-contentita-el-hato-es', 'studio-creativa-el-hato-es', 'rental-catarata-el-hato-es'];
+const rentalsRaw = properties.filter(p => p.data.type === 'rental');
+const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).filter(Boolean), ...rentalsRaw.filter(p => !rentalsOrder.includes(p.id))];
 ---
 <BaseLayout locale="es" title="Propiedades en Venta y Renta en Antigua Guatemala | Antigua Real Estate Development" description="Explora casas coloniales, terrenos, propiedades de inversión y alquileres en Antigua Guatemala. Asesoría experta para extranjeros y compradores internacionales.">
   <section class="page-hero">
