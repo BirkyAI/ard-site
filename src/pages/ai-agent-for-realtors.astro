@@ -1,0 +1,260 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="AI Real Estate Assistant | Your 24/7 Employee That Never Sleeps" description="A fully managed AI real estate assistant that replaces your VA. Property searches, lead management, content creation, email drafting — fully automated. No tech skills needed.">
+  <script type="application/ld+json" set:html={JSON.stringify({"@context":"https://schema.org","@type":"Service","name":"AI Real Estate Assistant","description":"A fully managed AI real estate assistant that replaces your VA. Automate property searches, lead management, content creation, and more.","provider":{"@type":"Organization","name":"Antigua Real Estate Development"},"offers":{"@type":"Offer","priceCurrency":"USD","price":"197","priceSpecification":{"@type":"UnitPriceSpecification","price":"197","priceCurrency":"USD","billingDuration":"P1M"}}})} />
+
+  <!-- HERO -->
+  <section style="position:relative;min-height:70vh;display:flex;align-items:center;overflow:hidden;background:#0a0a0a;">
+    <div style="position:absolute;inset:0;background:linear-gradient(135deg,rgba(0,0,0,0.95) 0%,rgba(20,20,40,0.85) 50%,rgba(0,0,0,0.95) 100%);"></div>
+    <div style="position:absolute;inset:0;opacity:0.08;background-image:radial-gradient(circle at 1px 1px,rgba(255,255,255,0.3) 1px,transparent 0);background-size:40px 40px;"></div>
+    <div class="container" style="position:relative;z-index:2;color:white;padding:100px 0;text-align:center;">
+      <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,0.1);backdrop-filter:blur(8px);padding:8px 20px;border-radius:9999px;font-size:13px;font-weight:600;margin-bottom:28px;border:1px solid rgba(255,255,255,0.2);text-transform:uppercase;letter-spacing:2px;">🤖 Fully Managed</div>
+      <h1 style="font-size:clamp(32px,7vw,60px);font-weight:700;line-height:1.08;letter-spacing:-1.5px;margin-bottom:28px;max-width:780px;margin-left:auto;margin-right:auto;">Your AI Real Estate Assistant.<br><span style="color:rgba(255,255,255,0.6);">Replaces a VA. Costs a Fraction.</span></h1>
+      <p style="font-size:clamp(16px,2.5vw,20px);line-height:1.7;opacity:0.85;max-width:600px;margin:0 auto 40px;">A fully managed AI assistant that handles property searches, lead management, content creation, and email drafting — for a fraction of the cost of a human VA.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;">
+        <a href="#pricing" class="btn btn--primary" style="font-size:18px;padding:18px 44px;">Start Your Free Trial →</a>
+        <a href="#how-it-works" class="btn btn--outline" style="font-size:16px;padding:16px 32px;border-color:rgba(255,255,255,0.4);color:white;">See How It Works</a>
+      </div>
+      <p style="margin-top:20px;font-size:13px;opacity:0.5;">No software to install. No tech skills needed. Just text your assistant.</p>
+    </div>
+  </section>
+
+  <!-- SOCIAL PROOF -->
+  <section style="padding:36px 0;background:var(--color-surface);border-bottom:1px solid var(--color-border);">
+    <div class="container">
+      <div style="display:flex;justify-content:center;gap:48px;flex-wrap:wrap;text-align:center;">
+        <div><div style="font-size:28px;font-weight:700;">$197</div><div style="font-size:13px;color:var(--color-text-muted);">vs $1,200 VA/mo</div></div>
+        <div><div style="font-size:28px;font-weight:700;">0</div><div style="font-size:13px;color:var(--color-text-muted);">Software to Install</div></div>
+        <div><div style="font-size:28px;font-weight:700;">2min</div><div style="font-size:13px;color:var(--color-text-muted);">Average Response</div></div>
+        <div><div style="font-size:28px;font-weight:700;">10hr+</div><div style="font-size:13px;color:var(--color-text-muted);">Saved Per Week</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROBLEM -->
+  <section style="padding:80px 0;">
+    <div class="container" style="max-width:720px;text-align:center;">
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:var(--color-text-muted);margin-bottom:16px;">The Problem</div>
+      <h2 style="font-size:clamp(24px,4vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:24px;">Your VA Costs $1,200/Month. This Costs $197.</h2>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;text-align:left;">
+        {[
+          {icon:'😩',text:'Hours spent searching listings for clients instead of showing properties'},
+          {icon:'📧',text:'Writing the same emails and listing descriptions over and over'},
+          {icon:'📱',text:'Jumping between 5+ apps just to manage your daily workflow'},
+          {icon:'📊',text:'No time for social media, GBP posts, or marketing content'},
+          {icon:'💸',text:'Paying a virtual assistant $1,000+/month and still waiting hours for responses'},
+          {icon:'⏰',text:'Working nights and weekends on admin instead of with clients'},
+        ].map(item => (
+          <div style="display:flex;gap:12px;padding:18px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+            <span style="font-size:24px;">{item.icon}</span>
+            <p style="font-size:14px;line-height:1.6;color:var(--color-text-secondary);margin:0;">{item.text}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- SOLUTION -->
+  <section style="padding:80px 0;background:var(--color-surface);">
+    <div class="container" style="max-width:720px;text-align:center;">
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:var(--color-text-muted);margin-bottom:16px;">The Solution</div>
+      <h2 style="font-size:clamp(24px,4vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:16px;">An Assistant That Works 24/7 for $197/Month</h2>
+      <p style="font-size:17px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:0;">Your AI assistant lives in your phone — in the apps you already use. Text it like you would text an employee. It handles the busywork so you can close more deals. No hiring, no training, no payroll.</p>
+    </div>
+  </section>
+
+  <!-- WHAT IT DOES -->
+  <section style="padding:80px 0;">
+    <div class="container">
+      <div class="section-header">
+        <div class="section-label">What It Does</div>
+        <h2 class="section-title">Your AI Assistant Handles It All</h2>
+        <p class="section-subtitle">Everything a real estate VA does — but faster, cheaper, and available 24/7.</p>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;">
+        {[
+          {icon:'🔍',title:'Property Searches',desc:'Tell your assistant what your client needs — beds, budget, location — and get a curated list in minutes. Like having a research assistant on call 24/7.'},
+          {icon:'🏠',title:'Listing Descriptions',desc:'Provide photos and details, get a polished listing description ready to post. Multiple versions for MLS, social, and print. No more staring at a blank page.'},
+          {icon:'📧',title:'Email Drafting',desc:'Drafts client follow-ups, inquiry responses, and marketing emails in your voice. It learns your tone. Review, edit, send — or let it send for you.'},
+          {icon:'📱',title:'Social Media and GBP Content',desc:'Weekly Google Business Profile posts, social media captions, and blog articles — all on-brand and SEO-optimized. Your marketing assistant that never misses a deadline.'},
+          {icon:'👥',title:'Lead Management',desc:'Track every lead from first contact to closing. Your assistant logs conversations, sets follow-up reminders, and updates your CRM. No lead ever falls through the cracks.'},
+          {icon:'📊',title:'Market Reports',desc:'Get instant market summaries, comparable analyses, and pricing insights for any area. Impress clients with data that used to take hours to compile.'},
+        ].map(item => (
+          <div style="padding:28px;background:white;border-radius:16px;border:1px solid var(--color-border);box-shadow:0 1px 3px rgba(0,0,0,0.04);">
+            <div style="font-size:36px;margin-bottom:16px;">{item.icon}</div>
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;">{item.title}</h3>
+            <p style="font-size:14px;color:var(--color-text-secondary);line-height:1.7;margin:0;">{item.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section id="how-it-works" style="padding:80px 0;background:var(--color-surface);">
+    <div class="container" style="max-width:720px;">
+      <div class="section-header">
+        <div class="section-label">How It Works</div>
+        <h2 class="section-title">Your New Assistant Starts in 3 Steps</h2>
+        <p class="section-subtitle">No installation. No configuration. No headaches.</p>
+      </div>
+      <div style="display:grid;gap:32px;">
+        {[
+          {num:'01',title:'We Set Everything Up',desc:'We configure your personal AI assistant with your market area, your brand voice, your workflows, and your CRM. You do not touch a single line of code. We do everything.'},
+          {num:'02',title:'You Text It Like a Team Member',desc:'Open Telegram or WhatsApp and start chatting. Ask it to find properties, write descriptions, draft emails, post to your Google Business Profile — exactly like texting a team member.'},
+          {num:'03',title:'You Review. It Executes.',desc:'Your assistant shows you what it created before sending anything out. You are always in control. Approve, edit, or redirect — it learns your preferences over time.'},
+        ].map(item => (
+          <div style="display:flex;gap:24px;align-items:flex-start;padding:28px;background:white;border-radius:16px;border:1px solid var(--color-border);">
+            <div style="flex-shrink:0;width:56px;height:56px;background:#0a0a0a;color:white;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:700;">{item.num}</div>
+            <div>
+              <h3 style="font-size:18px;font-weight:600;margin-bottom:6px;">{item.title}</h3>
+              <p style="font-size:14px;color:var(--color-text-secondary);line-height:1.7;margin:0;">{item.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- VS HUMAN VA -->
+  <section style="padding:80px 0;">
+    <div class="container" style="max-width:720px;">
+      <div class="section-header">
+        <div class="section-label">Why AI?</div>
+        <h2 class="section-title">AI Assistant vs. Human VA</h2>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:0;border-radius:16px;overflow:hidden;border:1px solid var(--color-border);">
+        <div style="padding:32px;background:var(--color-surface);border-right:1px solid var(--color-border);">
+          <h3 style="font-size:16px;font-weight:700;margin-bottom:20px;text-align:center;">🤖 AI Assistant ($197/mo)</h3>
+          {[
+            'Responds in 2 minutes',
+            'Available 24/7/365',
+            'Never sick, never quits',
+            'Instant property searches',
+            'SEO content on autopilot',
+            'Scales with your business',
+            'No training needed',
+          ].map(item => (
+            <div style="display:flex;align-items:center;gap:10px;padding:8px 0;font-size:14px;"><span style="color:#16a34a;">✓</span> {item}</div>
+          ))}
+        </div>
+        <div style="padding:32px;background:white;">
+          <h3 style="font-size:16px;font-weight:700;margin-bottom:20px;text-align:center;">👩‍💼 Human VA ($1,000+/mo)</h3>
+          {[
+            'Hours to respond',
+            'Business hours only',
+            'Sick days, turnover',
+            'Manual research',
+            'Needs training and management',
+            'Limited bandwidth',
+            'Inconsistent quality',
+          ].map(item => (
+            <div style="display:flex;align-items:center;gap:10px;padding:8px 0;font-size:14px;color:var(--color-text-muted);"><span style="color:#dc2626;">✗</span> {item}</div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHO IT IS FOR -->
+  <section style="padding:80px 0;background:var(--color-surface);">
+    <div class="container" style="max-width:720px;text-align:center;">
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:var(--color-text-muted);margin-bottom:16px;">Perfect For</div>
+      <h2 style="font-size:clamp(24px,4vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:32px;">Built for Agents Who Need an Assistant But Not the Overhead</h2>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;text-align:left;">
+        {[
+          'Solo agents who cannot justify a full-time hire',
+          'Teams looking to cut overhead without cutting output',
+          'Agents who want to scale without adding payroll',
+          'Realtors losing leads because they are too busy to follow up',
+          'Anyone tired of VA turnover, training, and management',
+          'Agents who want a competitive edge with AI',
+        ].map(item => (
+          <div style="display:flex;align-items:center;gap:12px;padding:14px 16px;background:white;border-radius:10px;border:1px solid var(--color-border);">
+            <span style="color:#16a34a;font-size:18px;">✓</span>
+            <span style="font-size:14px;font-weight:500;">{item}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- PRICING -->
+  <section id="pricing" style="padding:80px 0;background:#0a0a0a;color:white;">
+    <div class="container" style="max-width:560px;text-align:center;">
+      <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,0.1);padding:6px 16px;border-radius:9999px;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:2px;margin-bottom:24px;border:1px solid rgba(255,255,255,0.2);">🚀 Simple Pricing</div>
+      <h2 style="font-size:clamp(28px,5vw,42px);font-weight:600;letter-spacing:-0.5px;margin-bottom:8px;">Try Your New Assistant Free</h2>
+      <p style="opacity:0.7;max-width:480px;margin:0 auto 32px;line-height:1.6;">7-day free trial. No credit card required. Cancel anytime. We set everything up.</p>
+      
+      <div style="background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.15);border-radius:20px;padding:40px;margin-bottom:32px;">
+        <div style="font-size:56px;font-weight:700;margin-bottom:4px;">$197<span style="font-size:20px;font-weight:400;opacity:0.5;">/mo</span></div>
+        <div style="opacity:0.6;font-size:14px;margin-bottom:28px;">USD · Cancel anytime · Setup included</div>
+        <a href="#contact" class="btn btn--primary" style="font-size:18px;padding:18px 48px;width:100%;display:block;text-align:center;">Start Free Trial →</a>
+        <div style="margin-top:24px;padding-top:24px;border-top:1px solid rgba(255,255,255,0.1);">
+          <div style="font-size:14px;font-weight:600;margin-bottom:12px;">What is included:</div>
+          <div style="display:grid;gap:8px;text-align:left;">
+            {[
+              'Your own dedicated AI real estate assistant',
+              'Access via Telegram or WhatsApp',
+              'Unlimited property searches',
+              'Content creation (GBP, social, email)',
+              'Lead tracking and CRM integration',
+              'Full setup and ongoing optimization',
+              'Personal onboarding call',
+              'Priority support — you have our direct line',
+            ].map(item => (
+              <div style="display:flex;align-items:center;gap:10px;font-size:14px;opacity:0.85;"><span style="color:#16a34a;">✓</span> {item}</div>
+            ))}
+          </div>
+        </div>
+        <div style="margin-top:20px;display:flex;justify-content:center;gap:24px;flex-wrap:wrap;">
+          <span style="opacity:0.5;font-size:13px;">🔒 No Long-Term Contract</span>
+          <span style="opacity:0.5;font-size:13px;">⚡ Setup Within 48 Hours</span>
+          <span style="opacity:0.5;font-size:13px;">↩️ 7-Day Free Trial</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section style="padding:80px 0;">
+    <div class="container" style="max-width:640px;">
+      <div class="section-header">
+        <div class="section-label">FAQ</div>
+        <h2 class="section-title">Common Questions</h2>
+      </div>
+      <div style="display:grid;gap:16px;">
+        {[
+          {q:'Do I need to install anything?',a:'Absolutely nothing. Your AI assistant works through Telegram or WhatsApp — apps you already have on your phone. We handle all the technical setup behind the scenes.'},
+          {q:'How is this different from ChatGPT or other AI tools?',a:'ChatGPT is a general tool you have to prompt every time. Your AI assistant is pre-configured for real estate — it knows your market, your brand voice, your workflows, and connects to your CRM. It is like the difference between a temp worker and a trained employee.'},
+          {q:'What if I need something specific to my business?',a:'That is the whole point. During onboarding, we configure everything for YOUR business — your market, your brand voice, your workflows. And it keeps learning your preferences over time.'},
+          {q:'Is my data secure?',a:'Yes. Your data stays in your own isolated environment. We never share your information or use it to train anything. You can export or delete your data at any time.'},
+          {q:'Can I try before I commit?',a:'Absolutely. Every new client gets a free 7-day trial. No credit card required. See the results for yourself before paying anything.'},
+          {q:'What happens during onboarding?',a:'We schedule a 30-minute call to understand your business: your market area, typical clients, brand voice, and biggest time-wasters. Then we configure your assistant and you are ready to go within 48 hours.'},
+        ].map(item => (
+          <details style="padding:20px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+            <summary style="font-weight:600;font-size:15px;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;">
+              {item.q}
+              <span style="font-size:20px;opacity:0.4;">+</span>
+            </summary>
+            <p style="margin-top:12px;font-size:14px;color:var(--color-text-secondary);line-height:1.7;">{item.a}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT / FINAL CTA -->
+  <section id="contact" style="padding:80px 0;background:var(--color-surface);text-align:center;">
+    <div class="container" style="max-width:560px;">
+      <h2 style="font-size:clamp(24px,5vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:16px;">Ready to Replace Your VA With Something Better?</h2>
+      <p style="font-size:16px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:32px;">Start your free trial today. No risk. No hiring. No payroll. Just results.</p>
+      <div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;">
+        <a href="https://wa.me/502XXXXXXXX?text=Hi!%20I%27m%20interested%20in%20the%20AI%20Real%20Estate%20Assistant." class="btn btn--primary" style="font-size:18px;padding:18px 40px;">Message on WhatsApp →</a>
+        <a href="mailto:info@antiguarealestatedevelopment.com?subject=AI%20Real%20Estate%20Assistant%20-%20Free%20Trial" class="btn btn--outline" style="font-size:16px;padding:16px 32px;">Or Email Us</a>
+      </div>
+      <p style="margin-top:16px;font-size:13px;color:var(--color-text-muted);">Questions? Send a message — we respond fast. After all, we practice what we preach. 😉</p>
+    </div>
+  </section>
+</BaseLayout>
