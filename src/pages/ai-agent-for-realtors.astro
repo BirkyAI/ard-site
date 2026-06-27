@@ -40,12 +40,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <p style="font-size:17px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:48px;">ChatGPT is a website you visit. This is a fully autonomous AI agent that lives on YOUR computer, connected to YOUR email, YOUR files, and YOUR workflows — running 24/7 in the background.</p>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;text-align:left;">
         {[
-          {icon:'📧',text:'Reads and drafts emails directly from YOUR inbox — not a copy-paste from a chatbot'},
-          {icon:'📁',text:'Accesses YOUR files, folders, and documents on YOUR computer'},
-          {icon:'🔄',text:'Runs 24/7 in the background — even when you close your laptop lid'},
-          {icon:'🔒',text:'All data stays on YOUR machine — nothing sent to third-party servers'},
-          {icon:'🧠',text:'Remembers everything across sessions — your preferences, clients, workflows'},
-          {icon:'⚡',text:'Executes real tasks — searches the web, writes files, sends messages, updates your CRM'},
+          {icon:'📧',text:'Reads AND sends emails directly from YOUR inbox — drafts, follow-ups, and client responses in your voice, ready to send with one tap'},
+          {icon:'🎙️',text:'Create listings, draft emails, and update your CRM from a voice message on your phone — at the park, in the car, anywhere'},
+          {icon:'🌐',text:'Builds and deploys your website, writes daily SEO blog posts automatically, and keeps your online presence fresh without lifting a finger'},
+          {icon:'📱',text:'Manages your social media and Google Business Profile — weekly posts, captions, and content that are already optimized for AI search engines'},
+          {icon:'📊',text:'Your Notion CRM, tasks, and pipeline — all controlled by voice from Telegram. Manage your entire business from your phone'},
+          {icon:'🔒',text:'All data stays on YOUR machine. Runs 24/7 in the background. Remembers everything. Hours of admin work, handled automatically'},
         ].map(item => (
           <div style="display:flex;gap:12px;padding:18px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
             <span style="font-size:24px;">{item.icon}</span>
@@ -89,12 +89,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       </div>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;">
         {[
-          {icon:'🔍',title:'Property Searches',desc:'Ask your assistant to find properties matching any criteria — beds, budget, location. It searches multiple sites and gives you a curated list in minutes.'},
-          {icon:'🏠',title:'Listing Descriptions',desc:'Provide photos and details, get a polished, professional listing description ready for MLS, social media, or print. Multiple versions in seconds.'},
-          {icon:'📧',title:'Email Drafting and Sending',desc:'Connected to YOUR actual inbox. Drafts follow-ups, inquiry responses, and marketing emails in your voice. Review and send — or let it send for you.'},
-          {icon:'📱',title:'Social Media and GBP Content',desc:'Weekly Google Business Profile posts, social media captions, and blog articles — all on-brand and SEO-optimized. Created automatically.'},
-          {icon:'👥',title:'Lead Management and CRM',desc:'Tracks every lead from first contact to closing. Logs conversations, sets follow-up reminders, updates your CRM. No lead falls through the cracks.'},
-          {icon:'📊',title:'Market Research and Reports',desc:'Instant market summaries, comparable property analyses, and pricing insights. Impress clients with data that used to take hours to compile.'},
+          {icon:'🔍',title:'Property Searches',desc:'Ask your assistant to find properties matching any criteria — beds, budget, location. It searches multiple sites and gives you a curated list in minutes. From a text or voice message.'},
+          {icon:'🏠',title:'Listing Descriptions',desc:'Provide photos and details — even from a vague voice message — and get a polished listing description ready for MLS, social media, or print. Hours of work, done in seconds.'},
+          {icon:'📧',title:'Email Drafting AND Sending',desc:'Connected to YOUR actual inbox. Drafts follow-ups, inquiry responses, and marketing emails in your voice. Reviews with you, then sends directly. Not copy-paste — real email automation.'},
+          {icon:'🌐',title:'Website Building and Daily SEO Blogs',desc:'Your assistant can build and deploy your website, then write daily blog posts optimized for SEO — automatically, every single day. Your online presence grows while you sleep.'},
+          {icon:'📱',title:'Social Media and Google Business',desc:'Weekly GBP posts, social media captions, and content — all optimized for AI search engines (ChatGPT, Perplexity, Google AI). You are light years ahead of the competition.'},
+          {icon:'📊',title:'Notion CRM and Task Management',desc:'Your entire CRM, tasks, and pipeline — controlled from Telegram. Update leads, manage tasks, track deals from a voice message at the park. Hours of admin, handled.'},
         ].map(item => (
           <div style="padding:28px;background:white;border-radius:16px;border:1px solid var(--color-border);box-shadow:0 1px 3px rgba(0,0,0,0.04);">
             <div style="font-size:36px;margin-bottom:16px;">{item.icon}</div>
