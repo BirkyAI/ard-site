@@ -1,0 +1,109 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const faqs = [
+  {q:'How far is Santa Lucía Milpas Altas from Antigua?',a:'Santa Lucía Milpas Altas is about 20 to 25 minutes from Antigua Guatemala, heading into the mountains. The drive is scenic and winding, passing through forested highlands.'},
+  {q:'Is it colder in Santa Lucía?',a:'Yes — Santa Lucía is at a higher elevation than Antigua, which means cooler temperatures, especially in the evenings and early mornings. Many residents enjoy the crisp mountain air and find it refreshing compared to the warmer lowlands.'},
+  {q:'Is Santa Lucía safe?',a:'Yes, Santa Lucía is considered safe. It is a quiet residential community with a mix of local families and some foreign residents. The peaceful atmosphere is one of its main draws.'},
+  {q:'What types of properties are available?',a:'You will find larger homes, properties with forested land, and some gated developments. The lots tend to be bigger than in the towns closer to Antigua, and the prices are lower for what you get.'},
+  {q:'Do I need a car?',a:'Absolutely. Santa Lucía is in the mountains and there is limited public transportation. A car is essential for daily life, commuting to Antigua, and accessing shopping and services.'},
+];
+const jsonLD = JSON.stringify({
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
+});
+---
+<BaseLayout title="Living in Santa Lucía Milpas Altas | Antigua Guatemala Neighborhood Guide" description="Santa Lucía Milpas Altas offers cooler mountain air, forested surroundings, and larger homes — a peaceful retreat for nature lovers near Antigua Guatemala.">
+  <script type="application/ld+json" set:html={jsonLD} />
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">Neighborhood Guide</div>
+      <h1 class="page-hero__title">Santa Lucía Milpas Altas</h1>
+      <p class="page-hero__subtitle">Cooler temperatures, forested surroundings, and larger homes — a mountain retreat for those who want peace, privacy, and nature.</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div class="prose">
+
+        <h2>Why People Choose Santa Lucía Milpas Altas</h2>
+        <p>If you have ever imagined waking up to cool mountain air, the sound of birds, and views of forested hillsides — Santa Lucía Milpas Altas is where that vision comes to life. Located in the highlands above Antigua, this peaceful mountain community offers a lifestyle that feels worlds away from the bustle of the city, while still being within easy reach of everything you need.</p>
+        <p>Santa Lucía is popular with people who want space, nature, and a quieter pace of life. The higher elevation means cooler temperatures, which many residents prefer — especially those coming from warmer climates. The forested landscape and rural atmosphere make it feel like a true retreat.</p>
+
+        <h2>Lifestyle and Atmosphere</h2>
+        <p>Life in Santa Lucía is defined by the mountains. The air is cooler, the pace is slower, and the landscape is lush and green. Pine forests, coffee farms, and agricultural fields surround the town, creating a peaceful backdrop for daily life.</p>
+        <p>The community is a mix of local Guatemalan families and a smaller number of foreign residents who chose the mountains for the climate and the views. It is quiet — there are no tourist attractions, no nightlife, and no colonial architecture. What there is, is peace, fresh air, and a genuine connection to the Guatemalan highlands.</p>
+        <p>For families with children, the open spaces and natural environment are a major draw. For retirees, the cooler climate and slower pace offer a comfortable way of life.</p>
+
+        <h2>Property Types Available</h2>
+        <ul>
+          <li><strong>Large homes</strong> — Spacious properties with gardens, often with mountain or forest views</li>
+          <li><strong>Properties with land</strong> — Homes on generous lots, some with agricultural land or coffee farms</li>
+          <li><strong>Building lots</strong> — Land in the mountains for custom construction</li>
+          <li><strong>Fincas</strong> — Country properties with significant land for those wanting privacy and space</li>
+          <li><strong>Gated developments</strong> — Some newer communities with security and shared amenities</li>
+        </ul>
+
+        <h2>Nearby Amenities</h2>
+        <ul>
+          <li><strong>Shopping</strong> — Local stores in town; major shopping in Antigua (20-25 min) or Sacatepéquez towns</li>
+          <li><strong>Dining</strong> — Local comedores; full restaurant options in Antigua</li>
+          <li><strong>Healthcare</strong> — Basic services in nearby towns; hospitals in Antigua and Guatemala City</li>
+          <li><strong>Nature</strong> — Hiking trails, forests, and agricultural land right outside your door</li>
+          <li><strong>Education</strong> — Local schools; bilingual and international options accessible in Antigua</li>
+        </ul>
+
+        <h2>Commute to Antigua Guatemala</h2>
+        <p>Santa Lucía Milpas Altas is approximately 20 to 25 minutes from the center of Antigua by car. The road winds through the mountains and is scenic but narrow in places. Most residents make the trip to Antigua several times a week for shopping, dining, and errands.</p>
+        <p>The drive is part of the appeal — the mountain roads offer beautiful views and a sense of escape from the everyday. However, it is worth noting that the roads can be challenging in the rainy season.</p>
+
+        <h2>Pros and Considerations</h2>
+        <h3>Advantages</h3>
+        <ul>
+          <li>Cooler temperatures — refreshing mountain climate</li>
+          <li>Forest surroundings and natural beauty</li>
+          <li>Larger homes and lots at lower prices</li>
+          <li>Peaceful, private atmosphere</li>
+          <li>Great for nature lovers and outdoor enthusiasts</li>
+          <li>Strong sense of community among residents</li>
+        </ul>
+        <h3>Things to Keep in Mind</h3>
+        <ul>
+          <li>A car is essential — limited public transportation</li>
+          <li>Fewer nearby amenities — shopping and dining require a trip to Antigua</li>
+          <li>Mountain roads can be challenging in rainy season</li>
+          <li>Smaller expat community</li>
+          <li>Internet and utilities may be less reliable in some areas</li>
+        </ul>
+
+        <h2>Investment Potential</h2>
+        <p>Santa Lucía Milpas Altas offers good value for buyers who want larger properties at lower prices. The investment case is based on the growing demand for cooler, quieter living as more buyers discover the area. Properties with views and modern amenities tend to appreciate well.</p>
+        <p>The area is particularly interesting for buyers who plan to live in the property long-term, as the lifestyle benefits are significant. For pure investment purposes, the market is smaller than in closer towns, but the entry prices are attractive.</p>
+
+        <h2>Who Is Santa Lucía Milpas Altas Best For?</h2>
+        <ul>
+          <li><strong>Nature lovers</strong> who want forested surroundings and mountain air</li>
+          <li><strong>Retirees</strong> seeking a peaceful, cooler climate retreat</li>
+          <li><strong>Families</strong> who want space and outdoor living for their children</li>
+          <li><strong>Long-term residents</strong> who prioritize quality of life over proximity to town</li>
+          <li><strong>Buyers seeking larger properties</strong> with land and privacy</li>
+        </ul>
+
+        <h2>Frequently Asked Questions</h2>
+        {faqs.map(f => (
+          <div style="margin-bottom:24px;padding:24px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;margin-top:0;">{f.q}</h3>
+            <p style="margin:0;color:var(--color-text-secondary);line-height:1.7;">{f.a}</p>
+          </div>
+        ))}
+
+        <div style="text-align:center;margin-top:48px;padding:48px;background:#111;border-radius:16px;color:white;">
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;color:white;">Interested in Santa Lucía Milpas Altas?</h2>
+          <p style="opacity:0.8;margin-bottom:24px;max-width:480px;margin-left:auto;margin-right:auto;">I can help you find a mountain home with the views, space, and peace you are looking for.</p>
+          <a href="/contact/" class="btn btn--primary">Get in Touch</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -6,6 +6,7 @@ const translations = {
     nav: {
       properties: 'Properties',
       services: 'Services',
+      neighborhoods: 'Neighborhoods',
       blog: 'Blog',
       about: 'About',
       contact: 'Contact',
@@ -174,6 +175,7 @@ const translations = {
     nav: {
       properties: 'Propiedades',
       services: 'Servicios',
+      neighborhoods: 'Vecindarios',
       blog: 'Blog',
       about: 'Nosotros',
       contact: 'Contacto',

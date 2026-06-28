@@ -1,0 +1,109 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const faqs = [
+  {q:'How far is San Miguel Dueñas from Antigua?',a:'San Miguel Dueñas is about 15 to 20 minutes south of Antigua Guatemala, heading toward Escuintla. It is connected by the main highway and easy to reach by car.'},
+  {q:'Is San Miguel Dueñas a good investment?',a:'Yes — it is one of the fastest-growing areas in the region. Affordable land prices combined with new development activity make it attractive for both personal use and investment. Many buyers see it as a way to get more property for less money.'},
+  {q:'What types of properties are available?',a:'You will find building lots, new construction homes, larger properties with land, and some traditional homes. New developments are popping up regularly as the area grows.'},
+  {q:'Is it safe?',a:'San Miguel Dueñas is generally considered safe. As with any area, it is worth visiting and getting a feel for the specific neighborhood. Gated developments offer additional security.'},
+  {q:'Do I need a car?',a:'Yes, a car is essential in San Miguel Dueñas. The area is more spread out and there is limited public transportation. Most residents drive to Antigua for shopping, dining, and entertainment.'},
+];
+const jsonLD = JSON.stringify({
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
+});
+---
+<BaseLayout title="Living in San Miguel Dueñas | Antigua Guatemala Neighborhood Guide" description="San Miguel Dueñas is a fast-growing investment area near Antigua Guatemala — affordable land, new developments, and great value. Discover if it is right for you.">
+  <script type="application/ld+json" set:html={jsonLD} />
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">Neighborhood Guide</div>
+      <h1 class="page-hero__title">San Miguel Dueñas</h1>
+      <p class="page-hero__subtitle">A fast-growing area with affordable land, new developments, and strong investment potential — just south of Antigua.</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div class="prose">
+
+        <h2>Why People Choose San Miguel Dueñas</h2>
+        <p>San Miguel Dueñas has quietly become one of the most talked-about areas for property buyers near Antigua Guatemala. Located between Antigua and Escuintla along the main highway, it offers something that is increasingly hard to find closer to the city: affordable land with room to grow.</p>
+        <p>For buyers who want to build their dream home, invest in land, or find a larger property without the premium price tag of Antigua or Ciudad Vieja, San Miguel Dueñas is where the opportunity is. The area is growing fast, with new developments and construction projects appearing regularly.</p>
+
+        <h2>Lifestyle and Atmosphere</h2>
+        <p>San Miguel Dueñas is more rural and spread out than the towns closer to Antigua. The landscape is agricultural — you will see farms, open fields, and wide views of the surrounding volcanoes and mountains. It is quiet, spacious, and connected to the land.</p>
+        <p>This is not a place for walkable café culture or colonial charm. It is a place for people who value space, privacy, and the freedom to build what they want. The community is primarily local Guatemalan families, with a growing number of foreign buyers discovering the area.</p>
+        <p>The lower elevation compared to Antigua means slightly warmer temperatures, which some residents actually prefer. The drive to Antigua is straightforward and scenic.</p>
+
+        <h2>Property Types Available</h2>
+        <ul>
+          <li><strong>Building lots</strong> — Large parcels of land at competitive prices, ideal for custom construction</li>
+          <li><strong>New construction homes</strong> — Modern homes in new developments</li>
+          <li><strong>Properties with land</strong> — Homes with generous lots, gardens, and space for outdoor living</li>
+          <li><strong>Agricultural land</strong> — Larger parcels for those interested in farming or finca-style living</li>
+          <li><strong>Investment lots</strong> — Land purchased for future appreciation as the area develops</li>
+        </ul>
+
+        <h2>Nearby Amenities</h2>
+        <ul>
+          <li><strong>Shopping</strong> — Local stores in town; major shopping in Antigua (15-20 min) or Escuintla (20 min)</li>
+          <li><strong>Dining</strong> — Local comedores in the area; full restaurant options in Antigua</li>
+          <li><strong>Healthcare</strong> — Clinics in the area; hospitals in Antigua and Escuintla</li>
+          <li><strong>Education</strong> — Local schools; bilingual and international schools accessible in Antigua</li>
+          <li><strong>Nature</strong> — Agricultural landscapes, volcano views, and open countryside</li>
+        </ul>
+
+        <h2>Commute to Antigua Guatemala</h2>
+        <p>San Miguel Dueñas is approximately 15 to 20 minutes from the center of Antigua by car via the main highway heading south. The road is well-maintained and the drive is easy. Escuintla, the nearest major city, is about 20 minutes in the other direction.</p>
+        <p>Most residents make the trip to Antigua several times a week for shopping, dining, and social activities. It is far enough to feel like country living, but close enough to stay connected.</p>
+
+        <h2>Pros and Considerations</h2>
+        <h3>Advantages</h3>
+        <ul>
+          <li>Very affordable land and property prices</li>
+          <li>Large lots and spacious properties</li>
+          <li>Strong investment growth potential</li>
+          <li>New developments with modern construction</li>
+          <li>Quiet, rural atmosphere</li>
+          <li>Easy highway access to both Antigua and Escuintla</li>
+        </ul>
+        <h3>Things to Keep in Mind</h3>
+        <ul>
+          <li>A car is essential — no walkable amenities</li>
+          <li>More rural feel — fewer restaurants, shops, and services nearby</li>
+          <li>Smaller expat community than closer towns</li>
+          <li>Slightly warmer temperatures due to lower elevation</li>
+          <li>Limited public transportation</li>
+        </ul>
+
+        <h2>Investment Potential</h2>
+        <p>San Miguel Dueñas is one of the strongest investment plays in the Antigua region. Land prices are still low compared to Ciudad Vieja, San Pedro, and the Historic Center — but they are rising steadily as more buyers discover the area. Early investors in similar areas around Antigua have seen significant appreciation over the past decade.</p>
+        <p>For buyers with a longer time horizon, purchasing land or a home in San Miguel Dueñas now could mean substantial returns as infrastructure improves and demand grows. The new development activity is a clear signal that the market sees potential here.</p>
+
+        <h2>Who Is San Miguel Dueñas Best For?</h2>
+        <ul>
+          <li><strong>Families</strong> who want space, privacy, and a quieter pace of life</li>
+          <li><strong>Investors</strong> looking for affordable land with strong appreciation potential</li>
+          <li><strong>Custom builders</strong> who want to design and build their own home</li>
+          <li><strong>Budget-conscious buyers</strong> who want more property for their money</li>
+          <li><strong>People who enjoy rural living</strong> with easy access to Antigua</li>
+        </ul>
+
+        <h2>Frequently Asked Questions</h2>
+        {faqs.map(f => (
+          <div style="margin-bottom:24px;padding:24px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;margin-top:0;">{f.q}</h3>
+            <p style="margin:0;color:var(--color-text-secondary);line-height:1.7;">{f.a}</p>
+          </div>
+        ))}
+
+        <div style="text-align:center;margin-top:48px;padding:48px;background:#111;border-radius:16px;color:white;">
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;color:white;">Interested in San Miguel Dueñas?</h2>
+          <p style="opacity:0.8;margin-bottom:24px;max-width:480px;margin-left:auto;margin-right:auto;">I can help you find land or a home in this fast-growing area — before prices catch up with the rest of Antigua.</p>
+          <a href="/contact/" class="btn btn--primary">Get in Touch</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</BaseLayout>

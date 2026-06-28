@@ -1,0 +1,109 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const faqs = [
+  {q:'How far is San Juan del Obispo from Antigua?',a:'San Juan del Obispo is about 10 to 15 minutes south of Antigua Guatemala. It sits on the slopes of Volcán de Agua, offering beautiful views and a slightly elevated position above the valley.'},
+  {q:'Is San Juan del Obispo a nice place to live?',a:'Yes — it is one of the prettiest villages near Antigua. The scenery is stunning, the atmosphere is tranquil, and the climate is slightly cooler than the valley floor. It is popular with nature lovers, retirees, and anyone seeking privacy.'},
+  {q:'What is the village known for?',a:'San Juan del Obispo is known for its agricultural character — avocado farms, artisanal products, and traditional crafts. The village has a charming, authentic feel with a small central plaza and a historic church.'},
+  {q:'Are there expats living there?',a:'There is a small but growing expat presence. Most residents are local families who have lived in the area for generations. The village is less developed than San Pedro Las Huertas or Ciudad Vieja, which keeps it peaceful and affordable.'},
+  {q:'Do I need a car?',a:'Yes, a car is recommended. While the village has some local shops, most amenities require a trip to Antigua. The roads are generally good but can be winding in the mountain areas.'},
+];
+const jsonLD = JSON.stringify({
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
+});
+---
+<BaseLayout title="Living in San Juan del Obispo | Antigua Guatemala Neighborhood Guide" description="San Juan del Obispo is one of the prettiest villages near Antigua Guatemala — stunning scenery, avocado farms, and tranquil mountain living. Discover if it is right for you.">
+  <script type="application/ld+json" set:html={jsonLD} />
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">Neighborhood Guide</div>
+      <h1 class="page-hero__title">San Juan del Obispo</h1>
+      <p class="page-hero__subtitle">One of the prettiest villages near Antigua — stunning scenery, agricultural charm, and a tranquil lifestyle on the slopes of Volcán de Agua.</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div class="prose">
+
+        <h2>Why People Choose San Juan del Obispo</h2>
+        <p>San Juan del Obispo is one of the most scenic and charming villages in the entire Antigua area. Perched on the lower slopes of Volcán de Agua, it offers stunning mountain views, lush agricultural landscapes, and a pace of life that feels like stepping back in time.</p>
+        <p>For buyers who want natural beauty, authentic Guatemalan character, and a sense of privacy that is hard to find closer to Antigua, San Juan del Obispo delivers. The village is known for its avocado farms, artisanal products, and traditional crafts — a working community with deep roots in the land.</p>
+
+        <h2>Lifestyle and Atmosphere</h2>
+        <p>Life in San Juan del Obispo revolves around the volcano and the land. The village has a small central plaza, a historic church, and a handful of local shops. The surrounding hillsides are covered with avocado trees, coffee plants, and agricultural fields — creating a patchwork of green that is beautiful year-round.</p>
+        <p>The climate is slightly cooler than the Antigua valley floor, thanks to the elevation. Mornings can be crisp and clear, with spectacular views of the surrounding volcanoes. The rainy season brings lush greenery, and the dry season offers sunny, pleasant days.</p>
+        <p>The community is primarily local Guatemalan families with generations of history in the area. Foreign residents are a small but welcome presence. The pace is slow, the air is clean, and the connection to nature is constant.</p>
+
+        <h2>Property Types Available</h2>
+        <ul>
+          <li><strong>Homes with volcano views</strong> — Properties on the hillside with panoramic views of Volcán de Agua and the valley</li>
+          <li><strong>Traditional homes</strong> — Authentic Guatemalan construction with character and larger lots</li>
+          <li><strong>Properties with land</strong> — Homes with agricultural land, gardens, and outdoor space</li>
+          <li><strong>Building lots</strong> — Land on the slopes for custom construction with views</li>
+          <li><strong>Fincas</strong> — Country properties with significant land, ideal for privacy and nature</li>
+        </ul>
+
+        <h2>Nearby Amenities</h2>
+        <ul>
+          <li><strong>Shopping</strong> — Local stores in the village; major shopping in Antigua (10-15 min)</li>
+          <li><strong>Dining</strong> — Local comedores; full restaurant options in Antigua</li>
+          <li><strong>Agriculture</strong> — Fresh avocados, produce, and artisanal products from local farms</li>
+          <li><strong>Healthcare</strong> — Basic services in nearby towns; hospitals and clinics in Antigua</li>
+          <li><strong>Nature</strong> — Hiking trails on Volcán de Agua, agricultural walks, and mountain scenery</li>
+        </ul>
+
+        <h2>Commute to Antigua Guatemala</h2>
+        <p>San Juan del Obispo is approximately 10 to 15 minutes from the center of Antigua by car. The road winds through agricultural land and offers beautiful views along the way. It is close enough for daily trips but far enough to feel like a different world.</p>
+        <p>Tuk-tuks can make the trip as well, though a car is more practical for daily errands and shopping.</p>
+
+        <h2>Pros and Considerations</h2>
+        <h3>Advantages</h3>
+        <ul>
+          <li>Stunning natural scenery and volcano views</li>
+          <li>Tranquil, private atmosphere</li>
+          <li>Slightly cooler climate than the valley</li>
+          <li>Authentic Guatemalan village character</li>
+          <li>Agricultural charm — fresh produce and artisanal products</li>
+          <li>Close to Antigua — just 10-15 minutes</li>
+        </ul>
+        <h3>Things to Keep in Mind</h3>
+        <ul>
+          <li>A car is recommended for daily life</li>
+          <li>Fewer walkable amenities than closer towns</li>
+          <li>Smaller expat community</li>
+          <li>Less English spoken — Spanish is more important here</li>
+          <li>Mountain roads can be narrow in places</li>
+        </ul>
+
+        <h2>Investment Potential</h2>
+        <p>San Juan del Obispo offers solid value for buyers who prioritize scenery and lifestyle. Properties with volcano views and larger lots tend to hold their value well. The investment case is similar to Santa Lucía Milpas Altas — lower entry prices compared to the closer towns, with potential for appreciation as more buyers discover the area.</p>
+        <p>For buyers who plan to live in the property long-term, the lifestyle return is excellent. For pure investors, the market is smaller but the value proposition is strong.</p>
+
+        <h2>Who Is San Juan del Obispo Best For?</h2>
+        <ul>
+          <li><strong>Nature lovers</strong> who want volcano views and agricultural landscapes</li>
+          <li><strong>Retirees</strong> seeking peace, privacy, and a cooler climate</li>
+          <li><strong>Couples and families</strong> who want a tranquil home base near Antigua</li>
+          <li><strong>People who value authenticity</strong> over polished amenities</li>
+          <li><strong>Buyers seeking larger properties</strong> with land and outdoor space</li>
+        </ul>
+
+        <h2>Frequently Asked Questions</h2>
+        {faqs.map(f => (
+          <div style="margin-bottom:24px;padding:24px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;margin-top:0;">{f.q}</h3>
+            <p style="margin:0;color:var(--color-text-secondary);line-height:1.7;">{f.a}</p>
+          </div>
+        ))}
+
+        <div style="text-align:center;margin-top:48px;padding:48px;background:#111;border-radius:16px;color:white;">
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;color:white;">Interested in San Juan del Obispo?</h2>
+          <p style="opacity:0.8;margin-bottom:24px;max-width:480px;margin-left:auto;margin-right:auto;">I can help you find a home with volcano views, agricultural charm, and the peace you are looking for.</p>
+          <a href="/contact/" class="btn btn--primary">Get in Touch</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</BaseLayout>
