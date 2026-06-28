@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const neighborhoods = [
+  {slug:'historic-center', name:'Historic Center', tagline:'The Heart of Colonial Antigua', desc:'Walk to everything — cafés, restaurants, museums, and nightlife. The most vibrant and sought-after location in the region.', icon:'🏛️'},
+  {slug:'ciudad-vieja', name:'Ciudad Vieja', tagline:'Modern Living, Great Value', desc:'Newer gated communities, larger lots, and modern construction — just minutes from Antigua at a fraction of the price.', icon:'🏘️'},
+  {slug:'san-pedro-las-huertas', name:'San Pedro Las Huertas', tagline:'Peaceful Expat Favorite', desc:'Volcano views, quiet countryside, and authentic Guatemala — without feeling isolated from Antigua.', icon:'🌋'},
+  {slug:'jocotenango', name:'Jocotenango', tagline:'Practical and Affordable', desc:'Supermarkets, shopping, and lower prices — ideal for families and rental investors who want convenience.', icon:'🛒'},
+];
+---
+<BaseLayout title="Explore Neighborhoods | Antigua Guatemala Area Guide" description="Discover the best neighborhoods around Antigua Guatemala for expats, retirees, and investors. Compare lifestyle, property prices, and community vibes.">
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">Explore</div>
+      <h1 class="page-hero__title">Find Your Perfect Neighborhood</h1>
+      <p class="page-hero__subtitle">Not sure which area around Antigua Guatemala is right for you? Explore our neighborhood guides to compare lifestyle, property prices, and community vibes.</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr;gap:24px;max-width:960px;margin:0 auto;">
+        {neighborhoods.map(n => (
+          <a href={`/neighborhoods/${n.slug}/`} style="display:grid;grid-template-columns:auto 1fr;gap:24px;padding:32px;background:var(--color-surface);border-radius:16px;border:1px solid var(--color-border);align-items:center;text-decoration:none;transition:all 0.2s;" onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='var(--shadow-lg)'" onmouseout="this.style.transform='none';this.style.boxShadow='none'">
+            <div style="width:64px;height:64px;background:white;border:1px solid #ddd;border-radius:16px;display:flex;align-items:center;justify-content:center;font-size:32px;flex-shrink:0;">{n.icon}</div>
+            <div>
+              <h2 style="font-size:20px;font-weight:600;margin-bottom:4px;color:var(--color-text);">{n.name}</h2>
+              <p style="font-size:13px;font-weight:500;text-transform:uppercase;letter-spacing:1px;color:var(--color-text-muted);margin-bottom:8px;">{n.tagline}</p>
+              <p style="font-size:15px;color:var(--color-text-secondary);line-height:1.6;">{n.desc}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div style="text-align:center;margin-top:48px;padding:48px;background:#111;border-radius:16px;color:white;max-width:960px;margin-left:auto;margin-right:auto;">
+        <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;">Not Sure Which Area Is Right for You?</h2>
+        <p style="opacity:0.8;margin-bottom:24px;max-width:480px;margin-left:auto;margin-right:auto;">I have lived in the Antigua area for over 5 years and know every neighborhood inside and out. Let me help you find the perfect match.</p>
+        <a href="/contact/" class="btn btn--primary">Book a Free Consultation</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

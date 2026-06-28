@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const faqs = [
+  {q:'How far is San Pedro Las Huertas from Antigua?',a:'San Pedro Las Huertas is about 5 to 10 minutes from the center of Antigua Guatemala. It is one of the closest villages and very easy to reach by car, tuk-tuk, or Uber.'},
+  {q:'Is San Pedro Las Huertas popular with expats?',a:'Yes — it is one of the most popular expat villages near Antigua. Many foreign residents choose it for the combination of peaceful countryside living, volcano views, and proximity to town.'},
+  {q:'What is the internet like?',a:'Internet quality varies by location. In the main village and newer developments, fiber optic and reliable connections are available. More rural areas may have limited options. Always check connectivity before committing to a specific property.'},
+  {q:'Are there gated communities?',a:'Yes, San Pedro Las Huertas has several modern gated communities with security, shared amenities, and well-maintained common areas. These are popular with both expats and local professionals.'},
+  {q:'What is the weather like?',a:'San Pedro Las Huertas enjoys a pleasant spring-like climate year-round, typical of the Antigua valley. Temperatures range from the mid-50s at night to the mid-70s during the day. The rainy season runs from May through October, with afternoon showers.'},
+];
+const jsonLD = JSON.stringify({
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
+});
+---
+<BaseLayout title="Living in San Pedro Las Huertas | Antigua Guatemala Neighborhood Guide" description="San Pedro Las Huertas is a favorite expat village near Antigua Guatemala — volcano views, peaceful countryside, and modern gated communities. Discover if it is right for you.">
+  <script type="application/ld+json" set:html={jsonLD} />
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">Neighborhood Guide</div>
+      <h1 class="page-hero__title">San Pedro Las Huertas</h1>
+      <p class="page-hero__subtitle">A favorite expat village with volcano views, peaceful countryside, and close proximity to Antigua Guatemala.</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div class="prose">
+
+        <h2>Why People Choose San Pedro Las Huertas</h2>
+        <p>San Pedro Las Huertas has earned its reputation as one of the most desirable villages near Antigua Guatemala — and it is easy to see why. Just a short drive from the Historic Center, it offers a peaceful countryside setting with stunning volcano views, without feeling isolated from the conveniences of town.</p>
+        <p>For many expats, San Pedro Las Huertas hits the sweet spot: quiet enough to hear the birds in the morning, close enough to Antigua to grab dinner at a restaurant on a whim. It is the kind of place where you can have both peace and connection.</p>
+
+        <h2>Lifestyle and Atmosphere</h2>
+        <p>Life in San Pedro Las Huertas revolves around the landscape. The village sits in the shadow of Volcán de Agua, and on clear mornings the views are spectacular. The air is fresh, the pace is slow, and the community is warm.</p>
+        <p>The village itself has a traditional Guatemalan feel — a small central plaza, a historic church, local shops, and friendly neighbors. It is authentic without being remote. You will see farmers working the land, families gathering on weekends, and expats walking their dogs along quiet roads.</p>
+        <p>The expat community here is well-established but not overwhelming. You will find a mix of retirees, remote workers, and families who chose San Pedro for its natural beauty and quality of life.</p>
+
+        <h2>Property Types Available</h2>
+        <ul>
+          <li><strong>Luxury homes</strong> — High-end properties with volcano views, gardens, and modern finishes</li>
+          <li><strong>Modern gated communities</strong> — New developments with security, shared amenities, and mountain views</li>
+          <li><strong>Traditional Guatemalan homes</strong> — Authentic properties with character and larger lots</li>
+          <li><strong>Building lots</strong> — Land with views for custom construction</li>
+          <li><strong>Fincas</strong> — Country properties with agricultural land and privacy</li>
+        </ul>
+
+        <h2>Nearby Amenities</h2>
+        <ul>
+          <li><strong>Dining</strong> — Local restaurants in the village, plus the full range of Antigua restaurants just minutes away</li>
+          <li><strong>Shopping</strong> — Local convenience stores in the village; supermarkets and larger stores in Antigua</li>
+          <li><strong>Healthcare</strong> — Clinics in nearby villages and full medical services in Antigua</li>
+          <li><strong>Nature</strong> — Hiking trails, agricultural land, and open countryside right outside your door</li>
+          <li><strong>Community</strong> — Active expat community with social gatherings and shared interests</li>
+        </ul>
+
+        <h2>Commute to Antigua Guatemala</h2>
+        <p>San Pedro Las Huertas is approximately 5 to 10 minutes from the center of Antigua by car. The road is paved and the drive is scenic, passing through agricultural land with volcano views. Tuk-tuks and Uber are readily available for the trip.</p>
+        <p>Many residents make the trip to Antigua daily without any inconvenience — it is close enough to feel like a suburb, but far enough to feel like a retreat.</p>
+
+        <h2>Pros and Considerations</h2>
+        <h3>Advantages</h3>
+        <ul>
+          <li>Stunning volcano views and natural beauty</li>
+          <li>Peaceful, quiet atmosphere</li>
+          <li>Established expat community</li>
+          <li>Close to Antigua — just 5 to 10 minutes</li>
+          <li>Authentic Guatemalan village character</li>
+          <li>Modern gated communities available</li>
+        </ul>
+        <h3>Things to Keep in Mind</h3>
+        <ul>
+          <li>A car is recommended for daily life</li>
+          <li>Fewer walkable amenities than the Historic Center</li>
+          <li>Internet quality varies by location — check before buying</li>
+          <li>Some areas have limited public transportation</li>
+        </ul>
+
+        <h2>Investment Potential</h2>
+        <p>San Pedro Las Huertas has seen steady property value appreciation as more buyers discover its appeal. The combination of natural beauty, proximity to Antigua, and established expat community makes it a solid long-term investment.</p>
+        <p>Properties with volcano views and modern amenities tend to hold their value well. The rental market is smaller than the Historic Center but growing — particularly among expats looking for longer-term rentals in a peaceful setting.</p>
+
+        <h2>Who Is San Pedro Las Huertas Best For?</h2>
+        <ul>
+          <li><strong>Retirees</strong> who want peace and natural beauty without isolation</li>
+          <li><strong>Couples and families</strong> looking for a quieter lifestyle near Antigua</li>
+          <li><strong>Nature lovers</strong> who want volcano views and countryside access</li>
+          <li><strong>Remote workers</strong> who want a peaceful home base with easy access to town</li>
+          <li><strong>Buyers seeking gated community living</strong> with modern amenities</li>
+        </ul>
+
+        <h2>Frequently Asked Questions</h2>
+        {faqs.map(f => (
+          <div style="margin-bottom:24px;padding:24px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;margin-top:0;">{f.q}</h3>
+            <p style="margin:0;color:var(--color-text-secondary);line-height:1.7;">{f.a}</p>
+          </div>
+        ))}
+
+        <div style="text-align:center;margin-top:48px;padding:48px;background:#111;border-radius:16px;color:white;">
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;color:white;">Interested in San Pedro Las Huertas?</h2>
+          <p style="opacity:0.8;margin-bottom:24px;max-width:480px;margin-left:auto;margin-right:auto;">I can show you the best developments, the hidden gems, and help you find a home with the views you are looking for.</p>
+          <a href="/contact/" class="btn btn--primary">Get in Touch</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</BaseLayout>

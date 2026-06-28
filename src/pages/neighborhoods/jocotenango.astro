@@ -1,0 +1,109 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const faqs = [
+  {q:'How far is Jocotenango from Antigua?',a:'Jocotenango is immediately north of Antigua — about 5 minutes by car. It is one of the closest towns and shares a border with the Historic Center.'},
+  {q:'Is Jocotenango safe?',a:'Yes, Jocotenango is considered safe. It is a primarily residential and local commercial area. Like anywhere, normal precautions apply, but it does not have significant security concerns.'},
+  {q:'What are property prices like?',a:'Jocotenango offers some of the most affordable property prices close to Antigua. You can find homes and building lots at a fraction of what you would pay in the Historic Center, making it excellent value for buyers on a budget.'},
+  {q:'Is there an expat community?',a:'The expat presence in Jocotenango is smaller than in San Pedro Las Huertas or Ciudad Vieja, but it is growing. Most residents are local Guatemalan families, which gives the town a more authentic feel.'},
+  {q:'Is it good for rental investment?',a:'Yes — Jocotenango is interesting for rental investors because of its proximity to Antigua and lower purchase prices. Long-term rentals targeting local professionals can provide steady income, and the growing expat community is increasing demand.'},
+];
+const jsonLD = JSON.stringify({
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
+});
+---
+<BaseLayout title="Living in Jocotenango | Antigua Guatemala Neighborhood Guide" description="Jocotenango is a practical, affordable town just north of Antigua Guatemala — great for families, first-time buyers, and rental investors. Discover what it has to offer.">
+  <script type="application/ld+json" set:html={jsonLD} />
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">Neighborhood Guide</div>
+      <h1 class="page-hero__title">Jocotenango</h1>
+      <p class="page-hero__subtitle">Practical, affordable, and just minutes from Antigua — a smart choice for families and investors who want convenience without the premium price tag.</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div class="prose">
+
+        <h2>Why People Choose Jocotenango</h2>
+        <p>Jocotenango is one of the most overlooked towns near Antigua Guatemala — and that is exactly what makes it interesting for buyers. Sitting immediately north of the Historic Center, it offers some of the lowest property prices within minutes of Antigua, along with the practical everyday conveniences that make daily life easy.</p>
+        <p>This is not a picturesque colonial village or a gated community paradise. It is a working town with supermarkets, hardware stores, local markets, and everything you need for comfortable daily living — at prices that make sense.</p>
+
+        <h2>Lifestyle and Atmosphere</h2>
+        <p>Jocotenango is practical and unpretentious. It is a town where locals do their shopping, families run errands, and daily life moves at a comfortable pace. You will not find trendy cafés or boutique shops here — but you will find everything you need for everyday living within easy reach.</p>
+        <p>The town has a genuine Guatemalan character. Local markets sell fresh produce, traditional comedores serve home-cooked meals, and the community is welcoming. For expats who want to experience authentic Guatemala without the tourist bubble, Jocotenango offers that in spades.</p>
+        <p>The lack of colonial charm is offset by convenience. Supermarkets, pharmacies, banks, and services are all close by — and Antigua is just a few minutes away when you want the cultural experience.</p>
+
+        <h2>Property Types Available</h2>
+        <ul>
+          <li><strong>Single-family homes</strong> — Traditional construction at affordable prices</li>
+          <li><strong>Building lots</strong> — Land for custom construction at some of the lowest prices near Antigua</li>
+          <li><strong>Rental properties</strong> — Homes and apartments with good rental yield potential</li>
+          <li><strong>Fixer-uppers</strong> — Older properties with renovation potential at very attractive prices</li>
+          <li><strong>Commercial properties</strong> — Mixed-use buildings near the main road</li>
+        </ul>
+
+        <h2>Nearby Amenities</h2>
+        <ul>
+          <li><strong>Supermarkets</strong> — Full-service grocery stores within the town</li>
+          <li><strong>Shopping</strong> — Hardware stores, pharmacies, banks, and local markets</li>
+          <li><strong>Dining</strong> — Local comedores and casual restaurants; Antigua restaurants 5 minutes away</li>
+          <li><strong>Healthcare</strong> — Clinics and pharmacies in town; hospitals in Antigua and Guatemala City</li>
+          <li><strong>Transportation</strong> — Well-connected by main roads with frequent tuk-tuk and bus service</li>
+          <li><strong>Education</strong> — Local schools and bilingual options in the area</li>
+        </ul>
+
+        <h2>Commute to Antigua Guatemala</h2>
+        <p>Jocotenango is immediately adjacent to Antigua — about 5 minutes by car, tuk-tuk, or even on foot from the northern edge of town. The two share a border, so getting to the Historic Center is about as easy as it gets.</p>
+        <p>The main road connecting Jocotenango to Antigua is well-maintained and frequently traveled. Public transportation runs regularly along this route.</p>
+
+        <h2>Pros and Considerations</h2>
+        <h3>Advantages</h3>
+        <ul>
+          <li>Some of the most affordable property prices near Antigua</li>
+          <li>Excellent everyday conveniences — supermarkets, banks, pharmacies</li>
+          <li>Just 5 minutes from the Historic Center</li>
+          <li>Authentic Guatemalan community</li>
+          <li>Good rental investment potential</li>
+          <li>Fixer-upper opportunities for hands-on buyers</li>
+        </ul>
+        <h3>Things to Keep in Mind</h3>
+        <ul>
+          <li>Less colonial atmosphere than other nearby towns</li>
+          <li>Smaller expat community — less English spoken</li>
+          <li>Not as scenic as San Pedro Las Huertas or Ciudad Vieja</li>
+          <li>Limited nightlife and entertainment options</li>
+        </ul>
+
+        <h2>Investment Potential</h2>
+        <p>Jocotenango is a smart play for investors who prioritize value and cash flow over aesthetics. The low entry prices combined with proximity to Antigua create an interesting opportunity for rental income, particularly for long-term rentals targeting local professionals.</p>
+        <p>As Antigua continues to grow and property prices rise, neighboring towns like Jocotenango are likely to benefit from spillover demand. Buying here now could mean significant appreciation over the coming years.</p>
+
+        <h2>Who Is Jocotenango Best For?</h2>
+        <ul>
+          <li><strong>Young families</strong> who need space and convenience at an affordable price</li>
+          <li><strong>First-time buyers</strong> who want to get on the property ladder near Antigua</li>
+          <li><strong>Rental investors</strong> looking for strong yields at low entry costs</li>
+          <li><strong>Budget-conscious buyers</strong> who want to be close to Antigua without paying centro prices</li>
+          <li><strong>People who value practicality</strong> over colonial charm</li>
+        </ul>
+
+        <h2>Frequently Asked Questions</h2>
+        {faqs.map(f => (
+          <div style="margin-bottom:24px;padding:24px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;margin-top:0;">{f.q}</h3>
+            <p style="margin:0;color:var(--color-text-secondary);line-height:1.7;">{f.a}</p>
+          </div>
+        ))}
+
+        <div style="text-align:center;margin-top:48px;padding:48px;background:#111;border-radius:16px;color:white;">
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;color:white;">Interested in Jocotenango?</h2>
+          <p style="opacity:0.8;margin-bottom:24px;max-width:480px;margin-left:auto;margin-right:auto;">I can help you find affordable properties with strong investment potential — just minutes from the heart of Antigua.</p>
+          <a href="/contact/" class="btn btn--primary">Get in Touch</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</BaseLayout>

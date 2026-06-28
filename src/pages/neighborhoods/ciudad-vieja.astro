@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const faqs = [
+  {q:'How far is Ciudad Vieja from Antigua?',a:'Ciudad Vieja is about 5 to 10 minutes by car from the center of Antigua Guatemala. It is one of the closest towns and very easy to get back and forth.'},
+  {q:'Is Ciudad Vieja safe?',a:'Yes, especially the newer gated communities which offer 24/7 security. Ciudad Vieja is generally considered safe and is popular with both local families and expats.'},
+  {q:'Do I need a car in Ciudad Vieja?',a:'A car is recommended. While the town center has shops and restaurants, most of the newer developments are a short drive from the main road. You will want a car for groceries, getting to Antigua, and daily errands.'},
+  {q:'What is the average property price?',a:'Ciudad Vieja offers excellent value compared to the Historic Center. You can find modern homes with more space and newer construction for significantly less than what you would pay in Antigua proper. Prices vary by development, but this is one of the best value areas in the region.'},
+  {q:'Are there good restaurants and shops nearby?',a:'Yes — Ciudad Vieja has a growing number of restaurants, and the Telares and El Encuentro shopping centers are nearby with supermarkets, restaurants, and services. The popular Cervecería Catorce brewery is also in the area.'},
+];
+const jsonLD = JSON.stringify({
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
+});
+---
+<BaseLayout title="Living in Ciudad Vieja | Antigua Guatemala Neighborhood Guide" description="Ciudad Vieja offers modern homes, gated communities, and great value — just minutes from Antigua Guatemala. Discover if this growing area is right for you.">
+  <script type="application/ld+json" set:html={jsonLD} />
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">Neighborhood Guide</div>
+      <h1 class="page-hero__title">Ciudad Vieja</h1>
+      <p class="page-hero__subtitle">More space, newer homes, better prices — and just minutes from Antigua. One of the fastest-growing areas for expats and families.</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div class="prose">
+
+        <h2>Why People Choose Ciudad Vieja</h2>
+        <p>If you love the charm of Antigua Guatemala but want more space, newer homes, and better value for your money, Ciudad Vieja is one of the most attractive options in the area. Just a few minutes south of the Historic Center, it has become one of the fastest-growing residential areas in the region — and for good reason.</p>
+        <p>Ciudad Vieja offers the best of both worlds: the peace and space of suburban living with easy access to everything Antigua has to offer. You get more house for your money, modern construction, and the kind of neighborhood feel that many expats are looking for.</p>
+
+        <h2>Lifestyle and Atmosphere</h2>
+        <p>Ciudad Vieja is quieter and more residential than the Historic Center. Think gated communities with tree-lined streets, families walking in the evenings, and a slower pace of life. It is not a tourist area — and many residents see that as a plus.</p>
+        <p>That said, it is far from boring. The area has seen a wave of new restaurants, cafés, and businesses opening in recent years. Cervecería Catorce, a popular local brewery, has become a gathering spot for both locals and expats. The Telares and El Encuentro shopping centers provide everyday conveniences including supermarkets, banks, and restaurants.</p>
+        <p>The community is a mix of Guatemalan families and a growing number of foreign residents who chose Ciudad Vieja for its value and quality of life.</p>
+
+        <h2>Property Types Available</h2>
+        <ul>
+          <li><strong>Modern gated communities</strong> — New construction with 24/7 security, shared green spaces, and community amenities</li>
+          <li><strong>Single-family homes</strong> — Larger lots than you will find in Antigua, often with gardens and parking</li>
+          <li><strong>New construction</strong> — Modern designs with open floor plans, updated kitchens, and energy-efficient features</li>
+          <li><strong>Building lots</strong> — Land available for custom construction at competitive prices</li>
+          <li><strong>Traditional homes</strong> — Older properties in the town center with authentic character</li>
+        </ul>
+
+        <h2>Nearby Amenities</h2>
+        <ul>
+          <li><strong>Shopping</strong> — Telares and El Encuentro shopping centers with supermarkets, pharmacies, and retail</li>
+          <li><strong>Dining</strong> — Growing restaurant scene including Cervecería Catorce brewery and local eateries</li>
+          <li><strong>Healthcare</strong> — Clinics in Ciudad Vieja, with major hospitals reachable in Antigua or Guatemala City</li>
+          <li><strong>Education</strong> — Several schools in the area, both local and bilingual options</li>
+          <li><strong>Daily errands</strong> — Banks, hardware stores, and local markets all within the town</li>
+        </ul>
+
+        <h2>Commute to Antigua Guatemala</h2>
+        <p>Ciudad Vieja is approximately 5 to 10 minutes from the center of Antigua by car. The road is well-maintained and the drive is straightforward. Many residents commute to Antigua daily for work, dining, or social activities without any hassle.</p>
+        <p>Tuk-tuks and Uber are also available for the trip if you prefer not to drive.</p>
+
+        <h2>Pros and Considerations</h2>
+        <h3>Advantages</h3>
+        <ul>
+          <li>Significantly more affordable than the Historic Center</li>
+          <li>Newer construction and modern gated communities</li>
+          <li>Larger lots with gardens and parking</li>
+          <li>24/7 security in most developments</li>
+          <li>Quiet, family-friendly atmosphere</li>
+          <li>Growing expat community</li>
+        </ul>
+        <h3>Things to Keep in Mind</h3>
+        <ul>
+          <li>A car is recommended for daily errands</li>
+          <li>Less walkable than the Historic Center</li>
+          <li>Fewer restaurants and nightlife options than Antigua proper</li>
+          <li>Less colonial character — more suburban feel</li>
+        </ul>
+
+        <h2>Investment Potential</h2>
+        <p>Ciudad Vieja is one of the best investment opportunities in the Antigua area. Property values have been rising steadily as more expats and local professionals discover the area. The combination of lower entry prices and strong demand makes it an attractive option for both rental income and long-term appreciation.</p>
+        <p>New gated communities continue to be developed, which is a sign of sustained demand. For investors who want growth potential without the premium price tag of the Historic Center, Ciudad Vieja is worth serious consideration.</p>
+
+        <h2>Who Is Ciudad Vieja Best For?</h2>
+        <ul>
+          <li><strong>Families</strong> who want more space, a garden, and a safe neighborhood</li>
+          <li><strong>Young professionals</strong> looking for modern homes at reasonable prices</li>
+          <li><strong>Buyers who want more house for their money</strong> — the value gap compared to Antigua is significant</li>
+          <li><strong>People who prefer a quieter lifestyle</strong> but still want easy access to the city</li>
+          <li><strong>Investors</strong> looking for growth potential in an up-and-coming area</li>
+        </ul>
+
+        <h2>Frequently Asked Questions</h2>
+        {faqs.map(f => (
+          <div style="margin-bottom:24px;padding:24px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;margin-top:0;">{f.q}</h3>
+            <p style="margin:0;color:var(--color-text-secondary);line-height:1.7;">{f.a}</p>
+          </div>
+        ))}
+
+        <div style="text-align:center;margin-top:48px;padding:48px;background:#111;border-radius:16px;color:white;">
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;color:white;">Interested in Ciudad Vieja?</h2>
+          <p style="opacity:0.8;margin-bottom:24px;max-width:480px;margin-left:auto;margin-right:auto;">I know the developments, the builders, and the market here. Let me help you find the right home or investment in Ciudad Vieja.</p>
+          <a href="/contact/" class="btn btn--primary">Get in Touch</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,107 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const faqs = [
+  {q:'Is the Historic Center safe for expats?',a:'Yes, the Historic Center is one of the safest areas in Guatemala. The constant tourist presence means there is a visible police and security presence. Like any popular destination, normal precautions apply — but most expats feel very comfortable walking around day and night.'},
+  {q:'Do I need a car if I live in the Historic Center?',a:'No — that is one of the biggest advantages. Everything is within walking distance: restaurants, grocery stores, pharmacies, banks, and entertainment. Many expats living in the centro rarely use a car.'},
+  {q:'What is the rental income potential?',a:'The Historic Center has the highest rental demand in the entire region. Well-located properties can generate strong Airbnb income year-round thanks to consistent tourist traffic, especially during peak season (November through April).'},
+  {q:'What types of properties are available?',a:'You will find colonial homes, renovated luxury properties, boutique hotels, and investment properties. Prices are the highest in the area, but so is the return on investment.'},
+];
+const jsonLD = JSON.stringify({
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
+});
+---
+<BaseLayout title="Living in Antigua Guatemala Historic Center | Neighborhood Guide" description="Everything you need to know about living in the Historic Center of Antigua Guatemala — lifestyle, property types, prices, and who it is best for.">
+  <script type="application/ld+json" set:html={jsonLD} />
+  <section class="page-hero">
+    <div class="container">
+      <div class="section-label">Neighborhood Guide</div>
+      <h1 class="page-hero__title">Antigua Guatemala Historic Center</h1>
+      <p class="page-hero__subtitle">The heart of colonial Guatemala — walk to everything, live the culture, and enjoy the most vibrant lifestyle in the region.</p>
+    </div>
+  </section>
+  <section class="content-section">
+    <div class="container">
+      <div class="prose">
+
+        <h2>Why People Choose the Historic Center</h2>
+        <p>If you have ever dreamed of stepping out your front door and being surrounded by cobblestone streets, colorful colonial facades, and the buzz of café culture — the Historic Center of Antigua Guatemala is where that dream becomes reality.</p>
+        <p>This is the most desirable and well-known area in the entire region. It is where tourists come to visit, where expats come to stay, and where investors see the strongest returns. Living here means you are at the center of everything — literally.</p>
+
+        <h2>Lifestyle and Atmosphere</h2>
+        <p>The Historic Center is lively, walkable, and endlessly interesting. You will find world-class restaurants, cozy coffee shops, art galleries, museums, and local markets all within a few blocks. The nightlife ranges from rooftop bars with volcano views to quiet wine bars tucked inside colonial courtyards.</p>
+        <p>The pace of life is relaxed but never boring. On any given day you might stumble upon a street festival, a live music performance, or a traditional procession weaving through the cobblestone streets. The three surrounding volcanoes — Agua, Fuego, and Acatenango — provide a dramatic backdrop to everyday life.</p>
+        <p>For digital nomads and remote workers, the internet infrastructure in the centro has improved significantly. Many cafés and co-working spaces offer reliable high-speed connections.</p>
+
+        <h2>Property Types Available</h2>
+        <ul>
+          <li><strong>Colonial homes</strong> — Traditional architecture with interior courtyards, high ceilings, and tile roofs</li>
+          <li><strong>Luxury renovated properties</strong> — Fully modernized colonial homes with contemporary finishes</li>
+          <li><strong>Boutique hotels and B&Bs</strong> — Turnkey investment properties with existing income</li>
+          <li><strong>Rooftop terraces</strong> — Many properties feature rooftop spaces with panoramic volcano views</li>
+          <li><strong>Investment properties</strong> — Commercial spaces and mixed-use buildings in prime locations</li>
+        </ul>
+
+        <h2>Nearby Amenities</h2>
+        <ul>
+          <li><strong>Restaurants and cafés</strong> — Hundreds of options from local street food to international fine dining</li>
+          <li><strong>Shopping</strong> — Local markets, artisan shops, and the Nim Pot market for handicrafts</li>
+          <li><strong>Healthcare</strong> — Several private clinics and pharmacies within walking distance</li>
+          <li><strong>Groceries</strong> — Local markets and small supermarkets in the centro; larger stores a short drive away</li>
+          <li><strong>Banks</strong> — Multiple bank branches and ATMs throughout the center</li>
+          <li><strong>Entertainment</strong> — Museums, galleries, movie theaters, and a vibrant nightlife scene</li>
+        </ul>
+
+        <h2>Commute and Getting Around</h2>
+        <p>That is the beauty of the Historic Center — there is no commute. You walk out your door and you are already there. For trips to nearby towns, tuk-tuks are available on every corner (typically Q5 to Q20 depending on distance) and Uber operates in the area.</p>
+        <p>Guatemala City and the international airport are about 45 minutes to 1 hour by car via the CA-9 highway.</p>
+
+        <h2>Pros and Considerations</h2>
+        <h3>Advantages</h3>
+        <ul>
+          <li>Fully walkable — no car required</li>
+          <li>Highest rental demand in the region (strong Airbnb potential)</li>
+          <li>Rich cultural life and constant activity</li>
+          <li>Established expat community</li>
+          <li>Best restaurant and nightlife scene in the area</li>
+        </ul>
+        <h3>Things to Keep in Mind</h3>
+        <ul>
+          <li>Highest property prices in the Antigua area</li>
+          <li>Limited parking — most colonial homes do not have garages</li>
+          <li>Weekends and holidays can be crowded with tourists</li>
+          <li>Noise levels can be higher, especially during festivals</li>
+        </ul>
+
+        <h2>Investment Potential</h2>
+        <p>The Historic Center offers the strongest investment fundamentals in the Antigua region. Property values have shown consistent appreciation, and rental demand remains high year-round. Well-located properties in the centro can generate significant Airbnb income — particularly those with rooftop terraces, volcano views, or colonial charm.</p>
+        <p>For investors looking at both appreciation and cash flow, the Historic Center is hard to beat.</p>
+
+        <h2>Who Is the Historic Center Best For?</h2>
+        <ul>
+          <li><strong>Retirees</strong> who want a walkable, culturally rich lifestyle</li>
+          <li><strong>Digital nomads</strong> who value café culture and community</li>
+          <li><strong>Airbnb investors</strong> looking for the highest rental returns</li>
+          <li><strong>Luxury buyers</strong> who want the best address in Antigua</li>
+          <li><strong>Couples and singles</strong> who enjoy an active social life</li>
+        </ul>
+
+        <h2>Frequently Asked Questions</h2>
+        {faqs.map(f => (
+          <div style="margin-bottom:24px;padding:24px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+            <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;margin-top:0;">{f.q}</h3>
+            <p style="margin:0;color:var(--color-text-secondary);line-height:1.7;">{f.a}</p>
+          </div>
+        ))}
+
+        <div style="text-align:center;margin-top:48px;padding:48px;background:#111;border-radius:16px;color:white;">
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;color:white;">Interested in the Historic Center?</h2>
+          <p style="opacity:0.8;margin-bottom:24px;max-width:480px;margin-left:auto;margin-right:auto;">I can help you find the right property in the heart of Antigua — whether you are looking for a home, an investment, or a place to retire.</p>
+          <a href="/contact/" class="btn btn--primary">Get in Touch</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+</BaseLayout>
