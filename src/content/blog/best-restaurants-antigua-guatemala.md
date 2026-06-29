@@ -2,7 +2,7 @@
 title: "Best Restaurants in Antigua Guatemala: A Local Food Guide"
 tag: "Lifestyle"
 excerpt: "Discover the best restaurants in Antigua Guatemala, from traditional Guatemalan cuisine to international fine dining. A local expat's guide to eating well."
-image: "/images/blog/antigua-street-scene-2004.jpg"
+image: "/images/blog/ai-generated/antigua-breakfast-terrace.png"
 alt: "Colorful street scene in Antigua Guatemala with restaurants and cafes"
 date: 2026-06-29
 ---
