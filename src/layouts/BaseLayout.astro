@@ -15,6 +15,7 @@ const canonicalURL = canonical || Astro.url.href;
 const switchPath = getOppositeLocalePath(Astro.url);
 const switchLabel = locale === 'en' ? 'ES' : 'EN';
 const whatsappMsg = encodeURIComponent(t.whatsappMessage);
+const imageSrc = image.startsWith('http') ? image : `https://antiguarealestatedevelopment.com${image}`;
 ---
 <!DOCTYPE html>
 <html lang={locale}>
@@ -30,7 +31,7 @@ const whatsappMsg = encodeURIComponent(t.whatsappMessage);
   <meta property="og:description" content={description}>
   <meta property="og:url" content={canonicalURL}>
   <meta property="og:site_name" content="Antigua Real Estate Development">
-  <meta property="og:image" content={image}>
+  <meta property="og:image" content={imageSrc}>
   <meta property="og:locale" content={locale === 'es' ? 'es_GT' : 'en_US'}>
   {locale === 'en' && <meta property="og:locale:alternate" content="es_GT" />}
   {locale === 'es' && <meta property="og:locale:alternate" content="en_US" />}
