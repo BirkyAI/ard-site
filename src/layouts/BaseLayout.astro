@@ -1,5 +1,6 @@
 ---
 import { getTranslation, getLocaleFromUrl, getOppositeLocalePath, type Locale } from '../i18n';
+import Analytics from '@vercel/analytics/astro';
 
 export interface Props {
   title: string;
@@ -124,5 +125,6 @@ const imageSrc = image.startsWith('http') ? image : `https://antiguarealestatede
   </footer>
 
   <a href={`https://wa.me/502XXXXXXXX?text=${whatsappMsg}`} class="whatsapp-fab" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">WA</a>
+  <Analytics />
 </body>
 </html>
