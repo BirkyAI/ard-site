@@ -45,7 +45,7 @@ const imageSrc = image.startsWith('http') ? image : `https://antiguarealestatede
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/styles/global.css">
   <link rel="alternate" hreflang="en" href={`https://antiguarealestatedevelopment.com${locale === 'es' ? switchPath : Astro.url.pathname}`} />
-  <link rel="alternate" hreflang="es" href={`https://antiguarealestatedevelopment.com/es${locale === 'es' ? Astro.url.pathname : Astro.url.pathname}`} />
+  <link rel="alternate" hreflang="es" href={`https://antiguarealestatedevelopment.com${locale === 'es' ? Astro.url.pathname : switchPath}`} />
 </head>
 <body>
   <header class="header">

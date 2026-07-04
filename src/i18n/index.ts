@@ -18,12 +18,22 @@ export function getLocalizedPath(path: string, locale: Locale): string {
 export function getOppositeLocalePath(url: URL): string {
   const locale = getLocaleFromUrl(url);
   const pathname = url.pathname;
+
   if (locale === 'es') {
     // Remove /es prefix
-    const clean = pathname.replace(/^\/es/, '') || '/';
+    let clean = pathname.replace(/^\/es/, '') || '/';
+    // Remove -es suffix from slugs for properties and blog posts
+    clean = clean.replace(/-es\/$/, '/');
     return clean;
   }
-  // Add /es prefix
+
+  // Switching EN → ES: add /es prefix and -es suffix for properties/blog
+  if (pathname.match(/^\/(properties|blog)\//) && pathname !== '/properties/' && pathname !== '/blog/') {
+    // Add -es before the trailing slash
+    const esPath = pathname.replace(/\/$/, '-es/');
+    return `/es${esPath}`;
+  }
+
   return `/es${pathname}`;
 }
 
