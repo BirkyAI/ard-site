@@ -9,7 +9,7 @@ const rentalsOrder = ['rental-barrios-coloniales-es', 'rental-barrios-coloniales
 const rentalsRaw = properties.filter(p => p.data.type === 'rental');
 const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).filter(Boolean), ...rentalsRaw.filter(p => !rentalsOrder.includes(p.id))];
 ---
-<BaseLayout locale="es" title="Propiedades en Venta y Renta en Antigua Guatemala | Antigua Real Estate Development" description="Explora casas coloniales, terrenos, propiedades de inversión y alquileres en Antigua Guatemala. Asesoría experta para extranjeros y compradores internacionales.">
+<BaseLayout locale="es" title="Propiedades en Venta y Renta en Antigua Guatemala | Antigua Real Estate Development" description="Explora casas coloniales, terrenos, propiedades de inversión y alquileres en Antigua Guatemala. Asesoría experta para extranjeros y compradores internacionales." image="/images/properties/casas-massima-reforma/casas-massima-reforma-1.jpg">
   <section class="page-hero">
     <div class="container">
       <div class="section-label">{t.properties.label}</div>

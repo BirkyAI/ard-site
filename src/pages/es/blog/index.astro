@@ -5,7 +5,7 @@ import { getTranslation } from '../../../i18n';
 const t = getTranslation('es');
 const posts = (await getCollection('blog')).filter(p => p.data.lang === 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 ---
-<BaseLayout locale="es" title="Blog de Inmobiliaria en Antigua Guatemala | Antigua Real Estate Development" description="Perspectivas expertas sobre reubicación, inversión y vida en Antigua Guatemala. Consejos inmobiliarios y asesoría para extranjeros.">
+<BaseLayout locale="es" title="Blog de Inmobiliaria en Antigua Guatemala | Antigua Real Estate Development" description="Perspectivas expertas sobre reubicación, inversión y vida en Antigua Guatemala. Consejos inmobiliarios y asesoría para extranjeros." image="/images/blog/ai-generated/antigua-courtyard-fountain.png">
   <section class="page-hero">
     <div class="container">
       <div class="section-label">{t.blog.label}</div>
