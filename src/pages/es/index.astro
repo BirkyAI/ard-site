@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 import { getTranslation } from '../../i18n';
 const t = getTranslation('es');
 const allProperties = await getCollection('properties');
-const featuredOrder = ['rental-barrios-coloniales-es', 'casas-massima-reforma-es', 'rental-barrios-coloniales-unfurnished-es'];
+const featuredOrder = ['rental-barrios-coloniales-es', 'los-apostoles-es', 'casas-massima-reforma-es'];
 const featured = featuredOrder.map(id => allProperties.find(p => p.id === id && p.data.lang === 'es' && !p.data.hidden)).filter(Boolean);
 const allBlog = await getCollection('blog');
 const recentBlog = allBlog.filter(p => p.data.lang === 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
@@ -59,7 +59,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
               <div class="property-card__details">
                 {p.data.beds && <span>{p.data.beds} {t.labels.beds}</span>}
                 {p.data.baths && <span>{p.data.baths} {t.labels.baths}</span>}
-                {p.data.area && <span>{p.data.area}</span>}
+                {p.data.area && p.data.area !== 'N/A' && <span>{p.data.area}</span>}
               </div>
               <div class="property-card__price">{p.data.priceLabel || `$${p.data.price.toLocaleString()}`}</div>
             </div>

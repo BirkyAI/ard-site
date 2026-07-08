@@ -1,0 +1,51 @@
+{
+  "description": "AI-generated blog images for Antigua Real Estate Development website. Soft lighting, warm golden tones, dreamy atmosphere. SDXL on Mac Mini M4 via ComfyUI.",
+  "model": "sd_xl_base_1.0.safetensors",
+  "settings": {
+    "steps": 20,
+    "cfg": 7.5,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "width": 1216,
+    "height": 832
+  },
+  "negative_prompt_base": "dark, harsh shadows, night, overcast, grey, desaturated, blurry, low quality, distorted",
+  "images": {
+    "batch_01_test": [
+      {"name": "antigua-ai-test-01", "topic": "General colonial architecture"},
+      {"name": "antigua-ai-volcano-view", "topic": "Volcano views, landscape"},
+      {"name": "antigua-ai-la-merced", "topic": "La Merced church, landmarks"},
+      {"name": "antigua-ai-street-scene", "topic": "Street scenes, bougainvillea"},
+      {"name": "antigua-ai-courtyard", "topic": "Courtyard homes, interiors"}
+    ],
+    "batch_02_extended": [
+      {"name": "antigua-market-scene", "topic": "Markets, local life, shopping"},
+      {"name": "antigua-rooftop-view", "topic": "Properties with views, rooftop terraces"},
+      {"name": "antigua-arch-sunset", "topic": "Iconic landmarks, Santa Catalina Arch"},
+      {"name": "antigua-garden-pool", "topic": "Luxury homes, gardens, pools"},
+      {"name": "antigua-church-interior", "topic": "Churches, interiors, culture"},
+      {"name": "antigua-coffee-farm", "topic": "Coffee country, rural properties"},
+      {"name": "antigua-volcano-sunset", "topic": "Volcano views, dramatic scenery"},
+      {"name": "antigua-cobblestone-street", "topic": "Street scenes, walking tours"},
+      {"name": "antigua-courtyard-fountain", "topic": "Courtyard homes, colonial interiors"},
+      {"name": "antigua-volcano-panorama", "topic": "Panoramic views, valley properties"},
+      {"name": "antigua-breakfast-terrace", "topic": "Lifestyle, food, expat living"},
+      {"name": "antigua-hacienda-exterior", "topic": "Colonial homes, haciendas, listings"},
+      {"name": "antigua-textile-market", "topic": "Culture, textiles, local markets"},
+      {"name": "antigua-park-scene", "topic": "Parks, community, central Antigua"},
+      {"name": "antigua-night-glow", "topic": "Nightlife, dining, evening atmosphere"}
+    ]
+  },
+  "generation": {
+    "comfyui_dir": "/Users/macminim4/Documents/comfy/ComfyUI",
+    "output_dir": "/Users/macminim4/websites/ard-site/public/images/blog/ai-generated",
+    "launch_command": "cd /Users/macminim4/Documents/comfy/ComfyUI && python3.11 main.py --listen 127.0.0.1 --port 8188 --force-fp16",
+    "batch_script": "/Users/macminim4/websites/ard-site/public/images/blog/ai-generated/generate_batch.py",
+    "note": "ComfyUI does NOT auto-start. Must be launched before generating. Shut down after batch to save resources."
+  },
+  "usage": {
+    "blog": "Pre-generated pool in ai-generated/. Blog cron picks unused images from this pool. No need to run ComfyUI at cron time.",
+    "social": "Resize to 1080x1080 for Instagram, 1200x630 for X/Twitter.",
+    "gbp": "Use as hero image for Google Business Profile posts."
+  }
+}

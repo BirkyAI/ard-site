@@ -5,7 +5,7 @@ price: 1100
 priceLabel: "$1,100/month"
 beds: 4
 baths: 3
-area: "N/A"
+
 type: "rental"
 status: "For Rent"
 badge: "For Rent"

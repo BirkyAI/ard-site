@@ -5,7 +5,7 @@ price: 1000
 priceLabel: "$1,000/mes"
 beds: 3
 baths: 2
-area: "N/A"
+
 type: "rental"
 status: "En Renta"
 badge: "En Renta"

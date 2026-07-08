@@ -39,7 +39,7 @@ const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).fi
                 <div class="property-card__details">
                   {p.data.beds && <span>{p.data.beds} {t.labels.beds}</span>}
                   {p.data.baths && <span>{p.data.baths} {t.labels.baths}</span>}
-                  {p.data.area && <span>{p.data.area}</span>}
+                  {p.data.area && p.data.area !== 'N/A' && <span>{p.data.area}</span>}
                 </div>
                 <div class="property-card__price">{p.data.priceLabel || `$${p.data.price.toLocaleString()}${t.labels.month}`}</div>
               </div>
@@ -70,7 +70,7 @@ const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).fi
               <div class="property-card__details">
                 {p.data.beds && <span>{p.data.beds} {t.labels.beds}</span>}
                 {p.data.baths && <span>{p.data.baths} {t.labels.baths}</span>}
-                {p.data.area && <span>{p.data.area}</span>}
+                {p.data.area && p.data.area !== 'N/A' && <span>{p.data.area}</span>}
               </div>
               <div class="property-card__price">${p.data.price.toLocaleString()}</div>
             </div>
