@@ -105,15 +105,17 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
         <p class="section-subtitle">Real experiences from expats and families who found their home in Antigua Guatemala with our help.</p>
       </div>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;margin-bottom:32px;">
-        <div style="border-radius:16px;overflow:hidden;box-shadow:var(--shadow-md);transition:transform 0.3s;">
-          <img src="/images/reviews/1-1.jpg" alt="Client review - Antigua Real Estate Development" loading="lazy" style="width:100%;height:auto;display:block;">
-        </div>
-        <div style="border-radius:16px;overflow:hidden;box-shadow:var(--shadow-md);transition:transform 0.3s;">
-          <img src="/images/reviews/2-1.jpg" alt="Client review - Antigua Real Estate Development" loading="lazy" style="width:100%;height:auto;display:block;">
-        </div>
-        <div style="border-radius:16px;overflow:hidden;box-shadow:var(--shadow-md);transition:transform 0.3s;">
-          <img src="/images/reviews/3-1.jpg" alt="Client review - Antigua Real Estate Development" loading="lazy" style="width:100%;height:auto;display:block;">
-        </div>
+        {[
+          {stars:'⭐⭐⭐⭐⭐',text:'We had an outstanding experience with Luna Jerney and would not hesitate to recommend her to anyone looking to buy a home.',name:'Kelsie C.'},
+          {stars:'⭐⭐⭐⭐⭐',text:'Luna made our move to Antigua completely stress-free. She took the time to understand what we needed, showed us the best neighborhoods, and found us the perfect rental before we even arrived. We could not have done it without her!',name:'Eva & Victor'},
+          {stars:'⭐⭐⭐⭐⭐',text:'After 34 years living in the United States, coming back to Guatemala felt overwhelming. Luna guided us through every step with patience and honesty. She found us our dream home in Antigua and now we are finally living the life we always imagined.',name:'Manuel & Angeles'},
+        ].map(review => (
+          <div style="border-radius:16px;padding:32px;background:white;box-shadow:var(--shadow-md);border:1px solid var(--color-border);display:flex;flex-direction:column;gap:16px;">
+            <div style="font-size:16px;letter-spacing:2px;">{review.stars}</div>
+            <p style="font-size:15px;line-height:1.7;color:var(--color-text-secondary);flex:1;">"{review.text}"</p>
+            <div style="font-size:14px;font-weight:600;">— {review.name}</div>
+          </div>
+        ))}
       </div>
       <div style="text-align:center;">
         <a href="https://share.google/kvtD4Km0AsmhNFZD6" class="btn btn--dark" target="_blank" rel="noopener">⭐ Leave a Review on Google</a>
