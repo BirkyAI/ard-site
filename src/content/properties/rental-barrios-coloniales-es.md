@@ -1,8 +1,8 @@
 ---
 title: "Casa Amueblada de 4 Hab. en Comunidad Cerrada — San Pedro Las Huertas"
 location: "San Pedro Las Huertas, Condominio Barrios Coloniales"
-price: 1100
-priceLabel: "$1,100/mes"
+price: 1000
+priceLabel: "$1,000/mes"
 beds: 4
 baths: 3
 
@@ -61,7 +61,7 @@ Hermosa casa amueblada de 4 recámaras en **Condominio Barrios Coloniales**, una
 ### Términos del Contrato
 
 - 📝 Contrato de 1 año con opción de extensión
-- 🏷️ **$1,100/mes** — incluye cuota de mantenimiento del condominio
+- 🏷️ **$1,000/mes** — incluye cuota de mantenimiento del condominio
 - 💵 Se requiere un mes de depósito de renta
 
 ### ¿Por Qué San Pedro Las Huertas?

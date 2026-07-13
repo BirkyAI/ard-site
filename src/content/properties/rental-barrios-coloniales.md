@@ -1,8 +1,8 @@
 ---
 title: "4BR Furnished Rental in Gated Community — San Pedro Las Huertas"
 location: "San Pedro Las Huertas, Condominio Barrios Coloniales"
-price: 1100
-priceLabel: "$1,100/month"
+price: 1000
+priceLabel: "$1,000/month"
 beds: 4
 baths: 3
 
@@ -60,7 +60,7 @@ Beautiful fully furnished 4-bedroom home in **Condominio Barrios Coloniales**, a
 ### Lease Terms
 
 - 📝 1-year contract with option to extend
-- 🏷️ **$1,100/month** — includes condominium maintenance fee
+- 🏷️ **$1,000/month** — includes condominium maintenance fee
 - 💵 One month rent deposit required
 
 ### Why San Pedro Las Huertas?

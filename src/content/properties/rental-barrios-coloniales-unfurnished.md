@@ -1,8 +1,8 @@
 ---
 title: "3BR Unfurnished Rental in Gated Community — San Pedro Las Huertas"
 location: "San Pedro Las Huertas, Condominio Barrios Coloniales"
-price: 1000
-priceLabel: "$1,000/month"
+price: 900
+priceLabel: "$900/month"
 beds: 3
 baths: 2
 
@@ -61,7 +61,7 @@ A great unfurnished 3-bedroom home available in **Condominio Barrios Coloniales*
 ### Lease Terms
 
 - 📝 1-year contract with option to extend
-- 🏷️ **$1,000/month** — includes condominium maintenance fee
+- 🏷️ **$900/month** — includes condominium maintenance fee
 - 💵 One month rent deposit required
 
 ### Why San Pedro Las Huertas?

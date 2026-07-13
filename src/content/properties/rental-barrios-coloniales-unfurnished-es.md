@@ -1,8 +1,8 @@
 ---
 title: "Casa de 3 Hab. Sin Amueblar en Comunidad Cerrada — San Pedro Las Huertas"
 location: "San Pedro Las Huertas, Condominio Barrios Coloniales"
-price: 1000
-priceLabel: "$1,000/mes"
+price: 900
+priceLabel: "$900/mes"
 beds: 3
 baths: 2
 
@@ -62,7 +62,7 @@ Una excelente casa sin amueblar de 3 recámaras disponible en **Condominio Barri
 ### Términos del Contrato
 
 - 📝 Contrato de 1 año con opción de extensión
-- 🏷️ **$1,000/mes** — incluye cuota de mantenimiento del condominio
+- 🏷️ **$900/mes** — incluye cuota de mantenimiento del condominio
 - 💵 Se requiere un mes de depósito de renta
 
 ### ¿Por Qué San Pedro Las Huertas?
