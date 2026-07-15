@@ -12,6 +12,7 @@ const properties = defineCollection({
     area: z.string().optional(),
     status: z.string().default('For Sale'),
     badge: z.string().default('For Sale'),
+    description: z.string().optional(),
     image: z.string(),
     alt: z.string(),
     featured: z.boolean().default(false),

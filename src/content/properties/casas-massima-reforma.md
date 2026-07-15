@@ -7,6 +7,7 @@ baths: 4
 area: "409m² construction on 1,000m² lot"
 status: "Pre-Construction"
 badge: "Pre-Construction"
+description: "Luxury 4-bedroom, 4-bathroom home with 409m² of construction on a 1,000m² lot. Double-height ceilings, fireplace, modern design, and premium finishes in Jardines de Antigua."
 image: "/images/properties/casas-massima-reforma/casas-massima-reforma-1.jpg"
 alt: "Luxury modern home with double-height ceilings and fireplace for sale in Jardines de Antigua Guatemala"
 featured: true

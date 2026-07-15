@@ -42,7 +42,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
   <section style="padding:64px 0;background:#0a0a0a;color:white;position:relative;overflow:hidden;">
     <div class="container" style="position:relative;z-index:1;">
       <div class="section-header">
-        <div class="section-label" style="color:#818cf8;">Featured Listings</div>
+        <div class="section-label" style="color:white;">Featured Listings</div>
         <h2 class="section-title">Properties in Antigua Guatemala</h2>
         <p class="section-subtitle" style="color:rgba(255,255,255,0.7);">Handpicked colonial homes, modern apartments, land, and rentals in and around Antigua.</p>
       </div>
@@ -51,11 +51,12 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
           <a href={`/properties/${p.id}/`} class="property-card">
             <div class="property-card__image">
               <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">
-              <div class="property-card__badge" style={p.data.type === 'rental' ? 'background:#16a34a;' : ''}>{p.data.badge}</div>
+              <div class="property-card__badge" style={`${p.data.type === 'rental' ? 'background:#16a34a;color:white;' : ''}`}>{p.data.badge}</div>
             </div>
             <div class="property-card__content">
               <div class="property-card__location">{p.data.location}</div>
               <h3 class="property-card__title">{p.data.title}</h3>
+              {p.data.description && <p style="font-size:13px;color:rgba(255,255,255,0.6);line-height:1.5;margin-bottom:12px;">{p.data.description}</p>}
               <div class="property-card__details">
                 {p.data.beds && <span>{p.data.beds} Beds</span>}
                 {p.data.baths && <span>{p.data.baths} Baths</span>}
@@ -74,7 +75,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
   <section style="padding:64px 0;background:#0a0a0a;color:white;position:relative;overflow:hidden;">
     <div class="container" style="position:relative;z-index:1;">
       <div class="section-header">
-        <div class="section-label" style="color:#818cf8;">Why Antigua Guatemala</div>
+        <div class="section-label" style="color:white;">Why Antigua Guatemala</div>
         <h2 class="section-title">The Best Place to Live in Central America</h2>
       </div>
       <div class="grid-3">
@@ -100,7 +101,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
   <section style="padding:64px 0;background:#0a0a0a;color:white;position:relative;overflow:hidden;">
     <div class="container" style="position:relative;z-index:1;">
       <div class="section-header">
-        <div class="section-label" style="color:#818cf8;">Client Reviews</div>
+        <div class="section-label" style="color:white;">Client Reviews</div>
         <h2 class="section-title">What Our Clients Say</h2>
         <p class="section-subtitle" style="color:rgba(255,255,255,0.7);">Real experiences from expats and families who found their home in Antigua Guatemala with our help.</p>
       </div>
@@ -151,7 +152,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
     <section style="padding:64px 0;background:#0a0a0a;color:white;position:relative;overflow:hidden;">
         <div class="container" style="position:relative;z-index:1;">
         <div class="section-header">
-          <div class="section-label" style="color:#818cf8;">From the Blog</div>
+          <div class="section-label" style="color:white;">From the Blog</div>
           <h2 class="section-title">Antigua Guatemala Living & Real Estate</h2>
         </div>
         <div class="grid-3">
