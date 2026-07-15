@@ -34,11 +34,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   </section>
 
   <!-- WHY THIS IS DIFFERENT -->
-  <section style="padding:80px 0;">
-    <div class="container" style="max-width:720px;text-align:center;">
-      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:var(--color-text-muted);margin-bottom:16px;">Why This Is Different</div>
+  <section style="padding:80px 0;background:linear-gradient(135deg,#0a0a0a 0%,#1a0f2e 40%,#2d1b4e 70%,#0a0a0a 100%);color:white;position:relative;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:radial-gradient(circle at 20% 50%,rgba(99,102,241,0.1),transparent 50%),radial-gradient(circle at 80% 50%,rgba(236,72,153,0.06),transparent 50%);"></div>
+    <div class="container" style="max-width:720px;text-align:center;position:relative;z-index:1;">
+      <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:#818cf8;margin-bottom:16px;">Why This Is Different</div>
       <h2 style="font-size:clamp(24px,4vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:24px;">This Is Not ChatGPT. This Is a Digital Employee.</h2>
-      <p style="font-size:17px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:48px;">ChatGPT is a website you visit. This is a fully autonomous AI agent that lives on YOUR computer, connected to YOUR email, YOUR files, and YOUR workflows — running 24/7 in the background.</p>
+      <p style="font-size:17px;color:rgba(255,255,255,0.7);line-height:1.7;margin-bottom:48px;">ChatGPT is a website you visit. This is a fully autonomous AI agent that lives on YOUR computer, connected to YOUR email, YOUR files, and YOUR workflows — running 24/7 in the background.</p>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;text-align:left;">
         {[
           {icon:'📧',text:'Reads AND sends emails directly from YOUR inbox — drafts, follow-ups, and client responses in your voice, ready to send with one tap'},
@@ -48,9 +49,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           {icon:'📊',text:'Your Notion CRM, tasks, and pipeline — all controlled by voice from Telegram. Manage your entire business from your phone'},
           {icon:'🔒',text:'All data stays on YOUR machine. Runs 24/7 in the background. Remembers everything. Hours of admin work, handled automatically'},
         ].map(item => (
-          <div style="display:flex;gap:12px;padding:18px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+          <div style="display:flex;gap:12px;padding:18px;background:rgba(255,255,255,0.05);border-radius:12px;border:1px solid rgba(255,255,255,0.1);">
             <span style="font-size:24px;">{item.icon}</span>
-            <p style="font-size:14px;line-height:1.6;color:var(--color-text-secondary);margin:0;">{item.text}</p>
+            <p style="font-size:14px;line-height:1.6;color:rgba(255,255,255,0.7);margin:0;">{item.text}</p>
           </div>
         ))}
       </div>
@@ -81,12 +82,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   </section>
 
   <!-- WHAT IT DOES -->
-  <section style="padding:80px 0;">
-    <div class="container">
+  <section style="padding:80px 0;background:linear-gradient(135deg,#0a0a0a 0%,#1a0f2e 40%,#2d1b4e 70%,#0a0a0a 100%);color:white;position:relative;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:radial-gradient(circle at 20% 50%,rgba(99,102,241,0.1),transparent 50%),radial-gradient(circle at 80% 50%,rgba(236,72,153,0.06),transparent 50%);"></div>
+    <div class="container" style="position:relative;z-index:1;">
       <div class="section-header">
-        <div class="section-label">What It Does</div>
+        <div class="section-label" style="color:#818cf8;">What It Does</div>
         <h2 class="section-title">Everything a VA Does. Faster. Cheaper. 24/7.</h2>
-        <p class="section-subtitle">Your AI assistant handles the busywork so you can focus on closing deals.</p>
+        <p class="section-subtitle" style="color:rgba(255,255,255,0.7);">Your AI assistant handles the busywork so you can focus on closing deals.</p>
       </div>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;">
         {[
@@ -97,10 +99,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           {icon:'📱',title:'Social Media and Google Business',desc:'Weekly GBP posts, social media captions, and content — all optimized for AI search engines (ChatGPT, Perplexity, Google AI). You are light years ahead of the competition.',color:'#f59e0b'},
           {icon:'📊',title:'Notion CRM and Task Management',desc:'Your entire CRM, tasks, and pipeline — controlled from Telegram. Update leads, manage tasks, track deals from a voice message at the park. Hours of admin, handled.',color:'#8b5cf6'},
         ].map(item => (
-          <div style={`padding:28px;background:white;border-radius:16px;border:1px solid var(--color-border);box-shadow:0 1px 3px rgba(0,0,0,0.04);border-top:3px solid ${item.color};`}>
-            <div style={`font-size:36px;margin-bottom:16px;width:56px;height:56px;background:${item.color}15;border-radius:14px;display:flex;align-items:center;justify-content:center;`}>{item.icon}</div>
+          <div style={`padding:28px;background:rgba(255,255,255,0.05);border-radius:16px;border:1px solid rgba(255,255,255,0.1);border-top:3px solid ${item.color};`}>
+            <div style={`font-size:36px;margin-bottom:16px;width:56px;height:56px;background:${item.color}20;border-radius:14px;display:flex;align-items:center;justify-content:center;`}>{item.icon}</div>
             <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;">{item.title}</h3>
-            <p style="font-size:14px;color:var(--color-text-secondary);line-height:1.7;margin:0;">{item.desc}</p>
+            <p style="font-size:14px;color:rgba(255,255,255,0.7);line-height:1.7;margin:0;">{item.desc}</p>
           </div>
         ))}
       </div>
@@ -134,10 +136,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   </section>
 
   <!-- WHATS INCLUDED -->
-  <section style="padding:80px 0;">
-    <div class="container" style="max-width:720px;">
+  <section style="padding:80px 0;background:linear-gradient(135deg,#0a0a0a 0%,#1a0f2e 40%,#2d1b4e 70%,#0a0a0a 100%);color:white;position:relative;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:radial-gradient(circle at 20% 50%,rgba(99,102,241,0.1),transparent 50%),radial-gradient(circle at 80% 50%,rgba(236,72,153,0.06),transparent 50%);"></div>
+    <div class="container" style="max-width:720px;position:relative;z-index:1;">
       <div class="section-header">
-        <div class="section-label">What's Included</div>
+        <div class="section-label" style="color:#818cf8;">What's Included</div>
         <h2 class="section-title">Everything You Need. Nothing You Don't.</h2>
       </div>
       <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
@@ -153,11 +156,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           {icon:'⏰',name:'Automated Tasks',desc:'Cron jobs for daily blogs, weekly posts, and reminders',color:'#06b6d4'},
           {icon:'📞',name:'30 Days Free Support',desc:'Priority help via WhatsApp for any questions',color:'#16a34a'},
         ].map(item => (
-          <div style={`display:flex;gap:12px;padding:16px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);`}>
-            <span style={`font-size:24px;width:44px;height:44px;background:${item.color}15;border-radius:10px;display:flex;align-items:center;justify-content:center;flex-shrink:0;`}>{item.icon}</span>
+          <div style={`display:flex;gap:12px;padding:16px;background:rgba(255,255,255,0.05);border-radius:12px;border:1px solid rgba(255,255,255,0.1);`}>
+            <span style={`font-size:24px;width:44px;height:44px;background:${item.color}20;border-radius:10px;display:flex;align-items:center;justify-content:center;flex-shrink:0;`}>{item.icon}</span>
             <div>
               <div style="font-weight:600;font-size:15px;margin-bottom:2px;">{item.name}</div>
-              <div style="font-size:13px;color:var(--color-text-secondary);">{item.desc}</div>
+              <div style="font-size:13px;color:rgba(255,255,255,0.6);">{item.desc}</div>
             </div>
           </div>
         ))}
@@ -189,14 +192,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   </section>
 
   <!-- VS OTHER OPTIONS -->
-  <section style="padding:80px 0;">
-    <div class="container" style="max-width:720px;">
+  <section style="padding:80px 0;background:linear-gradient(135deg,#0a0a0a 0%,#1a0f2e 40%,#2d1b4e 70%,#0a0a0a 100%);color:white;position:relative;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:radial-gradient(circle at 20% 50%,rgba(99,102,241,0.1),transparent 50%),radial-gradient(circle at 80% 50%,rgba(236,72,153,0.06),transparent 50%);"></div>
+    <div class="container" style="max-width:720px;position:relative;z-index:1;">
       <div class="section-header">
-        <div class="section-label">Compare</div>
+        <div class="section-label" style="color:#818cf8;">Compare</div>
         <h2 class="section-title">How This Compares</h2>
       </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:0;border-radius:16px;overflow:hidden;border:1px solid var(--color-border);">
-        <div style="padding:28px 20px;background:var(--color-surface);border-right:1px solid var(--color-border);">
+      <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:0;border-radius:16px;overflow:hidden;border:1px solid rgba(255,255,255,0.1);">
+        <div style="padding:28px 20px;background:linear-gradient(135deg,rgba(99,102,241,0.15),rgba(236,72,153,0.1));border-right:1px solid rgba(255,255,255,0.1);">
           <h3 style="font-size:15px;font-weight:700;margin-bottom:16px;text-align:center;">🤖 AI Assistant<br><span style="font-weight:400;font-size:13px;opacity:0.6;">$500 once</span></h3>
           {[
             'Accesses your real email',
@@ -210,7 +214,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             <div style="display:flex;align-items:center;gap:8px;padding:6px 0;font-size:13px;"><span style="color:#16a34a;">✓</span> {item}</div>
           ))}
         </div>
-        <div style="padding:28px 20px;background:white;border-right:1px solid var(--color-border);">
+        <div style="padding:28px 20px;background:rgba(255,255,255,0.03);border-right:1px solid rgba(255,255,255,0.1);">
           <h3 style="font-size:15px;font-weight:700;margin-bottom:16px;text-align:center;">👩‍💼 Human VA<br><span style="font-weight:400;font-size:13px;opacity:0.6;">$1,000+/mo</span></h3>
           {[
             'Accesses your email',
@@ -224,7 +228,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             <div style="display:flex;align-items:center;gap:8px;padding:6px 0;font-size:13px;"><span style="opacity:0.5;">~</span> {item}</div>
           ))}
         </div>
-        <div style="padding:28px 20px;background:white;">
+        <div style="padding:28px 20px;background:rgba(255,255,255,0.03);">
           <h3 style="font-size:15px;font-weight:700;margin-bottom:16px;text-align:center;">💬 ChatGPT<br><span style="font-weight:400;font-size:13px;opacity:0.6;">$20/mo</span></h3>
           {[
             'No email access',
@@ -235,7 +239,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             'Monthly cost forever',
             'Manual copy-paste workflow',
           ].map(item => (
-            <div style="display:flex;align-items:center;gap:8px;padding:6px 0;font-size:13px;color:var(--color-text-muted);"><span style="color:#dc2626;">✗</span> {item}</div>
+            <div style="display:flex;align-items:center;gap:8px;padding:6px 0;font-size:13px;color:rgba(255,255,255,0.5);"><span style="color:#dc2626;">✗</span> {item}</div>
           ))}
         </div>
       </div>
@@ -325,10 +329,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   </section>
 
   <!-- FAQ -->
-  <section style="padding:80px 0;">
-    <div class="container" style="max-width:640px;">
+  <section style="padding:80px 0;background:linear-gradient(135deg,#0a0a0a 0%,#1a0f2e 40%,#2d1b4e 70%,#0a0a0a 100%);color:white;position:relative;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:radial-gradient(circle at 20% 50%,rgba(99,102,241,0.1),transparent 50%),radial-gradient(circle at 80% 50%,rgba(236,72,153,0.06),transparent 50%);"></div>
+    <div class="container" style="max-width:640px;position:relative;z-index:1;">
       <div class="section-header">
-        <div class="section-label">FAQ</div>
+        <div class="section-label" style="color:#818cf8;">FAQ</div>
         <h2 class="section-title">Common Questions</h2>
       </div>
       <div style="display:grid;gap:16px;">
@@ -341,12 +346,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           {q:'Can I use it for my team?',a:'Yes! We can set up multiple agents for different team members, each configured for their specific role and market area. Contact us for team pricing.'},
           {q:'What if it does not work for my business?',a:'We guarantee satisfaction. If we cannot get your AI assistant working during the setup session, you get a full refund. No questions asked.'},
         ].map(item => (
-          <details style="padding:20px;background:var(--color-surface);border-radius:12px;border:1px solid var(--color-border);">
+          <details style="padding:20px;background:rgba(255,255,255,0.05);border-radius:12px;border:1px solid rgba(255,255,255,0.1);">
             <summary style="font-weight:600;font-size:15px;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;">
               {item.q}
               <span style="font-size:20px;opacity:0.4;">+</span>
             </summary>
-            <p style="margin-top:12px;font-size:14px;color:var(--color-text-secondary);line-height:1.7;">{item.a}</p>
+            <p style="margin-top:12px;font-size:14px;color:rgba(255,255,255,0.7);line-height:1.7;">{item.a}</p>
           </details>
         ))}
       </div>
