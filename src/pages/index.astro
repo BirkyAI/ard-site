@@ -39,12 +39,13 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
   </section>
 
   <!-- FEATURED PROPERTIES -->
-  <section style="padding:64px 0;">
-    <div class="container">
+  <section style="padding:64px 0;background:linear-gradient(135deg,#0a0a0a 0%,#1a0f2e 40%,#2d1b4e 70%,#0a0a0a 100%);color:white;position:relative;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:radial-gradient(circle at 20% 50%,rgba(99,102,241,0.1),transparent 50%),radial-gradient(circle at 80% 50%,rgba(236,72,153,0.06),transparent 50%);"></div>
+    <div class="container" style="position:relative;z-index:1;">
       <div class="section-header">
-        <div class="section-label">Featured Listings</div>
+        <div class="section-label" style="color:#818cf8;">Featured Listings</div>
         <h2 class="section-title">Properties in Antigua Guatemala</h2>
-        <p class="section-subtitle">Handpicked colonial homes, modern apartments, land, and rentals in and around Antigua.</p>
+        <p class="section-subtitle" style="color:rgba(255,255,255,0.7);">Handpicked colonial homes, modern apartments, land, and rentals in and around Antigua.</p>
       </div>
       <div class="grid-3">
         {featured.map(p => (
@@ -66,15 +67,16 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
           </a>
         ))}
       </div>
-      <div style="text-align:center;margin-top:32px;"><a href="/properties/" class="btn btn--dark">View All Properties</a></div>
+      <div style="text-align:center;margin-top:32px;"><a href="/properties/" class="btn btn--outline" style="border-color:rgba(255,255,255,0.4);color:white;">View All Properties</a></div>
     </div>
   </section>
 
   <!-- WHY ANTIGUA -->
-  <section style="padding:64px 0;">
-    <div class="container">
+  <section style="padding:64px 0;background:linear-gradient(135deg,#0a0a0a 0%,#1a0f2e 40%,#2d1b4e 70%,#0a0a0a 100%);color:white;position:relative;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:radial-gradient(circle at 20% 50%,rgba(99,102,241,0.1),transparent 50%),radial-gradient(circle at 80% 50%,rgba(236,72,153,0.06),transparent 50%);"></div>
+    <div class="container" style="position:relative;z-index:1;">
       <div class="section-header">
-        <div class="section-label">Why Antigua Guatemala</div>
+        <div class="section-label" style="color:#818cf8;">Why Antigua Guatemala</div>
         <h2 class="section-title">The Best Place to Live in Central America</h2>
       </div>
       <div class="grid-3">
@@ -86,10 +88,10 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
           {icon:'🏛',title:'UNESCO World Heritage',text:'Stunning colonial architecture, cobblestone streets, and three volcanoes as your backdrop.'},
           {icon:'↑',title:'Strong Investment Returns',text:'Growing tourism. Airbnb rental yields 8-15%. Property values steadily appreciating.'},
         ].map(item => (
-          <div style="padding:32px;background:var(--color-surface);border-radius:16px;border:1px solid var(--color-border);transition:all 0.3s;">
-            <div style="width:48px;height:48px;background:#f0f0f0;border:1px solid #ddd;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;margin-bottom:16px;">{item.icon}</div>
+          <div style="padding:32px;background:rgba(255,255,255,0.05);border-radius:16px;border:1px solid rgba(255,255,255,0.1);transition:all 0.3s;">
+            <div style="width:48px;height:48px;background:rgba(99,102,241,0.15);border:1px solid rgba(99,102,241,0.3);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:24px;margin-bottom:16px;">{item.icon}</div>
             <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;letter-spacing:-0.2px;">{item.title}</h3>
-            <p style="font-size:14px;color:var(--color-text-secondary);line-height:1.6;">{item.text}</p>
+            <p style="font-size:14px;color:rgba(255,255,255,0.7);line-height:1.6;">{item.text}</p>
           </div>
         ))}
       </div>
@@ -97,12 +99,13 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
   </section>
 
   <!-- REVIEWS -->
-  <section style="padding:64px 0;">
-    <div class="container">
+  <section style="padding:64px 0;background:linear-gradient(135deg,#0a0a0a 0%,#1a0f2e 40%,#2d1b4e 70%,#0a0a0a 100%);color:white;position:relative;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:radial-gradient(circle at 20% 50%,rgba(99,102,241,0.1),transparent 50%),radial-gradient(circle at 80% 50%,rgba(236,72,153,0.06),transparent 50%);"></div>
+    <div class="container" style="position:relative;z-index:1;">
       <div class="section-header">
-        <div class="section-label">Client Reviews</div>
+        <div class="section-label" style="color:#818cf8;">Client Reviews</div>
         <h2 class="section-title">What Our Clients Say</h2>
-        <p class="section-subtitle">Real experiences from expats and families who found their home in Antigua Guatemala with our help.</p>
+        <p class="section-subtitle" style="color:rgba(255,255,255,0.7);">Real experiences from expats and families who found their home in Antigua Guatemala with our help.</p>
       </div>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;margin-bottom:32px;">
         {[
@@ -110,15 +113,15 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
           {stars:'⭐⭐⭐⭐⭐',text:'Luna made our move to Antigua completely stress-free. She took the time to understand what we needed, showed us the best neighborhoods, and found us the perfect rental before we even arrived. We could not have done it without her!',name:'Eva & Victor'},
           {stars:'⭐⭐⭐⭐⭐',text:'After 34 years living in the United States, coming back to Guatemala felt overwhelming. Luna guided us through every step with patience and honesty. She found us our dream home in Antigua and now we are finally living the life we always imagined.',name:'Manuel & Angeles'},
         ].map(review => (
-          <div style="border-radius:16px;padding:32px;background:white;box-shadow:var(--shadow-md);border:1px solid var(--color-border);display:flex;flex-direction:column;gap:16px;">
+          <div style="border-radius:16px;padding:32px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);display:flex;flex-direction:column;gap:16px;">
             <div style="font-size:16px;letter-spacing:2px;">{review.stars}</div>
-            <p style="font-size:15px;line-height:1.7;color:var(--color-text-secondary);flex:1;">"{review.text}"</p>
+            <p style="font-size:15px;line-height:1.7;color:rgba(255,255,255,0.7);flex:1;">"{review.text}"</p>
             <div style="font-size:14px;font-weight:600;">— {review.name}</div>
           </div>
         ))}
       </div>
       <div style="text-align:center;">
-        <a href="https://share.google/kvtD4Km0AsmhNFZD6" class="btn btn--dark" target="_blank" rel="noopener">⭐ Leave a Review on Google</a>
+        <a href="https://share.google/kvtD4Km0AsmhNFZD6" class="btn btn--outline" style="border-color:rgba(255,255,255,0.4);color:white;" target="_blank" rel="noopener">⭐ Leave a Review on Google</a>
       </div>
     </div>
   </section>
@@ -148,10 +151,11 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
 
   <!-- BLOG -->
   {recentBlog.length > 0 && (
-    <section style="padding:64px 0;">
-      <div class="container">
+    <section style="padding:64px 0;background:linear-gradient(135deg,#0a0a0a 0%,#1a0f2e 40%,#2d1b4e 70%,#0a0a0a 100%);color:white;position:relative;overflow:hidden;">
+      <div style="position:absolute;inset:0;background:radial-gradient(circle at 20% 50%,rgba(99,102,241,0.1),transparent 50%),radial-gradient(circle at 80% 50%,rgba(236,72,153,0.06),transparent 50%);"></div>
+      <div class="container" style="position:relative;z-index:1;">
         <div class="section-header">
-          <div class="section-label">From the Blog</div>
+          <div class="section-label" style="color:#818cf8;">From the Blog</div>
           <h2 class="section-title">Antigua Guatemala Living & Real Estate</h2>
         </div>
         <div class="grid-3">
@@ -166,7 +170,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
             </a>
           ))}
         </div>
-        <div style="text-align:center;margin-top:32px;"><a href="/blog/" class="btn btn--dark">Read More Articles</a></div>
+        <div style="text-align:center;margin-top:32px;"><a href="/blog/" class="btn btn--outline" style="border-color:rgba(255,255,255,0.4);color:white;">Read More Articles</a></div>
       </div>
     </section>
   )}
