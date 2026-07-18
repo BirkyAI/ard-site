@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antiguarealestatedevelopment.com/sitemap-index.xml

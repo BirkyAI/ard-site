@@ -13,6 +13,26 @@ const { title, description, image = '/images/og-default.jpg', canonical, locale:
 const locale: Locale = localeProp || getLocaleFromUrl(Astro.url);
 const t = getTranslation(locale);
 const canonicalURL = canonical || Astro.url.href;
+const siteBase = 'https://antiguarealestatedevelopment.com';
+const currentPath = Astro.url.pathname;
+const breadcrumbItems = (() => {
+  const parts = currentPath.replace(/^\/(es\/)?/, '').replace(/\/$/, '').split('/').filter(Boolean);
+  const items = [
+    { '@type': 'ListItem', position: 1, name: locale === 'es' ? 'Inicio' : 'Home', item: `${siteBase}/${locale === 'es' ? 'es/' : ''}` },
+  ];
+  let cumulativePath = locale === 'es' ? '/es/' : '/';
+  parts.forEach((part, i) => {
+    cumulativePath += `${part}/`;
+    const name = part.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase());
+    items.push({ '@type': 'ListItem', position: i + 2, name, item: `${siteBase}${cumulativePath}` });
+  });
+  return items;
+})();
+const breadcrumbJsonLd = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbItems,
+});
 const switchPath = getOppositeLocalePath(Astro.url);
 const switchLabel = locale === 'en' ? 'ES' : 'EN';
 const whatsappMsg = encodeURIComponent(t.whatsappMessage);
@@ -46,6 +66,7 @@ const imageSrc = image.startsWith('http') ? image : `https://antiguarealestatede
   <link rel="stylesheet" href="/styles/global.css">
   <link rel="alternate" hreflang="en" href={`https://antiguarealestatedevelopment.com${locale === 'es' ? switchPath : Astro.url.pathname}`} />
   <link rel="alternate" hreflang="es" href={`https://antiguarealestatedevelopment.com${locale === 'es' ? Astro.url.pathname : switchPath}`} />
+  <script type="application/ld+json" set:html={breadcrumbJsonLd}></script>
 </head>
 <body>
   <header class="header">
