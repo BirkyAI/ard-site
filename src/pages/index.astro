@@ -56,7 +56,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
             <div class="property-card__content">
               <div class="property-card__location">{p.data.location}</div>
               <h3 class="property-card__title">{p.data.title}</h3>
-              {p.data.description && <p style="font-size:13px;color:rgba(255,255,255,0.6);line-height:1.5;margin-bottom:12px;">{p.data.description}</p>}
+              {p.data.description && <p style="font-size:13px;color:#333;line-height:1.5;margin-bottom:12px;font-weight:600;">{p.data.description}</p>}
               <div class="property-card__details">
                 {p.data.beds && <span>{p.data.beds} Beds</span>}
                 {p.data.baths && <span>{p.data.baths} Baths</span>}
