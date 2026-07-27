@@ -1,7 +1,7 @@
 ---
 title: "Los Apóstoles — Casa Colonial Moderna en Comunidad Cerrada Exclusiva"
 location: "Los Apóstoles, Antigua Guatemala"
-price: 625000
+price: 615000
 beds: 4
 baths: 4
 area: "300m² de construcción en lote de 12x23m"
@@ -13,7 +13,7 @@ featured: true
 hidden: false
 date: 2026-06-16
 type: "House"
-priceLabel: "$625,000 USD"
+priceLabel: "$615,000 USD"
 lang: "es"
 gallery:
   - "/images/properties/los-apostoles/los-apostoles-1.jpg"
@@ -48,7 +48,7 @@ Bienvenido a **Los Apóstoles** — una oportunidad exclusiva de poseer una impr
 - 🏗️ **Construcción:** Aproximadamente 300m² en 2 niveles
 - 🏠 **Recámaras:** 4 recámaras amplias (2 en cada nivel)
 - 🛁 **Baños:** 4 baños completos
-- 💰 **Precio:** $625,000 USD (negociable)
+- 💰 **Precio:** $615,000 USD (negociable)
 - 🚗 **Estacionamiento:** Garaje privado
 - 🏡 **Estilo:** Moderno con Colonial — diseño sofisticado con carácter tradicional antigueño
 - ⏱️ **Entrega:** Estimada 12-13 meses a partir de la compra
@@ -108,7 +108,7 @@ A solo 2.5 km del Parque Central de Antigua, estás a minutos de:
 
 Esta propiedad representa un valor excepcional en el mercado inmobiliario de Antigua. Con aproximadamente **300m² de construcción** en un lote generoso, acabados premium, vistas a los volcanes y acceso a amenidades exclusivas de la comunidad, Los Apóstoles ofrece un estilo de vida difícil de igualar.
 
-**Precio:** $625,000 USD
+**Precio:** $615,000 USD
 
 **Nota:** Esta es una oportunidad en preventa. El plano mostrado incluye 2 recámaras en cada nivel (4 en total), con el diseño actual reflejando estas especificaciones.
 
