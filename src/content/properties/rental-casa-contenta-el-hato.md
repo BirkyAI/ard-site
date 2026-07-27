@@ -7,12 +7,12 @@ beds: 1
 baths: 1
 area: "80 m²"
 type: "rental"
-status: "For Rent"
-badge: "For Rent"
+status: "Rented"
+badge: "Rented"
 image: "/images/properties/apartment-contenta-el-hato/contenta-2.jpg"
 alt: "Rustic modern cabin with volcano views, cozy fireplace, and private patio surrounded by nature reserve at Finca El Tambor, El Hato, Antigua Guatemala"
 featured: false
-hidden: false
+hidden: true
 date: 2026-06-22
 lang: "en"
 gallery:
