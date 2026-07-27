@@ -2,7 +2,7 @@
 title: "Recorridos a Pie por Antigua Guatemala: Explorando Caminando"
 tag: "Lifestyle"
 excerpt: "Descubrí las mejores rutas para caminar por Antigua Guatemala, desde los monumentos icónicos hasta patios escondidos y barrios locales que la mayoría de visitantes no conoce."
-image: "/images/blog/antigua-street-scene-2004.jpg"
+image: "/images/blog/ai-generated/walking-tours-antigua.png"
 alt: "Escena colorida de una calle colonial en Antigua Guatemala con adoquines y volcanes de fondo"
 date: 2026-07-27
 lang: "es"

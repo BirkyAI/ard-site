@@ -2,7 +2,7 @@
 title: "Walking Tours of Antigua Guatemala: Exploring on Foot"
 tag: "Lifestyle"
 excerpt: "Discover the best walking routes through Antigua Guatemala, from iconic landmarks to hidden courtyards and local neighborhoods most visitors miss."
-image: "/images/blog/antigua-street-scene-2004.jpg"
+image: "/images/blog/ai-generated/walking-tours-antigua.png"
 alt: "Colorful colonial street scene in Antigua Guatemala with cobblestones and volcano backdrop"
 date: 2026-07-27
 ---
