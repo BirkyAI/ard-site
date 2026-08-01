@@ -2,6 +2,9 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 const posts = (await getCollection('blog')).filter(p => p.data.lang !== 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const POSTS_PER_PAGE = 12;
+const initialPosts = posts.slice(0, POSTS_PER_PAGE);
+const hasMore = posts.length > POSTS_PER_PAGE;
 ---
 <BaseLayout title="Antigua Guatemala Real Estate Blog | Antigua Real Estate Development" description="Expert insights on relocating, investing, and living in Antigua Guatemala. Real estate tips and expat advice." image="/images/blog/ai-generated/antigua-courtyard-fountain.png">
   <section class="page-hero">
@@ -13,8 +16,8 @@ const posts = (await getCollection('blog')).filter(p => p.data.lang !== 'es').so
   </section>
   <section class="content-section">
     <div class="container">
-      <div class="grid-3">
-        {posts.map(post => (
+      <div class="grid-3" id="blog-grid">
+        {initialPosts.map(post => (
           <a href={`/blog/${post.id}/`} class="blog-card">
             <div class="blog-card__image"><img src={post.data.image} alt={post.data.alt} loading="lazy" width="400" height="250"></div>
             <div class="blog-card__content">
@@ -25,6 +28,51 @@ const posts = (await getCollection('blog')).filter(p => p.data.lang !== 'es').so
           </a>
         ))}
       </div>
+      {hasMore && (
+        <div style="text-align:center;margin-top:48px;">
+          <button id="load-more-btn" class="btn btn--dark" style="min-width:200px;">Load More Posts</button>
+          <p id="post-count" style="font-size:13px;color:var(--color-text-muted);margin-top:12px;">Showing {POSTS_PER_PAGE} of {posts.length} posts</p>
+        </div>
+      )}
     </div>
   </section>
 </BaseLayout>
+
+<script define:vars={{ allPosts: posts.map(p => ({ id: p.id, image: p.data.image, alt: p.data.alt, tag: p.data.tag, title: p.data.title, excerpt: p.data.excerpt })), POSTS_PER_PAGE }}>
+  let currentPage = 1;
+  const btn = document.getElementById('load-more-btn');
+  const grid = document.getElementById('blog-grid');
+  const countEl = document.getElementById('post-count');
+  
+  if (btn) {
+    btn.addEventListener('click', () => {
+      const start = currentPage * POSTS_PER_PAGE;
+      const end = start + POSTS_PER_PAGE;
+      const nextPosts = allPosts.slice(start, end);
+      
+      nextPosts.forEach(post => {
+        const card = document.createElement('a');
+        card.href = `/blog/${post.id}/`;
+        card.className = 'blog-card';
+        card.innerHTML = `
+          <div class="blog-card__image"><img src="${post.image}" alt="${post.alt}" loading="lazy" width="400" height="250"></div>
+          <div class="blog-card__content">
+            <div class="blog-card__tag">${post.tag}</div>
+            <h2 class="blog-card__title">${post.title}</h2>
+            <p class="blog-card__excerpt">${post.excerpt}</p>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+      
+      currentPage++;
+      const totalShown = Math.min(currentPage * POSTS_PER_PAGE, allPosts.length);
+      countEl.textContent = `Showing ${totalShown} of ${allPosts.length} posts`;
+      
+      if (totalShown >= allPosts.length) {
+        btn.style.display = 'none';
+        countEl.style.display = 'none';
+      }
+    });
+  }
+</script>
