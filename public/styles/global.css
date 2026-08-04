@@ -93,8 +93,14 @@ button { font-family: inherit; cursor: pointer; border: none; background: none; 
 .footer__links a { font-size: 14px; color: rgba(255,255,255,0.5); transition: color 0.2s; }
 .footer__links a:hover { color: white; }
 .footer__social { display: flex; gap: 12px; margin-top: 16px; }
-.footer__social a { width: 36px; height: 36px; border-radius: 50%; background: rgba(255,255,255,0.1); display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 600; transition: all 0.2s; }
+.footer__social a { width: 36px; height: 36px; border-radius: 50%; background: rgba(255,255,255,0.1); display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 600; transition: all 0.2s; color: rgba(255,255,255,0.6); }
 .footer__social a:hover { background: rgba(255,255,255,0.2); color: white; }
+.social-icon--ig { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888) !important; color: white !important; }
+.social-icon--ig:hover { opacity: 0.85; }
+.social-icon--fb { background: #1877F2 !important; color: white !important; }
+.social-icon--fb:hover { opacity: 0.85; }
+.social-icon--tt { background: #010101 !important; color: white !important; }
+.social-icon--tt:hover { opacity: 0.85; }
 .footer__bottom { border-top: 1px solid rgba(255,255,255,0.1); padding-top: 24px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 16px; font-size: 13px; }
 
 /* WhatsApp FAB */
