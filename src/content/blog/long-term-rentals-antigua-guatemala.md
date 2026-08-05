@@ -28,7 +28,7 @@ Rental prices in Antigua vary significantly based on furnishing, location, numbe
 - Furnished one-bedroom: $600–$900/month
 - Furnished two-bedroom: $800–$1,200/month
 - Furnished three-bedroom house: $1,000–$1,800/month
-- Furnished four-bedroom colonial home: $1,500–$2,500/month
+- Four-bedroom colonial home: $1,500–$2,500/month
 
 **Premium and luxury rentals:**
 - Large furnished homes with gardens, pools, or volcano views: $2,000–$4,000+/month

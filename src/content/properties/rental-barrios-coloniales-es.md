@@ -1,5 +1,5 @@
 ---
-title: "Casa Amueblada de 4 Hab. en Comunidad Cerrada — San Pedro Las Huertas"
+title: "Casa de 4 Hab. Sin Amueblar en Comunidad Cerrada — San Pedro Las Huertas"
 location: "San Pedro Las Huertas, Condominio Barrios Coloniales"
 price: 1000
 priceLabel: "$1,000/mes"
@@ -10,8 +10,9 @@ type: "rental"
 status: "En Renta"
 badge: "En Renta"
 image: "/images/properties/rental-barrios-coloniales/23.jpg"
-alt: "Casa amueblada de 4 recámaras en renta en comunidad cerrada con piscina y vista a volcanes en San Pedro Las Huertas, cerca de Antigua Guatemala"
+alt: "Casa de 4 recámaras sin amueblar en renta en comunidad cerrada con piscina y vista a volcanes en San Pedro Las Huertas, cerca de Antigua Guatemala"
 featured: true
+portrait: true
 hidden: false
 date: 2026-06-14
 lang: "es"
@@ -43,15 +44,13 @@ gallery:
 
 ## Acerca de Esta Renta
 
-Hermosa casa amueblada de 4 recámaras en **Condominio Barrios Coloniales**, una comunidad cerrada y segura en San Pedro Las Huertas — a solo 10 minutos de Antigua Guatemala.
+Hermosa casa de 4 recámaras disponible **sin amueblar** en **Condominio Barrios Coloniales**, una comunidad cerrada y segura en San Pedro Las Huertas — a solo 10 minutos de Antigua Guatemala.
 
 ### Lo Que Incluye
 
 - 🏡 **4 recámaras, 3 baños** — amplio diseño para familias o compañeros
 - 🚗 **1 estacionamiento** para auto + espacio extra para motocicletas
-- 🔑 **Lista para habitar** — completamente amueblada, lista para mudarse
 - 🚿 **Agua caliente** en toda la casa + sistema de filtración de agua
-- 💦 **Lavadora y secadora** incluidas
 - 🌿 **Patio privado** — perfecto para tu propio jardincito
 - 🌇 **Terraza en azotea** con impresionantes vistas amplias del Volcán de Agua
 - 🔒 **Comunidad cerrada segura** con control de acceso 24/7

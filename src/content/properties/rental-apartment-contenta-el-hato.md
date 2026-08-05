@@ -11,7 +11,7 @@ status: "For Rent"
 badge: "For Rent"
 image: "/images/properties/apartment-contenta-el-hato/contenta-8.jpg"
 alt: "Spacious modern apartment with panoramic volcano views and private terrace surrounded by forest at Finca El Tambor, El Hato, Antigua Guatemala"
-featured: true
+featured: false
 hidden: false
 date: 2026-06-18
 lang: "en"

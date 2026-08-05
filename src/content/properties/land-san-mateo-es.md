@@ -8,6 +8,7 @@ badge: "En Venta"
 image: "/images/properties/land-san-mateo/1.jpg"
 alt: "Terreno en venta en San Mateo Milpas Altas cerca de Antigua Guatemala con vista a las montañas"
 featured: true
+portrait: true
 date: 2026-03-09
 lang: "es"
 gallery:

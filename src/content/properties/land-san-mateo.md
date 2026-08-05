@@ -8,6 +8,7 @@ badge: "For Sale"
 image: "/images/properties/land-san-mateo/1.jpg"
 alt: "Land for sale in San Mateo Milpas Altas near Antigua Guatemala with mountain views"
 featured: true
+portrait: true
 date: 2026-03-09
 gallery:
   - "/images/properties/land-san-mateo/1.jpg"

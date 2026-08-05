@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 const properties = (await getCollection('properties')).filter(p => !p.data.hidden && p.data.lang !== 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 const forSale = properties.filter(p => p.data.type !== 'rental');
-const rentalsOrder = ['rental-barrios-coloniales', 'rental-barrios-coloniales-unfurnished', 'rental-apartment-contenta-el-hato', 'rental-casa-coi-el-hato', 'apartment-contentita-el-hato', 'studio-creativa-el-hato', 'rental-catarata-el-hato'];
+const rentalsOrder = ['rental-san-gaspar-vivar', 'rental-barrios-coloniales', 'rental-barrios-coloniales-unfurnished', 'rental-apartment-contenta-el-hato', 'rental-casa-coi-el-hato', 'apartment-contentita-el-hato', 'studio-creativa-el-hato', 'rental-catarata-el-hato'];
 const rentalsRaw = properties.filter(p => p.data.type === 'rental');
 const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).filter(Boolean), ...rentalsRaw.filter(p => !rentalsOrder.includes(p.id))];
 ---
@@ -27,7 +27,7 @@ const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).fi
         <div class="grid-3">
           {rentals.map(p => (
             <a href={`/properties/${p.id}/`} class="property-card">
-              <div class="property-card__image">
+              <div class="property-card__image" >
                 <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">
                 <div class="property-card__badge" style="background:#16a34a;">{p.data.badge}</div>
               </div>
@@ -58,7 +58,7 @@ const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).fi
       <div class="grid-3">
         {forSale.map(p => (
           <a href={`/properties/${p.id}/`} class="property-card">
-            <div class="property-card__image">
+            <div class="property-card__image" >
               <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">
               <div class="property-card__badge">{p.data.badge}</div>
             </div>

@@ -43,7 +43,7 @@ gallery:
 
 ## Acerca de Esta Renta
 
-Una excelente casa sin amueblar de 3 recámaras disponible en **Condominio Barrios Coloniales**, una comunidad cerrada y segura en San Pedro Las Huertas — a solo 10 minutos de Antigua Guatemala. Ubicada a solo dos puertas de nuestra renta amueblada de 4 recámaras en la misma comunidad, esta es una opción excelente si prefieres traer tu propia mobiliario y hacer el espacio verdaderamente tuyo.
+Una excelente casa sin amueblar de 3 recámaras disponible en **Condominio Barrios Coloniales**, una comunidad cerrada y segura en San Pedro Las Huertas — a solo 10 minutos de Antigua Guatemala. Ubicada a solo dos puertas de nuestra renta de 4 recámaras en la misma comunidad, esta es una opción excelente si prefieres un espacio más pequeño para traer tu propia mobiliario y hacerlo verdaderamente tuyo.
 
 ### Lo Que Incluye
 

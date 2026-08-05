@@ -19,19 +19,19 @@ const metaDescription = `${p.title} en ${p.location}, Antigua Guatemala. ${p.bed
   <section style="padding:48px 0;">
     <div class="container">
       <a href="/es/properties/" style="font-size:14px;color:var(--color-text-muted);font-weight:500;display:inline-flex;align-items:center;gap:4px;margin-bottom:24px;">{t.labels.backToProperties}</a>
-      <div style="display:grid;grid-template-columns:1fr;gap:32px;">
-        <div style="border-radius:16px;overflow:hidden;box-shadow:var(--shadow-lg);">
-          <img src={p.image} alt={p.alt} class="property-hero" style="width:100%;aspect-ratio:16/10;object-fit:cover;">
+
+      {/* GALLERY GRID */}
+      {p.gallery && p.gallery.length > 0 && (
+        <div class="property-gallery" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-bottom:32px;">
+          {p.gallery.map((img, i) => (
+            <div class="property-gallery__item" data-index={i} style="border-radius:10px;overflow:hidden;cursor:pointer;aspect-ratio:4/3;" onclick="openLightbox(this.dataset.index)">
+              <img src={img} alt={`${p.title} - Foto ${i + 1}`} style="width:100%;height:100%;object-fit:cover;transition:transform 0.3s;" loading="lazy" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+            </div>
+          ))}
         </div>
-        {p.gallery && p.gallery.length > 1 && (
-          <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:8px;margin-top:16px;">
-            {p.gallery.map((img, i) => (
-              <div style="border-radius:8px;overflow:hidden;aspect-ratio:1;cursor:pointer;" onclick={`document.querySelector('.property-hero').src='${img}'`}>
-                <img src={img} alt={`${p.title} - Foto ${i + 1}`} style="width:100%;height:100%;object-fit:cover;" loading="lazy">
-              </div>
-            ))}
-          </div>
-        )}
+      )}
+
+      <div style="display:grid;grid-template-columns:1fr;gap:32px;">
         <div>
           <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1.5px;color:var(--color-text-muted);margin-bottom:4px;">{p.location}</div>
           <h1 style="font-size:clamp(28px,4vw,40px);font-weight:600;letter-spacing:-0.5px;line-height:1.1;margin-bottom:16px;">{p.title}</h1>
@@ -48,4 +48,49 @@ const metaDescription = `${p.title} en ${p.location}, Antigua Guatemala. ${p.bed
       </div>
     </div>
   </section>
+
+  {/* LIGHTBOX OVERLAY */}
+  <div id="lightbox" style="display:none;position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,0.92);backdrop-filter:blur(8px);align-items:center;justify-content:center;cursor:pointer;" onclick="closeLightbox(event)">
+    <button style="position:absolute;top:20px;right:28px;background:none;border:none;color:white;font-size:36px;cursor:pointer;z-index:10001;line-height:1;" onclick="closeLightbox(event)">&times;</button>
+    <button style="position:absolute;left:20px;top:50%;transform:translateY(-50%);background:rgba(255,255,255,0.15);border:none;color:white;font-size:28px;cursor:pointer;width:48px;height:48px;border-radius:50%;display:flex;align-items:center;justify-content:center;z-index:10001;" onclick="event.stopPropagation();navigateLightbox(-1)">‹</button>
+    <img id="lightbox-img" src="" alt="" style="max-width:90vw;max-height:90vh;object-fit:contain;border-radius:8px;box-shadow:0 8px 40px rgba(0,0,0,0.5);" onclick="event.stopPropagation()">
+    <button style="position:absolute;right:20px;top:50%;transform:translateY(-50%);background:rgba(255,255,255,0.15);border:none;color:white;font-size:28px;cursor:pointer;width:48px;height:48px;border-radius:50%;display:flex;align-items:center;justify-content:center;z-index:10001;" onclick="event.stopPropagation();navigateLightbox(1)">›</button>
+    <div id="lightbox-counter" style="position:absolute;bottom:24px;left:50%;transform:translateX(-50%);color:rgba(255,255,255,0.7);font-size:14px;font-weight:500;"></div>
+  </div>
+
+  <script is:inline define:vars={{ gallery: p.gallery || [p.image] }}>
+    const images = gallery;
+    let currentIndex = 0;
+
+    window.openLightbox = function(index) {
+      currentIndex = parseInt(index);
+      updateLightbox();
+      document.getElementById('lightbox').style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    };
+
+    window.closeLightbox = function(e) {
+      if (e) e.stopPropagation();
+      document.getElementById('lightbox').style.display = 'none';
+      document.body.style.overflow = '';
+    };
+
+    window.navigateLightbox = function(dir) {
+      currentIndex = (currentIndex + dir + images.length) % images.length;
+      updateLightbox();
+    };
+
+    function updateLightbox() {
+      document.getElementById('lightbox-img').src = images[currentIndex];
+      document.getElementById('lightbox-counter').textContent = (currentIndex + 1) + ' / ' + images.length;
+    }
+
+    document.addEventListener('keydown', function(e) {
+      if (document.getElementById('lightbox').style.display === 'flex') {
+        if (e.key === 'Escape') window.closeLightbox();
+        if (e.key === 'ArrowLeft') window.navigateLightbox(-1);
+        if (e.key === 'ArrowRight') window.navigateLightbox(1);
+      }
+    });
+  </script>
 </BaseLayout>

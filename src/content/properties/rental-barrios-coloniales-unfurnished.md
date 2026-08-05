@@ -42,7 +42,7 @@ gallery:
 
 ## About This Rental
 
-A great unfurnished 3-bedroom home available in **Condominio Barrios Coloniales**, a secure gated community in San Pedro Las Huertas — just 10 minutes from Antigua Guatemala. Located just two doors down from our furnished 4-bedroom rental in the same community, this is an excellent option if you prefer to bring your own furniture and make the space truly yours.
+A great unfurnished 3-bedroom home available in **Condominio Barrios Coloniales**, a secure gated community in San Pedro Las Huertas — just 10 minutes from Antigua Guatemala. Located just two doors down from our 4-bedroom rental in the same community, this is an excellent option if you prefer a smaller space to bring your own furniture and make truly yours.
 
 ### What You Get
 

@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 import { getTranslation } from '../../i18n';
 const t = getTranslation('es');
 const allProperties = await getCollection('properties');
-const featuredOrder = ['rental-barrios-coloniales-es', 'los-apostoles-es', 'casas-massima-reforma-es'];
+const featuredOrder = ['rental-san-gaspar-vivar-es', 'rental-barrios-coloniales-es', 'los-apostoles-es'];
 const featured = featuredOrder.map(id => allProperties.find(p => p.id === id && p.data.lang === 'es' && !p.data.hidden)).filter(Boolean);
 const allBlog = await getCollection('blog');
 const recentBlog = allBlog.filter(p => p.data.lang === 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
@@ -49,7 +49,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
       <div class="grid-3">
         {featured.map(p => (
           <a href={`/es/properties/${p.id}/`} class="property-card">
-            <div class="property-card__image">
+            <div class="property-card__image" >
               <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">
               <div class="property-card__badge" style={p.data.type === 'rental' ? 'background:#16a34a;' : ''}>{p.data.badge}</div>
             </div>

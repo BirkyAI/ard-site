@@ -1,5 +1,5 @@
 ---
-title: "4BR Furnished Rental in Gated Community — San Pedro Las Huertas"
+title: "4BR Unfurnished Rental in Gated Community — San Pedro Las Huertas"
 location: "San Pedro Las Huertas, Condominio Barrios Coloniales"
 price: 1000
 priceLabel: "$1,000/month"
@@ -9,10 +9,11 @@ baths: 3
 type: "rental"
 status: "For Rent"
 badge: "For Rent"
-description: "Fully furnished 4-bedroom, 3-bathroom home in a gated community with pool, jacuzzi, BBQ area, and volcano views. Move-in ready with hot water, water filtration, washer/dryer, and private patio."
+description: "4-bedroom, 3-bathroom home available unfurnished in a gated community with pool, jacuzzi, BBQ area, and volcano views. Hot water, water filtration, and private patio included."
 image: "/images/properties/rental-barrios-coloniales/23.jpg"
-alt: "Furnished 4 bedroom rental home in gated community with pool and volcano views in San Pedro Las Huertas, near Antigua Guatemala"
+alt: "Unfurnished 4 bedroom rental home in gated community with pool and volcano views in San Pedro Las Huertas, near Antigua Guatemala"
 featured: true
+portrait: true
 hidden: false
 date: 2026-06-14
 gallery:
@@ -43,15 +44,13 @@ gallery:
 
 ## About This Rental
 
-Beautiful fully furnished 4-bedroom home in **Condominio Barrios Coloniales**, a secure gated community in San Pedro Las Huertas — just 10 minutes from Antigua Guatemala.
+Beautiful 4-bedroom home available **unfurnished** in **Condominio Barrios Coloniales**, a secure gated community in San Pedro Las Huertas — just 10 minutes from Antigua Guatemala.
 
 ### What You Get
 
 - 🏡 **4 bedrooms, 3 bathrooms** — spacious layout for families or housemates
 - 🚗 **1 parking space** for car + extra room for motorcycles
-- 🔑 **Turn key** — fully furnished, move-in ready
 - 🚿 **Hot water** throughout + water filtration system
-- 💦 **Washing machine & dryer** included
 - 🌿 **Private patio** — perfect for your own little garden
 - 🌇 **Rooftop terrace** with stunning wide views of Volcán de Agua
 - 🔒 **Secure gated community** with 24/7 access control

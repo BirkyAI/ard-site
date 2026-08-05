@@ -5,7 +5,7 @@ import { getTranslation } from '../../../i18n';
 const t = getTranslation('es');
 const properties = (await getCollection('properties')).filter(p => !p.data.hidden && p.data.lang === 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 const forSale = properties.filter(p => p.data.type !== 'rental');
-const rentalsOrder = ['rental-barrios-coloniales-es', 'rental-barrios-coloniales-unfurnished-es', 'rental-apartment-contenta-el-hato-es', 'rental-casa-coi-el-hato-es', 'apartment-contentita-el-hato-es', 'studio-creativa-el-hato-es', 'rental-catarata-el-hato-es'];
+const rentalsOrder = ['rental-san-gaspar-vivar-es', 'rental-barrios-coloniales-es', 'rental-barrios-coloniales-unfurnished-es', 'rental-apartment-contenta-el-hato-es', 'rental-casa-coi-el-hato-es', 'apartment-contentita-el-hato-es', 'studio-creativa-el-hato-es', 'rental-catarata-el-hato-es'];
 const rentalsRaw = properties.filter(p => p.data.type === 'rental');
 const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).filter(Boolean), ...rentalsRaw.filter(p => !rentalsOrder.includes(p.id))];
 ---
@@ -29,7 +29,7 @@ const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).fi
         <div class="grid-3">
           {rentals.map(p => (
             <a href={`/es/properties/${p.id}/`} class="property-card">
-              <div class="property-card__image">
+              <div class="property-card__image" >
                 <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">
                 <div class="property-card__badge" style="background:#16a34a;">{p.data.badge}</div>
               </div>
@@ -60,7 +60,7 @@ const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).fi
       <div class="grid-3">
         {forSale.map(p => (
           <a href={`/es/properties/${p.id}/`} class="property-card">
-            <div class="property-card__image">
+            <div class="property-card__image" >
               <img src={p.data.image} alt={p.data.alt} loading="lazy" width="400" height="300">
               <div class="property-card__badge">{p.data.badge}</div>
             </div>

@@ -9,14 +9,14 @@ area: "30 m²"
 type: "rental"
 status: "For Rent"
 badge: "For Rent"
-image: "/images/properties/rental-casa-coi-el-hato/casa-coi-1.jpg"
+image: "/images/properties/rental-casa-coi-el-hato/casa-coi-main.jpg"
 alt: "Tiny eco-house nestled among trees with volcano views, koi pond, and private elevated deck at Finca El Tambor, El Hato, Antigua Guatemala"
 featured: false
 hidden: false
 date: 2026-06-22
 lang: "en"
 gallery:
-  - "/images/properties/rental-casa-coi-el-hato/casa-coi-1.jpg"
+  - "/images/properties/rental-casa-coi-el-hato/casa-coi-main.jpg"
   - "/images/properties/rental-casa-coi-el-hato/casa-coi-2.jpg"
   - "/images/properties/rental-casa-coi-el-hato/casa-coi-3.jpg"
   - "/images/properties/rental-casa-coi-el-hato/casa-coi-4.jpg"

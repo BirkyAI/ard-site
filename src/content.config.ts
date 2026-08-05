@@ -16,6 +16,7 @@ const properties = defineCollection({
     image: z.string(),
     alt: z.string(),
     featured: z.boolean().default(false),
+    portrait: z.boolean().default(false),
     hidden: z.boolean().default(false),
     date: z.coerce.date(),
     type: z.string().optional(),
