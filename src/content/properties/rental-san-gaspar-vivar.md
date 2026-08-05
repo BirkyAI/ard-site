@@ -10,14 +10,13 @@ type: "rental"
 status: "For Rent"
 badge: "For Rent"
 description: "Spacious 5-bedroom, 4.5-bathroom two-level home in San Gaspar Vivar with 360° panoramic views from the terrace. Unfurnished, nice finishes, open parking. Ideal for families or NGO offices. One-year lease minimum."
-image: "/images/properties/rental-san-gaspar-vivar/main.jpg"
+image: "/images/properties/rental-san-gaspar-vivar/1-1.jpg"
 alt: "5 bedroom rental house with 360 degree views in San Gaspar Vivar, Santa Catarina Bobadilla, near Antigua Guatemala"
 featured: true
 portrait: true
 hidden: false
 date: 2026-08-04
 gallery:
-  - "/images/properties/rental-san-gaspar-vivar/main.jpg"
   - "/images/properties/rental-san-gaspar-vivar/1-1.jpg"
   - "/images/properties/rental-san-gaspar-vivar/1-2.jpg"
   - "/images/properties/rental-san-gaspar-vivar/1-3.jpg"

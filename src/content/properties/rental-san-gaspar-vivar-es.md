@@ -10,7 +10,7 @@ type: "rental"
 status: "Se Alquila"
 badge: "Se Alquila"
 description: "Amplia casa de 5 recámaras y 4.5 baños en dos niveles en San Gaspar Vivar con vistas panorámicas de 360° desde la terraza. Sin amueblar, buenos acabados, estacionamiento abierto. Ideal para familias u oficinas de ONG. Contrato mínimo de un año."
-image: "/images/properties/rental-san-gaspar-vivar/main.jpg"
+image: "/images/properties/rental-san-gaspar-vivar/1-1.jpg"
 alt: "Casa de 5 recámaras en renta con vistas de 360 grados en San Gaspar Vivar, Santa Catarina Bobadilla, cerca de Antigua Guatemala"
 featured: true
 portrait: true
@@ -18,7 +18,6 @@ hidden: false
 date: 2026-08-04
 lang: "es"
 gallery:
-  - "/images/properties/rental-san-gaspar-vivar/main.jpg"
   - "/images/properties/rental-san-gaspar-vivar/1-1.jpg"
   - "/images/properties/rental-san-gaspar-vivar/1-2.jpg"
   - "/images/properties/rental-san-gaspar-vivar/1-3.jpg"
