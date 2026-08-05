@@ -2,8 +2,8 @@
 title: "Antigua Guatemala vs Ciudad de Guatemala: Dónde Vivir"
 tag: "Relocation"
 excerpt: "Comparación entre Antigua Guatemala y Ciudad de Guatemala para expatriados. Seguridad, costo de vida, estilo de vida y oportunidades inmobiliarias."
-image: "/images/blog/antigua-guatemala-overview.jpg"
-alt: "Vista aérea de Antigua Guatemala con volcanes de fondo y techos coloniales"
+image: "/images/blog/ai-generated/antigua-vs-guatemala-city-split.jpg"
+alt: "Escena dividida comparando la Antigua Guatemala colonial con calles empedradas y volcán de fondo versus el distrito moderno de rascacielos de la Ciudad de Guatemala"
 date: 2026-08-04
 lang: "es"
 ---

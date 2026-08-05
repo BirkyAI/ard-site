@@ -2,8 +2,8 @@
 title: "Semana Santa in Antigua Guatemala: A Resident's Guide"
 tag: "Lifestyle"
 excerpt: "Living in Antigua during Semana Santa transforms your city into the largest Easter celebration in the Americas. Here is what residents need to know."
-image: "/images/blog/antigua-merced-panorama.jpg"
-alt: "Panoramic view of La Merced church in Antigua Guatemala during golden hour"
+image: "/images/blog/ai-generated/antigua-semana-santa-procession.jpg"
+alt: "Colorful sawdust alfombras on a cobblestone street in Antigua Guatemala during Semana Santa with a religious procession float"
 date: 2026-08-05
 ---
 

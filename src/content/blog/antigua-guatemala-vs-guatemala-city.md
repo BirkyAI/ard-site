@@ -2,8 +2,8 @@
 title: "Antigua Guatemala vs Guatemala City: Where to Live"
 tag: "Relocation"
 excerpt: "Comparing Antigua Guatemala and Guatemala City for expats. Safety, cost of living, lifestyle, and real estate differences explained."
-image: "/images/blog/antigua-guatemala-overview.jpg"
-alt: "Aerial view of Antigua Guatemala with volcano backdrop and colonial rooftops"
+image: "/images/blog/ai-generated/antigua-vs-guatemala-city-split.jpg"
+alt: "Split scene comparing colonial Antigua Guatemala with cobblestone streets and volcano backdrop versus modern Guatemala City high-rise district"
 date: 2026-08-04
 ---
 
