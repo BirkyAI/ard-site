@@ -7,14 +7,14 @@ beds: 4
 baths: 3
 
 type: "rental"
-status: "For Rent"
-badge: "For Rent"
+status: "Rented"
+badge: "Rented"
 description: "4-bedroom, 3-bathroom home available unfurnished in a gated community with pool, jacuzzi, BBQ area, and volcano views. Hot water, water filtration, and private patio included."
 image: "/images/properties/rental-barrios-coloniales/23.jpg"
 alt: "Unfurnished 4 bedroom rental home in gated community with pool and volcano views in San Pedro Las Huertas, near Antigua Guatemala"
-featured: true
+featured: false
 portrait: true
-hidden: false
+hidden: true
 date: 2026-06-14
 gallery:
   - "/images/properties/rental-barrios-coloniales/1.jpg"
