@@ -4,7 +4,7 @@ tag: "Lifestyle"
 excerpt: "Descubre la vida ecológica en Antigua Guatemala. Guía sobre hogares sostenibles, energía solar, captación de agua lluvia y bienes raíces verdes para expatriados e inversores."
 image: "/images/blog/ai-generated/eco-friendly-antigua.jpg"
 alt: "Jardín tropical con patio colonial en Antigua Guatemala con diseño de hogar ecológico sostenible"
-date: 2026-08-28
+date: 2026-08-08
 lang: "es"
 ---
 

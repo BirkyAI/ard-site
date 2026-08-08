@@ -4,7 +4,7 @@ tag: "Lifestyle"
 excerpt: "Discover eco-friendly living in Antigua Guatemala. Guide to sustainable homes, solar energy, rainwater collection, and green real estate for expats and investors."
 image: "/images/blog/ai-generated/eco-friendly-antigua.jpg"
 alt: "Tropical garden courtyard in Antigua Guatemala with sustainable eco-friendly home design"
-date: 2026-08-28
+date: 2026-08-08
 ---
 
 Antigua Guatemala is increasingly attracting environmentally conscious expats and investors who want a lifestyle that blends colonial charm with sustainable living. From solar-powered homes in the hills to rainwater collection systems in restored colonial properties, the region offers more green options than many newcomers expect. This guide covers everything you need to know about eco-friendly living and sustainable real estate in Antigua Guatemala.
