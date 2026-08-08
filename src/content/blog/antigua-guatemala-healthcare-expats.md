@@ -2,7 +2,7 @@
 title: "Antigua Guatemala Healthcare for Expats: What to Know"
 tag: "Relocation"
 excerpt: "Hospitals, clinics, insurance, and costs — your complete guide to navigating healthcare as an expat living in Antigua Guatemala."
-image: "/images/blog/ai-generated/antigua-guatemala-gym-fitness-options_00001_.png"
+image: "/images/blog/ai-generated/antigua-breakfast-terrace.png"
 alt: "Antigua Guatemala colonial homes where expats enjoy affordable healthcare and quality of life"
 date: 2026-06-17
 ---

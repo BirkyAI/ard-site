@@ -2,7 +2,7 @@
 title: "Banca en Guatemala para expatriados: Una guía completa 2026"
 tag: "Relocation"
 excerpt: "Abrir una cuenta bancaria, transferir dinero y manejar finanzas en Guatemala — todo lo que cada expatriado necesita saber antes de mudarse."
-image: "/images/blog/ai-generated/antigua-guatemala-gym-fitness-options_00001_.png"
+image: "/images/blog/ai-generated/antigua-arch-golden-hour.png"
 alt: "Cajero automático y servicios bancarios en Guatemala para expatriados internacionales"
 date: 2026-06-16
 lang: "es"
