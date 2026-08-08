@@ -2,7 +2,7 @@
 title: "Mudarse a Guatemala con Familia: Guía Completa 2026"
 tag: "Relocation"
 excerpt: "Todo lo que las familias necesitan saber para mudarse a Guatemala — escuelas, salud, seguridad, vecindarios y costos reales en 2026."
-image: "/images/blog/freepik__the-style-is-candid-image-photography-with-natural__23527.png"
+image: "/images/blog/ai-generated/antigua-breakfast-terrace.png"
 alt: "Familia disfrutando del estilo de vida al aire libre en las tierras altas de Guatemala"
 date: 2026-06-22
 lang: "es"

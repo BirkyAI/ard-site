@@ -2,7 +2,7 @@
 title: "Compra de Propiedad en Guatemala por Extranjeros: Guía 2026"
 tag: "Legal"
 excerpt: "Todo lo que los extranjeros necesitan saber para comprar propiedad en Guatemala: pasos legales, restricciones, costos y consejos expertos para una compra segura."
-image: "/images/blog/antigua-guatemala-real-estate-colonial-home.png"
+image: "/images/blog/ai-generated/antigua-arch-golden-hour.png"
 alt: "Casas coloniales con fachadas coloridas en Antigua Guatemala disponibles para compradores extranjeros"
 date: 2026-06-15
 lang: "es"

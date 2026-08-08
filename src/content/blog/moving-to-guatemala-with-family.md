@@ -2,7 +2,7 @@
 title: "Moving to Guatemala With Family: A Complete 2026 Guide"
 tag: "Relocation"
 excerpt: "Everything families need to know about relocating to Guatemala — schools, healthcare, safety, neighborhoods, and real costs in 2026."
-image: "/images/blog/freepik__the-style-is-candid-image-photography-with-natural__23527.png"
+image: "/images/blog/ai-generated/antigua-breakfast-terrace.png"
 alt: "Family enjoying outdoor lifestyle in Guatemala's highlands"
 date: 2026-06-22
 ---

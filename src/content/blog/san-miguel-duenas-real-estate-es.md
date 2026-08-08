@@ -2,7 +2,7 @@
 title: "Bienes Raíces en San Miguel Dueñas: Una Joya Oculta Cerca de Antigua"
 tag: "Neighborhoods"
 excerpt: "Por qué los compradores están mirando más allá de Antigua hacia San Miguel Dueñas — vistas al volcán, lotes más grandes y precios que tienen sentido en 2026."
-image: "/images/blog/San Miguel Dueñas.png"
+image: "/images/blog/ai-generated/antigua-volcano-panorama.png"
 alt: "Vista panorámica de San Miguel Dueñas con el Volcán de Agua al fondo cerca de Antigua Guatemala"
 date: 2026-06-19
 lang: "es"

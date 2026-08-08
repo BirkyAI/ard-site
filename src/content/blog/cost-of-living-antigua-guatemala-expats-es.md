@@ -2,7 +2,7 @@
 title: "Costo de Vida en Antigua Guatemala para Extranjeros (Guía 2026)"
 tag: "Relocation"
 excerpt: "Un desglose detallado de los gastos mensuales en Antigua Guatemala — alquiler, alimentación, salud y más para expatriados y jubilados."
-image: "/images/blog/cost-of-living-antigua-guatemala.jpg"
+image: "/images/blog/ai-generated/antigua-local-cafe.png"
 alt: "Vista aérea de casas coloniales coloridas en Antigua Guatemala con volcán de fondo"
 date: 2026-06-14
 lang: "es"

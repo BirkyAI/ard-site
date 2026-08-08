@@ -2,7 +2,7 @@
 title: "Guia para Comprar tu Primera Casa en Antigua Guatemala"
 tag: "Investment"
 excerpt: "Guia completa para comprar tu primera casa en Antigua Guatemala como extranjero. Conoce el proceso, costos, opciones de financiamiento y consejos de una agente inmobiliaria local."
-image: "/images/blog/antigua-arch-santa-catalina.jpg"
+image: "/images/blog/ai-generated/antigua-arch-sunset.png"
 alt: "Arco de Santa Catalina en Antigua Guatemala visto desde la Quinta Avenida, con el Volcan de Agua al fondo"
 date: 2026-08-08
 lang: "es"

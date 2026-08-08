@@ -2,7 +2,7 @@
 title: "Coworking en Antigua Guatemala: un paraíso para el trabajo remoto"
 tag: "Lifestyle"
 excerpt: "Descubre por qué los nómadas digitales eligen Antigua Guatemala para trabajar remoto: los mejores espacios de coworking, costos, velocidades de internet y el estilo de vida que los hace volver."
-image: "/images/blog/antigua-coworking-digital-nomads.jpg"
+image: "/images/blog/ai-generated/antigua-rooftop-morning.png"
 alt: "Nómada digital trabajando en un espacio de coworking en Antigua Guatemala con vista a los volcanes"
 date: 2026-06-28
 lang: "es"

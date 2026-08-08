@@ -2,7 +2,7 @@
 title: "Guatemala Real Estate Market: What You Need to Know"
 tag: "Market Insights"
 excerpt: "Current trends, prices, and opportunities in the Guatemalan property market."
-image: "/images/blog/antigua-guatemala-real-estate.png"
+image: "/images/blog/ai-generated/antigua-volcano-sunset.png"
 alt: "Guatemala real estate market overview"
 date: 2025-11-07
 ---

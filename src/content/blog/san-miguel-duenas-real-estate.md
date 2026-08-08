@@ -2,7 +2,7 @@
 title: "San Miguel Dueñas Real Estate: A Hidden Gem Near Antigua"
 tag: "Neighborhoods"
 excerpt: "Why buyers are looking beyond Antigua to San Miguel Dueñas — volcano views, larger lots, and prices that make sense in 2026."
-image: "/images/blog/San Miguel Dueñas.png"
+image: "/images/blog/ai-generated/antigua-volcano-panorama.png"
 alt: "Scenic view of San Miguel Dueñas with Volcán de Agua in the background near Antigua Guatemala"
 date: 2026-06-19
 ---

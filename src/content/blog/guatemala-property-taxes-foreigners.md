@@ -2,7 +2,7 @@
 title: "Guatemala Property Taxes for Foreigners: 2026 Guide"
 tag: "Legal"
 excerpt: "Understand Guatemala's property tax system before you buy. This guide covers annual taxes, transfer costs, capital gains, and how to stay compliant as a foreign owner."
-image: "/images/blog/financing-options-antigua-guatemala.jpg"
+image: "/images/blog/ai-generated/antigua-textile-market.png"
 alt: "Colorful colonial street in Antigua Guatemala with tax and property investment overlay"
 date: 2026-06-23
 ---

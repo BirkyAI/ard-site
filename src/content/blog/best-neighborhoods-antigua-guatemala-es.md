@@ -2,7 +2,7 @@
 title: "Los Mejores Barrios de Antigua Guatemala para Extranjeros"
 tag: "Neighborhoods"
 excerpt: "Descubrí los mejores barrios de Antigua Guatemala — desde el Centro Histórico caminable hasta la tranquilidad de San Felipe. Encontrá el área perfecta para tu estilo de vida y presupuesto."
-image: "/images/blog/properties-for-sale-in-antigua-guatemala.jpg"
+image: "/images/blog/ai-generated/antigua-park-scene.png"
 alt: "Casas coloniales coloridas en un barrio tranquilo de Antigua Guatemala con vistas al volcán"
 date: 2026-06-21
 lang: "es"
