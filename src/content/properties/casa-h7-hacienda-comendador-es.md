@@ -10,8 +10,8 @@ badge: "Pre-Venta"
 description: "Casa de 3 recámaras estilo colonial moderno en comunidad cerrada cerca de Antigua. 315m² en lote de 210m², vistas a volcanes, acabados premium. Entrega Q4 2025."
 image: "/images/properties/casa-h7-hacienda-comendador/1.jpg"
 alt: "Casa colonial moderna en venta en Hacienda del Comendador, San Miguel Dueñas cerca de Antigua Guatemala con vistas a volcanes"
-featured: true
-hidden: false
+featured: false
+hidden: true
 date: 2026-08-07
 type: "House"
 priceLabel: "$525,000 USD"
