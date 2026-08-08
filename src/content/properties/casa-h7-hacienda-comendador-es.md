@@ -7,8 +7,8 @@ baths: 4
 area: "315m² de construcción en lote de 210m²"
 status: "Pre-Venta"
 badge: "Pre-Venta"
-description: "Casa de 3 recámaras estilo colonial moderno en comunidad cerrada cerca de Antigua. 315m² en lote de 210m², vistas a volcanes, acabados premium. Entrega Q4 2025."
-image: "/images/properties/casa-h7-hacienda-comendador/6.jpg"
+description: "Casa de 3 recámaras estilo colonial moderno en comunidad cerrada cerca de Antigua. 315m² en lote de 210m², vistas a volcanes. Actualmente en obra gris — finalización estimada noviembre 2026."
+image: "/images/properties/casa-h7-hacienda-comendador/1.jpg"
 alt: "Casa colonial moderna en venta en Hacienda del Comendador, San Miguel Dueñas cerca de Antigua Guatemala con vistas a volcanes"
 featured: true
 hidden: false
@@ -39,7 +39,9 @@ gallery:
 
 ## Acerca de Esta Propiedad
 
-Bienvenido a **Casa H7** en **Hacienda del Comendador** — un impresionante hogar de estilo colonial moderno en una comunidad cerrada exclusiva a solo **16 minutos del Parque Central de Antigua Guatemala**. Esta oportunidad de preventa ofrece espacios amplios en dos niveles con espectaculares vistas a los volcanes.
+Bienvenido a **Casa H7** en **Hacienda del Comendador** — un impresionante hogar de estilo colonial moderno en una comunidad cerrada exclusiva a solo **16 minutos del Parque Central de Antigua Guatemala**. Actualmente se encuentra en **obra gris**, con finalización estimada para **noviembre de 2026**. El desarrollador, **Andrés Bueso**, terminó un modelo muy similar (V22) a principios de este año — las fotos en este listado son de esa casa terminada para mostrarle la calidad y el estilo que puede esperar.
+
+> **Nota sobre las fotos:** Las imágenes mostradas son de una casa casi idéntica ya terminada (Modelo V22) finalizada a principios de este año. Casa H7 sigue el mismo diseño con los mismos acabados premium. Actualizaremos con fotos de la casa real una vez que la construcción esté completa.
 
 **Referencia:** ARD-HDC-001
 
@@ -54,7 +56,7 @@ Bienvenido a **Casa H7** en **Hacienda del Comendador** — un impresionante hog
 - 🚗 **Estacionamiento:** 1 garage cubierto
 - 🏊 **Casa Club** incluida con piscina y amenidades
 - 🔒 **Seguridad 24/7** con garita de acceso
-- 📅 **Entrega:** Q4 2025 (precio de preventa)
+- 📅 **Finalización Estimada:** Noviembre 2026 (actualmente en obra gris)
 
 ## Primer Nivel
 
@@ -88,8 +90,8 @@ San Miguel Dueñas es un área residencial en crecimiento justo afuera de Antigu
 ## Precio y Términos
 
 - **Precio:** $525,000 USD (más impuestos aplicables)
-- **Estado:** Preventa — traspaso inmediato (S.A.)
-- **Entrega:** Q4 2025
+- **Estado:** Preventa — actualmente en obra gris
+- **Finalización Estimada:** Noviembre 2026
 - **Incluye:** Membresía de Casa Club, 1 estacionamiento
 
 *Los renders e imágenes son ilustrativos. Los acabados, colores y especificaciones pueden variar según el presupuesto de construcción y los planos finales. Muebles, electrodomésticos y artículos decorativos no están incluidos.*

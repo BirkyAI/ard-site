@@ -7,8 +7,8 @@ baths: 4
 area: "315m² construction on 210m² lot"
 status: "Pre-Construction"
 badge: "Pre-Construction"
-description: "3-bedroom modern colonial home in gated community near Antigua. 315m² on 210m² lot, volcano views, premium finishes. Delivery Q4 2025."
-image: "/images/properties/casa-h7-hacienda-comendador/6.jpg"
+description: "3-bedroom modern colonial home in gated community near Antigua. 315m² on 210m² lot, volcano views. Currently in obra gris — estimated completion November 2026."
+image: "/images/properties/casa-h7-hacienda-comendador/1.jpg"
 alt: "Modern colonial home for sale in Hacienda del Comendador, San Miguel Dueñas near Antigua Guatemala with volcano views"
 featured: true
 hidden: false
@@ -38,7 +38,9 @@ gallery:
 
 ## About This Property
 
-Welcome to **Casa H7** at **Hacienda del Comendador** — a stunning modern colonial home in an exclusive gated community just **16 minutes from Antigua Guatemala's Central Park**. This pre-construction opportunity offers spacious living across two levels with spectacular volcano views.
+Welcome to **Casa H7** at **Hacienda del Comendador** — a stunning modern colonial home in an exclusive gated community just **16 minutes from Antigua Guatemala's Central Park**. Currently in **obra gris** (gray shell), with estimated completion by **November 2026**. The developer, **Andrés Bueso**, had a very similar model (V22) completed earlier this year — the photos in this listing are from that finished home to show you the quality and style you can expect.
+
+> **Note about photos:** The images shown are from a nearly identical completed home (Model V22) finished earlier this year. Casa H7 follows the same design with the same premium finishes. We'll update with photos of the actual finished house once construction is complete.
 
 **Reference:** ARD-HDC-001
 
@@ -53,7 +55,7 @@ Welcome to **Casa H7** at **Hacienda del Comendador** — a stunning modern colo
 - 🚗 **Parking:** 1 covered garage
 - 🏊 **Casa Club** membership included with pool and amenities
 - 🔒 **24/7 gated security**
-- 📅 **Delivery:** Q4 2025 (pre-construction pricing)
+- 📅 **Estimated Completion:** November 2026 (currently in obra gris)
 
 ## First Level
 
@@ -87,8 +89,8 @@ San Miguel Dueñas is a growing residential area just outside Antigua — quiet,
 ## Price & Terms
 
 - **Price:** $525,000 USD (plus applicable taxes)
-- **Status:** Pre-Construction — immediate transfer (S.A.)
-- **Delivery:** Q4 2025
+- **Status:** Pre-Construction — currently in obra gris
+- **Estimated Completion:** November 2026
 - **Includes:** Casa Club membership, 1 parking space
 
 *Renders and images are illustrative. Finishes, colors, and specifications may vary per construction budget and final plans. Furniture, appliances, and decorative items not included.*

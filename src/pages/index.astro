@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 const allProperties = await getCollection('properties');
-const featuredOrder = ['rental-san-gaspar-vivar', 'rental-barrios-coloniales', 'los-apostoles'];
+const featuredOrder = ['casa-h7-hacienda-comendador', 'rental-san-gaspar-vivar', 'los-apostoles'];
 const featured = featuredOrder.map(id => allProperties.find(p => p.id === id && p.data.lang !== 'es' && !p.data.hidden)).filter(Boolean);
 const allBlog = await getCollection('blog');
 const recentBlog = allBlog.filter(p => p.data.lang !== 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
