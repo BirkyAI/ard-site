@@ -8,17 +8,15 @@ area: "315m² construction on 210m² lot"
 status: "Pre-Construction"
 badge: "Pre-Construction"
 description: "3-bedroom modern colonial home in gated community near Antigua. 315m² on 210m² lot, volcano views, premium finishes. Delivery Q4 2025."
-image: "/images/properties/casa-h7-hacienda-comendador/1.jpg"
+image: "/images/properties/casa-h7-hacienda-comendador/6.jpg"
 alt: "Modern colonial home for sale in Hacienda del Comendador, San Miguel Dueñas near Antigua Guatemala with volcano views"
-featured: false
-hidden: true
+featured: true
+hidden: false
 date: 2026-08-07
 type: "House"
 priceLabel: "$525,000 USD"
 gallery:
   - "/images/properties/casa-h7-hacienda-comendador/1.jpg"
-  - "/images/properties/casa-h7-hacienda-comendador/2.jpg"
-  - "/images/properties/casa-h7-hacienda-comendador/3.jpg"
   - "/images/properties/casa-h7-hacienda-comendador/4.jpg"
   - "/images/properties/casa-h7-hacienda-comendador/5.jpg"
   - "/images/properties/casa-h7-hacienda-comendador/6.jpg"
@@ -28,6 +26,14 @@ gallery:
   - "/images/properties/casa-h7-hacienda-comendador/10.jpg"
   - "/images/properties/casa-h7-hacienda-comendador/11.jpg"
   - "/images/properties/casa-h7-hacienda-comendador/12.jpg"
+  - "/images/properties/casa-h7-hacienda-comendador/13.jpg"
+  - "/images/properties/casa-h7-hacienda-comendador/14.jpg"
+  - "/images/properties/casa-h7-hacienda-comendador/15.jpg"
+  - "/images/properties/casa-h7-hacienda-comendador/16.jpg"
+  - "/images/properties/casa-h7-hacienda-comendador/17.jpg"
+  - "/images/properties/casa-h7-hacienda-comendador/18.jpg"
+  - "/images/properties/casa-h7-hacienda-comendador/19.jpg"
+  - "/images/properties/casa-h7-hacienda-comendador/20.jpg"
 ---
 
 ## About This Property
