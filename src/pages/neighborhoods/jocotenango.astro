@@ -13,7 +13,7 @@ const jsonLD = JSON.stringify({
   "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
 });
 ---
-<BaseLayout title="Living in Jocotenango | Antigua Guatemala Neighborhood Guide" description="Jocotenango is a practical, affordable town just north of Antigua Guatemala — great for families, first-time buyers, and rental investors. Discover what it has to offer.">
+<BaseLayout title="Living in Jocotenango | Antigua Guatemala Neighborhood Guide" description="Jocotenango is a practical, affordable town just north of Antigua Guatemala — great for families, first-time buyers, and rental investors. Discover what it has to offer." image="/images/blog/ai-generated/antigua-street-colonial-walk.png">
   <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">

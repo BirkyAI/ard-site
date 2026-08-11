@@ -12,7 +12,7 @@ const isRental = p.type === 'rental';
 const displayPrice = p.priceLabel || (isRental ? `$${p.price.toLocaleString()}/month` : `$${p.price.toLocaleString()}`);
 const metaDescription = `${p.title} in ${p.location}, Antigua Guatemala. ${p.beds ? p.beds + ' beds, ' : ''}${p.baths ? p.baths + ' baths, ' : ''}${p.area && p.area !== 'N/A' ? p.area + '. ' : ''}${displayPrice}.`;
 ---
-<BaseLayout title={`${p.title} | Antigua Real Estate Development`} description={metaDescription}>
+<BaseLayout title={`${p.title} | Antigua Real Estate Development`} description={metaDescription} image={p.image}>
   <script type="application/ld+json" set:html={JSON.stringify({"@context":"https://schema.org","@type":"RealEstateListing","name":p.title,"description":`${p.title} in ${p.location}, Antigua Guatemala`,"url":Astro.url.href,"image":p.image,"offers":{"@type":"Offer","price":p.price,"priceCurrency":"USD","priceSpecification": isRental ? {"@type":"UnitPriceSpecification","price":p.price,"priceCurrency":"USD","billingDuration":"P1M"} : undefined}})} />
   <section style="padding:48px 0;">
     <div class="container">

@@ -13,7 +13,7 @@ const jsonLD = JSON.stringify({
   "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
 });
 ---
-<BaseLayout title="Living in San Pedro Las Huertas | Antigua Guatemala Neighborhood Guide" description="San Pedro Las Huertas is a favorite expat village near Antigua Guatemala — volcano views, peaceful countryside, and modern gated communities. Discover if it is right for you.">
+<BaseLayout title="Living in San Pedro Las Huertas | Antigua Guatemala Neighborhood Guide" description="San Pedro Las Huertas is a favorite expat village near Antigua Guatemala — volcano views, peaceful countryside, and modern gated communities. Discover if it is right for you." image="/images/blog/ai-generated/antigua-local-cafe.png">
   <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">

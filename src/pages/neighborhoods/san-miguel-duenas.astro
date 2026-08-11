@@ -13,7 +13,7 @@ const jsonLD = JSON.stringify({
   "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
 });
 ---
-<BaseLayout title="Living in San Miguel Dueñas | Antigua Guatemala Neighborhood Guide" description="San Miguel Dueñas is a fast-growing investment area near Antigua Guatemala — affordable land, new developments, and great value. Discover if it is right for you.">
+<BaseLayout title="Living in San Miguel Dueñas | Antigua Guatemala Neighborhood Guide" description="San Miguel Dueñas is a fast-growing investment area near Antigua Guatemala — affordable land, new developments, and great value. Discover if it is right for you." image="/images/blog/ai-generated/antigua-hacienda-exterior.png">
   <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">

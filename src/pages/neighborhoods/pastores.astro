@@ -13,7 +13,7 @@ const jsonLD = JSON.stringify({
   "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
 });
 ---
-<BaseLayout title="Living in Pastores | Antigua Guatemala Neighborhood Guide" description="Pastores is an affordable, authentic town near Antigua Guatemala — known for leather goods and local character. Discover if this hidden gem is right for you.">
+<BaseLayout title="Living in Pastores | Antigua Guatemala Neighborhood Guide" description="Pastores is an affordable, authentic town near Antigua Guatemala — known for leather goods and local character. Discover if this hidden gem is right for you." image="/images/blog/ai-generated/antigua-market-textiles.png">
   <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">

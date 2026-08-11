@@ -11,7 +11,7 @@ const post = Astro.props;
 const { Content } = await render(post);
 const d = post.data;
 ---
-<BaseLayout locale="es" title={`${d.title} | Antigua Real Estate Development`} description={d.excerpt}>
+<BaseLayout locale="es" title={`${d.title} | Antigua Real Estate Development`} description={d.excerpt} image={d.image}>
   <script type="application/ld+json" set:html={JSON.stringify({"@context":"https://schema.org","@type":"Article","headline":d.title,"description":d.excerpt,"image":d.image,"datePublished":d.date.toISOString(),"author":{"@type":"Person","name":"Luna Jerney"},"publisher":{"@type":"Organization","name":"Antigua Real Estate Development"}})} />
   <section style="padding:48px 0;">
     <div class="container">

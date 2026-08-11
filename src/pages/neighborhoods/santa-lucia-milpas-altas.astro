@@ -13,7 +13,7 @@ const jsonLD = JSON.stringify({
   "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
 });
 ---
-<BaseLayout title="Living in Santa Lucía Milpas Altas | Antigua Guatemala Neighborhood Guide" description="Santa Lucía Milpas Altas offers cooler mountain air, forested surroundings, and larger homes — a peaceful retreat for nature lovers near Antigua Guatemala.">
+<BaseLayout title="Living in Santa Lucía Milpas Altas | Antigua Guatemala Neighborhood Guide" description="Santa Lucía Milpas Altas offers cooler mountain air, forested surroundings, and larger homes — a peaceful retreat for nature lovers near Antigua Guatemala." image="/images/blog/ai-generated/antigua-rooftop-morning.png">
   <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">
