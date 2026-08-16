@@ -2,7 +2,7 @@
 title: "Home Renovation Costs in Antigua Guatemala: 2026 Budget Guide"
 tag: "Relocation"
 excerpt: "Plan your Antigua Guatemala renovation with real cost breakdowns for labor, materials, permits, and colonial restoration. Updated for 2026."
-image: "/images/ai-gen/home-renovation-costs-antigua-guatemala.png"
+image: "/images/ai-gen/home-renovation-costs-antigua-guatemala-landscape.png"
 alt: "Colonial home renovation in Antigua Guatemala with workers restoring adobe walls and tile roof"
 date: 2026-08-15
 ---
