@@ -23,6 +23,16 @@ const d = post.data;
         </div>
         <div class="prose"><Content /></div>
 
+        <!-- Lead Magnet -->
+        <div style="margin-top:48px;padding:32px;background:linear-gradient(135deg, rgba(6,95,70,0.15), rgba(5,150,105,0.08));border:1.5px solid rgba(5,150,105,0.3);border-radius:16px;display:grid;grid-template-columns:auto 1fr auto;gap:20px;align-items:center;" class="lead-magnet">
+          <div style="font-size:2.5rem;">📋</div>
+          <div>
+            <div style="font-weight:700;color:#065f46;font-size:1rem;margin-bottom:4px;">Planning a Move to Antigua?</div>
+            <div style="font-size:0.85rem;color:var(--color-text-secondary);line-height:1.5;">Get our free relocation checklist — visas, banking, housing, healthcare, and more. Everything you need in one place.</div>
+          </div>
+          <a href="/relocation-checklist/" class="btn btn--dark" style="white-space:nowrap;font-size:0.9rem;padding:12px 24px;flex-shrink:0;">Download Free →</a>
+        </div>
+
         <!-- CTA -->
         <div style="margin-top:64px;padding:48px;background:#111;border-radius:16px;text-align:center;color:white;">
           <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;">Interested in Antigua Real Estate?</h2>
@@ -38,3 +48,15 @@ const d = post.data;
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  @media (max-width: 640px) {
+    .lead-magnet {
+      grid-template-columns: 1fr !important;
+      text-align: center;
+    }
+    .lead-magnet a {
+      width: 100%;
+    }
+  }
+</style>
