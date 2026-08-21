@@ -150,12 +150,7 @@
       "permanent": true
     },
     {
-      "source": "/downloads/relocation-checklist/",
-      "destination": "/downloads/relocation-checklist/",
-      "permanent": false
-    },
-    {
-      "source": "/downloads/",
+      "source": "/downloads(/?)",
       "destination": "/",
       "permanent": true
     },
