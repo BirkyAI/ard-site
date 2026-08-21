@@ -1,0 +1,143 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Expat Relocation Checklist | Antigua Real Estate Development" description="Download your free relocation checklist for moving to Antigua Guatemala. Covering visas, banking, housing, healthcare, and more." image="/images/header-pool-villa.jpg">
+  <section style="position:relative;min-height:60vh;display:flex;align-items:center;overflow:hidden;">
+    <div style="position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,0.3),rgba(0,0,0,0.7)),url('/images/header-pool-villa.jpg');background-size:cover;background-position:center 40%;"></div>
+    <div class="container" style="position:relative;z-index:2;color:white;padding:80px 0;text-align:center;">
+      <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(255,255,255,0.15);backdrop-filter:blur(8px);padding:6px 16px;border-radius:9999px;font-size:13px;font-weight:500;margin-bottom:24px;border:1px solid rgba(255,255,255,0.2);">📋 Free Resource</div>
+      <h1 style="font-size:clamp(32px,6vw,52px);font-weight:600;line-height:1.1;letter-spacing:-1px;margin-bottom:20px;max-width:700px;margin-left:auto;margin-right:auto;">The Complete Expat Relocation Checklist</h1>
+      <p style="font-size:clamp(16px,2.5vw,19px);line-height:1.6;opacity:0.9;max-width:550px;margin:0 auto 8px;">Everything you need to plan your move to Antigua Guatemala — visas, banking, housing, healthcare, schools, and more.</p>
+    </div>
+  </section>
+
+  <section style="padding:80px 0;background:var(--color-surface);">
+    <div class="container">
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:48px;max-width:960px;margin:0 auto;" class="lead-grid">
+        
+        <!-- LEFT: Benefits -->
+        <div>
+          <div style="display:inline-block;padding:6px 14px;background:rgba(16,185,129,0.15);border:1px solid rgba(16,185,129,0.3);border-radius:100px;color:#16a34a;font-size:0.8rem;font-weight:600;margin-bottom:20px;">✓ What's Inside</div>
+          <h2 style="font-size:24px;font-weight:600;margin-bottom:20px;">Your Move to Antigua, Simplified</h2>
+          <p style="color:var(--color-text-secondary);line-height:1.8;margin-bottom:28px;">Moving to a new country is overwhelming. This checklist walks you through every step so you don't miss anything important.</p>
+          <div style="display:flex;flex-direction:column;gap:16px;">
+            {[
+              {icon:'🛂',title:'Visa & Residency',desc:'Tourist visas, temporary residency, permanent residency — which one fits your situation'},
+              {icon:'🏦',title:'Banking & Finances',desc:'Open a Guatemalan bank account, transfer money, understand taxes and costs'},
+              {icon:'🏠',title:'Housing & Neighborhoods',desc:'Where to live, what to look for, rental process, and property buying tips'},
+              {icon:'🏥',title:'Healthcare Setup',desc:'Private vs public healthcare, insurance options, doctors and hospitals in Antigua'},
+              {icon:'⚖️',title:'Legal & Property',desc:'Lawyers, notaries, property due diligence, closing process explained'},
+              {icon:'🚚',title:'Moving & Logistics',desc:'Shipping belongings, importing a car, getting settled your first week'},
+            ].map(item => (
+              <div style="display:grid;grid-template-columns:auto 1fr;gap:14px;padding:16px;background:white;border-radius:12px;border:1px solid var(--color-border);">
+                <div style="width:44px;height:44px;background:rgba(16,185,129,0.1);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:22px;">{item.icon}</div>
+                <div>
+                  <div style="font-weight:600;font-size:15px;margin-bottom:4px;">{item.title}</div>
+                  <div style="font-size:13px;color:var(--color-text-secondary);line-height:1.5;">{item.desc}</div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+        
+        <!-- RIGHT: Form -->
+        <div style="background:white;border-radius:16px;border:1px solid var(--color-border);padding:40px;box-shadow:0 4px 20px rgba(0,0,0,0.08);">
+          <h2 style="font-size:20px;font-weight:600;margin-bottom:8px;">Get Your Free Checklist</h2>
+          <p style="font-size:14px;color:var(--color-text-secondary);margin-bottom:28px;">Enter your details and we'll send you the complete relocation checklist.</p>
+          <form id="checklist-form" style="display:flex;flex-direction:column;gap:18px;">
+            <div>
+              <label style="display:block;font-weight:500;margin-bottom:6px;font-size:14px;">First Name</label>
+              <input type="text" id="cl-name" required style="width:100%;padding:12px 16px;border:2px solid var(--color-border);border-radius:10px;font-size:15px;background:#f8fafc;" placeholder="Your name">
+            </div>
+            <div>
+              <label style="display:block;font-weight:500;margin-bottom:6px;font-size:14px;">Email</label>
+              <input type="email" id="cl-email" required style="width:100%;padding:12px 16px;border:2px solid var(--color-border);border-radius:10px;font-size:15px;background:#f8fafc;" placeholder="your@email.com">
+            </div>
+            <div>
+              <label style="display:block;font-weight:500;margin-bottom:6px;font-size:14px;">I'm planning to move in</label>
+              <select id="cl-timeline" style="width:100%;padding:12px 16px;border:2px solid var(--color-border);border-radius:10px;font-size:15px;background:#f8fafc;">
+                <option value="1-3 months">1-3 months</option>
+                <option value="3-6 months">3-6 months</option>
+                <option value="6-12 months">6-12 months</option>
+                <option value="just exploring">Just exploring — no timeline</option>
+              </select>
+            </div>
+            <div>
+              <label style="display:block;font-weight:500;margin-bottom:6px;font-size:14px;">I'm interested in</label>
+              <select id="cl-interest" style="width:100%;padding:12px 16px;border:2px solid var(--color-border);border-radius:10px;font-size:15px;background:#f8fafc;">
+                <option value="renting">Renting a home</option>
+                <option value="buying">Buying a property</option>
+                <option value="investing">Investing in real estate</option>
+                <option value="not-sure">Just researching for now</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn--dark" style="width:100%;justify-content:center;font-size:16px;padding:14px;margin-top:8px;">
+              Download Free Checklist →
+            </button>
+          </form>
+          <p style="font-size:12px;color:var(--color-text-muted);text-align:center;margin-top:16px;">No spam. Just the checklist. Unsubscribe anytime.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section style="padding:60px 0;background:#111;color:white;text-align:center;">
+    <div class="container" style="max-width:700px;">
+      <h2 style="font-size:24px;font-weight:600;margin-bottom:12px;">Helped 50+ Expats Move to Antigua</h2>
+      <p style="font-size:15px;opacity:0.7;margin-bottom:32px;">Luna has been guiding expats through the relocation process since 2021.</p>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;text-align:left;">
+        <div style="padding:20px;background:rgba(255,255,255,0.05);border-radius:12px;border:1px solid rgba(255,255,255,0.1);">
+          <p style="font-size:14px;opacity:0.85;line-height:1.7;font-style:italic;">"Luna's checklist saved us from making several costly mistakes. We had no idea about the notary requirements and bank setup — she walked us through it all."</p>
+          <div style="font-size:13px;margin-top:12px;opacity:0.6;">— Sarah & Mark, moved from Colorado</div>
+        </div>
+        <div style="padding:20px;background:rgba(255,255,255,0.05);border-radius:12px;border:1px solid rgba(255,255,255,0.1);">
+          <p style="font-size:14px;opacity:0.85;line-height:1.7;font-style:italic;">"I was completely overwhelmed until I found this checklist. It broke everything down into manageable steps. Luna also connected me with a great lawyer."</p>
+          <div style="font-size:13px;margin-top:12px;opacity:0.6;">— James, retired from Seattle</div>
+        </div>
+      </div>
+      <div style="margin-top:32px;">
+        <a href="/about/" class="btn btn--outline" style="border-color:rgba(255,255,255,0.3);color:white;">Meet Luna →</a>
+      </div>
+    </div>
+  </section>
+
+  <script is:inline>
+    document.getElementById('checklist-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const name = document.getElementById('cl-name').value;
+      const email = document.getElementById('cl-email').value;
+      const timeline = document.getElementById('cl-timeline').value;
+      const interest = document.getElementById('cl-interest').value;
+      
+      const timelineLabels = {
+        '1-3 months': '1-3 months',
+        '3-6 months': '3-6 months',
+        '6-12 months': '6-12 months',
+        'just exploring': 'Just exploring'
+      };
+      const interestLabels = {
+        'renting': 'Renting',
+        'buying': 'Buying',
+        'investing': 'Investing',
+        'not-sure': 'Just researching'
+      };
+      
+      const text = `📋 New checklist download!\n\nName: ${name}\nEmail: ${email}\nTimeline: ${timelineLabels[timeline]}\nInterest: ${interestLabels[interest]}`;
+      
+      // Send to WhatsApp
+      window.open(`https://wa.me/50235716181?text=${encodeURIComponent(text)}`, '_blank');
+      
+      // Redirect to the actual checklist
+      window.location.href = '/downloads/relocation-checklist/';
+    });
+  </script>
+
+  <style>
+    @media (max-width: 768px) {
+      .lead-grid {
+        grid-template-columns: 1fr !important;
+      }
+    }
+  </style>
+</BaseLayout>
