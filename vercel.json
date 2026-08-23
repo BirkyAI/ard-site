@@ -498,6 +498,11 @@
       "source": "/google-search-console-real-estate-antigua/",
       "destination": "/blog/",
       "permanent": true
+    },
+    {
+      "source": "/es/downloads/relocation-checklist/",
+      "destination": "/es/contact/",
+      "permanent": true
     }
   ]
 }
