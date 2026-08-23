@@ -1,5 +1,469 @@
 {
+  "headers": [
+    {
+      "source": "/images/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/styles/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/_astro/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ],
   "redirects": [
+    {
+      "source": "/es/properties/land-san-mateo/",
+      "destination": "/es/properties/land-san-mateo-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/properties/studio-creativa-el-hato/",
+      "destination": "/es/properties/studio-creativa-el-hato-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/properties/portal-de-las-rosas/",
+      "destination": "/es/properties/portal-de-las-rosas-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/notion-for-real-estate/",
+      "destination": "/notion-for-real-estate/",
+      "permanent": true
+    },
+    {
+      "source": "/es/properties/paseo-del-obispo/",
+      "destination": "/es/properties/paseo-del-obispo-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/neighborhoods/(.*)",
+      "destination": "/neighborhoods/$1",
+      "permanent": true
+    },
+    {
+      "source": "/house-for-rent-real-de-santiago-antigua-guatemala/",
+      "destination": "/properties/",
+      "permanent": true
+    },
+    {
+      "source": "/one-level-house-for-sale/",
+      "destination": "/properties/",
+      "permanent": true
+    },
+    {
+      "source": "/360-view-cabin-antigua-guatemala/",
+      "destination": "/properties/",
+      "permanent": true
+    },
+    {
+      "source": "/es/neighborhoods/",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
+      "source": "/properties/(.*-es)/",
+      "destination": "/es/properties/$1/",
+      "permanent": true
+    },
+    {
+      "source": "/real-estate-agent-in-antigua-guatemala/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/properties-for-sale-in-antigua-guatemala/",
+      "destination": "/properties/",
+      "permanent": true
+    },
+    {
+      "source": "/house-for-rent-finca-tetuan-antigua-guatemala/",
+      "destination": "/properties/",
+      "permanent": true
+    },
+    {
+      "source": "/apartment-for-sale-san-juan-del-obispo/",
+      "destination": "/neighborhoods/san-juan-del-obispo/",
+      "permanent": true
+    },
+    {
+      "source": "/paseo-del-obispo/",
+      "destination": "/properties/paseo-del-obispo/",
+      "permanent": true
+    },
+    {
+      "source": "/long-term-rental-antigua/",
+      "destination": "/properties/",
+      "permanent": true
+    },
+    {
+      "source": "/checkout/",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/beautiful-colonial-house/",
+      "destination": "/properties/beautiful-colonial-house/",
+      "permanent": true
+    },
+    {
+      "source": "/portales-de-antigua-guatemala/",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-real-estate-market/",
+      "destination": "/es/blog/guatemala-real-estate-market-es/",
+      "permanent": true
+    },
+    {
+      "source": "/santa-sofia-condominium-ciudad-vieja-antigua-guatemala/",
+      "destination": "/neighborhoods/ciudad-vieja/",
+      "permanent": true
+    },
+    {
+      "source": "/exclusive-antigua-gardens-guatemala/",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
+      "source": "/owning-a-second-home/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/downloads(/?)$",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/downloads/the-real-estate-system/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/antigua-guatemala-real-estate-service/",
+      "destination": "/services/",
+      "permanent": true
+    },
+    {
+      "source": "/land-for-sale-san-mateo-milpas-altas-antigua-guatemala/",
+      "destination": "/properties/land-san-mateo/",
+      "permanent": true
+    },
+    {
+      "source": "/properties/rental-barrios-coloniales-unfurnished-es/",
+      "destination": "/es/properties/rental-barrios-coloniales-unfurnished-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/properties/casas-massima-reforma/",
+      "destination": "/es/properties/casas-massima-reforma-es/",
+      "permanent": true
+    },
+    {
+      "source": "/guatemala-real-estate-market/",
+      "destination": "/blog/guatemala-real-estate-market/",
+      "permanent": true
+    },
+    {
+      "source": "/es/es/(.*)",
+      "destination": "/es/$1",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/airbnb-antigua-hotspot/",
+      "destination": "/es/blog/airbnb-antigua-hotspot-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/antigua-guatemala-coworking-scene/",
+      "destination": "/es/blog/antigua-guatemala-coworking-scene-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/antigua-guatemala-festivals-cultural-calendar/",
+      "destination": "/es/blog/antigua-guatemala-festivals-cultural-calendar-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/antigua-guatemala-healthcare-expats/",
+      "destination": "/es/blog/antigua-guatemala-healthcare-expats-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/antigua-guatemala-retirement-guide/",
+      "destination": "/es/blog/antigua-guatemala-retirement-guide-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/antigua-guatemala-safety-expats/",
+      "destination": "/es/blog/antigua-guatemala-safety-expats-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/antigua-guatemala-vs-lake-atitlan-living/",
+      "destination": "/es/blog/antigua-guatemala-vs-lake-atitlan-living-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/best-day-trips-from-antigua-guatemala/",
+      "destination": "/es/blog/best-day-trips-from-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/best-neighborhoods-antigua-guatemala/",
+      "destination": "/es/blog/best-neighborhoods-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/best-restaurants-antigua-guatemala/",
+      "destination": "/es/blog/best-restaurants-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/building-custom-home-antigua-guatemala/",
+      "destination": "/es/blog/building-custom-home-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/buying-property-guatemala-foreigner/",
+      "destination": "/es/blog/buying-property-guatemala-foreigner-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/ciudad-vieja-living-guide/",
+      "destination": "/es/blog/ciudad-vieja-living-guide-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/colonial-homes-antigua-guatemala-restoration/",
+      "destination": "/es/blog/colonial-homes-antigua-guatemala-restoration-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/cost-of-living-antigua-guatemala-expats/",
+      "destination": "/es/blog/cost-of-living-antigua-guatemala-expats-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/driving-in-guatemala-foreigner/",
+      "destination": "/es/blog/driving-in-guatemala-foreigner-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/el-hato-living-guide-antigua/",
+      "destination": "/es/blog/el-hato-living-guide-antigua-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/expat-community-social-life-antigua-guatemala/",
+      "destination": "/es/blog/expat-community-social-life-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/expat-dating-social-life-antigua-guatemala/",
+      "destination": "/es/blog/expat-dating-social-life-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/furnished-vs-unfurnished-rentals-antigua/",
+      "destination": "/es/blog/furnished-vs-unfurnished-rentals-antigua-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/gated-communities-antigua-guatemala/",
+      "destination": "/es/blog/gated-communities-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/getting-around-antigua-without-car/",
+      "destination": "/es/blog/getting-around-antigua-without-car-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/grocery-shopping-antigua-guatemala/",
+      "destination": "/es/blog/grocery-shopping-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-banking-for-expats/",
+      "destination": "/es/blog/guatemala-banking-for-expats-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-coffee-country-real-estate/",
+      "destination": "/es/blog/guatemala-coffee-country-real-estate-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-expat-taxes/",
+      "destination": "/es/blog/guatemala-expat-taxes-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-mortgage-financing-foreigners/",
+      "destination": "/es/blog/guatemala-mortgage-financing-foreigners-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-property-due-diligence/",
+      "destination": "/es/blog/guatemala-property-due-diligence-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-property-insurance/",
+      "destination": "/es/blog/guatemala-property-insurance-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-property-taxes-foreigners/",
+      "destination": "/es/blog/guatemala-property-taxes-foreigners-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-real-estate-closing-process/",
+      "destination": "/es/blog/guatemala-real-estate-closing-process-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-real-estate-investment-2026/",
+      "destination": "/es/blog/guatemala-real-estate-investment-2026-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/guatemala-residency-through-real-estate/",
+      "destination": "/es/blog/guatemala-residency-through-real-estate-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/international-schools-antigua-guatemala/",
+      "destination": "/es/blog/international-schools-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/internet-wifi-expats-antigua-guatemala/",
+      "destination": "/es/blog/internet-wifi-expats-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/jocotenango-property-market/",
+      "destination": "/es/blog/jocotenango-property-market-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/living-near-volcanoes-antigua-guatemala/",
+      "destination": "/es/blog/living-near-volcanoes-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/long-term-rentals-antigua-guatemala/",
+      "destination": "/es/blog/long-term-rentals-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/moving-to-antigua-guatemala-with-pets/",
+      "destination": "/es/blog/moving-to-antigua-guatemala-with-pets-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/moving-to-guatemala-with-family/",
+      "destination": "/es/blog/moving-to-guatemala-with-family-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/pre-construction-homes-antigua-guatemala/",
+      "destination": "/es/blog/pre-construction-homes-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/property-management-absentee-owners-antigua/",
+      "destination": "/es/blog/property-management-absentee-owners-antigua-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/rainy-season-living-antigua-guatemala/",
+      "destination": "/es/blog/rainy-season-living-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/relocating-to-antigua-guatemala/",
+      "destination": "/es/blog/relocating-to-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/remote-work-antigua-guatemala/",
+      "destination": "/es/blog/remote-work-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/renting-vs-buying-antigua-guatemala/",
+      "destination": "/es/blog/renting-vs-buying-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/san-miguel-duenas-real-estate/",
+      "destination": "/es/blog/san-miguel-duenas-real-estate-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/spanish-language-schools-antigua-guatemala/",
+      "destination": "/es/blog/spanish-language-schools-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/trusted-real-estate-agent-antigua-guatemala/",
+      "destination": "/es/blog/trusted-real-estate-agent-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/utilities-guide-antigua-guatemala/",
+      "destination": "/es/blog/utilities-guide-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/volcano-views-property-antigua-guatemala/",
+      "destination": "/es/blog/volcano-views-property-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/walking-tours-antigua-guatemala/",
+      "destination": "/es/blog/walking-tours-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/water-quality-filtration-antigua-guatemala/",
+      "destination": "/es/blog/water-quality-filtration-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
+      "source": "/properties/casa-massima-reforma/",
+      "destination": "/properties/casas-massima-reforma/",
+      "permanent": true
+    },
+    {
+      "source": "/es/properties/casa-massima-reforma/",
+      "destination": "/es/properties/casas-massima-reforma-es/",
+      "permanent": true
+    },
     {
       "source": "/portfolio/",
       "destination": "/services/",
