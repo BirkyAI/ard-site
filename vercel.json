@@ -395,6 +395,11 @@
       "permanent": true
     },
     {
+      "source": "/es/blog/pros-cons-living-antigua-guatemala/",
+      "destination": "/es/blog/pros-cons-living-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
       "source": "/es/blog/property-management-absentee-owners-antigua/",
       "destination": "/es/blog/property-management-absentee-owners-antigua-es/",
       "permanent": true
