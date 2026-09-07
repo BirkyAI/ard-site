@@ -265,6 +265,11 @@
       "permanent": true
     },
     {
+      "source": "/es/blog/digital-nomad-antigua-guatemala/",
+      "destination": "/es/blog/digital-nomad-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
       "source": "/es/blog/driving-in-guatemala-foreigner/",
       "destination": "/es/blog/driving-in-guatemala-foreigner-es/",
       "permanent": true

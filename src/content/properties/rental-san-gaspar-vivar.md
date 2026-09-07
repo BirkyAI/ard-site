@@ -1,8 +1,8 @@
 ---
 title: "5BR House with 360° Views — San Gaspar Vivar, Santa Catarina Bobadilla"
 location: "San Gaspar Vivar, Santa Catarina Bobadilla"
-price: 15000
-priceLabel: "Q15,000/month"
+price: 13000
+priceLabel: "Q13,000/month"
 beds: 5
 baths: 4.5
 
@@ -56,7 +56,7 @@ A spacious 5-bedroom home in **San Gaspar Vivar**, Santa Catarina Bobadilla — 
 ### Lease Terms
 
 - 📝 **1-year minimum** contract
-- 🏷️ **Q15,000/month** — does not include utilities
+- 🏷️ **Q13,000/month** — does not include utilities
 - 🏠 **Unfurnished**
 - 🐕 Pets allowed (dog or cat) — requires **2 months deposit**
 - 💵 Standard deposit required

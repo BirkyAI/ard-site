@@ -1,8 +1,8 @@
 ---
 title: "Casa de 5 Hab. con Vistas 360° — San Gaspar Vivar, Santa Catarina Bobadilla"
 location: "San Gaspar Vivar, Santa Catarina Bobadilla"
-price: 15000
-priceLabel: "Q15,000/mes"
+price: 13000
+priceLabel: "Q13,000/mes"
 beds: 5
 baths: 4.5
 
@@ -57,7 +57,7 @@ Una amplia casa de 5 recámaras en **San Gaspar Vivar**, Santa Catarina Bobadill
 ### Términos del Contrato
 
 - 📝 **Mínimo 1 año** de contrato
-- 🏷️ **Q15,000/mes** — no incluye servicios
+- 🏷️ **Q13,000/mes** — no incluye servicios
 - 🏠 **Sin amueblar**
 - 🐕 Se aceptan mascotas (perro o gato) — requiere **2 meses de depósito**
 - 💵 Depósito estándar requerido
