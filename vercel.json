@@ -205,6 +205,11 @@
       "permanent": true
     },
     {
+      "source": "/es/blog/antigua-guatemala-for-couples/",
+      "destination": "/es/blog/antigua-guatemala-for-couples-es/",
+      "permanent": true
+    },
+    {
       "source": "/es/blog/antigua-guatemala-healthcare-expats/",
       "destination": "/es/blog/antigua-guatemala-healthcare-expats-es/",
       "permanent": true
