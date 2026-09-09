@@ -2,7 +2,7 @@
 title: "Impuestos para Extranjeros en Guatemala: Lo que todo Residente Extranjero Debe Saber"
 tag: "Legal"
 excerpt: "Conocé las obligaciones fiscales para residentes extranjeros en Guatemala, incluyendo impuesto sobre la renta, impuesto a la propiedad y cómo mantenerte en regla."
-image: "/images/blog/ai-generated/antigua-arch-golden-hour.png"
+image: "/images/blog/ai-generated/guatemala-expat-taxes.jpg"
 alt: "Luz dorada sobre un arco colonial en Antigua Guatemala"
 date: 2026-07-28
 lang: "es"

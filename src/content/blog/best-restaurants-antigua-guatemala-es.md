@@ -2,7 +2,7 @@
 title: "Los mejores restaurantes en Antigua Guatemala: guía gastronómica local"
 tag: "Lifestyle"
 excerpt: "Descubre los mejores restaurantes en Antigua Guatemala, desde la cocina guatemalteca tradicional hasta la alta cocina internacional. La guía de una expatriada local para comer bien."
-image: "/images/blog/ai-generated/antigua-breakfast-terrace.png"
+image: "/images/blog/ai-generated/best-restaurants-antigua-guatemala.jpg"
 alt: "Terraza para desayuno con luz dorada cálida en Antigua Guatemala"
 date: 2026-06-29
 lang: "es"

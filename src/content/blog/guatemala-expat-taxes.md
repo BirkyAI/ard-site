@@ -2,7 +2,7 @@
 title: "Guatemala Expat Taxes: What Foreign Residents Owe"
 tag: "Legal"
 excerpt: "Understanding Guatemala's tax obligations for foreign residents, including income tax, property tax, and how to stay compliant."
-image: "/images/blog/ai-generated/antigua-arch-golden-hour.png"
+image: "/images/blog/ai-generated/guatemala-expat-taxes.jpg"
 alt: "Golden hour light on a colonial arch in Antigua Guatemala"
 date: 2026-07-28
 ---
