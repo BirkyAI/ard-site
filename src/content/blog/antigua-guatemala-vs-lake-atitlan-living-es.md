@@ -2,7 +2,7 @@
 title: "Antigua Guatemala vs. Lago de Atitlán: dónde vivir en 2026"
 tag: "Relocation"
 excerpt: "Comparando los dos destinos más populares para expatriados en Guatemala — ¿encanto colonial o serenidad junto al lago? Esto es lo que necesitas saber antes de elegir."
-image: "/images/blog/ai-generated/antigua-volcano-panorama.png"
+image: "/images/blog/ai-generated/antigua-guatemala-vs-lake-atitlan-living.jpg"
 alt: "Vista panorámica del paisaje guatemalteco con montañas y arquitectura tradicional"
 date: 2026-06-24
 lang: "es"

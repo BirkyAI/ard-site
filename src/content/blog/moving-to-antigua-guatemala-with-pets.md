@@ -2,7 +2,7 @@
 title: "Moving to Antigua Guatemala With Pets: 2026 Guide"
 tag: "Relocation"
 excerpt: "Everything you need to know about bringing pets to Guatemala — import rules, vet care, pet-friendly housing, and settling in with your furry family."
-image: "/images/blog/ai-generated/antigua-volcano-sunset.png"
+image: "/images/blog/ai-generated/moving-to-antigua-guatemala-with-pets.jpg"
 alt: "Golden sunset over Volcán de Agua seen from a terrace in Antigua Guatemala, warm light on colonial rooftops"
 date: 2026-07-05
 ---

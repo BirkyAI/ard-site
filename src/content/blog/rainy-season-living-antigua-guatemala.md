@@ -2,7 +2,7 @@
 title: "Rainy Season in Antigua Guatemala: An Expat's Survival Guide"
 tag: "Lifestyle"
 excerpt: "What to expect during Antigua's rainy season — from afternoon downpours to volcanic mudslides — and how expats thrive May through October."
-image: "/images/blog/ai-generated/antigua-cobblestone-street.png"
+image: "/images/blog/ai-generated/rainy-season-living-antigua-guatemala.jpg"
 alt: "Cobblestone street in Antigua Guatemala with colonial buildings and soft golden light"
 date: 2026-07-02
 ---

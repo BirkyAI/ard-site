@@ -2,7 +2,7 @@
 title: "Proceso de Cierre de Bienes Raíces en Guatemala: Una Guía Paso a Paso"
 tag: "Legal"
 excerpt: "¿Vas a comprar una propiedad en Guatemala? Conoce el proceso completo de cierre, desde la oferta hasta la escritura — requisitos legales, pasos notariales, costos y qué esperar."
-image: "/images/blog/ai-generated/antigua-courtyard-fountain.png"
+image: "/images/blog/ai-generated/guatemala-real-estate-closing-process.jpg"
 alt: "Patio colonial con fuente de piedra en Antigua Guatemala, con luz dorada cálida"
 date: 2026-07-03
 lang: "es"

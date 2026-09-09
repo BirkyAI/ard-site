@@ -2,7 +2,7 @@
 title: "Property Management for Absentee Owners in Antigua Guatemala"
 tag: "Investment"
 excerpt: "Owning property in Antigua from abroad? Here is how to protect your investment, find reliable managers, and keep your home in top shape."
-image: "/images/blog/ai-generated/antigua-ai-courtyard.png"
+image: "/images/blog/ai-generated/property-management-absentee-owners-antigua.jpg"
 alt: "Beautiful courtyard garden of a colonial property in Antigua Guatemala with lush plants and stone pathways"
 date: 2026-07-15
 ---

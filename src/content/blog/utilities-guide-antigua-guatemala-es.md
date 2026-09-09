@@ -2,7 +2,7 @@
 title: "Servicios Básicos en Antigua Guatemala: Agua, Electricidad e Internet"
 tag: "Relocation"
 excerpt: "¿Te mudás a Antigua Guatemala? Acá tenés tu guía completa para conectar agua, luz, internet y gas — con costos reales y consejos locales."
-image: "/images/blog/ai-generated/antigua-market-scene.png"
+image: "/images/blog/ai-generated/utilities-guide-antigua-guatemala.jpg"
 alt: "Colorido mercado local en Antigua Guatemala con productos frescos y luz dorada cálida"
 date: 2026-07-11
 lang: "es"

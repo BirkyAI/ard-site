@@ -2,7 +2,7 @@
 title: "Los 10 Errores Más Comunes al Comprar Propiedad en Antigua Guatemala"
 tag: "Investment"
 excerpt: "Evite errores costosos al comprar bienes raíces en Antigua Guatemala. Desde omitir la búsqueda de título hasta pagar de más, estos son los errores más comunes."
-image: "/images/blog/ai-generated/antigua-courtyard-fountain.png"
+image: "/images/blog/ai-generated/top-mistakes-foreign-buyers-antigua-guatemala.jpg"
 alt: "Hermoso patio colonial con fuente y buganvilias en Antigua Guatemala — una propiedad soñada que requiere diligencia debida"
 date: 2026-08-27
 lang: "es"

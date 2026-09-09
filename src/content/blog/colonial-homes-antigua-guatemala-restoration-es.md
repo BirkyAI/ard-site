@@ -2,7 +2,7 @@
 title: "Casas coloniales en Antigua Guatemala: Una guía de restauración"
 tag: "Lifestyle"
 excerpt: "Aprendé cómo restaurar casas coloniales en Antigua Guatemala — costos, permisos, arquitectos y qué esperar al comprar una propiedad para renovar."
-image: "/images/blog/ai-generated/antigua-courtyard-fountain.png"
+image: "/images/blog/ai-generated/colonial-homes-antigua-guatemala-restoration.jpg"
 alt: "Casa colonial restaurada con patio y muros de piedra volcánica en Antigua Guatemala"
 date: 2026-06-20
 lang: "es"
