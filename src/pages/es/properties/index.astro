@@ -72,7 +72,7 @@ const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).fi
                 {p.data.baths && <span>{p.data.baths} {t.labels.baths}</span>}
                 {p.data.area && p.data.area !== 'N/A' && <span>{p.data.area}</span>}
               </div>
-              <div class="property-card__price">${p.data.price.toLocaleString()}</div>
+              <div class="property-card__price">{p.data.price ? `$${p.data.price.toLocaleString()}` : (p.data.priceLabel || '')}</div>
             </div>
           </a>
         ))}

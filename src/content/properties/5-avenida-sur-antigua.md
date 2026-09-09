@@ -13,7 +13,7 @@ featured: false
 hidden: false
 date: 2026-06-17
 type: "House"
-priceLabel: "Coming Soon"
+priceLabel: "Waiting For Permits"
 gallery:
   - "/images/properties/5-avenida-sur-antigua/5-avenida-sur-1.jpg"
   - "/images/properties/5-avenida-sur-antigua/5-avenida-sur-2.jpg"

@@ -13,7 +13,7 @@ featured: false
 hidden: false
 date: 2026-06-17
 type: "House"
-priceLabel: "Próximamente"
+priceLabel: "En espera de permisos"
 lang: "es"
 gallery:
   - "/images/properties/5-avenida-sur-antigua/5-avenida-sur-1.jpg"
