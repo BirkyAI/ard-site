@@ -2,7 +2,7 @@
 title: "Costos de Renovación de Casas en Antigua Guatemala: Guía de Presupuesto 2026"
 tag: "Relocation"
 excerpt: "Planificá tu renovación en Antigua Guatemala con desgloses reales de mano de obra, materiales, permisos y restauración colonial. Actualizado para 2026."
-image: "/images/ai-gen/home-renovation-costs-antigua-guatemala.png"
+image: "/images/ai-gen/home-renovation-costs-antigua-guatemala-landscape.png"
 alt: "Renovación de casa colonial en Antigua Guatemala con trabajadores restaurando muros de adobe y techo de teja"
 date: 2026-08-15
 lang: "es"
