@@ -3,7 +3,7 @@ title: "San Miguel Dueñas Real Estate: A Hidden Gem Near Antigua"
 tag: "Neighborhoods"
 excerpt: "Why buyers are looking beyond Antigua to San Miguel Dueñas — volcano views, larger lots, and prices that make sense in 2026."
 image: "/images/blog/ai-generated/san-miguel-duenas-real-estate.jpg"
-alt: "Scenic view of San Miguel Dueñas with Volcán de Agua in the background near Antigua Guatemala"
+alt: "Colonial plaza in San Miguel Dueñas near Antigua Guatemala with a grand white church and twin bell towers facing a cobblestone square lined with yellow colonial buildings"
 date: 2026-06-19
 ---
 

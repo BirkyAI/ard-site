@@ -3,7 +3,7 @@ title: "Por qué Antigua Guatemala es el nuevo destino Airbnb"
 tag: "Investment"
 excerpt: "El mercado Airbnb en EE.UU. está saturado, pero Antigua ofrece rendimientos de alquiler del 8-15%."
 image: "/images/blog/ai-generated/airbnb-antigua-hotspot.jpg"
-alt: "Oportunidad de inversión Airbnb en Antigua Guatemala"
+alt: "Habitación soleada en un alquiler de Airbnb en Antigua Guatemala con cama mullida, decoración tejida y plantas tropicales"
 date: 2025-11-07
 lang: "es"
 ---

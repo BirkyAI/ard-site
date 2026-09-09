@@ -3,7 +3,7 @@ title: "Renting vs Buying in Antigua Guatemala: Expats Guide"
 tag: "Relocation"
 excerpt: "Should you rent or buy in Antigua Guatemala? Compare costs, lifestyle factors, and investment potential to make the right move for your situation."
 image: "/images/blog/ai-generated/renting-vs-buying-antigua-guatemala.jpg"
-alt: "Colorful colonial archway at golden hour in Antigua Guatemala with Volcán de Agua in the background"
+alt: "Set of brass house keys and a small wooden sign resting on a rustic table in front of a yellow colonial building with a terracotta roof in Antigua Guatemala"
 date: 2026-07-12
 ---
 

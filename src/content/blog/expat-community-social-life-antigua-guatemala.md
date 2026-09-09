@@ -3,7 +3,7 @@ title: "Expat Community in Antigua Guatemala: Finding Your People"
 tag: "Relocation"
 excerpt: "Moving to Antigua Guatemala? Discover how expats build friendships, find community groups, and create a social life in this vibrant colonial city."
 image: "/images/blog/ai-generated/expat-community-social-life-antigua-guatemala.jpg"
-alt: "People gathering in a colorful park in Antigua Guatemala surrounded by colonial buildings and lush greenery"
+alt: "Alfresco breakfast of coffee, croissants, and fresh fruit on a table in a lush colonial courtyard in Antigua Guatemala"
 date: 2026-07-09
 ---
 

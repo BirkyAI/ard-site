@@ -3,7 +3,7 @@ title: "Top 10 Mistakes Foreign Buyers Make When Buying Property in Antigua Guat
 tag: "Investment"
 excerpt: "Avoid costly errors when buying real estate in Antigua Guatemala. From skipping title searches to overpaying, here are the top mistakes foreign buyers make."
 image: "/images/blog/ai-generated/top-mistakes-foreign-buyers-antigua-guatemala.jpg"
-alt: "Beautiful colonial courtyard with fountain and bougainvillea in Antigua Guatemala — a dream property that requires careful due diligence"
+alt: "Street-facing colonial building with white stucco walls, stone foundation, and a terracotta roof, its signposted windows facing a cobblestone street in Antigua Guatemala"
 date: 2026-08-27
 lang: "en"
 ---

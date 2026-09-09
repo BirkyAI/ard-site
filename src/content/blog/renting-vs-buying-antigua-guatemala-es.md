@@ -3,7 +3,7 @@ title: "Alquilar vs Comprar en Antigua Guatemala: Guía para Extranjeros"
 tag: "Relocation"
 excerpt: "¿Deberías alquilar o comprar en Antigua Guatemala? Compará costos, factores de estilo de vida y potencial de inversión para tomar la mejor decisión."
 image: "/images/blog/ai-generated/renting-vs-buying-antigua-guatemala.jpg"
-alt: "Arco colonial colorido al atardecer en Antigua Guatemala con el Volcán de Agua de fondo"
+alt: "Juego de llaves de bronce y un pequeño letrero de madera sobre una mesa rústica frente a un edificio colonial amarillo con techo de teja en Antigua Guatemala"
 date: 2026-07-12
 lang: "es"
 ---

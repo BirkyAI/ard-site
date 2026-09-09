@@ -3,7 +3,7 @@ title: "Mercado Inmobiliario de Jocotenango: Vida Accesible Cerca de Antigua"
 tag: "Neighborhoods"
 excerpt: "Descubrí el creciente mercado inmobiliario de Jocotenango — encanto colonial, precios más bajos y a minutos del centro histórico de Antigua Guatemala."
 image: "/images/blog/ai-generated/jocotenango-property-market.jpg"
-alt: "Escena callejera en Jocotenango, un pintoresco pueblo cerca de Antigua Guatemala con edificios coloridos y vistas a las montañas"
+alt: "Animada calle de mercado al aire libre en Jocotenango, cerca de Antigua Guatemala, con puestos de coloridos textiles tejidos a mano y cerámica de barro sobre una calle empedrada"
 date: 2026-06-30
 lang: "es"
 ---

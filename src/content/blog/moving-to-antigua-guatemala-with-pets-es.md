@@ -3,7 +3,7 @@ title: "Mudarse a Antigua Guatemala Con Mascotas: Guía 2026"
 tag: "Relocation"
 excerpt: "Todo lo que necesitás saber para traer tus mascotas a Guatemala — requisitos de importación, atención veterinaria, viviendas pet-friendly y consejos prácticos."
 image: "/images/blog/ai-generated/moving-to-antigua-guatemala-with-pets.jpg"
-alt: "Atardecer dorado sobre el Volcán de Agua visto desde una terraza en Antigua Guatemala, luz cálida sobre techos coloniales"
+alt: "Perro labrador dorado sentado junto a cajas de cartón apiladas para la mudanza en un patio soleado frente a una casa colonial blanca en Antigua Guatemala"
 date: 2026-07-05
 lang: "es"
 ---

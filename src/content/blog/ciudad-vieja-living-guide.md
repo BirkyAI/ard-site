@@ -3,7 +3,7 @@ title: "Ciudad Vieja Living Guide: Antigua's Quieter Neighbor"
 tag: "Neighborhoods"
 excerpt: "Discover why Ciudad Vieja offers affordable colonial living just 10 minutes from Antigua Guatemala — history, community, and volcano views."
 image: "/images/blog/ai-generated/ciudad-vieja-living-guide.jpg"
-alt: "AI-generated colonial hacienda exterior in Ciudad Vieja near Antigua Guatemala with warm golden light and lush garden"
+alt: "Cobblestone street in Ciudad Vieja near Antigua Guatemala lined with colorful colonial facades and the volcano in the distance"
 date: 2026-07-01
 ---
 

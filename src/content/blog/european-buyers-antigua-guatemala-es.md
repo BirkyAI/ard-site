@@ -3,7 +3,7 @@ title: "Compradores Europeos en Antigua Guatemala: Guia Completa"
 tag: "Market Insights"
 excerpt: "Cada vez mas compradores britanicos, espanoles y alemanes eligen Antigua Guatemala para invertir en propiedades. Descubra por que."
 image: "/images/blog/ai-generated/european-buyers-antigua-guatemala.jpg"
-alt: "Calle colonial empedrada en Antigua Guatemala con edificios coloridos y volcan al fondo"
+alt: "Calle empedrada bañada por el sol en Antigua Guatemala bordeada de edificios coloniales coloridos con techos de teja"
 date: 2026-08-25
 lang: "es"
 ---

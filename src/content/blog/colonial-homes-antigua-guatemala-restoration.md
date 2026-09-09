@@ -3,7 +3,7 @@ title: "Colonial Homes in Antigua Guatemala: A Restoration Guide"
 tag: "Lifestyle"
 excerpt: "Learn how to restore colonial homes in Antigua Guatemala — costs, permits, architects, and what to expect when buying a fixer-upper."
 image: "/images/blog/ai-generated/colonial-homes-antigua-guatemala-restoration.jpg"
-alt: "Restored colonial home with courtyard and volcanic stone walls in Antigua Guatemala"
+alt: "Restored colonial courtyard home in Antigua Guatemala with white walls, dark wooden beams and lush tropical plants"
 date: 2026-06-20
 ---
 

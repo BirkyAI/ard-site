@@ -3,7 +3,7 @@ title: "Impuestos de Propiedad en Guatemala para Extranjeros: Guía 2026"
 tag: "Legal"
 excerpt: "Conocé el sistema de impuestos de propiedad en Guatemala antes de comprar. Esta guía cubre impuestos anuales, costos de transferencia, ganancias de capital y cómo mantenerte en regla como propietario extranjero."
 image: "/images/blog/ai-generated/guatemala-property-taxes-foreigners.jpg"
-alt: "Calle colonial colorida en Antigua Guatemala con gráficos de inversión e impuestos"
+alt: "Calculadora, documentos de facturación y un bolígrafo sobre un escritorio para gestionar impuestos y finanzas de propiedad"
 date: 2026-06-23
 lang: "es"
 ---

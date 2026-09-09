@@ -3,7 +3,7 @@ title: "Hiring Domestic Help in Antigua Guatemala: An Expat Guide"
 tag: "Relocation"
 excerpt: "Learn how to find, hire, and legally employ domestic help in Antigua Guatemala. Tips on salaries, contracts, and building a respectful working relationship."
 image: "/images/blog/ai-generated/hiring-domestic-help-antigua-guatemala.jpg"
-alt: "Colorful local cafe in Antigua Guatemala with warm golden light and colonial architecture"
+alt: "Bright, airy living room with a grey sofa, coffee table, and potted green houseplants lit by natural daylight"
 date: 2026-07-30
 lang: "en"
 ---

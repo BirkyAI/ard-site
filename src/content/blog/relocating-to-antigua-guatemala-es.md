@@ -3,7 +3,7 @@ title: "Guía Completa para Mudarse a Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Todo lo que necesitas saber para mudarte a Antigua — desde visas hasta encontrar tu primer hogar."
 image: "/images/blog/ai-generated/relocating-to-antigua-guatemala.jpg"
-alt: "Mudanza a Antigua Guatemala"
+alt: "Camioneta blanca de mudanzas con las puertas traseras abiertas llena de cajas de cartón estacionada en una calle empedrada frente a edificios coloniales blancos con techos de teja en Antigua Guatemala"
 date: 2025-11-07
 lang: "es"
 ---

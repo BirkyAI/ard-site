@@ -3,7 +3,7 @@ title: "Propiedades con Vista al Volcán en Antigua Guatemala: Guía para Compra
 tag: "Lifestyle"
 excerpt: "Descubrí cómo encontrar casas con impresionantes vistas al volcán en Antigua Guatemala. Conocé qué vecindarios ofrecen las mejores panorámicas de Agua, Fuego y Acatenango."
 image: "/images/blog/ai-generated/volcano-views-property-antigua-guatemala.jpg"
-alt: "Vista panorámica generada por IA del Volcán de Agua sobre los tejados de Antigua Guatemala"
+alt: "Terraza soleada con piso de barro, barandilla de madera y plantas en macetas con vista a un valle verde y al imponente cono del Volcán de Agua cerca de Antigua Guatemala"
 date: 2026-06-27
 lang: "es"
 ---

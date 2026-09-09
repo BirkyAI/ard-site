@@ -3,7 +3,7 @@ title: "European Buyers in Antigua Guatemala: A Complete Guide"
 tag: "Market Insights"
 excerpt: "More British, Spanish, and German buyers are choosing Antigua Guatemala for real estate. Here is why European investors are moving to this colonial city."
 image: "/images/blog/ai-generated/european-buyers-antigua-guatemala.jpg"
-alt: "Colonial cobblestone street in Antigua Guatemala with colorful buildings and volcano in background"
+alt: "Sunlit cobblestone street in Antigua Guatemala lined with colorful colonial buildings and terracotta tile roofs"
 date: 2026-08-25
 lang: "en"
 ---

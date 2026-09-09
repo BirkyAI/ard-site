@@ -3,7 +3,7 @@ title: "Utilities in Antigua Guatemala: Water, Electricity and Internet Setup"
 tag: "Relocation"
 excerpt: "Moving to Antigua Guatemala? Here is your complete guide to setting up water, electricity, internet, and gas — with real costs and insider tips."
 image: "/images/blog/ai-generated/utilities-guide-antigua-guatemala.jpg"
-alt: "Colorful local market scene in Antigua Guatemala with fresh produce and warm golden light"
+alt: "White electricity meter box mounted on the weathered exterior wall of an older building in Antigua Guatemala, with a digital power meter visible inside"
 date: 2026-07-11
 ---
 

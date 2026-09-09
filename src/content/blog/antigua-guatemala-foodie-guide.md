@@ -3,7 +3,7 @@ title: "Antigua Guatemala Foodie Guide: Where to Eat Like a Local"
 tag: "Lifestyle"
 excerpt: "From street food to fine dining, discover why Antigua Guatemala is Central America's most exciting food destination for expats and visitors."
 image: "/images/blog/ai-generated/antigua-guatemala-foodie-guide.jpg"
-alt: "Colorful cafe terrace in Antigua Guatemala with local cuisine"
+alt: "Plate of chicken curry with rice and flatbreads served on a rustic wooden table in Antigua Guatemala"
 date: 2026-08-03
 ---
 

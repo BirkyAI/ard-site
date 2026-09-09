@@ -3,7 +3,7 @@ title: "International Schools in Antigua Guatemala: A Guide for Families"
 tag: "Relocation"
 excerpt: "Discover the best bilingual and international schools in and around Antigua Guatemala, from preschool through high school, with costs, curricula, and what to expect."
 image: "/images/blog/ai-generated/international-schools-antigua-guatemala.jpg"
-alt: "Colorful market scene in Antigua Guatemala with local crafts and warm light"
+alt: "Modern school building with a sunny paved courtyard, glass doors, and potted plants in Antigua Guatemala"
 date: 2026-07-07
 ---
 

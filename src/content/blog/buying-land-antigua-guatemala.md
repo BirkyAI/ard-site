@@ -3,7 +3,7 @@ title: "Buying Land in Antigua Guatemala: A Complete Guide"
 tag: "Investment"
 excerpt: "Everything you need to know about buying land in Antigua Guatemala as a foreigner, from legal requirements to building your dream home."
 image: "/images/blog/ai-generated/buying-land-antigua-guatemala.jpg"
-alt: "Morning coffee with a view of Antigua Guatemala rooftops and volcanoes"
+alt: "Rural green field with a fence and a distant volcano under golden light near Antigua Guatemala"
 date: 2026-07-31
 lang: "en"
 ---

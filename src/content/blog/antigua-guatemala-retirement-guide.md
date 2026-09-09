@@ -3,7 +3,7 @@ title: "Antigua Guatemala Retirement Guide 2026: Your Complete Plan"
 tag: "Relocation"
 excerpt: "Discover why retirees are choosing Antigua Guatemala — affordable living, world-class healthcare, spring-like weather, and a welcoming expat community."
 image: "/images/blog/ai-generated/antigua-guatemala-retirement-guide.jpg"
-alt: "Colonial street scene in Antigua Guatemala with colorful facades and volcano backdrop"
+alt: "Tranquil colonial courtyard in Antigua Guatemala with a stone fountain, lounge chairs and lush tropical gardens"
 date: 2026-06-18
 ---
 

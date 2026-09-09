@@ -3,7 +3,7 @@ title: "Jocotenango Property Market: Affordable Living Near Antigua"
 tag: "Neighborhoods"
 excerpt: "Discover Jocotenango's growing real estate market — colonial charm, lower prices, and minutes from Antigua Guatemala's historic center."
 image: "/images/blog/ai-generated/jocotenango-property-market.jpg"
-alt: "Street scene in Jocotenango, a charming town near Antigua Guatemala with colorful buildings and mountain views"
+alt: "Bustling open-air market street in Jocotenango near Antigua Guatemala lined with stalls of colorful handwoven textiles and clay pottery on a cobblestone street"
 date: 2026-06-30
 ---
 

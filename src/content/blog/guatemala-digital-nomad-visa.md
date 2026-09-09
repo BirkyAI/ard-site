@@ -3,7 +3,7 @@ title: "Guatemala Digital Nomad Visa Guide: How to Live and Work in Antigua (202
 tag: "Relocation"
 excerpt: "Guatemala launched a dedicated digital nomad visa program. Learn the requirements, application process, costs, and how to find housing in Antigua Guatemala."
 image: "/images/blog/ai-generated/guatemala-digital-nomad-visa.jpg"
-alt: "Colorful colonial rooftops of Antigua Guatemala with Volcan de Agua at sunrise, warm golden light"
+alt: "Remote work setup with a laptop, coffee, and a Guatemalan passport on a balcony overlooking colonial Antigua and Volcán de Agua"
 date: 2026-08-06
 lang: "en"
 ---

@@ -3,7 +3,7 @@ title: "Why Antigua Guatemala is the New Airbnb Hotspot"
 tag: "Investment"
 excerpt: "The US Airbnb market is saturated, but Antigua offers 8-15% rental yields."
 image: "/images/blog/ai-generated/airbnb-antigua-hotspot.jpg"
-alt: "Airbnb investment opportunity in Antigua Guatemala"
+alt: "Sunlit bedroom in an Antigua Guatemala Airbnb rental with a plush bed, woven decor and tropical plants"
 date: 2025-11-07
 ---
 

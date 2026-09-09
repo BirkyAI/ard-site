@@ -3,7 +3,7 @@ title: "Comprar Terreno en Antigua Guatemala: Guía Completa"
 tag: "Investment"
 excerpt: "Todo lo que necesitás saber para comprar terreno en Antigua Guatemala como extranjero, desde requisitos legales hasta construir la casa de tus sueños."
 image: "/images/blog/ai-generated/buying-land-antigua-guatemala.jpg"
-alt: "Café matutino con vista a los techos y volcanes de Antigua Guatemala"
+alt: "Campo verde rural con una cerca y un volcán a lo lejos bajo luz dorada cerca de Antigua Guatemala"
 date: 2026-07-31
 lang: "es"
 ---

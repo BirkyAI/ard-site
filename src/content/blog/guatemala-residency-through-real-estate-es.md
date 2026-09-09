@@ -3,7 +3,7 @@ title: "Residencia en Guatemala a Través de Inversión Inmobiliaria"
 tag: "Legal"
 excerpt: "Aprende cómo comprar propiedad en Guatemala puede abrirte las puertas a la residencia legal. Guía paso a paso sobre los requisitos y plazos de la visa de inversionista."
 image: "/images/blog/ai-generated/guatemala-residency-through-real-estate.jpg"
-alt: "Documentos de residencia en Guatemala y concepto de inversión inmobiliaria"
+alt: "Pasaporte guatemalteco, llaves, bandera nacional y documentos legales firmados sobre un escritorio, símbolo de residencia mediante inversión inmobiliaria"
 date: 2026-06-25
 lang: "es"
 ---

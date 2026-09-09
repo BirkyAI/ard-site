@@ -3,7 +3,7 @@ title: "Escuelas Internacionales en Antigua Guatemala: Guía para Familias"
 tag: "Relocation"
 excerpt: "Descubrí las mejores escuelas bilingües e internacionales en y alrededor de Antigua Guatemala, desde preescolar hasta secundaria, con costos, currículos y lo que podés esperar."
 image: "/images/blog/ai-generated/international-schools-antigua-guatemala.jpg"
-alt: "Escena colorida de mercado en Antigua Guatemala con artesanías locales y luz cálida"
+alt: "Edificio escolar moderno con patio empedrado soleado, puertas de vidrio y plantas en macetas en Antigua Guatemala"
 date: 2026-07-07
 lang: "es"
 ---

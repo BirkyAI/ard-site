@@ -3,7 +3,7 @@ title: "Guatemala Residency Through Real Estate Investment"
 tag: "Legal"
 excerpt: "Learn how buying property in Guatemala can open the door to legal residency. Step-by-step guide to investor visa requirements and timelines."
 image: "/images/blog/ai-generated/guatemala-residency-through-real-estate.jpg"
-alt: "Guatemala residency documents and property investment concept"
+alt: "Guatemalan passport, keys, national flag, and signed legal documents on a desk symbolizing residency through property investment"
 date: 2026-06-25
 ---
 
