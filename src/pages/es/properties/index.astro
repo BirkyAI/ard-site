@@ -37,8 +37,8 @@ const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).fi
                 <div class="property-card__location">{p.data.location}</div>
                 <h2 class="property-card__title">{p.data.title}</h2>
                 <div class="property-card__details">
-                  {p.data.beds && <span>{p.data.beds} {t.labels.beds}</span>}
-                  {p.data.baths && <span>{p.data.baths} {t.labels.baths}</span>}
+                  {p.data.beds > 0 && <span>{p.data.beds} {t.labels.beds}</span>}
+                  {p.data.baths > 0 && <span>{p.data.baths} {t.labels.baths}</span>}
                   {p.data.area && p.data.area !== 'N/A' && <span>{p.data.area}</span>}
                 </div>
                 <div class="property-card__price">{p.data.priceLabel || `$${p.data.price.toLocaleString()}${t.labels.month}`}</div>
@@ -68,8 +68,8 @@ const rentals = [...rentalsOrder.map(id => rentalsRaw.find(p => p.id === id)).fi
               <div class="property-card__location">{p.data.location}</div>
               <h2 class="property-card__title">{p.data.title}</h2>
               <div class="property-card__details">
-                {p.data.beds && <span>{p.data.beds} {t.labels.beds}</span>}
-                {p.data.baths && <span>{p.data.baths} {t.labels.baths}</span>}
+                {p.data.beds > 0 && <span>{p.data.beds} {t.labels.beds}</span>}
+                {p.data.baths > 0 && <span>{p.data.baths} {t.labels.baths}</span>}
                 {p.data.area && p.data.area !== 'N/A' && <span>{p.data.area}</span>}
               </div>
               <div class="property-card__price">{p.data.price ? `$${p.data.price.toLocaleString()}` : (p.data.priceLabel || '')}</div>

@@ -57,8 +57,8 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
               <div class="property-card__location">{p.data.location}</div>
               <h3 class="property-card__title">{p.data.title}</h3>
               <div class="property-card__details">
-                {p.data.beds && <span>{p.data.beds} {t.labels.beds}</span>}
-                {p.data.baths && <span>{p.data.baths} {t.labels.baths}</span>}
+                {p.data.beds > 0 && <span>{p.data.beds} {t.labels.beds}</span>}
+                {p.data.baths > 0 && <span>{p.data.baths} {t.labels.baths}</span>}
                 {p.data.area && p.data.area !== 'N/A' && <span>{p.data.area}</span>}
               </div>
               <div class="property-card__price">{p.data.priceLabel || `$${p.data.price.toLocaleString()}`}</div>
