@@ -265,6 +265,11 @@
       "permanent": true
     },
     {
+      "source": "/es/blog/condos-apartments-antigua-guatemala/",
+      "destination": "/es/blog/condos-apartments-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
       "source": "/es/blog/cost-of-living-antigua-guatemala-expats/",
       "destination": "/es/blog/cost-of-living-antigua-guatemala-expats-es/",
       "permanent": true
