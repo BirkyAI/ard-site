@@ -2,8 +2,8 @@
 title: "¿Cuánto Cuesta Amueblar una Casa en Antigua Guatemala?"
 tag: "Lifestyle"
 excerpt: "Amueblar una casa en Antigua Guatemala cuesta entre $3,000 y $40,000+ según el estilo. Aquí tienes un desglose de costos por ambiente y dónde comprar muebles."
-image: "/images/blog/ai-generated/cost-to-furnish-home-antigua-guatemala.png"
-alt: "Patio colonial con una fuente y macetas en Antigua Guatemala"
+image: "/images/blog/ai-generated/cost-to-furnish-home-antigua-guatemala.jpg"
+alt: "Sala de estar colonial amueblada en Antigua Guatemala con luz dorada cálida, muebles de madera oscura y pisos de terracota"
 date: 2026-09-11
 lang: "es"
 ---

@@ -3,7 +3,7 @@ title: "Antigua Guatemala Real Estate for Australian Buyers: A Complete Guide"
 tag: "Relocation"
 excerpt: "Everything Australian buyers need to know about buying property in Antigua Guatemala — visas, costs, neighbourhoods, and how the Australian dollar stacks up."
 image: "/images/blog/ai-generated/australian-buyers-antigua-guatemala.jpg"
-alt: "Colonial hacienda exterior in Antigua Guatemala with a volcano view in the background"
+alt: "Colorful colonial homes along the cobblestone streets of Antigua Guatemala at sunset with Volcán de Agua in the background"
 date: 2026-09-10
 lang: "en"
 ---

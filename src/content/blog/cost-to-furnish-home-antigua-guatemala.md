@@ -2,8 +2,8 @@
 title: "How Much Does It Cost to Furnish a Home in Antigua Guatemala?"
 tag: "Lifestyle"
 excerpt: "Furnishing a home in Antigua Guatemala costs $3,000 to $40,000+ depending on style. Here is a room-by-room cost breakdown and where to buy furniture locally."
-image: "/images/blog/ai-generated/cost-to-furnish-home-antigua-guatemala.png"
-alt: "Colonial courtyard with a fountain and potted plants in Antigua Guatemala"
+image: "/images/blog/ai-generated/cost-to-furnish-home-antigua-guatemala.jpg"
+alt: "Furnished colonial-style living room in Antigua Guatemala with warm golden light, dark-wood furniture and terracotta floors"
 date: 2026-09-11
 lang: "en"
 ---
