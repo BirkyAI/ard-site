@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala Festivals and Cultural Calendar for Expats"
+title: "Antigua Guatemala Festivals & Cultural Calendar"
 tag: "Lifestyle"
 excerpt: "Discover the vibrant festival calendar in Antigua Guatemala. From Semana Santa to local patron saint festivals, here is what expats need to know about living in a city that celebrates year-round."
 image: "/images/blog/ai-generated/antigua-festivals-blog.jpg"

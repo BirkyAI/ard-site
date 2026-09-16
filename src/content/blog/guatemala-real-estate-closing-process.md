@@ -1,5 +1,5 @@
 ---
-title: "Guatemala Real Estate Closing Process: A Step-by-Step Guide"
+title: "Guatemala Real Estate Closing Process Guide"
 tag: "Legal"
 excerpt: "Buying property in Guatemala? Understand the full closing process from offer to title — legal requirements, notary steps, costs, and what to expect at closing."
 image: "/images/blog/ai-generated/guatemala-real-estate-closing-process.jpg"

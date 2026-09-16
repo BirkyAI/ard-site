@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala vs Lake Atitlan: Where to Live in 2026"
+title: "Antigua Guatemala vs Lake Atitlan (2026)"
 tag: "Relocation"
 excerpt: "Comparing two of Guatemala's most popular expat destinations — colonial charm or lakeside serenity? Here is what you need to know before choosing."
 image: "/images/blog/ai-generated/antigua-guatemala-vs-lake-atitlan-living.jpg"

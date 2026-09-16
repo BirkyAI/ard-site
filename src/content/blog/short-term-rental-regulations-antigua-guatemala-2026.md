@@ -1,5 +1,5 @@
 ---
-title: "Short-Term Rental Regulations in Antigua Guatemala: What Property Investors Need to Know in 2026"
+title: "Short-Term Rental Rules in Antigua Guatemala (2026)"
 tag: "Investment"
 excerpt: "Antigua Guatemala's short-term rental regulations are shifting. Learn the rules for Airbnb, licensing, taxes, and HOA restrictions for rental properties."
 image: "/images/blog/ai-generated/short-term-rental-regulations-antigua-guatemala-2026.jpg"

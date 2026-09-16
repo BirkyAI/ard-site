@@ -1,5 +1,5 @@
 ---
-title: "Compra de Propiedad en Guatemala por Extranjeros: Guía 2026"
+title: "Comprar Propiedad en Guatemala Como Extranjero"
 tag: "Legal"
 excerpt: "Todo lo que los extranjeros necesitan saber para comprar propiedad en Guatemala: pasos legales, restricciones, costos y consejos expertos para una compra segura."
 image: "/images/blog/ai-generated/buying-property-guatemala-foreigner.jpg"

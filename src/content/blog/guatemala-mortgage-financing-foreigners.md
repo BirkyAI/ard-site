@@ -1,5 +1,5 @@
 ---
-title: "Guatemala Mortgage Options for Foreign Buyers in 2026"
+title: "Guatemala Mortgages for Foreign Buyers"
 tag: "Legal"
 excerpt: "Can foreigners get a mortgage in Guatemala? Learn about local bank financing, requirements, rates, and alternatives for buying property in Antigua."
 image: "/images/blog/ai-generated/antigua-church-interior.png"

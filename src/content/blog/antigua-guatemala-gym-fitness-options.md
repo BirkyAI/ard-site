@@ -1,5 +1,5 @@
 ---
-title: "Gyms and Fitness in Antigua Guatemala: Expat Guide"
+title: "Gyms and Fitness in Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Discover the best gyms, yoga studios, and fitness options in Antigua Guatemala for expats who want to stay active and healthy while living abroad."
 image: "/images/blog/ai-generated/antigua-guatemala-gym-fitness-options.jpg"

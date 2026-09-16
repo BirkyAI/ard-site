@@ -1,5 +1,5 @@
 ---
-title: "Best Neighborhoods in Antigua Guatemala for Expats"
+title: "Best Neighborhoods in Antigua Guatemala"
 tag: "Neighborhoods"
 excerpt: "Discover the top neighborhoods in Antigua Guatemala — from walkable Centro to peaceful San Felipe. Find the perfect area for your lifestyle and budget."
 image: "/images/blog/ai-generated/best-neighborhoods-antigua-guatemala.jpg"

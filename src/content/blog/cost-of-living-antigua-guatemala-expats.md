@@ -1,5 +1,5 @@
 ---
-title: "Cost of Living in Antigua Guatemala for Expats (2026 Guide)"
+title: "Cost of Living in Antigua Guatemala (2026)"
 tag: "Relocation"
 excerpt: "A detailed breakdown of monthly expenses in Antigua Guatemala — rent, food, healthcare, and more for expats and retirees."
 image: "/images/blog/ai-generated/cost-of-living-antigua-guatemala-expats.jpg"

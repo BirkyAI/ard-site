@@ -1,5 +1,5 @@
 ---
-title: "Guatemala Banking for Expats: A Complete 2026 Guide"
+title: "Guatemala Banking for Expats: 2026 Guide"
 tag: "Relocation"
 excerpt: "Opening a bank account, wiring money, and managing finances in Guatemala — what every expat needs to know before making the move."
 image: "/images/blog/ai-generated/guatemala-banking-for-expats.jpg"

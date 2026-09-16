@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala Healthcare for Expats: What to Know"
+title: "Antigua Guatemala Healthcare for Expats"
 tag: "Relocation"
 excerpt: "Hospitals, clinics, insurance, and costs — your complete guide to navigating healthcare as an expat living in Antigua Guatemala."
 image: "/images/blog/ai-generated/antigua-guatemala-healthcare-expats.jpg"

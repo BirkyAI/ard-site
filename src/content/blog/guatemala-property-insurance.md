@@ -1,5 +1,5 @@
 ---
-title: "Guatemala Property Insurance: What Foreigners Need to Know"
+title: "Guatemala Property Insurance for Foreigners"
 tag: "Legal"
 excerpt: "Understand property insurance options in Guatemala, what coverage is available, and how to protect your investment as a foreign buyer."
 image: "/images/blog/ai-generated/antigua-night-glow.png"

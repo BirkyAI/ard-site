@@ -1,5 +1,5 @@
 ---
-title: "Conducir en Guatemala Como Extranjero: Lo que los Expat Deben Saber"
+title: "Conducir en Guatemala Como Extranjero"
 tag: "Relocation"
 excerpt: "Todo lo que los expats necesitan saber sobre conducir en Guatemala, desde las condiciones de las carreteras hasta cómo obtener una licencia local."
 image: "/images/blog/ai-generated/driving-guatemala-foreigner.jpg"

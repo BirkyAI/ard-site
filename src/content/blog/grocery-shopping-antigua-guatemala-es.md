@@ -1,5 +1,5 @@
 ---
-title: "Compras de Supermercado en Antigua Guatemala: Guía para Extranjeros"
+title: "Supermercados en Antigua Guatemala: Guía Expat"
 tag: "Lifestyle"
 excerpt: "Desde coloridos mercados locales hasta supermercados modernos, aquí tienes tu guía completa para hacer compras en Antigua Guatemala."
 image: "/images/blog/ai-generated/antigua-grocery-market.png"

@@ -1,5 +1,5 @@
 ---
-title: "Guatemala Coffee Country Real Estate: Highland Living Guide"
+title: "Guatemala Coffee Country Real Estate Guide"
 tag: "Lifestyle"
 excerpt: "Explore property opportunities in Guatemala's coffee-growing highlands near Antigua. Find your dream home surrounded by volcanic soil and lush green hillsides."
 image: "/images/blog/ai-generated/guatemala-coffee-country-real-estate.jpg"

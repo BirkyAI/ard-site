@@ -1,5 +1,5 @@
 ---
-title: "Expat Community in Antigua Guatemala: Finding Your People"
+title: "Expat Community in Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Moving to Antigua Guatemala? Discover how expats build friendships, find community groups, and create a social life in this vibrant colonial city."
 image: "/images/blog/ai-generated/expat-community-social-life-antigua-guatemala.jpg"

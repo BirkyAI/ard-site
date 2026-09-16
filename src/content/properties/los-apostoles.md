@@ -1,5 +1,5 @@
 ---
-title: "Los Apóstoles — Modern Colonial Home in Exclusive Gated Community"
+title: "Los Apóstoles — Colonial Home, Gated Community"
 location: "Los Apóstoles, Antigua Guatemala"
 price: 615000
 beds: 4

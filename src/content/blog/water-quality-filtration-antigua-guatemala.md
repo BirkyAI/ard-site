@@ -1,5 +1,5 @@
 ---
-title: "Water Quality and Filtration in Antigua Guatemala: An Expat Guide"
+title: "Water Quality in Antigua Guatemala: Expat Guide"
 tag: "Lifestyle"
 excerpt: "Is the tap water safe to drink in Antigua Guatemala? Learn about water quality, filtration options, and how expats handle daily hydration."
 image: "/images/blog/ai-generated/water-filtration-antigua.jpg"

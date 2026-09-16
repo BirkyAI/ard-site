@@ -1,5 +1,5 @@
 ---
-title: "Utilities in Antigua Guatemala: Water, Electricity and Internet Setup"
+title: "Utilities in Antigua Guatemala: Setup Guide"
 tag: "Relocation"
 excerpt: "Moving to Antigua Guatemala? Here is your complete guide to setting up water, electricity, internet, and gas — with real costs and insider tips."
 image: "/images/blog/ai-generated/utilities-guide-antigua-guatemala.jpg"

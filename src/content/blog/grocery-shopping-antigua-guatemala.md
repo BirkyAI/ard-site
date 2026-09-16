@@ -1,5 +1,5 @@
 ---
-title: "Grocery Shopping in Antigua Guatemala: Where Expats Buy Food"
+title: "Grocery Shopping in Antigua Guatemala for Expats"
 tag: "Lifestyle"
 excerpt: "From colorful local markets to modern supermarkets, here is your complete guide to grocery shopping in Antigua Guatemala as an expat."
 image: "/images/blog/ai-generated/antigua-grocery-market.png"

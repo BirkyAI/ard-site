@@ -1,5 +1,5 @@
 ---
-title: "Is Antigua Guatemala Safe? Expat Safety Guide 2026"
+title: "Is Antigua Guatemala Safe? Expat Guide"
 tag: "Relocation"
 excerpt: "Real safety data and practical advice for expats considering Antigua Guatemala. Learn what makes it one of Central America's safest towns for foreigners."
 image: "/images/blog/ai-generated/antigua-ai-street-scene.png"

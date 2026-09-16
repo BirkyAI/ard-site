@@ -1,5 +1,5 @@
 ---
-title: "Gated Communities in Antigua Guatemala: Buyer Guide 2026"
+title: "Gated Communities in Antigua Guatemala"
 tag: "Neighborhoods"
 excerpt: "Explore gated communities in Antigua Guatemala. Discover secure residential options with amenities, from budget-friendly to luxury developments."
 image: "/images/blog/ai-generated/antigua-ai-la-merced.png"
