@@ -1,5 +1,5 @@
 ---
-title: "Why Americans Choose Antigua Guatemala for Real Estate Investment and Living"
+title: "Why Americans Choose Antigua Guatemala"
 tag: "Investment"
 excerpt: "Discover why U.S. buyers are increasingly investing in Antigua Guatemala real estate — from affordable luxury homes to rental income and expat lifestyle benefits."
 image: "/images/blog/ai-generated/batch-20260808-09_00001_.jpg"

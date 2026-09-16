@@ -1,5 +1,5 @@
 ---
-title: 'How to Find a Trusted Real Estate Agent in Antigua Guatemala'
+title: Finding a Trusted Real Estate Agent in Antigua
 tag: 'Market Insights'
 excerpt: 'What to look for in a real estate agent in Antigua Guatemala, red flags to avoid, and why local expertise makes all the difference.'
 image: '/images/blog/ai-generated/trusted-real-estate-agent-antigua-guatemala.jpg'

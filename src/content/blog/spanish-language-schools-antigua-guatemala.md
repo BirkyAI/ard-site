@@ -1,5 +1,5 @@
 ---
-title: "Spanish Language Schools in Antigua Guatemala: 2026 Guide"
+title: "Spanish Language Schools in Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Discover why Antigua Guatemala is Central America's top destination for Spanish immersion, with school options for every budget and learning style."
 image: "/images/blog/ai-generated/antigua-ai-volcano-view.png"

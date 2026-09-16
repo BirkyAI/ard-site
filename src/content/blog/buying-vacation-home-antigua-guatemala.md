@@ -1,5 +1,5 @@
 ---
-title: "Buying a Vacation Home in Antigua Guatemala: A Guide for International Buyers"
+title: "Buying a Vacation Home in Antigua Guatemala"
 tag: "Investment"
 excerpt: "How to buy a vacation home in Antigua Guatemala as a foreigner. Costs, legal steps, neighborhoods, property management, and rental income potential."
 image: "/images/blog/ai-generated/vacation-home-antigua.jpg"

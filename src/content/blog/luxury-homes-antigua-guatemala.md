@@ -1,5 +1,5 @@
 ---
-title: "Luxury Homes in Antigua Guatemala: What to Expect from Premium Properties"
+title: "Luxury Homes in Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Explore the luxury real estate market in Antigua Guatemala. Colonial mansions, modern estates, and pre-construction homes with volcano views starting at $615K."
 image: "/images/blog/ai-generated/batch-20260808-13_00001_.jpg"

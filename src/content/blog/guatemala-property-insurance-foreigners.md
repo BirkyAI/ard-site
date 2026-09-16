@@ -1,5 +1,5 @@
 ---
-title: "Guatemala Property Insurance for Foreigners: A Complete Guide"
+title: "Guatemala Property Insurance for Foreigners"
 tag: "Legal"
 excerpt: "What foreign property owners need to know about home and rental insurance in Guatemala. Cover types, costs, providers, and common coverage gaps."
 image: "/images/blog/ai-generated/batch-20260808-01_00001_.jpg"

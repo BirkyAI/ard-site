@@ -1,5 +1,5 @@
 ---
-title: "How to Sell Your Home in Antigua Guatemala: A Step-by-Step Guide"
+title: "How to Sell Your Home in Antigua Guatemala"
 tag: "Market Insights"
 excerpt: "Learn how to sell your home in Antigua Guatemala. From pricing and preparation to closing, this guide covers everything sellers need to know."
 image: "/images/ai-gen/selling-home-antigua-guatemala.png"

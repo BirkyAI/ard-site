@@ -1,5 +1,5 @@
 ---
-title: "Rental Income Potential in Antigua Guatemala: What Foreign Investors Can Expect to Earn"
+title: "Rental Income Potential in Antigua Guatemala"
 tag: "Investment"
 excerpt: "Real rental yield data for Antigua Guatemala properties — what foreign investors earn on colonial homes, condos, and short-term vacation rentals in 2026."
 image: "/images/blog/ai-generated/rental-income-potential-antigua-guatemala.jpg"

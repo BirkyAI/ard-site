@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala Foodie Guide: Where to Eat Like a Local"
+title: "Antigua Guatemala Foodie Guide"
 tag: "Lifestyle"
 excerpt: "From street food to fine dining, discover why Antigua Guatemala is Central America's most exciting food destination for expats and visitors."
 image: "/images/blog/ai-generated/antigua-guatemala-foodie-guide.jpg"

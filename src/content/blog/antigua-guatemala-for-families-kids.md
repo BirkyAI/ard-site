@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala for Families: Schools, Activities and Neighborhoods"
+title: "Antigua Guatemala for Families With Kids"
 tag: "Relocation"
 excerpt: "Complete guide for families moving to Antigua Guatemala: international schools, kid-friendly activities, safe neighborhoods, and daily life with children."
 image: "/images/blog/ai-generated/batch-20260808-06_00001_.jpg"

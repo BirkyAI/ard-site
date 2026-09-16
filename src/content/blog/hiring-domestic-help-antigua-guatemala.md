@@ -1,5 +1,5 @@
 ---
-title: "Hiring Domestic Help in Antigua Guatemala: An Expat Guide"
+title: "Hiring Domestic Help in Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Learn how to find, hire, and legally employ domestic help in Antigua Guatemala. Tips on salaries, contracts, and building a respectful working relationship."
 image: "/images/blog/ai-generated/hiring-domestic-help-antigua-guatemala.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Buying a Condo or Apartment in Antigua Guatemala: A Complete Buyer's Guide"
+title: "Condos & Apartments in Antigua Guatemala"
 tag: "Investment"
 excerpt: "Everything to know about buying a condo or apartment in Antigua Guatemala — prices by area, colonial apartments vs new builds, HOA fees, foreign-buyer legal steps, and rental income potential."
 image: "/images/blog/ai-generated/condos-apartments-antigua-guatemala.jpg"

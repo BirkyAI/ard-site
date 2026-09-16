@@ -1,5 +1,5 @@
 ---
-title: "Seasonal Rental Market in Antigua Guatemala: What Property Owners Need to Know"
+title: "Seasonal Rental Market in Antigua Guatemala"
 tag: "Investment"
 excerpt: "Antigua Guatemala's rental market changes dramatically by season. Learn when demand peaks, how to price your property, and how to maximize returns year-round."
 image: "/images/blog/ai-generated/seasonal-rental-market-antigua-guatemala.jpg"

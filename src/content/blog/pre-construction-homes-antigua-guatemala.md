@@ -1,5 +1,5 @@
 ---
-title: 'Pre-Construction Homes in Antigua Guatemala: What to Know'
+title: Pre-Construction Homes in Antigua Guatemala
 tag: 'Investment'
 excerpt: 'A clear guide to buying pre-construction homes in Antigua Guatemala, including the process, payment plans, timelines, and key risks to consider.'
 image: '/images/blog/ai-generated/pre-construction-homes-antigua-guatemala.jpg'

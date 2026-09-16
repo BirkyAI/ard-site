@@ -1,5 +1,5 @@
 ---
-title: "Colonial Charm vs Modern Comfort: Choosing Your Antigua Guatemala Home"
+title: "Colonial vs Modern Construction in Antigua"
 tag: "Investment"
 excerpt: "Compare colonial homes and modern construction in Antigua Guatemala — costs, maintenance, lifestyle fit, investment potential for buyers and investors."
 image: "/images/blog/ai-generated/colonial-homes-vs-modern-construction-antigua.jpg"

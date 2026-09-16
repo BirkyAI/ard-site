@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala Real Estate for Australian Buyers: A Complete Guide"
+title: "Antigua Guatemala Real Estate for Australian Buyers"
 tag: "Relocation"
 excerpt: "Everything Australian buyers need to know about buying property in Antigua Guatemala — visas, costs, neighbourhoods, and how the Australian dollar stacks up."
 image: "/images/blog/ai-generated/australian-buyers-antigua-guatemala.jpg"

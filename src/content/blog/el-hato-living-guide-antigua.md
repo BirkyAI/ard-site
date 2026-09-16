@@ -1,5 +1,5 @@
 ---
-title: 'El Hato Living Guide: Antigua Guatemala''s Mountain Community'
+title: El Hato Living Guide, Antigua Guatemala
 tag: 'Neighborhoods'
 excerpt: 'Discover El Hato, the peaceful mountain community above Antigua Guatemala with stunning views, nature, and a growing expat community.'
 image: '/images/blog/ai-generated/el-hato-living-guide-antigua.jpg'

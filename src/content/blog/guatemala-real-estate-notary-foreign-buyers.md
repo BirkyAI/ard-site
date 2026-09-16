@@ -1,5 +1,5 @@
 ---
-title: "The Role of a Notary in Guatemalan Real Estate Transactions: What Every Foreign Buyer Must Know"
+title: "Guatemala Real Estate Notary for Foreign Buyers"
 tag: "Legal"
 excerpt: "Learn how notaries in Guatemala handle property purchases, title searches, closing documents, and why they are essential for foreign buyers investing in Antigua."
 image: "/images/blog/ai-generated/batch-20260808-05_00001_.jpg"

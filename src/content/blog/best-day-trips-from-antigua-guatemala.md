@@ -1,5 +1,5 @@
 ---
-title: "Best Day Trips from Antigua Guatemala for Expats and Visitors"
+title: "Best Day Trips from Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Discover the best day trips from Antigua Guatemala, from volcanic hikes and coffee farms to Lake Atitlan and Pacific beaches."
 image: "/images/blog/ai-generated/day-trips-from-antigua-guatemala.png"

@@ -1,5 +1,5 @@
 ---
-title: "Living Near Volcanoes in Antigua Guatemala: What Expats Need to Know"
+title: "Living Near Volcanoes in Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Moving to a town surrounded by three volcanoes sounds dramatic. Here is what expats actually experience living near Volcan de Agua, Acatenango, and Fuego in Antigua Guatemala."
 image: "/images/blog/ai-generated/volcano-living-antigua.jpg"

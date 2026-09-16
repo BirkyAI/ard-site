@@ -1,5 +1,5 @@
 ---
-title: 'Real Estate Agent Fees and Commissions in Guatemala: What Buyers Pay'
+title: Real Estate Agent Fees in Guatemala
 tag: 'Market Insights'
 excerpt: 'How real estate agent fees and commissions work in Guatemala, who pays, typical percentages, and the hidden closing costs buyers should budget for.'
 image: '/images/blog/ai-generated/real-estate-agent-fees-commissions-guatemala.jpg'

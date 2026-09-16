@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala for Couples — Why Partners Are Choosing This Colonial Gem"
+title: "Antigua Guatemala for Couples"
 tag: "Lifestyle"
 excerpt: "Everything couples need to know about moving to Antigua Guatemala together — finding the right home, cost of living for two, building community, and living well as a pair in a UNESCO World Heritage city."
 image: "/images/blog/ai-generated/antigua-guatemala-for-couples.jpg"

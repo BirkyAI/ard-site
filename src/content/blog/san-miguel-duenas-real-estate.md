@@ -1,5 +1,5 @@
 ---
-title: "San Miguel Dueñas Real Estate: A Hidden Gem Near Antigua"
+title: "San Miguel Dueñas Real Estate Near Antigua"
 tag: "Neighborhoods"
 excerpt: "Why buyers are looking beyond Antigua to San Miguel Dueñas — volcano views, larger lots, and prices that make sense in 2026."
 image: "/images/blog/ai-generated/san-miguel-duenas-real-estate.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Boutique Hotel Investment in Antigua Guatemala: A Buyer's Guide 2026"
+title: "Boutique Hotel Investment in Antigua Guatemala"
 tag: "Investment"
 excerpt: "Buying a boutique hotel or guest house in Antigua Guatemala: real costs, income potential, guest-house vs Airbnb, and the legal steps for foreign buyers."
 image: "/images/blog/ai-generated/boutique-hotel-investment-antigua-guatemala.jpg"

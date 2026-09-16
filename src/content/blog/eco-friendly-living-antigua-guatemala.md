@@ -1,5 +1,5 @@
 ---
-title: "Eco-Friendly Living in Antigua Guatemala: Sustainable Homes Guide"
+title: "Eco-Friendly Living in Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Discover eco-friendly living in Antigua Guatemala. Guide to sustainable homes, solar energy, rainwater collection, and green real estate for expats and investors."
 image: "/images/blog/ai-generated/batch-20260808-04_00001_.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Home Security in Antigua Guatemala: A Practical Guide for Expats"
+title: "Home Security in Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Learn practical home security tips for expats in Antigua Guatemala. From alarm systems and security guards to neighborhood safety and smart locks."
 image: "/images/ai-gen/home-security-antigua-guatemala.png"

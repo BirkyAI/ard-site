@@ -1,5 +1,5 @@
 ---
-title: "Remote Work from Antigua Guatemala: Digital Nomad Guide 2026"
+title: "Remote Work from Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Antigua Guatemala has become a top remote work destination. Learn about coworking, internet, visas, cost of living, and why digital nomads are staying for good."
 image: "/images/blog/ai-generated/remote-work-antigua-guatemala.png"

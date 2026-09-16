@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala UNESCO Heritage: What It Means for Property"
+title: "UNESCO Heritage & Antigua Guatemala Property"
 tag: "Market Insights"
 excerpt: "Antigua Guatemala's UNESCO World Heritage status affects property values, renovation rules, and long-term investment potential. Here's what buyers need to know."
 image: "/images/blog/ai-generated/antigua-caoba-farms-entrance.png"

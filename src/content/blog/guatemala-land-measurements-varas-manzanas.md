@@ -1,5 +1,5 @@
 ---
-title: "Guatemala Land Measurements Explained: Varas, Manzanas & Caballerías"
+title: "Guatemala Land Measurements: Varas & Manzanas"
 tag: "Investment"
 excerpt: "Varas, manzanas, caballerías — Guatemalan land measurements confuse foreign buyers. Here are the exact conversions and what to check before you buy."
 image: "/images/blog/ai-generated/guatemala-land-measurements-varas-manzanas.jpg"

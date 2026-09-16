@@ -1,5 +1,5 @@
 ---
-title: "Volcano Views Property in Antigua Guatemala: A Buyer's Guide"
+title: "Volcano View Property in Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Discover how to find homes with stunning volcano views in Antigua Guatemala. Learn which neighborhoods offer the best panoramas of Agua, Fuego, and Acatenango."
 image: "/images/blog/ai-generated/volcano-views-property-antigua-guatemala.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Property Management in Antigua Guatemala: A Complete Guide for Foreign Homeowners"
+title: "Property Management in Antigua Guatemala"
 tag: "Investment"
 excerpt: "Everything foreign property owners need to know about managing a home in Antigua Guatemala — from tenant screening and maintenance to legal compliance and rental income optimization."
 image: "/images/blog/ai-generated/property-management-antigua-guatemala.jpg"

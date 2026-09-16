@@ -1,5 +1,5 @@
 ---
-title: "Pet-Friendly Rentals in Antigua Guatemala: A Complete Guide for Pet Owners"
+title: "Pet-Friendly Rentals in Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Find pet-friendly rentals in Antigua Guatemala. Tips for expat pet owners, which properties accept animals, and how to secure a rental that welcomes your furry family members."
 image: "/images/blog/ai-generated/batch-20260808-08_00001_.jpg"

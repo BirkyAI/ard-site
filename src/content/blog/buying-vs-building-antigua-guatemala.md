@@ -1,5 +1,5 @@
 ---
-title: "Buying vs Building a Home in Antigua Guatemala: Which Option Is Right for You?"
+title: "Buying vs Building a Home in Antigua Guatemala"
 tag: "Investment"
 excerpt: "Should you buy an existing home or build from scratch in Antigua Guatemala? Compare costs, timelines, and considerations for each path."
 image: "/images/blog/ai-generated/batch-20260808-12_00001_.jpg"

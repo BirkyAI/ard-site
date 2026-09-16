@@ -1,5 +1,5 @@
 ---
-title: "Driving in Guatemala as a Foreigner: What Expats Need to Know"
+title: "Driving in Guatemala as a Foreigner"
 tag: "Relocation"
 excerpt: "Everything expats need to know about driving in Guatemala, from road conditions and traffic rules to getting a local driver's license."
 image: "/images/blog/ai-generated/driving-guatemala-foreigner.jpg"

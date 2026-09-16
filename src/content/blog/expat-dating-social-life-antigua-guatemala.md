@@ -1,5 +1,5 @@
 ---
-title: "Dating and Social Life as an Expat in Antigua Guatemala"
+title: "Expat Dating and Social Life in Antigua"
 tag: "Lifestyle"
 excerpt: "Building meaningful connections in Antigua Guatemala as a foreigner. From language exchange meetups to volcano hiking groups, here is how expats find community and romance."
 image: "/images/blog/ai-generated/expat-social-life-antigua.jpg"

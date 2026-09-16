@@ -1,5 +1,5 @@
 ---
-title: "Wellness & Yoga Retreats in Antigua Guatemala: A Lifestyle Guide"
+title: "Wellness & Yoga Retreats in Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Explore wellness and yoga retreats in Antigua Guatemala. Guide to studios, spa culture, healthy living, and real estate for wellness-minded buyers and renters."
 image: "/images/blog/ai-generated/wellness-retreats-antigua-guatemala.jpg"

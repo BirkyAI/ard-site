@@ -1,5 +1,5 @@
 ---
-title: "Property Viewing Checklist for Antigua Guatemala: What to Look For Before You Buy"
+title: "Property Viewing Checklist for Antigua Guatemala"
 tag: "Investment"
 excerpt: "Essential checklist for viewing properties in Antigua Guatemala. What to inspect in colonial homes, red flags, neighborhood tips, and questions to ask your agent."
 image: "/images/blog/ai-generated/batch-20260808-10_00001_.jpg"

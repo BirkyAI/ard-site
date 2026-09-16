@@ -1,5 +1,5 @@
 ---
-title: "Earthquake Safety in Antigua Guatemala: What Property Buyers Need to Know"
+title: "Earthquake Safety for Antigua Guatemala Property"
 tag: "Investment"
 excerpt: "Antigua sits in an active seismic zone. Learn how colonial and modern homes handle earthquakes — and the structural checks to run before you buy."
 image: "/images/blog/ai-generated/earthquake-safety-antigua-guatemala-property.jpg"

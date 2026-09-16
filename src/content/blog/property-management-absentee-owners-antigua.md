@@ -1,5 +1,5 @@
 ---
-title: "Property Management for Absentee Owners in Antigua Guatemala"
+title: "Property Management for Absentee Owners"
 tag: "Investment"
 excerpt: "Owning property in Antigua from abroad? Here is how to protect your investment, find reliable managers, and keep your home in top shape."
 image: "/images/blog/ai-generated/property-management-absentee-owners-antigua.jpg"

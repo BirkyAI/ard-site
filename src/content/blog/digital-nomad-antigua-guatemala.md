@@ -1,5 +1,5 @@
 ---
-title: "Digital Nomad Guide to Antigua Guatemala — Live and Work in 2026"
+title: "Digital Nomad Guide to Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Everything digital nomads need to know about Antigua Guatemala: coworking spaces, internet speeds, visa options, cost of living, and the best neighborhoods to set up your remote workstation."
 image: "/images/blog/ai-generated/digital-nomad-antigua.jpg"

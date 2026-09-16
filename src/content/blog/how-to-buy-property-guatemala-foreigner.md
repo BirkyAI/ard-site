@@ -1,5 +1,5 @@
 ---
-title: "How to Buy Property in Guatemala as a Foreigner: A Complete 2026 Guide"
+title: "How to Buy Property in Guatemala as a Foreigner"
 tag: "Relocation"
 excerpt: "Step-by-step guide to buying property in Guatemala as a foreigner. Learn the legal process, costs, financing options, and trusted steps for Antigua real estate."
 image: "/images/blog/ai-generated/how-to-buy-property-guatemala-foreigner.jpg"

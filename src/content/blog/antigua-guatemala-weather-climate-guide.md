@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala Weather and Climate: A Complete Guide for Buyers and Renters"
+title: "Antigua Guatemala Weather and Climate Guide"
 tag: "Lifestyle"
 excerpt: "Antigua Guatemala enjoys spring-like weather year-round. Learn about the dry season, rainy months, and how the climate affects property decisions."
 image: "/images/blog/ai-generated/antigua-guatemala-weather-climate-guide.jpg"

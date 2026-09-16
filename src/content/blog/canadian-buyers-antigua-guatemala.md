@@ -1,5 +1,5 @@
 ---
-title: "Why Canadian Buyers Are Choosing Antigua Guatemala for Real Estate Investment"
+title: "Why Canadian Buyers Choose Antigua Guatemala"
 tag: "Investment"
 excerpt: "Discover why Canadian buyers are increasingly investing in Antigua Guatemala real estate. From lower costs to stunning colonial homes, find your ideal property."
 image: "/images/blog/ai-generated/batch-20260808-07_00001_.jpg"

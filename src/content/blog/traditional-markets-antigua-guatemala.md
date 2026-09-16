@@ -1,5 +1,5 @@
 ---
-title: "Traditional Markets and Artisan Shopping in Antigua Guatemala"
+title: "Traditional Markets in Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Discover the vibrant traditional markets and artisan shops in Antigua Guatemala. Your guide to handmade textiles, jade jewelry, ceramics, and local crafts."
 image: "/images/blog/ai-generated/antigua-market-textiles.png"

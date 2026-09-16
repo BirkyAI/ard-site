@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala Real Estate for UK Buyers: A Complete Guide"
+title: "Antigua Guatemala Real Estate for UK Buyers"
 tag: "Relocation"
 excerpt: "Everything British buyers need to know about buying property in Antigua Guatemala — visas, costs, neighborhoods, and how GBP exchange rates work in your favour."
 image: "/images/blog/ai-generated/uk-buyers-antigua-guatemala.jpg"

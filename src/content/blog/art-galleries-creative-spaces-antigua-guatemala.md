@@ -1,5 +1,5 @@
 ---
-title: "Art Galleries and Creative Spaces in Antigua Guatemala: A Guide"
+title: "Art Galleries in Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Discover Antigua Guatemala's thriving art scene: galleries, workshops, creative spaces, and cultural venues that make this colonial city a haven for artists and art lovers."
 image: "https://ard-site.vercel.app/images/ai-gen/art-galleries-creative-spaces-antigua-guatemala.png"

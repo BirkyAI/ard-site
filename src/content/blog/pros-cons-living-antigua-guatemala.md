@@ -1,5 +1,5 @@
 ---
-title: "Pros and Cons of Living in Antigua Guatemala — An Honest Guide for Expats"
+title: "Pros and Cons of Living in Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Thinking of moving to Antigua Guatemala? Here's the real pros and cons: safety, cost of living, climate, healthcare, and what nobody tells you about colonial living."
 image: "/images/blog/ai-generated/pros-cons-living-antigua-guatemala.jpg"

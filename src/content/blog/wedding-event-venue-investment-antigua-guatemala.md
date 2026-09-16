@@ -1,5 +1,5 @@
 ---
-title: "Wedding & Event Venue Investment in Antigua Guatemala: Turning a Colonial Home into a Revenue Stream"
+title: "Event Venue Investment in Antigua Guatemala"
 tag: "Investment"
 excerpt: "Colonial courtyards in Antigua Guatemala are in demand for weddings and private events. See what makes a property work as a venue and its real revenue potential."
 image: "/images/blog/ai-generated/wedding-event-venue-investment-antigua-guatemala.jpg"

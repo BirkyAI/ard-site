@@ -1,5 +1,5 @@
 ---
-title: "Retiring in Antigua Guatemala: A Complete Guide for Expats in 2026"
+title: "Retiring in Antigua Guatemala (2026 Guide)"
 tag: "Relocation"
 excerpt: "Thinking about retiring in Antigua Guatemala? Here is what you need to know about visas, healthcare, cost of living, and finding the right home."
 image: "/images/blog/ai-generated/retiring-antigua-guatemala-guide.jpg"

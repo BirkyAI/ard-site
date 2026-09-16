@@ -1,5 +1,5 @@
 ---
-title: "Guatemala Property Due Diligence: A Foreign Buyer's Checklist"
+title: "Guatemala Property Due Diligence Checklist"
 tag: "Legal"
 excerpt: "Before you buy property in Antigua Guatemala, run this due diligence checklist. Title searches, municipal records, and lawyer tips every foreign buyer needs."
 image: "/images/blog/ai-generated/guatemala-property-due-diligence.png"

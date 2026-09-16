@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala's Hidden Gems: Best Up-and-Coming Neighborhoods for Property Investment in 2026"
+title: "Up-and-Coming Neighborhoods in Antigua Guatemala"
 tag: "Investment"
 excerpt: "Discover Antigua Guatemala's emerging neighborhoods offering strong appreciation potential beyond the tourist center. Smart investment spots for 2026."
 image: "/images/blog/ai-generated/up-and-coming-neighborhoods-antigua-guatemala.jpg"

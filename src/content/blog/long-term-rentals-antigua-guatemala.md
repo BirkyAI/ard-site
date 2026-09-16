@@ -1,5 +1,5 @@
 ---
-title: "Long-Term Rentals in Antigua Guatemala: Your 2026 Guide"
+title: "Long-Term Rentals in Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Everything you need to know about finding and securing a long-term rental in Antigua Guatemala — neighborhoods, pricing, lease terms, and insider tips."
 image: "/images/blog/ai-generated/antigua-garden-pool.png"

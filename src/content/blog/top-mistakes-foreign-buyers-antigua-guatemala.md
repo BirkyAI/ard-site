@@ -1,5 +1,5 @@
 ---
-title: "Top 10 Mistakes Foreign Buyers Make When Buying Property in Antigua Guatemala"
+title: "10 Mistakes Foreign Buyers Make in Antigua"
 tag: "Investment"
 excerpt: "Avoid costly errors when buying real estate in Antigua Guatemala. From skipping title searches to overpaying, here are the top mistakes foreign buyers make."
 image: "/images/blog/ai-generated/top-mistakes-foreign-buyers-antigua-guatemala.jpg"

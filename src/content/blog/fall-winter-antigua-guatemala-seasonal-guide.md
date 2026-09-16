@@ -1,5 +1,5 @@
 ---
-title: "Fall and Winter in Antigua Guatemala: A Seasonal Guide for Residents"
+title: "Fall and Winter in Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "What fall and winter look like in Antigua Guatemala — weather, festivals, expat life, and real estate tips from September through February."
 image: "/images/blog/ai-generated/fall-winter-antigua-guatemala-seasonal-guide.jpg"

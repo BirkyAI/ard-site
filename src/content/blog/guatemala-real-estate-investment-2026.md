@@ -1,5 +1,5 @@
 ---
-title: "Guatemala Real Estate Investment 2026: Best Opportunities"
+title: "Guatemala Real Estate Investment 2026"
 tag: "Investment"
 excerpt: "Discover the top real estate investment opportunities in Guatemala for 2026 — from Antigua colonial homes to Lake Atitlan land. Expert market analysis for foreign investors."
 image: "/images/blog/ai-generated/antigua-rooftop-view.png"
