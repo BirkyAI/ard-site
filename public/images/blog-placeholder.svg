@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Antigua Real Estate Development">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c8a96a"/>
+      <stop offset="100%" stop-color="#e6d3a3"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- subtle arch motif (Antigua colonial reference) -->
+  <g opacity="0.10" fill="none" stroke="#e6d3a3" stroke-width="10">
+    <path d="M170 630 L170 300 A115 115 0 0 1 400 300 L400 630"/>
+    <path d="M430 630 L430 300 A115 115 0 0 1 660 300 L660 630"/>
+    <path d="M690 630 L690 300 A115 115 0 0 1 920 300 L920 630"/>
+  </g>
+
+  <text x="600" y="300" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-size="112"
+        font-weight="700" fill="#f8fafc" letter-spacing="10">ARD</text>
+
+  <rect x="450" y="342" width="300" height="4" fill="url(#rule)"/>
+
+  <text x="600" y="404" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif" font-size="34"
+        fill="#cbd5e1" letter-spacing="3">ANTIGUA REAL ESTATE</text>
+  <text x="600" y="446" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif" font-size="34"
+        fill="#cbd5e1" letter-spacing="3">DEVELOPMENT</text>
+
+  <text x="600" y="536" text-anchor="middle"
+        font-family="Helvetica, Arial, sans-serif" font-size="26"
+        fill="#94a3b8" letter-spacing="2">antiguarealestatedevelopment.com</text>
+</svg>
