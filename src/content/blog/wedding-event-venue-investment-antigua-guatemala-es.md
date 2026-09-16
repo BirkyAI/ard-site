@@ -1,5 +1,5 @@
 ---
-title: "Inversión en Salón de Eventos y Bodas en Antigua Guatemala: Convertí una Casa Colonial en un Flujo de Ingresos"
+title: "Inversión en Salón de Eventos en Antigua"
 tag: "Investment"
 excerpt: "Los patios coloniales de Antigua Guatemala tienen alta demanda para bodas y eventos privados. Descubrí qué hace que una propiedad funcione como sede y su potencial de ingresos."
 image: "/images/blog/ai-generated/wedding-event-venue-investment-antigua-guatemala.jpg"

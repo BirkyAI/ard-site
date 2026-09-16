@@ -1,5 +1,5 @@
 ---
-title: "Guía de jubilación en Antigua Guatemala 2026: tu plan completo"
+title: "Jubilación en Antigua Guatemala 2026"
 tag: "Relocation"
 excerpt: "Descubre por qué los jubilados eligen Antigua Guatemala: vida asequible, salud de clase mundial, clima primaveral y una comunidad de expatriados acogedora."
 image: "/images/blog/ai-generated/antigua-guatemala-retirement-guide.jpg"

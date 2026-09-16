@@ -1,5 +1,5 @@
 ---
-title: "Inversión Inmobiliaria en Guatemala 2026: Las Mejores Oportunidades"
+title: "Inversión Inmobiliaria en Guatemala 2026"
 tag: "Investment"
 excerpt: "Descubrí las mejores oportunidades de inversión inmobiliaria en Guatemala para 2026 — desde casas coloniales en Antigua hasta terrenos en Lago Atitlán. Análisis experto del mercado para inversores extranjeros."
 image: "/images/blog/ai-generated/antigua-rooftop-view.png"

@@ -1,5 +1,5 @@
 ---
-title: "Vida Social y Citas como Extranjero en Antigua Guatemala"
+title: "Vida Social y Citas en Antigua"
 tag: "Lifestyle"
 excerpt: "Construir conexiones significativas en Antigua Guatemala siendo extranjero. Desde intercambios de idiomas hasta grupos de senderismo, así es como los expats encuentran comunidad y romance."
 image: "/images/blog/ai-generated/expat-social-life-antigua.jpg"

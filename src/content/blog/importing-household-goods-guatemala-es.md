@@ -1,5 +1,5 @@
 ---
-title: "Importar Efectos Personales a Guatemala: Guía para Extranjeros"
+title: "Importar Pertenencias a Guatemala"
 tag: "Relocation"
 excerpt: "Te mudás a Antigua Guatemala? Conocé las reglas de aduana, exenciones de impuestos, opciones de envío y documentos necesarios para importar tus efectos personales."
 image: "/images/blog/ai-generated/antigua-street-colonial-walk.png"

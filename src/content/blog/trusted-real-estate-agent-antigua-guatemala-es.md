@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Encontrar un Agente Inmobiliario Confiable en Antigua Guatemala'
+title: Cómo Encontrar un Agente de Confianza
 tag: 'Market Insights'
 excerpt: 'Qué buscar en un agente inmobiliario en Antigua Guatemala, señales de alerta y por qué la experiencia local marca la diferencia.'
 image: '/images/blog/ai-generated/trusted-real-estate-agent-antigua-guatemala.jpg'

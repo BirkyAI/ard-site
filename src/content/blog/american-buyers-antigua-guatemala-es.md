@@ -1,5 +1,5 @@
 ---
-title: "Por Que los Estadounidenses Eligen Antigua Guatemala para Invertir en Bienes Raices y Vivir"
+title: "Por Qué los Estadounidenses Eligen Antigua"
 tag: "Investment"
 excerpt: "Descubra por que los compradores estadounidenses eligen cada vez mas Antigua Guatemala para invertir en bienes raices, desde casas de lujo asequibles hasta ingresos por alquiler y estilo de vida."
 image: "/images/blog/ai-generated/batch-20260808-09_00001_.jpg"

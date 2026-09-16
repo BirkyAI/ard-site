@@ -1,5 +1,5 @@
 ---
-title: "Las Mejores Excursiones de un Día Desde Antigua Guatemala"
+title: "Mejores Excursiones desde Antigua"
 tag: "Lifestyle"
 excerpt: "Descubrí las mejores excursiones de un día desde Antigua Guatemala: volcanes, fincas de café, el Lago de Atitlán y playas del Pacífico."
 image: "/images/blog/ai-generated/day-trips-from-antigua-guatemala.png"

@@ -1,5 +1,5 @@
 ---
-title: 'Casas en Preventa en Antigua Guatemala: Lo Que Tenés Que Saber'
+title: Casas en Preventa en Antigua Guatemala
 tag: 'Inversión'
 excerpt: 'Una guía clara para comprar casas en preventa en Antigua Guatemala, incluyendo el proceso, planes de pago, plazos y riesgos clave a considerar.'
 image: '/images/blog/ai-generated/pre-construction-homes-antigua-guatemala.jpg'

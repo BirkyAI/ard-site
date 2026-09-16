@@ -1,5 +1,5 @@
 ---
-title: "Semana Santa en Antigua Guatemala: Guía para Residentes"
+title: "Semana Santa en Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Vivir en Antigua durante la Semana Santa transforma tu ciudad en la celebración de Pascua más grande de América. Esto es lo que los residentes necesitan saber."
 image: "/images/blog/ai-generated/antigua-semana-santa-procession.jpg"

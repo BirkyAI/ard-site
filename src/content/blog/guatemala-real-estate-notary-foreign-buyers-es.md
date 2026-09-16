@@ -1,5 +1,5 @@
 ---
-title: "El Rol del Notario en Transacciones Inmobiliarias en Guatemala: Lo que Todo Comprador Extranjero Debe Saber"
+title: "El Notario en Compraventas en Guatemala"
 tag: "Legal"
 excerpt: "Conozca como los notarios en Guatemala manejan compras de propiedades, busqueda de titulos, documentos de cierre y por que son esenciales para compradores extranjeros en Antigua."
 image: "/images/blog/ai-generated/batch-20260808-05_00001_.jpg"

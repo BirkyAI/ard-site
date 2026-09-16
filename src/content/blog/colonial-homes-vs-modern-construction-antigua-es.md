@@ -1,5 +1,5 @@
 ---
-title: "Encanto Colonial vs Comodidad Moderna: Cómo Elegir tu Hogar en Antigua Guatemala"
+title: "Colonial vs Moderno en Antigua Guatemala"
 tag: "Investment"
 excerpt: "Compara casas coloniales y construcciones modernas en Antigua Guatemala — costos, mantenimiento, estilo de vida y potencial de inversión para compradores e inversionistas."
 image: "/images/blog/ai-generated/colonial-homes-vs-modern-construction-antigua.jpg"

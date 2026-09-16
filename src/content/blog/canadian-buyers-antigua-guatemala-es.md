@@ -1,5 +1,5 @@
 ---
-title: "Por Que Los Compradores Canadienses Eligen Antigua Guatemala Para Invertir en Bienes Raices"
+title: "Por Qué los Canadienses Eligen Antigua"
 tag: "Investment"
 excerpt: "Descubra por que los compradores canadienses estan invirtiendo cada vez mas en bienes raices en Antigua Guatemala. Precios accesibles, clima perfecto y mas."
 image: "/images/blog/ai-generated/batch-20260808-07_00001_.jpg"

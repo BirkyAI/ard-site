@@ -1,5 +1,5 @@
 ---
-title: "Gestión de Propiedades en Antigua Guatemala: Guía Completa para Propietarios Extranjeros"
+title: "Gestión de Propiedades en Antigua Guatemala"
 tag: "Investment"
 excerpt: "Todo lo que los propietarios extranjeros necesitan saber sobre la administración de una propiedad en Antigua Guatemala: desde selección de inquilinos hasta mantenimiento, cumplimiento legal y optimización de ingresos por alquiler."
 image: "/images/blog/ai-generated/property-management-antigua-guatemala.jpg"

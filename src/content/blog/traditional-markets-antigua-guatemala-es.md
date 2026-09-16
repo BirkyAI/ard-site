@@ -1,5 +1,5 @@
 ---
-title: "Mercados Tradicionales y Artesanías en Antigua Guatemala"
+title: "Mercados Tradicionales en Antigua"
 tag: "Lifestyle"
 excerpt: "Descubrí los vibrantes mercados tradicionales y tiendas artesanales de la Antigua Guatemala. Guía de textiles, jade, cerámica y artesanías locales."
 image: "/images/blog/ai-generated/antigua-market-textiles.png"

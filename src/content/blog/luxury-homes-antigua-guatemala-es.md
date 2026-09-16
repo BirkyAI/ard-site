@@ -1,5 +1,5 @@
 ---
-title: "Casas de Lujo en Antigua Guatemala: Que Esperar de las Propiedades Premium"
+title: "Casas de Lujo en Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Explora el mercado de casas de lujo en Antigua Guatemala. Mansiones coloniales, residencias modernas y proyectos de preventa con vistas a los volcanes desde $615,000."
 image: "/images/blog/ai-generated/batch-20260808-13_00001_.jpg"

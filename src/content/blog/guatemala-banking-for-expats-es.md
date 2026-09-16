@@ -1,5 +1,5 @@
 ---
-title: "Banca en Guatemala para expatriados: Una guía completa 2026"
+title: "Banca en Guatemala para Expatriados"
 tag: "Relocation"
 excerpt: "Abrir una cuenta bancaria, transferir dinero y manejar finanzas en Guatemala — todo lo que cada expatriado necesita saber antes de mudarse."
 image: "/images/blog/ai-generated/guatemala-banking-for-expats.jpg"

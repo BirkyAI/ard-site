@@ -1,5 +1,5 @@
 ---
-title: 'Honorarios y Comisiones de Agentes Inmobiliarios en Guatemala: Qué Paga el Comprador'
+title: Comisiones de Agentes en Guatemala
 tag: 'Market Insights'
 excerpt: 'Cómo funcionan los honorarios y comisiones de los agentes inmobiliarios en Guatemala, quién paga, porcentajes típicos y costos ocultos al cierre.'
 image: '/images/blog/ai-generated/real-estate-agent-fees-commissions-guatemala.jpg'

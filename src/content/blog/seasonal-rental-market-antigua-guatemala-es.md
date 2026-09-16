@@ -1,5 +1,5 @@
 ---
-title: "Mercado de Alquiler por Temporada en Antigua Guatemala: Lo Que los Propietarios Deben Saber"
+title: "Alquiler por Temporada en Antigua"
 tag: "Investment"
 excerpt: "El mercado de alquiler en Antigua Guatemala cambia drásticamente según la temporada. Aprenda cuándo la demanda alcanza su punto máximo, cómo fijar precios y cómo maximizar el rendimiento durante todo el año."
 image: "/images/blog/ai-generated/seasonal-rental-market-antigua-guatemala.jpg"

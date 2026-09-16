@@ -1,5 +1,5 @@
 ---
-title: "Opciones de Hipoteca en Guatemala para Compradores Extranjeros en 2026"
+title: "Hipotecas en Guatemala para Extranjeros"
 tag: "Legal"
 excerpt: "¿Los extranjeros pueden obtener hipoteca en Guatemala? Conocé las opciones de financiamiento bancario, requisitos y alternativas para comprar en Antigua."
 image: "/images/blog/ai-generated/antigua-church-interior.png"

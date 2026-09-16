@@ -1,5 +1,5 @@
 ---
-title: "Calidad del Agua y Filtración en Antigua Guatemala: Guía para Expat"
+title: "Calidad del Agua en Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "¿Es segura el agua de la llave en Antigua Guatemala? Aprendé sobre la calidad del agua, opciones de filtración y cómo los expats manejan la hidratación diaria."
 image: "/images/blog/ai-generated/water-filtration-antigua.jpg"

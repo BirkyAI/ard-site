@@ -1,5 +1,5 @@
 ---
-title: "Guía Gastronómica de Antigua Guatemala: Dónde Comer Como Local"
+title: "Dónde Comer en Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Desde comida callejera hasta alta cocina, descubrí por qué Antigua Guatemala es el destino gastronómico más emocionante de Centroamérica."
 image: "/images/blog/ai-generated/antigua-guatemala-foodie-guide.jpg"

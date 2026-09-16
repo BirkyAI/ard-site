@@ -1,5 +1,5 @@
 ---
-title: "Regulaciones de Alquiler a Corto Plazo en Antigua Guatemala: Lo Que los Inversionistas Deben Saber en 2026"
+title: "Regulación de Alquiler Corto en Antigua"
 tag: "Investment"
 excerpt: "Las regulaciones de alquiler vacacional en Antigua Guatemala están cambiando. Conozca las reglas para Airbnb, licencias, impuestos y restricciones de condominios."
 image: "/images/blog/ai-generated/short-term-rental-regulations-antigua-guatemala-2026.jpg"

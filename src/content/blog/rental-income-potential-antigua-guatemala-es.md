@@ -1,5 +1,5 @@
 ---
-title: "Potencial de Ingresos por Alquiler en Antigua Guatemala: Lo Que los Inversores Extranjeros Pueden Ganar en 2026"
+title: "Potencial de Renta en Antigua Guatemala"
 tag: "Investment"
 excerpt: "Rendimientos reales de alquiler en Antigua Guatemala — lo que los inversores extranjeros ganan en casas coloniales, condominios y alquileres vacacionales en 2026."
 image: "/images/blog/ai-generated/rental-income-potential-antigua-guatemala.jpg"

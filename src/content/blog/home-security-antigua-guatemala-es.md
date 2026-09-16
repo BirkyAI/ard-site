@@ -1,5 +1,5 @@
 ---
-title: "Seguridad en el Hogar en Antigua Guatemala: Guía Práctica para Expatriados"
+title: "Seguridad en el Hogar en Antigua"
 tag: "Relocation"
 excerpt: "Consejos prácticos de seguridad para el hogar en Antigua Guatemala. Sistemas de alarma, guardias de seguridad, cerraduras inteligentes y más."
 image: "/images/ai-gen/home-security-antigua-guatemala.png"

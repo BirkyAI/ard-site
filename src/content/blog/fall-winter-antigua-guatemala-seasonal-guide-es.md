@@ -1,5 +1,5 @@
 ---
-title: "Otoño e Invierno en Antigua Guatemala: Guía Estacional para Residentes"
+title: "Otoño e Invierno en Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Cómo es el otoño y el invierno en Antigua Guatemala — clima, festivales, vida de expatriados y consejos inmobiliarios de septiembre a febrero."
 image: "/images/blog/ai-generated/fall-winter-antigua-guatemala-seasonal-guide.jpg"

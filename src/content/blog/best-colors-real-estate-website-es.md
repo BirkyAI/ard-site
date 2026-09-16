@@ -1,5 +1,5 @@
 ---
-title: "Los Mejores Colores para un Sitio Web Inmobiliario que Vende Propiedades"
+title: "Colores para un Sitio Web Inmobiliario"
 excerpt: "La combinación de colores correcta genera confianza y ayuda a que las fotos de propiedades destaquen. Así es como elegir colores para un sitio web inmobiliario que convierte visitantes en compradores."
 tag: "Lifestyle"
 date: 2026-08-15

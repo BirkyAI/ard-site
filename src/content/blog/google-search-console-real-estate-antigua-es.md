@@ -1,5 +1,5 @@
 ---
-title: "Google Search Console para Agentes Inmobiliarios en Antigua Guatemala"
+title: "Google Search Console para Inmobiliarias"
 excerpt: "Google Search Console muestra cómo aparecen tus propiedades en los resultados de búsqueda. Así es como los agentes de Antigua Guatemala pueden usar esta herramienta gratuita para conseguir más clientes."
 tag: "Investment"
 date: 2026-08-15

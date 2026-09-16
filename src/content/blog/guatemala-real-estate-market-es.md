@@ -1,5 +1,5 @@
 ---
-title: "Mercado inmobiliario de Guatemala: Lo que necesitás saber"
+title: "Mercado Inmobiliario de Guatemala"
 tag: "Market Insights"
 excerpt: "Tendencias actuales, precios y oportunidades en el mercado de propiedades de Guatemala."
 image: "/images/blog/ai-generated/guatemala-real-estate-market.jpg"

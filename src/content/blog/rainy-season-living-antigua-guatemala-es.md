@@ -1,5 +1,5 @@
 ---
-title: "Temporada de Lluvias en Antigua Guatemala: Guía de Supervivencia para Extranjeros"
+title: "Temporada de Lluvias en Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Qué esperar durante la temporada de lluvias en Antigua — desde aguaceros vespertinos hasta flujos de lodo volcánico — y cómo los extranjeros prosperan de mayo a octubre."
 image: "/images/blog/ai-generated/rainy-season-living-antigua-guatemala.jpg"

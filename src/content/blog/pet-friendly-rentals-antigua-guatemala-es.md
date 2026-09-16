@@ -1,5 +1,5 @@
 ---
-title: "Alquileres que Aceptan Mascotas en Antigua Guatemala: Guía Completa para Dueños"
+title: "Alquileres con Mascotas en Antigua"
 tag: "Relocation"
 excerpt: "Encuentre alquileres que aceptan mascotas en Antigua Guatemala. Consejos para dueños de mascotas, propiedades pet-friendly y cómo asegurar un hogar para toda la familia."
 image: "/images/blog/ai-generated/batch-20260808-08_00001_.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Comunidades Cerradas en Antigua Guatemala: Guía para Compradores 2026"
+title: "Comunidades Cerradas en Antigua Guatemala"
 tag: "Neighborhoods"
 excerpt: "Descubrí las comunidades cerradas en Antigua Guatemala. Opciones residenciales seguras con amenidades, desde económicas hasta de lujo."
 image: "/images/blog/ai-generated/antigua-ai-la-merced.png"

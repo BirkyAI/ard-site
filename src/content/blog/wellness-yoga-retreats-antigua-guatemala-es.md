@@ -1,5 +1,5 @@
 ---
-title: "Retiros de Bienestar y Yoga en Antigua Guatemala: Guía de Estilo de Vida"
+title: "Yoga y Bienestar en Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Explora los retiros de bienestar y yoga en Antigua Guatemala. Guía de estudios, cultura de spa, vida saludable y bienes raíces para compradores e inquilinos."
 image: "/images/blog/ai-generated/wellness-retreats-antigua-guatemala.jpg"

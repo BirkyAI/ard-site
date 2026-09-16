@@ -1,5 +1,5 @@
 ---
-title: "Administración de Propiedades para Dueños Ausentes en Antigua Guatemala"
+title: "Gestión para Propietarios Ausentes"
 tag: "Investment"
 excerpt: "¿Tenés una propiedad en Antigua y vivís en el extranjero? Así podés proteger tu inversión, encontrar administradores confiables y mantener tu casa impecable."
 image: "/images/blog/ai-generated/property-management-absentee-owners-antigua.jpg"

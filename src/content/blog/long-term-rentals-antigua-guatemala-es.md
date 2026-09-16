@@ -1,5 +1,5 @@
 ---
-title: "Alquileres a Largo Plazo en Antigua Guatemala: Tu Guía 2026"
+title: "Alquileres a Largo Plazo en Antigua"
 tag: "Relocation"
 excerpt: "Todo lo que necesitás saber para encontrar y asegurar un alquiler a largo plazo en Antigua Guatemala: barrios, precios, términos de contrato y consejos prácticos."
 image: "/images/blog/ai-generated/antigua-garden-pool.png"

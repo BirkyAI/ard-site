@@ -1,5 +1,5 @@
 ---
-title: "Seguro de Propiedad en Guatemala para Extranjeros: Guía Completa"
+title: "Seguro de Propiedad para Extranjeros"
 tag: "Legal"
 excerpt: "Lo que los propietarios extranjeros necesitan saber sobre seguros de vivienda y alquiler en Guatemala. Tipos de cobertura, costos, proveedores y vacíos comunes."
 image: "/images/blog/ai-generated/batch-20260808-01_00001_.jpg"

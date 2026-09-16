@@ -1,5 +1,5 @@
 ---
-title: "Cómo Abrir un Negocio en Guatemala como Extranjero: Guía Completa"
+title: "Abrir un Negocio en Guatemala"
 tag: "Relocation"
 excerpt: "Guía paso a paso para abrir un negocio en Guatemala como extranjero. Opciones de visa, tipos de sociedad, costos, plazos y consejos para emprendedores en Antigua."
 image: "https://ard-site.vercel.app/images/ai-gen/starting-business-guatemala-foreigner.png"

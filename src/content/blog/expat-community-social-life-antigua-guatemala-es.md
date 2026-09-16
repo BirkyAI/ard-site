@@ -1,5 +1,5 @@
 ---
-title: "Comunidad de Extranjeros en Antigua Guatemala: Cómo Encontrar tu Gente"
+title: "Comunidad de Extranjeros en Antigua"
 tag: "Relocation"
 excerpt: "¿Te mudás a Antigua Guatemala? Descubrí cómo los extranjeros hacen amigos, encuentran grupos comunitarios y crean vida social en esta vibrante ciudad colonial."
 image: "/images/blog/ai-generated/expat-community-social-life-antigua-guatemala.jpg"

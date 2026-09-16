@@ -1,5 +1,5 @@
 ---
-title: "Vivir en Antigua Guatemala: Pros y Contras — Guía Honesta para Extranjeros"
+title: "Pros y Contras de Vivir en Antigua"
 tag: "Lifestyle"
 excerpt: "¿Pensando en mudarte a Antigua Guatemala? Estos son los pros y contras reales: seguridad, costo de vida, clima, salud y lo que nadie te cuenta sobre vivir en una ciudad colonial."
 image: "/images/blog/ai-generated/pros-cons-living-antigua-guatemala.jpg"

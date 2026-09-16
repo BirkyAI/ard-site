@@ -1,5 +1,5 @@
 ---
-title: "Contratar Ayuda Doméstica en Antigua Guatemala: Guía para Extranjeros"
+title: "Ayuda Doméstica en Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Aprendé cómo encontrar, contratar y emplear legalmente ayuda doméstica en Antigua Guatemala. Salarios, contratos y consejos para una relación laboral respetuosa."
 image: "/images/blog/ai-generated/hiring-domestic-help-antigua-guatemala.jpg"

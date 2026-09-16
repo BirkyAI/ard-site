@@ -1,5 +1,5 @@
 ---
-title: "Due Diligence de Propiedades en Guatemala: Lista para Compradores Extranjeros"
+title: "Due Diligence Inmobiliario en Guatemala"
 tag: "Legal"
 excerpt: "Antes de comprar una propiedad en Antigua Guatemala, hacé esta verificación legal. Búsquedas de título, registros municipales y consejos legales para compradores extranjeros."
 image: "/images/blog/ai-generated/guatemala-property-due-diligence.png"

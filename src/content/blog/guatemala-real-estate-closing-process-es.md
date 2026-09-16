@@ -1,5 +1,5 @@
 ---
-title: "Proceso de Cierre de Bienes Raíces en Guatemala: Una Guía Paso a Paso"
+title: "Cierre de Compraventa en Guatemala"
 tag: "Legal"
 excerpt: "¿Vas a comprar una propiedad en Guatemala? Conoce el proceso completo de cierre, desde la oferta hasta la escritura — requisitos legales, pasos notariales, costos y qué esperar."
 image: "/images/blog/ai-generated/guatemala-real-estate-closing-process.jpg"

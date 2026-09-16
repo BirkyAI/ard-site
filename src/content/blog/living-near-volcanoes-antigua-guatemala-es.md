@@ -1,5 +1,5 @@
 ---
-title: "Vivir Cerca de Volcanes en Antigua Guatemala: Lo que los Extranjeros Deben Saber"
+title: "Vivir Cerca de Volcanes en Antigua"
 tag: "Relocation"
 excerpt: "Mudarte a un pueblo rodeado de tres volcanes suena dramático. Aquí te contamos lo que realmente experimentan los extranjeros viviendo cerca del Volcán de Agua, Acatenango y Fuego en Antigua Guatemala."
 image: "/images/blog/ai-generated/volcano-living-antigua.jpg"

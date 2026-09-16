@@ -1,5 +1,5 @@
 ---
-title: "Lista de Verificacion para Visitar Propiedades en Antigua Guatemala: Que Revisar Antes de Comprar"
+title: "Qué Revisar Antes de Comprar en Antigua"
 tag: "Investment"
 excerpt: "Guia esencial para visitar propiedades en Antigua Guatemala. Que inspeccionar en casas coloniales, senales de alerta, consejos sobre vecindarios y preguntas para tu agente."
 image: "/images/blog/ai-generated/batch-20260808-10_00001_.jpg"

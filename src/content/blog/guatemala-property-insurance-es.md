@@ -1,5 +1,5 @@
 ---
-title: "Seguro de Propiedad en Guatemala: Lo que Extranjeros Deben Saber"
+title: "Seguro de Propiedad en Guatemala"
 tag: "Legal"
 excerpt: "Entendé las opciones de seguro de propiedad en Guatemala, que cobertura está disponible y cómo proteger tu inversión como comprador extranjero."
 image: "/images/blog/ai-generated/antigua-night-glow.png"

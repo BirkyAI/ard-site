@@ -1,5 +1,5 @@
 ---
-title: "Vida Ecológica en Antigua Guatemala: Guía de Hogares Sostenibles"
+title: "Vida Ecológica en Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Descubre la vida ecológica en Antigua Guatemala. Guía sobre hogares sostenibles, energía solar, captación de agua lluvia y bienes raíces verdes para expatriados e inversores."
 image: "/images/blog/ai-generated/batch-20260808-04_00001_.jpg"

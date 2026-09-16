@@ -1,5 +1,5 @@
 ---
-title: "Comprar vs Construir Casa en Antigua Guatemala: Cual Opcion es la Correcta para Ti?"
+title: "Comprar vs Construir en Antigua Guatemala"
 tag: "Investment"
 excerpt: "Deberias comprar una casa existente o construir desde cero en Antigua Guatemala? Compara costos, tiempos y consideraciones para cada camino."
 image: "/images/blog/ai-generated/batch-20260808-12_00001_.jpg"

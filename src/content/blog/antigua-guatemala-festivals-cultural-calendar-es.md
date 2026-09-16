@@ -1,5 +1,5 @@
 ---
-title: "Festivales y Calendario Cultural de Antigua Guatemala para Extranjeros"
+title: "Festivales en Antigua Guatemala"
 tag: "Lifestyle"
 excerpt: "Descubre el vibrante calendario de festivales en Antigua Guatemala. Desde Semana Santa hasta fiestas patronales, esto es lo que los extranjeros necesitan saber."
 image: "/images/blog/ai-generated/antigua-festivals-blog.jpg"

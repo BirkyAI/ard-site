@@ -1,5 +1,5 @@
 ---
-title: "Seguridad Antisísmica en Antigua Guatemala: Lo Que Debés Saber Antes de Comprar"
+title: "Seguridad Antisísmica en Antigua Guatemala"
 tag: "Investment"
 excerpt: "Antigua está en una zona sísmica activa. Aprendé cómo las casas coloniales y modernas resisten terremotos y qué revisar antes de comprar propiedad."
 image: "/images/blog/ai-generated/earthquake-safety-antigua-guatemala-property.jpg"

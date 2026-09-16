@@ -1,5 +1,5 @@
 ---
-title: 'Guía para Vivir en El Hato: La Comunidad de Montaña de Antigua Guatemala'
+title: Vivir en El Hato, Antigua Guatemala
 tag: 'Neighborhoods'
 excerpt: 'Descubrí El Hato, la tranquila comunidad de montaña sobre Antigua Guatemala con vistas impresionantes, naturaleza y una creciente comunidad de extranjeros.'
 image: '/images/blog/ai-generated/el-hato-living-guide-antigua.jpg'

@@ -1,5 +1,5 @@
 ---
-title: "Patrimonio UNESCO de Antigua Guatemala: Qué Significa Para Propietarios"
+title: "Patrimonio UNESCO y Propiedades en Antigua"
 tag: "Market Insights"
 excerpt: "El estatus de Patrimonio Mundial de la UNESCO en Antigua Guatemala afecta valores de propiedad, reglas de renovación y potencial de inversión. Esto es lo que los compradores deben saber."
 image: "/images/blog/ai-generated/antigua-caoba-farms-entrance.png"

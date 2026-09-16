@@ -1,5 +1,5 @@
 ---
-title: "Comprar una Casa de Vacaciones en Antigua Guatemala: Guía para Compradores Internacionales"
+title: "Comprar Casa de Vacaciones en Antigua"
 tag: "Investment"
 excerpt: "Cómo comprar una casa de vacaciones en Antigua Guatemala siendo extranjero. Costos, pasos legales, mejores zonas, administración de propiedades y potencial de ingresos por alquiler."
 image: "/images/blog/ai-generated/vacation-home-antigua.jpg"

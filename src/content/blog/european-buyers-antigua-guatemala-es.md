@@ -1,5 +1,5 @@
 ---
-title: "Compradores Europeos en Antigua Guatemala: Guia Completa"
+title: "Antigua para Compradores Europeos"
 tag: "Market Insights"
 excerpt: "Cada vez mas compradores britanicos, espanoles y alemanes eligen Antigua Guatemala para invertir en propiedades. Descubra por que."
 image: "/images/blog/ai-generated/european-buyers-antigua-guatemala.jpg"

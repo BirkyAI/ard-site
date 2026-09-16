@@ -1,5 +1,5 @@
 ---
-title: "Jubilarse en Antigua Guatemala: Guía Completa para Extranjeros en 2026"
+title: "Jubilarse en Antigua Guatemala"
 tag: "Relocation"
 excerpt: "¿Piensa jubilarse en Antigua Guatemala? Esto es lo que necesita saber sobre visas, atención médica, costo de vida y cómo encontrar el hogar ideal."
 image: "/images/blog/ai-generated/retiring-antigua-guatemala-guide.jpg"

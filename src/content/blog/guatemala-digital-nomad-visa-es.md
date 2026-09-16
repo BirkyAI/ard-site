@@ -1,5 +1,5 @@
 ---
-title: "Visa de Nómada Digital en Guatemala: Cómo Vivir y Trabajar en Antigua (2026)"
+title: "Visa de Nómada Digital en Guatemala (2026)"
 tag: "Relocation"
 excerpt: "Guatemala lanzó su programa oficial de visa para nómadas digitales. Conocé los requisitos, el proceso de solicitud, costos y cómo encontrar vivienda en Antigua Guatemala."
 image: "/images/blog/ai-generated/guatemala-digital-nomad-visa.jpg"

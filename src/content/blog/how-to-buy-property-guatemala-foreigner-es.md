@@ -1,5 +1,5 @@
 ---
-title: "Cómo Comprar Propiedad en Guatemala Siendo Extranjero: Guía Completa 2026"
+title: "Cómo Comprar Propiedad en Guatemala"
 tag: "Relocation"
 excerpt: "Guía paso a paso para comprar propiedad en Guatemala como extranjero. Conoce el proceso legal, costos, opciones de financiamiento y pasos seguros para bienes raíces en Antigua."
 image: "/images/blog/ai-generated/how-to-buy-property-guatemala-foreigner.jpg"

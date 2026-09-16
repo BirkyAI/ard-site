@@ -1,5 +1,5 @@
 ---
-title: "Clima y Tiempo en Antigua Guatemala: Guía Completa para Compradores e Inquilinos"
+title: "Clima en Antigua Guatemala: Guía Completa"
 tag: "Lifestyle"
 excerpt: "Antigua Guatemala goza de un clima primaveral todo el año. Conoce la temporada seca, los meses de lluvia y cómo el clima afecta tus decisiones inmobiliarias."
 image: "/images/blog/ai-generated/antigua-guatemala-weather-climate-guide.jpg"

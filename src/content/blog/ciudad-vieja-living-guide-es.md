@@ -1,5 +1,5 @@
 ---
-title: "Guía para vivir en Ciudad Vieja: El vecindario más tranquilo de Antigua"
+title: "Guía para Vivir en Ciudad Vieja"
 tag: "Neighborhoods"
 excerpt: "Descubrí por qué Ciudad Vieja ofrece vida colonial asequible a solo 10 minutos de Antigua Guatemala: historia, comunidad y vistas de volcanes."
 image: "/images/blog/ai-generated/ciudad-vieja-living-guide.jpg"

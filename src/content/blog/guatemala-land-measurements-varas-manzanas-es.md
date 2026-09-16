@@ -1,5 +1,5 @@
 ---
-title: "Medidas de Terrenos en Guatemala: Varas, Manzanas y Caballerías Explicadas"
+title: "Medidas de Terrenos en Guatemala Explicadas"
 tag: "Investment"
 excerpt: "Varas, manzanas y caballerías confunden a los compradores extranjeros. Estas son las conversiones exactas y lo que debés revisar antes de comprar."
 image: "/images/blog/ai-generated/guatemala-land-measurements-varas-manzanas.jpg"

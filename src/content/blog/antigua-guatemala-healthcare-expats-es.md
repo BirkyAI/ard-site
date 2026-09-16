@@ -1,5 +1,5 @@
 ---
-title: "Salud en Antigua Guatemala para expatriados: lo que debes saber"
+title: "Salud en Antigua Guatemala para Expats"
 tag: "Relocation"
 excerpt: "Hospitales, clínicas, seguros y costos — tu guía completa para navegar el sistema de salud como expatriado viviendo en Antigua Guatemala."
 image: "/images/blog/ai-generated/antigua-guatemala-healthcare-expats.jpg"

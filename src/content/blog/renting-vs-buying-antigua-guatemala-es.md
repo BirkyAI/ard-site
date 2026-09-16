@@ -1,5 +1,5 @@
 ---
-title: "Alquilar vs Comprar en Antigua Guatemala: Guía para Extranjeros"
+title: "Alquilar vs Comprar en Antigua"
 tag: "Relocation"
 excerpt: "¿Deberías alquilar o comprar en Antigua Guatemala? Compará costos, factores de estilo de vida y potencial de inversión para tomar la mejor decisión."
 image: "/images/blog/ai-generated/renting-vs-buying-antigua-guatemala.jpg"

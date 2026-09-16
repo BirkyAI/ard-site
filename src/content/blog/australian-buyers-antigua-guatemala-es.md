@@ -1,5 +1,5 @@
 ---
-title: "Bienes Raíces en Antigua Guatemala para Compradores Australianos: Guía Completa"
+title: "Antigua para Compradores Australianos"
 tag: "Relocation"
 excerpt: "Todo lo que los compradores australianos necesitan saber para comprar propiedad en Antigua Guatemala — visas, costos, vecindarios y cómo se compara el dólar australiano."
 image: "/images/blog/ai-generated/australian-buyers-antigua-guatemala.jpg"

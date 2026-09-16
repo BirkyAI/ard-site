@@ -1,5 +1,5 @@
 ---
-title: "Bienes Raíces en Antigua Guatemala para Compradores Británicos: Guía Completa"
+title: "Antigua para Compradores Británicos"
 tag: "Relocation"
 excerpt: "Todo lo que los compradores británicos necesitan saber sobre la compra de propiedades en Antigua Guatemala — visas, costos, vecindarios y cómo el tipo de cambio GBP juega a su favor."
 image: "/images/blog/ai-generated/uk-buyers-antigua-guatemala.jpg"

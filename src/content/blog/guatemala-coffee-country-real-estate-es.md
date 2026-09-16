@@ -1,5 +1,5 @@
 ---
-title: "Bienes raíces en el país del café de Guatemala: Guía de vida en las tierras altas"
+title: "Bienes Raíces en el País del Café"
 tag: "Lifestyle"
 excerpt: "Explorá oportunidades de propiedad en las tierras altas productoras de café de Guatemala cerca de Antigua. Encontrá la casa de tus sueños rodeada de suelo volcánico y verdes colinas."
 image: "/images/blog/ai-generated/guatemala-coffee-country-real-estate.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala para Familias: Escuelas, Actividades y los Mejores Vecindarios"
+title: "Antigua Guatemala para Familias con Niños"
 tag: "Relocation"
 excerpt: "Guia completa para familias que se mudan a Antigua Guatemala: escuelas internacionales, actividades infantiles, vecindarios seguros y vida cotidiana con ninos."
 image: "/images/blog/ai-generated/batch-20260808-06_00001_.jpg"

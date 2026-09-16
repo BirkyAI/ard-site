@@ -1,5 +1,5 @@
 ---
-title: "Tesoros Ocultos de Antigua Guatemala: Mejores Barrios Emergentes para Inversión Inmobiliaria en 2026"
+title: "Barrios Emergentes en Antigua Guatemala"
 tag: "Investment"
 excerpt: "Descubre los barrios emergentes de Antigua Guatemala con alto potencial de plusvalía. Oportunidades de inversión inteligente más allá del centro turístico para 2026."
 image: "/images/blog/ai-generated/up-and-coming-neighborhoods-antigua-guatemala.jpg"

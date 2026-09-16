@@ -1,5 +1,5 @@
 ---
-title: "Bienes Raíces en San Miguel Dueñas: Una Joya Oculta Cerca de Antigua"
+title: "Bienes Raíces en San Miguel Dueñas"
 tag: "Neighborhoods"
 excerpt: "Por qué los compradores están mirando más allá de Antigua hacia San Miguel Dueñas — vistas al volcán, lotes más grandes y precios que tienen sentido en 2026."
 image: "/images/blog/ai-generated/san-miguel-duenas-real-estate.jpg"

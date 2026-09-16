@@ -1,5 +1,5 @@
 ---
-title: "Cómo Construir una Casa Personalizada en Antigua Guatemala"
+title: "Construir una Casa en Antigua Guatemala"
 tag: "Relocation"
 excerpt: "Una guía paso a paso para construir una casa personalizada en Antigua Guatemala, desde contratar un arquitecto hasta navegar permisos y costos de construcción."
 image: "/images/blog/ai-generated/build-custom-home-antigua.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Comprar un Condominio o Apartamento en Antigua Guatemala: Guía Completa del Comprador"
+title: "Condominios y Apartamentos en Antigua"
 tag: "Inversión"
 excerpt: "Todo lo que debes saber para comprar un condominio o apartamento en Antigua Guatemala — precios por zona, coloniales vs obra nueva, cuotas de mantenimiento, pasos legales para extranjeros y potencial de renta."
 image: "/images/blog/ai-generated/condos-apartments-antigua-guatemala.jpg"

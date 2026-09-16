@@ -1,5 +1,5 @@
 ---
-title: "¿Es Segura Antigua Guatemala? Guía de Seguridad para Extranjeros 2026"
+title: "¿Es Segura Antigua Guatemala? (2026)"
 tag: "Relocation"
 excerpt: "Datos reales de seguridad y consejos prácticos para extranjeros que consideran Antigua Guatemala. Descubrí por qué es uno de los pueblos más seguros de Centroamérica."
 image: "/images/blog/ai-generated/antigua-ai-street-scene.png"

@@ -1,5 +1,5 @@
 ---
-title: "Como Vender Tu Casa en Antigua Guatemala: Guia Paso a Paso"
+title: "Cómo Vender Tu Casa en Antigua"
 tag: "Market Insights"
 excerpt: "Aprende como vender tu casa en Antigua Guatemala. Desde la tasacion y preparacion hasta el cierre, esta guia cubre todo lo que los vendedores necesitan saber."
 image: "/images/ai-gen/selling-home-antigua-guatemala.png"

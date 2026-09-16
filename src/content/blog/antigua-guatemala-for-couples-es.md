@@ -1,5 +1,5 @@
 ---
-title: "Antigua Guatemala para Parejas — Por Qué las Parejas Eligen Esta Joya Colonial"
+title: "Antigua Guatemala para Parejas"
 tag: "Estilo de Vida"
 excerpt: "Todo lo que las parejas necesitan saber sobre mudarse a Antigua Guatemala juntos — encontrar la casa ideal, costo de vida para dos, construir comunidad y vivir bien en pareja en una ciudad Patrimonio de la UNESCO."
 image: "/images/blog/ai-generated/antigua-guatemala-for-couples.jpg"
