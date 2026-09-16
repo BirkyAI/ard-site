@@ -1,5 +1,5 @@
 ---
-title: "5BR House with 360° Views — San Gaspar Vivar, Santa Catarina Bobadilla"
+title: "5BR House with 360° Views, San Gaspar Vivar"
 location: "San Gaspar Vivar, Santa Catarina Bobadilla"
 price: 13000
 priceLabel: "Q13,000/month"

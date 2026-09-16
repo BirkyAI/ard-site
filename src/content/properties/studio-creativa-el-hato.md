@@ -1,5 +1,5 @@
 ---
-title: "Studio Creativa — Rustic Nature Studio at Finca El Tambor, El Hato"
+title: "Studio Creativa — Nature Studio, El Hato"
 location: "El Hato, Antigua Guatemala — Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/month"

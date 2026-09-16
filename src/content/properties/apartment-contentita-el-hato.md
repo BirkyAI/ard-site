@@ -1,5 +1,5 @@
 ---
-title: "Apto Contentita — Spacious Modern Apartment at Finca El Tambor, El Hato"
+title: "Apto Contentita — Modern Apartment, El Hato"
 location: "El Hato, Antigua Guatemala — Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/month"

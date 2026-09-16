@@ -1,5 +1,5 @@
 ---
-title: "Catarata — Cabaña Romántica de Lujo en Finca El Tambor, El Hato"
+title: "Catarata — Cabaña Romántica en El Tambor"
 location: "El Hato, Antigua Guatemala — Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/mes"

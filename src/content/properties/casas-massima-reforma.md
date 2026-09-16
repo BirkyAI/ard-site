@@ -1,5 +1,5 @@
 ---
-title: "Casas Massima Reforma — Luxury Living in Jardines de Antigua"
+title: "Casas Massima Reforma — Jardines de Antigua"
 location: "Jardines de Antigua, Guatemala"
 price: 1500000
 beds: 4

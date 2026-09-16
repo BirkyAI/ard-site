@@ -1,5 +1,5 @@
 ---
-title: "Casa H7 — Modern Colonial Home in Hacienda del Comendador"
+title: "Casa H7 — Colonial Home, Hacienda Comendador"
 location: "Hacienda del Comendador, San Miguel Dueñas, Sacatepéquez"
 price: 525000
 beds: 3

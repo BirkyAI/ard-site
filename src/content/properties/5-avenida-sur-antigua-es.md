@@ -1,5 +1,5 @@
 ---
-title: "5 Avenida Sur — Condominio Exclusivo Cerca de Caoba Farms"
+title: "5 Avenida Sur — Condominio Cerca de Caoba"
 location: "5 Avenida Sur, Antigua Guatemala"
 price: 0
 beds: 0

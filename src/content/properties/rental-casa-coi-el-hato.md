@@ -1,5 +1,5 @@
 ---
-title: "Casa Coi — Tiny Eco-House Among the Trees at Finca El Tambor, El Hato"
+title: "Casa Coi — Eco-House at Finca El Tambor"
 location: "El Hato, Antigua Guatemala — Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/month"

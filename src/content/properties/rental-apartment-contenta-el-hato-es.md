@@ -1,5 +1,5 @@
 ---
-title: "Apto Contenta — Amplio Apartamento Moderno en Finca El Tambor, El Hato"
+title: "Apto Contenta — Apartamento Moderno, El Hato"
 location: "El Hato, Antigua Guatemala — Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/mes"

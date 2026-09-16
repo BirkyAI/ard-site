@@ -1,5 +1,5 @@
 ---
-title: "Los Apóstoles — Casa Colonial Moderna en Comunidad Cerrada Exclusiva"
+title: "Los Apóstoles — Casa Colonial en Comunidad Cerrada"
 location: "Los Apóstoles, Antigua Guatemala"
 price: 615000
 beds: 4

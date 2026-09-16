@@ -1,5 +1,5 @@
 ---
-title: "Casa de 5 Hab. con Vistas 360° — San Gaspar Vivar, Santa Catarina Bobadilla"
+title: "Casa 5 Hab. con Vistas 360°, San Gaspar"
 location: "San Gaspar Vivar, Santa Catarina Bobadilla"
 price: 13000
 priceLabel: "Q13,000/mes"
