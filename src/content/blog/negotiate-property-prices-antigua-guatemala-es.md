@@ -2,7 +2,7 @@
 title: "Negociar Precios en Antigua Guatemala"
 tag: "Investment"
 excerpt: "Aprende a negociar precios de propiedades en Antigua Guatemala. Consejos prácticos para hacer ofertas, fijar tu presupuesto, trabajar con un agente y entender las motivaciones del vendedor en el mercado inmobiliario guatemalteco."
-image: "https://ard-site.vercel.app/images/ai-gen/negotiate-property-prices-antigua-guatemala.png"
+image: "/images/ai-gen/negotiate-property-prices-antigua-guatemala.png"
 alt: "Arquitectura colonial y calle adoquinada en Antigua Guatemala con letrero de propiedad en venta bajo la luz dorada del atardecer"
 date: 2026-08-14
 lang: "es"

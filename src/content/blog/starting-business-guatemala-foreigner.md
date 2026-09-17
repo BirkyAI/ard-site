@@ -2,7 +2,7 @@
 title: "Starting a Business in Guatemala as a Foreigner"
 tag: "Relocation"
 excerpt: "Step-by-step guide to starting a business in Guatemala as a foreigner. Visa options, entity types, costs, timeline, and tips for entrepreneurs in Antigua."
-image: "https://ard-site.vercel.app/images/ai-gen/starting-business-guatemala-foreigner.png"
+image: "/images/ai-gen/starting-business-guatemala-foreigner.png"
 alt: "Business documents and laptop with colonial Antigua Guatemala street in background, photorealistic"
 date: 2026-08-11
 lang: "en"

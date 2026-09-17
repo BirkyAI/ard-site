@@ -2,7 +2,7 @@
 title: "Abrir un Negocio en Guatemala"
 tag: "Relocation"
 excerpt: "Guía paso a paso para abrir un negocio en Guatemala como extranjero. Opciones de visa, tipos de sociedad, costos, plazos y consejos para emprendedores en Antigua."
-image: "https://ard-site.vercel.app/images/ai-gen/starting-business-guatemala-foreigner.png"
+image: "/images/ai-gen/starting-business-guatemala-foreigner.png"
 alt: "Documentos de negocios y laptop con una calle colonial de Antigua Guatemala al fondo, foto realista"
 date: 2026-08-11
 lang: "es"
