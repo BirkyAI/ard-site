@@ -38,7 +38,44 @@ const hasMore = posts.length > POSTS_PER_PAGE;
       )}
     </div>
   </section>
+
+  <!-- FAQ Section -->
+  <section class="content-section" style="padding-top:0;">
+    <div class="container" style="max-width:760px;">
+      <h2 style="font-size:28px;font-weight:600;margin-bottom:8px;">Bienes Raíces en Antigua Guatemala: Respuestas Rápidas</h2>
+      <p style="color:var(--color-text-muted);margin-bottom:32px;">Las preguntas que más nos hacen expatriados e inversionistas, respondidas directamente.</p>
+      <div class="faq-item" style="border-bottom:1px solid #e5e7eb;padding:20px 0;">
+        <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;">¿Pueden los extranjeros comprar propiedad en Antigua Guatemala?</h3>
+        <p style="color:var(--color-text-secondary);line-height:1.7;">Sí. Los extranjeros pueden comprar y poseer propiedad en Guatemala, incluso en Antigua, con los mismos derechos que los ciudadanos. Comprar a través de una sociedad anónima guatemalteca (S.A.) es la práctica estándar, especialmente para propiedades que generan ingresos o alquileres a corto plazo. Un abogado local gestiona el estudio de títulos, el escrow y el registro.</p>
+      </div>
+      <div class="faq-item" style="border-bottom:1px solid #e5e7eb;padding:20px 0;">
+        <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;">¿Cuánto cuesta vivir en Antigua Guatemala?</h3>
+        <p style="color:var(--color-text-secondary);line-height:1.7;">Un expatriado puede vivir cómodamente en Antigua con aproximadamente $1,500 a $2,500 al mes, incluyendo renta, servicios, comida y salud. Una pareja que renta una casa amueblada suele presupuestar entre $2,500 y $4,000 mensuales según la zona y el estilo de la vivienda.</p>
+      </div>
+      <div class="faq-item" style="border-bottom:1px solid #e5e7eb;padding:20px 0;">
+        <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;">¿Es seguro invertir en bienes raíces en Antigua?</h3>
+        <p style="color:var(--color-text-secondary);line-height:1.7;">Antigua es uno de los mercados inmobiliarios más seguros y establecidos de Centroamérica. Los valores de las propiedades se han mantenido estables y la fuerte demanda de alquiler por turistas y trabajadores remotos lo convierte en un mercado de ingresos confiable. Siempre verifica el título, trabaja con un abogado autorizado y compra mediante estructuras legales adecuadas.</p>
+      </div>
+      <div class="faq-item" style="padding:20px 0;">
+        <h3 style="font-size:17px;font-weight:600;margin-bottom:8px;">¿Cuál es la mejor zona de Antigua para comprar propiedad?</h3>
+        <p style="color:var(--color-text-secondary);line-height:1.7;">El Centro Histórico es ideal para ingresos por alquiler y caminabilidad, mientras que zonas como San Pedro Las Huertas, Jocotenango y Santa Lucía Milpas Altas ofrecen más terreno, privacidad y casas más grandes. La mejor elección depende de si planeas alquilarla, vivir en ella o construir.</p>
+      </div>
+    </div>
+  </section>
 </BaseLayout>
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      { "@type": "Question", "name": "¿Pueden los extranjeros comprar propiedad en Antigua Guatemala?", "acceptedAnswer": { "@type": "Answer", "text": "Sí. Los extranjeros pueden comprar y poseer propiedad en Guatemala, incluso en Antigua, con los mismos derechos que los ciudadanos. Comprar a través de una sociedad anónima guatemalteca (S.A.) es la práctica estándar." } },
+      { "@type": "Question", "name": "¿Cuánto cuesta vivir en Antigua Guatemala?", "acceptedAnswer": { "@type": "Answer", "text": "Un expatriado puede vivir cómodamente en Antigua con aproximadamente $1,500 a $2,500 al mes, incluyendo renta, servicios, comida y salud. Una pareja suele presupuestar entre $2,500 y $4,000 mensuales." } },
+      { "@type": "Question", "name": "¿Es seguro invertir en bienes raíces en Antigua?", "acceptedAnswer": { "@type": "Answer", "text": "Antigua es uno de los mercados inmobiliarios más seguros y establecidos de Centroamérica. Los valores se han mantenido estables y la fuerte demanda de alquiler lo convierte en un mercado de ingresos confiable." } },
+      { "@type": "Question", "name": "¿Cuál es la mejor zona de Antigua para comprar propiedad?", "acceptedAnswer": { "@type": "Answer", "text": "El Centro Histórico es ideal para ingresos por alquiler y caminabilidad, mientras que zonas como San Pedro Las Huertas, Jocotenango y Santa Lucía Milpas Altas ofrecen más terreno, privacidad y casas más grandes." } }
+    ]
+  }
+</script>
 
 <script define:vars={{ allPosts: posts.map(p => ({ id: p.id, image: p.data.image, alt: p.data.alt, tag: p.data.tag, title: p.data.title, excerpt: p.data.excerpt })), POSTS_PER_PAGE }}>
   let currentPage = 1;

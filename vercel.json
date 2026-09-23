@@ -528,6 +528,16 @@
       "source": "/es/downloads/relocation-checklist/",
       "destination": "/es/contact/",
       "permanent": true
+    },
+    {
+      "source": "/voice-demo/",
+      "destination": "https://vapi.ai?demo=true&shareKey=60d98cd1-2e54-45ca-adb0-393aa7fa8091&assistantId=500b4a5a-f03d-4748-8fca-6cb0c99c9ee3",
+      "permanent": false
+    },
+    {
+      "source": "/voice-demo",
+      "destination": "https://vapi.ai?demo=true&shareKey=60d98cd1-2e54-45ca-adb0-393aa7fa8091&assistantId=500b4a5a-f03d-4748-8fca-6cb0c99c9ee3",
+      "permanent": false
     }
   ]
 }

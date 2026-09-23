@@ -17,7 +17,7 @@ const d = post.data;
       <div style="max-width:720px;margin:0 auto;">
         <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1.5px;color:var(--color-text-muted);margin-bottom:8px;">{d.tag}</div>
         <h1 style="font-size:clamp(28px,4vw,40px);font-weight:600;letter-spacing:-0.5px;line-height:1.1;margin-bottom:16px;">{d.title}</h1>
-        <div style="font-size:14px;color:var(--color-text-muted);margin-bottom:32px;">{d.date.toLocaleDateString('en-US', {year:'numeric',month:'long',day:'numeric'})}</div>
+        <div style="font-size:14px;color:var(--color-text-muted);margin-bottom:32px;">{d.date.toLocaleDateString('en-US', {year:'numeric',month:'long',day:'numeric'})} · <span style="font-weight:600;">By Luna Jerney</span></div>
         <div style="border-radius:16px;overflow:hidden;margin-bottom:48px;">
           <img src={d.image} alt={d.alt} style="width:100%;aspect-ratio:16/10;object-fit:cover;">
         </div>
