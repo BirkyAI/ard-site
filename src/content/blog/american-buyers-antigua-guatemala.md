@@ -1,7 +1,7 @@
 ---
 title: "Why Americans Choose Antigua Guatemala"
 tag: "Investment"
-excerpt: "Discover why U.S. buyers are increasingly investing in Antigua Guatemala real estate — from affordable luxury homes to rental income and expat lifestyle benefits."
+excerpt: "Discover why U.S. buyers are increasingly investing in Antigua Guatemala real estate, from affordable luxury homes to rental income and expat lifestyle benefits."
 image: "/images/blog/ai-generated/batch-20260808-09_00001_.jpg"
 alt: "Colonial courtyard with fountain and tropical plants in Antigua Guatemala"
 date: 2026-08-24
@@ -42,7 +42,7 @@ Buying property in a foreign country comes with its own set of considerations. H
 
 **Understand the closing process.** Buying property in Guatemala involves a fiduciary contract (contrato de compraventa) signed before a notary, a title search at the Public Registry (Registro General de la Propiedad), payment of transfer taxes (around 3 percent of the purchase price), and registration of the new deed. The process typically takes 30 to 60 days. For a detailed walkthrough, read our guide to the [Guatemala real estate closing process for foreigners](https://antiguarealestatedevelopment.com/blog/guatemala-real-estate-closing-process/).
 
-**Budget for additional costs.** Beyond the purchase price, buyers should budget for the notary fee (typically 1 to 2 percent of the property value), transfer tax (3 percent), registration fees, and legal costs. Total closing costs generally run 5 to 7 percent of the purchase price. Annual property taxes in Guatemala are remarkably low — typically 0.2 to 0.5 percent of the registered value — which is one of many reasons [Guatemala property taxes are favorable for foreign buyers](https://antiguarealestatedevelopment.com/blog/guatemala-property-taxes-foreigners/).
+**Budget for additional costs.** Beyond the purchase price, buyers should budget for the notary fee (typically 1 to 2 percent of the property value), transfer tax (3 percent), registration fees, and legal costs. Total closing costs generally run 5 to 7 percent of the purchase price. Annual property taxes in Guatemala are remarkably low, typically 0.2 to 0.5 percent of the registered value, which is one of many reasons [Guatemala property taxes are favorable for foreign buyers](https://antiguarealestatedevelopment.com/blog/guatemala-property-taxes-foreigners/).
 
 **Consider property management.** If you do not plan to live in Antigua full time, professional property management is essential, especially if you intend to rent out the property. A good property manager handles maintenance, tenant relations, utility payments, and any issues that arise while you are away. Luna Jerney offers [property management services for absentee owners](https://antiguarealestatedevelopment.com/services/) to give you peace of mind.
 

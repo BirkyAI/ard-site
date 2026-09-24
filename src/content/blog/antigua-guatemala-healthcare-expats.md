@@ -1,7 +1,7 @@
 ---
 title: "Antigua Guatemala Healthcare for Expats"
 tag: "Relocation"
-excerpt: "Hospitals, clinics, insurance, and costs — your complete guide to navigating healthcare as an expat living in Antigua Guatemala."
+excerpt: "Hospitals, clinics, insurance, and costs, your complete guide to navigating healthcare as an expat living in Antigua Guatemala."
 image: "/images/blog/ai-generated/antigua-guatemala-healthcare-expats.jpg"
 alt: "Antigua Guatemala colonial homes where expats enjoy affordable healthcare and quality of life"
 date: 2026-06-17
@@ -9,7 +9,7 @@ date: 2026-06-17
 
 ## Healthcare in Antigua Guatemala Is More Accessible Than You Think
 
-One of the biggest concerns for anyone considering a move abroad is healthcare. In Antigua Guatemala, expats consistently find that medical care is surprisingly affordable, accessible, and — in many private facilities — comparable to what you'd find in the United States or Europe. Whether you need a routine checkup, dental work, or emergency care, Antigua and nearby Guatemala City have you covered.
+One of the biggest concerns for anyone considering a move abroad is healthcare. In Antigua Guatemala, expats consistently find that medical care is surprisingly affordable, accessible, and, in many private facilities, comparable to what you'd find in the United States or Europe. Whether you need a routine checkup, dental work, or emergency care, Antigua and nearby Guatemala City have you covered.
 
 ## How Healthcare Works in Guatemala
 
@@ -30,9 +30,9 @@ For advanced procedures, complex diagnostics, or specialized surgery, Guatemala 
 
 ## Dental Care: A Major Perk
 
-Dental care in Guatemala deserves special mention. High-quality dental work — including crowns, implants, root canals, and cosmetic dentistry — is available at 50–70% less than US prices. Many dentists in Antigua and Guatemala City trained in the US or Europe and use the same materials and equipment.
+Dental care in Guatemala deserves special mention. High-quality dental work, including crowns, implants, root canals, and cosmetic dentistry, is available at 50–70% less than US prices. Many dentists in Antigua and Guatemala City trained in the US or Europe and use the same materials and equipment.
 
-A routine cleaning costs around Q150–Q300 ($20–$40 USD), and a porcelain crown runs about Q2,000–Q3,500 ($260–$460 USD) — compared to $1,000–$2,000 in the States. Some expats even plan dental tourism trips, combining their appointment with a weekend exploring Antigua's cobblestone streets.
+A routine cleaning costs around Q150–Q300 ($20–$40 USD), and a porcelain crown runs about Q2,000–Q3,500 ($260–$460 USD), compared to $1,000–$2,000 in the States. Some expats even plan dental tourism trips, combining their appointment with a weekend exploring Antigua's cobblestone streets.
 
 ## Health Insurance Options for Expats
 
@@ -43,11 +43,11 @@ Several Guatemalan insurers offer health plans to foreign residents. Companies l
 If you want global coverage that works both in Guatemala and when traveling home, international providers like Cigna Global, Allianz Care, and SafetyWing offer plans tailored to expats. These tend to cost more but provide the peace of mind of coverage wherever you go.
 
 ### Paying Out of Pocket
-Many expats — especially those from the US accustomed to high deductibles — choose to pay out of pocket for routine care and carry catastrophic-only insurance. Given the low cost of medical services in Guatemala, this approach can make financial sense for healthy individuals. A full year of doctor visits, dental cleanings, and minor procedures might total $500–$1,000 USD.
+Many expats, especially those from the US accustomed to high deductibles, choose to pay out of pocket for routine care and carry catastrophic-only insurance. Given the low cost of medical services in Guatemala, this approach can make financial sense for healthy individuals. A full year of doctor visits, dental cleanings, and minor procedures might total $500–$1,000 USD.
 
 ## Pharmacies and Prescriptions
 
-Pharmacies (*farmacias*) are everywhere in Antigua, and many medications that require a prescription in the US are available over the counter in Guatemala — including antibiotics, blood pressure medication, and allergy treatments. Farmacia Galeno and Farmacia Batres are reliable chains with knowledgeable pharmacists.
+Pharmacies (*farmacias*) are everywhere in Antigua, and many medications that require a prescription in the US are available over the counter in Guatemala, including antibiotics, blood pressure medication, and allergy treatments. Farmacia Galeno and Farmacia Batres are reliable chains with knowledgeable pharmacists.
 
 Common medications cost significantly less. A course of antibiotics that might cost $50–$100 in the US without insurance can be purchased for Q30–Q80 ($4–$11 USD) in Antigua. For expats managing chronic conditions, the savings on monthly prescriptions alone can be substantial.
 
@@ -67,8 +67,8 @@ Guatemala's emergency number is **110** for police and **123** for firefighters.
 
 ## Why Healthcare Is One More Reason Antigua Makes Sense
 
-When you combine the affordability of private healthcare with the quality of available services, Antigua Guatemala becomes even more attractive as a place to live, retire, or invest. The money you save on healthcare can go toward enjoying the incredible lifestyle this city offers — from its volcanic views and world-class restaurants to its vibrant expat community and colonial charm.
+When you combine the affordability of private healthcare with the quality of available services, Antigua Guatemala becomes even more attractive as a place to live, retire, or invest. The money you save on healthcare can go toward enjoying the incredible lifestyle this city offers, from its volcanic views and world-class restaurants to its vibrant expat community and colonial charm.
 
-If you're considering a move to Antigua Guatemala and want to understand the full picture — from healthcare to housing — Luna Jerney at Antigua Real Estate Development can help. Luna has guided dozens of families and retirees through the process of finding their perfect home in Antigua, and she understands the practical details that matter when relocating abroad.
+If you're considering a move to Antigua Guatemala and want to understand the full picture, from healthcare to housing. Luna Jerney at Antigua Real Estate Development can help. Luna has guided dozens of families and retirees through the process of finding their perfect home in Antigua, and she understands the practical details that matter when relocating abroad.
 
 **Ready to explore property options in Antigua Guatemala?** [Contact Luna Jerney today](https://antiguarealestatedevelopment.com/contact/) to start your journey toward a new life in one of Central America's most enchanting cities.

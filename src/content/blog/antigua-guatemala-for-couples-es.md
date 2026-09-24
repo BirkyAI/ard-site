@@ -1,14 +1,14 @@
 ---
 title: "Antigua Guatemala para Parejas"
 tag: "Estilo de Vida"
-excerpt: "Todo lo que las parejas necesitan saber sobre mudarse a Antigua Guatemala juntos — encontrar la casa ideal, costo de vida para dos, construir comunidad y vivir bien en pareja en una ciudad Patrimonio de la UNESCO."
+excerpt: "Todo lo que las parejas necesitan saber sobre mudarse a Antigua Guatemala juntos, encontrar la casa ideal, costo de vida para dos, construir comunidad y vivir bien en pareja en una ciudad Patrimonio de la UNESCO."
 image: "/images/blog/ai-generated/antigua-guatemala-for-couples.jpg"
 alt: "Calle colonial en Antigua Guatemala con buganvillas vibrantes, adoquines y el Volcán de Agua detrás de edificios históricos coloridos"
 date: 2026-09-08
 lang: "es"
 ---
 
-Cada vez más parejas están descubriendo Antigua Guatemala como un lugar para construir una vida juntos. No solo jubilados — aunque muchos nidos vacíos están aquí también — sino dúos de trabajo remoto, parejas semi-jubiladas y personas de 30 y 40 años que buscan un costo de vida más bajo, mejor clima y un ritmo más pausado sin sacrificar calidad de vida.
+Cada vez más parejas están descubriendo Antigua Guatemala como un lugar para construir una vida juntos. No solo jubilados, aunque muchos nidos vacíos están aquí también, sino dúos de trabajo remoto, parejas semi-jubiladas y personas de 30 y 40 años que buscan un costo de vida más bajo, mejor clima y un ritmo más pausado sin sacrificar calidad de vida.
 
 Esta guía cubre lo que las parejas necesitan saber antes de mudarse: opciones de vivienda que funcionan para dos, costos mensuales realistas, cómo construir un círculo social y la logística práctica de establecerse juntos.
 
@@ -16,7 +16,7 @@ Esta guía cubre lo que las parejas necesitan saber antes de mudarse: opciones d
 
 La decisión de mudarse en pareja conlleva consideraciones diferentes a mudarse solo. Ambos necesitan sentirse bien con la elección. Antigua cumple con los requisitos que más importan a las parejas.
 
-**El costo de vida rinde más para dos.** Una pareja puede vivir bien en Antigua con $1,800 a $2,500 al mes — incluyendo renta, servicios, alimentos, salir a cenar y actividades. Ese mismo presupuesto en la mayoría de las ciudades de Estados Unidos o Europa apenas cubre la renta. Los ahorros abren opciones: uno puede trabajar menos, ambos pueden viajar más, o simplemente disfrutar de un nivel de vida más alto.
+**El costo de vida rinde más para dos.** Una pareja puede vivir bien en Antigua con $1,800 a $2,500 al mes, incluyendo renta, servicios, alimentos, salir a cenar y actividades. Ese mismo presupuesto en la mayoría de las ciudades de Estados Unidos o Europa apenas cubre la renta. Los ahorros abren opciones: uno puede trabajar menos, ambos pueden viajar más, o simplemente disfrutar de un nivel de vida más alto.
 
 **El estilo de vida funciona para días activos y tranquilos.** ¿Quieres escalar un volcán antes del desayuno? Hecho. ¿Prefieres pasar la tarde leyendo en una terraza? Igualmente válido. Antigua acomoda ambas energías sin forzar una elección. Las parejas que tienen diferentes ideas de un gran día obtienen lo que quieren.
 
@@ -28,15 +28,15 @@ La decisión de mudarse en pareja conlleva consideraciones diferentes a mudarse 
 
 Diferentes áreas de Antigua se adaptan a diferentes dinámicas de pareja.
 
-### Centro Histórico — Para Caminabilidad y Ambiente
+### Centro Histórico. Para Caminabilidad y Ambiente
 
 El centro histórico es ideal para parejas que quieren salir por la puerta y estar en medio de todo. Restaurantes, cafeterías, galerías y la plaza central están a cinco minutos a pie.
 
 **Renta típica:** Un apartamento colonial de un dormitorio en el centro cuesta de $500 a $800 al mes. Un dos dormitorios con patio o terraza cuesta de $800 a $1,200.
 
-**Ideal para:** Parejas que valoran la caminabilidad, disfrutan estar cerca de la escena social y quieren la experiencia colonial completa. La contrapartida es el ruido — los fines de semana pueden ser animados cerca de la plaza.
+**Ideal para:** Parejas que valoran la caminabilidad, disfrutan estar cerca de la escena social y quieren la experiencia colonial completa. La contrapartida es el ruido, los fines de semana pueden ser animados cerca de la plaza.
 
-### San Pedro — Más Tranquilo y Residencial
+### San Pedro. Más Tranquilo y Residencial
 
 Al este del centro, San Pedro ofrece un ritmo más relajado mientras sigue siendo transitable hasta la ciudad. Las calles son más tranquilas, las aceras más anchas y las propiedades a menudo incluyen jardines o espacio exterior.
 
@@ -44,7 +44,7 @@ Al este del centro, San Pedro ofrece un ritmo más relajado mientras sigue siend
 
 **Ideal para:** Parejas que quieren paz y tranquilidad sin estar aisladas. San Pedro está lo suficientemente cerca para caminar al centro en diez o quince minutos.
 
-### Jocotenango — Ambiente Comunitario Cerca del Arco
+### Jocotenango. Ambiente Comunitario Cerca del Arco
 
 Jocotenango, alrededor del emblemático arco de Santa Catalina, tiene su propia microcomunidad con cafeterías, un mercado de sábados y ambiente de barrio.
 
@@ -52,7 +52,7 @@ Jocotenango, alrededor del emblemático arco de Santa Catalina, tiene su propia 
 
 **Ideal para:** Parejas que quieren ser parte de una comunidad integrada. La densidad de expatriados en Jocotenango significa que conocerás vecinos rápidamente.
 
-### Ciudad Vieja — Espacio y Valor
+### Ciudad Vieja. Espacio y Valor
 
 Para parejas que quieren una casa con jardín, espacio para extenderse y renta más baja, Ciudad Vieja vale la compensación. Está a diez minutos en tuk-tuk del centro de Antigua.
 
@@ -82,7 +82,7 @@ La mayoría de las parejas con ingresos remotos del extranjero encuentran que la
 
 ### Apartamento Colonial
 
-La opción más común para parejas en Antigua es un apartamento colonial — típicamente la planta superior de una casa colonial restaurada, con techos altos, entrada privada y a menudo un patio compartido o terraza.
+La opción más común para parejas en Antigua es un apartamento colonial, típicamente la planta superior de una casa colonial restaurada, con techos altos, entrada privada y a menudo un patio compartido o terraza.
 
 **Ventajas:** Carácter, ubicación, luz natural. Muchos vienen semi-amueblados.
 **Desventajas:** Ruido de la calle o vecinos. Construcción colonial significa paredes delgadas.
@@ -108,7 +108,7 @@ Para parejas con mayor presupuesto, alquilar o comprar una casa colonial complet
 Antigua ofrece a las parejas un ritmo difícil de replicar en otros lugares. Una semana típica podría incluir:
 
 - **Café matutino** en una terraza con vistas al volcán
-- **Clases de español juntos** — muchas escuelas ofrecen descuento para parejas
+- **Clases de español juntos**, muchas escuelas ofrecen descuento para parejas
 - **Excursiones de fin de semana** al Volcán Pacaya o Acatenango
 - **Clases de cocina** guatemalteca para dos
 - **Atardeceres en terrazas** con cócteles y vistas panorámicas
@@ -118,10 +118,10 @@ Antigua ofrece a las parejas un ritmo difícil de replicar en otros lugares. Una
 
 La forma más rápida para que las parejas conozcan gente en Antigua:
 
-1. **Unirse a Impact Hub** — el espacio de coworking organiza eventos semanales
-2. **Asistir a intercambios de idiomas** — miércoles y viernes en varios cafés
-3. **Tomar una clase juntos** — salsa, cerámica o español
-4. **Usar grupos de Facebook** — "Expatriados en Antigua Guatemala" publica eventos semanales
+1. **Unirse a Impact Hub**, el espacio de coworking organiza eventos semanales
+2. **Asistir a intercambios de idiomas**, miércoles y viernes en varios cafés
+3. **Tomar una clase juntos**, salsa, cerámica o español
+4. **Usar grupos de Facebook**. "Expatriados en Antigua Guatemala" publica eventos semanales
 
 ## Consideraciones Prácticas para Parejas
 

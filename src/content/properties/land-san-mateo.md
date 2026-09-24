@@ -68,12 +68,12 @@ This land for sale in San Mateo Milpas Altas near Antigua Guatemala offers a rar
 
 Large land parcels close to Antigua Guatemala are increasingly rare. This property offers:
 
-- **Ready to build** — Foundations and retaining walls already in place
-- **Utilities connected** — No waiting for water and electricity
-- **Privacy** — Set back from the road with complete privacy
-- **Views** — Beautiful mountain and valley views
-- **Growth area** — San Mateo Milpas Altas is a rapidly growing expat community
-- **30 minutes from Antigua** — Close enough for convenience, far enough for peace and quiet
+- **Ready to build**. Foundations and retaining walls already in place
+- **Utilities connected**. No waiting for water and electricity
+- **Privacy**. Set back from the road with complete privacy
+- **Views**. Beautiful mountain and valley views
+- **Growth area**. San Mateo Milpas Altas is a rapidly growing expat community
+- **30 minutes from Antigua**. Close enough for convenience, far enough for peace and quiet
 
 ## Location
 

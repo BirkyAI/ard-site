@@ -10,7 +10,7 @@ lang: "en"
 
 For decades, foreigners have been drawn to Guatemala's colonial cities, volcanic landscapes, and affordable cost of living. Antigua Guatemala, in particular, has become a hotspot for expats, retirees, and remote workers looking to buy property.
 
-If you're a foreigner wondering **how to buy property in Guatemala**, the short answer is: **yes, you can — and the process is surprisingly straightforward.** Guatemala has no restrictions on foreign ownership for most properties, and the legal system protects buyers who follow the right steps.
+If you're a foreigner wondering **how to buy property in Guatemala**, the short answer is: **yes, you can, and the process is surprisingly straightforward.** Guatemala has no restrictions on foreign ownership for most properties, and the legal system protects buyers who follow the right steps.
 
 This guide walks you through exactly what you need to know, from legal requirements to closing costs, so you can buy with confidence.
 
@@ -31,7 +31,7 @@ The single most important step is finding a reputable agent who specializes in w
 - Negotiate in Spanish on your behalf
 - Help you navigate cultural differences in the buying process
 
-Look for agents who are members of the **Cámara Guatemalteca de Bienes Raíces (CGBR)** — similar to a local real estate board. Ask for client references, especially from other foreign buyers.
+Look for agents who are members of the **Cámara Guatemalteca de Bienes Raíces (CGBR)**, similar to a local real estate board. Ask for client references, especially from other foreign buyers.
 
 You can browse verified property listings on our [properties page](/properties/) to get a sense of what's available.
 
@@ -73,7 +73,7 @@ The deed is legally binding and valid internationally.
 The final legal step is **registration**. Your *notario* submits the deed to the *Registro General de la Propiedad*. Once registered (typically 2–4 weeks after signing), the property is legally yours.
 
 At this point, you'll also need to:
-- Register for the **municipal property tax (IUSI)** — the *notario* usually handles this
+- Register for the **municipal property tax (IUSI)**, the *notario* usually handles this
 - Set up utility accounts (water, electricity, internet)
 - If you plan to rent the property, register your rental agreement with the municipality
 
@@ -99,10 +99,10 @@ Getting a mortgage as a foreigner in Guatemala is possible but not always straig
 
 **Options include:**
 
-- **Cash purchase** — The most common route. Clean, fast, and gives you negotiating leverage.
-- **Seller financing** — Some sellers offer financing directly, typically with a 30–50% down payment and 5–10 year terms.
-- **International mortgages** — A few Guatemalan banks offer mortgages to foreigners, but interest rates are higher (9–14%) and require 40–50% down.
-- **Home-country financing** — Some buyers take out a home equity loan or line of credit from their home country and pay cash in Guatemala.
+- **Cash purchase**. The most common route. Clean, fast, and gives you negotiating leverage.
+- **Seller financing**. Some sellers offer financing directly, typically with a 30–50% down payment and 5–10 year terms.
+- **International mortgages**. A few Guatemalan banks offer mortgages to foreigners, but interest rates are higher (9–14%) and require 40–50% down.
+- **Home-country financing**. Some buyers take out a home equity loan or line of credit from their home country and pay cash in Guatemala.
 
 For most buyers, **cash or seller financing** is the most practical path.
 
@@ -120,11 +120,11 @@ Your *notario* can advise on which structure makes sense for your situation. Cor
 
 ## Common Mistakes Foreign Buyers Make
 
-1. **Skipping the title search** — The most expensive mistake. Always verify ownership before transferring money.
-2. **Not verifying zoning** — That colonial mansion might be zoned residential-only. If you want to run a B&B, you need commercial zoning.
-3. **Assuming "affordable" means good value** — A cheap property with title problems or structural issues is far more expensive in the long run.
-4. **Not budgeting for closing costs** — 2–4% on top of the purchase price catches many buyers off guard.
-5. **Using an agent who doesn't specialize in foreign buyers** — General agents may not understand the specific needs of international purchasers.
+1. **Skipping the title search**. The most expensive mistake. Always verify ownership before transferring money.
+2. **Not verifying zoning**. That colonial mansion might be zoned residential-only. If you want to run a B&B, you need commercial zoning.
+3. **Assuming "affordable" means good value**. A cheap property with title problems or structural issues is far more expensive in the long run.
+4. **Not budgeting for closing costs**, 2–4% on top of the purchase price catches many buyers off guard.
+5. **Using an agent who doesn't specialize in foreign buyers**. General agents may not understand the specific needs of international purchasers.
 
 For a deeper look at pitfalls, read our guide on [top mistakes foreign buyers make in Antigua](/blog/top-mistakes-foreign-buyers-antigua-guatemala/).
 

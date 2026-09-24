@@ -33,7 +33,7 @@ Esta es la temporada alta de turismo y de visitas a propiedades en Antigua, y po
 
 **Ideal para visitar propiedades:** La temporada seca es el momento perfecto para visitar propiedades. Los caminos son fáciles de recorrer, los jardines se ven sin maleza y puedes apreciar por completo los espacios exteriores. Es más fácil inspeccionar los techos y los sistemas de drenaje cuando no están siendo sometidos a la prueba de la lluvia.
 
-**Meses pico:** Diciembre, enero y febrero atraen a la mayor cantidad de visitantes. Las propiedades en los mejores barrios — como **El Hato** o **Santa Ana** — suelen estar reservadas por completo durante esta época. Si buscas potencial de ingreso por renta, estos meses ofrecen las tarifas nocturnas más altas.
+**Meses pico:** Diciembre, enero y febrero atraen a la mayor cantidad de visitantes. Las propiedades en los mejores barrios, como **El Hato** o **Santa Ana**, suelen estar reservadas por completo durante esta época. Si buscas potencial de ingreso por renta, estos meses ofrecen las tarifas nocturnas más altas.
 
 ## Temporada de Lluvias: De Mayo a Octubre
 
@@ -63,7 +63,7 @@ Tu elección de propiedad debe considerar los microclimas de Antigua. La ciudad 
 
 Si vienes del extranjero a ver propiedades, apunta a **enero a marzo** o **noviembre**. Estos meses te dan el mejor clima para la búsqueda más amplia de propiedades. Podrás ver la ciudad en su máximo esplendor, inspeccionar propiedades sin complicaciones climáticas y aún encontrar disponibilidad en hoteles y rentas a corto plazo.
 
-Pero si hablas en serio sobre entender lo que compras, **vuelve en septiembre** — o al menos pide a tu agente inmobiliario fotos y videos tomados durante la temporada de lluvias. Una propiedad que se ve espectacular en febrero puede revelar problemas de drenaje o humedad en septiembre. Un buen agente será honesto sobre ambos.
+Pero si hablas en serio sobre entender lo que compras, **vuelve en septiembre**, o al menos pide a tu agente inmobiliario fotos y videos tomados durante la temporada de lluvias. Una propiedad que se ve espectacular en febrero puede revelar problemas de drenaje o humedad en septiembre. Un buen agente será honesto sobre ambos.
 
 ## Qué Empacar Para Tu Búsqueda de Propiedades
 

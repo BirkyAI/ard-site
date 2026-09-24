@@ -27,9 +27,9 @@ Muchas aseguradoras combinan ambas en una sola póliza. Las primas son típicame
 
 Varias aseguradoras locales ofrecen cobertura de propiedad para viviendas residenciales. Los proveedores más utilizados entre extranjeros y propietarios guatemaltecos incluyen:
 
-- **Aseguradora General (AG)** — Una de las aseguradoras más grandes y establecidas de Guatemala. Ofrecen paquetes residenciales que cubren incendio, terremoto, robo y responsabilidad civil.
-- **Aseguradora Agrícola Comercial (AAC)** — Otro proveedor importante con planes residenciales flexibles, popular entre propietarios en la zona de Antigua.
-- **Seguros G&T (grupo Banco Industrial)** — A menudo se combina con financiamiento hipotecario del mismo grupo bancario.
+- **Aseguradora General (AG)**. Una de las aseguradoras más grandes y establecidas de Guatemala. Ofrecen paquetes residenciales que cubren incendio, terremoto, robo y responsabilidad civil.
+- **Aseguradora Agrícola Comercial (AAC)**. Otro proveedor importante con planes residenciales flexibles, popular entre propietarios en la zona de Antigua.
+- **Seguros G&T (grupo Banco Industrial)**. A menudo se combina con financiamiento hipotecario del mismo grupo bancario.
 
 Los corredores internacionales también pueden colocar cobertura a través de Lloyds de London u otros portadores globales, lo cual puede ofrecer límites más altos y términos más amplios. Esta vía tiende a ser más cara, pero proporciona acceso a ajustadores y procesos de reclamo familiares para propietarios estadounidenses o europeos.
 

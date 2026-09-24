@@ -1,14 +1,14 @@
 ---
 title: "Antigua Guatemala Real Estate for UK Buyers"
 tag: "Relocation"
-excerpt: "Everything British buyers need to know about buying property in Antigua Guatemala — visas, costs, neighborhoods, and how GBP exchange rates work in your favour."
+excerpt: "Everything British buyers need to know about buying property in Antigua Guatemala, visas, costs, neighborhoods, and how GBP exchange rates work in your favour."
 image: "/images/blog/ai-generated/uk-buyers-antigua-guatemala.jpg"
 alt: "Colonial street in Antigua Guatemala with cobblestones and colourful buildings against a volcano backdrop"
 date: 2026-09-05
 lang: "en"
 ---
 
-More British buyers are discovering Antigua Guatemala. In 2025 alone, UK-based inquiries for properties in the city rose significantly, and the trend is accelerating in 2026. If you are a British buyer considering a home in Antigua, here is everything you need to know — from visas and costs to neighbourhoods and long-term investment potential.
+More British buyers are discovering Antigua Guatemala. In 2025 alone, UK-based inquiries for properties in the city rose significantly, and the trend is accelerating in 2026. If you are a British buyer considering a home in Antigua, here is everything you need to know, from visas and costs to neighbourhoods and long-term investment potential.
 
 This guide is written specifically for UK buyers, covering the practical differences that matter when buying property in Guatemala as a British citizen.
 
@@ -26,7 +26,7 @@ British buyers enjoy a significant currency advantage when purchasing property i
 
 As of September 2026, £1 buys approximately 10.2 GTQ. This means a property priced at 2,000,000 GTQ costs roughly £196,000. Two years ago, the same property would have cost closer to £220,000. The pound's strength against both the dollar and the quetzal has made Antigua property more affordable for UK buyers than at any point in recent memory.
 
-This currency advantage also applies to ongoing costs. Monthly expenses for a couple living in Antigua — rent, utilities, food, and healthcare — typically run between £800 and £1,400 per month, depending on lifestyle. That is less than the average UK mortgage payment alone.
+This currency advantage also applies to ongoing costs. Monthly expenses for a couple living in Antigua, rent, utilities, food, and healthcare, typically run between £800 and £1,400 per month, depending on lifestyle. That is less than the average UK mortgage payment alone.
 
 ## Visa Pathways for British Citizens
 
@@ -42,7 +42,7 @@ Guatemala's digital nomad visa allows remote workers to stay for up to two years
 
 ### Permanent Residency Through Investment
 
-Buying property in Guatemala does not automatically grant residency, but it strengthens a residency application significantly. A property investment of $50,000 or more demonstrates your commitment to the country and makes approval more likely. For larger investments — typically $100,000 or more — you may qualify for a faster-track residency process.
+Buying property in Guatemala does not automatically grant residency, but it strengthens a residency application significantly. A property investment of $50,000 or more demonstrates your commitment to the country and makes approval more likely. For larger investments, typically $100,000 or more, you may qualify for a faster-track residency process.
 
 ## The Buying Process for UK Buyers
 
@@ -66,7 +66,7 @@ Closing in Guatemala involves signing the final deed (escritura pública) before
 
 ### Legal Representation
 
-Hiring a Guatemalan lawyer is not optional — it is required. Your lawyer handles the due diligence, drafts the purchase agreement, and ensures the transaction complies with Guatemalan law. Legal fees typically range from 1% to 2% of the property value. For a complete overview of legal requirements, read our guide on [Guatemala's real estate closing process](/blog/guatemala-real-estate-closing-process/).
+Hiring a Guatemalan lawyer is not optional, it is required. Your lawyer handles the due diligence, drafts the purchase agreement, and ensures the transaction complies with Guatemalan law. Legal fees typically range from 1% to 2% of the property value. For a complete overview of legal requirements, read our guide on [Guatemala's real estate closing process](/blog/guatemala-real-estate-closing-process/).
 
 ## Best Neighbourhoods for British Buyers
 
@@ -74,7 +74,7 @@ Different areas of Antigua suit different lifestyles. Here are the most popular 
 
 ### Centro Histórico
 
-The historic centre is ideal for buyers who want to be in the heart of the action. Properties here are colonial-era homes with interior courtyards, high ceilings, and traditional architecture. Expect to pay a premium for location — a restored colonial home in Centro starts around £180,000.
+The historic centre is ideal for buyers who want to be in the heart of the action. Properties here are colonial-era homes with interior courtyards, high ceilings, and traditional architecture. Expect to pay a premium for location, a restored colonial home in Centro starts around £180,000.
 
 ### San Pedro
 

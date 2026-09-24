@@ -1,5 +1,5 @@
 ---
-title: "Casas Massima Reforma — Jardines de Antigua"
+title: "Casas Massima Reforma. Jardines de Antigua"
 location: "Jardines de Antigua, Guatemala"
 price: 1500000
 beds: 4
@@ -27,16 +27,16 @@ gallery:
 
 ## About This Property
 
-Welcome to **Casas Massima Reforma** — a collection of **three identical luxury residences** rising in the prestigious **Jardines de Antigua** neighborhood. Developed by <a href="https://liftinvestments.net/" target="_blank"><strong>Lift Investments</strong></a>, a Panama-based investment firm with German origins (Hamburg), these homes are designed by architect Fernando and offered directly through Antigua Real Estate Development for exclusive sales promotion. Priced at **$1,500,000 USD** each (plus taxes), these homes represent the pinnacle of modern Antigua living: bold architecture, soaring double-height spaces, and the warmth of natural materials — all set within one of Antigua Guatemala's most exclusive residential enclaves.
+Welcome to **Casas Massima Reforma**, a collection of **three identical luxury residences** rising in the prestigious **Jardines de Antigua** neighborhood. Developed by <a href="https://liftinvestments.net/" target="_blank"><strong>Lift Investments</strong></a>, a Panama-based investment firm with German origins (Hamburg), these homes are designed by architect Fernando and offered directly through Antigua Real Estate Development for exclusive sales promotion. Priced at **$1,500,000 USD** each (plus taxes), these homes represent the pinnacle of modern Antigua living: bold architecture, soaring double-height spaces, and the warmth of natural materials, all set within one of Antigua Guatemala's most exclusive residential enclaves.
 
 **Reference:** ARD-REF-001
 
 ## Property Details
 
-- 📍 **Location:** Jardines de Antigua — access via Av. Reforma and Calle del Rastro (2.3 km from Central Square)
+- 📍 **Location:** Jardines de Antigua, access via Av. Reforma and Calle del Rastro (2.3 km from Central Square)
 - 📐 **Lot Size:** 1,000m² per residence
 - 🏗️ **Construction:** 409m² across two levels
-- 🏠 **Bedrooms:** 4 — each with its own private bathroom
+- 🏠 **Bedrooms:** 4, each with its own private bathroom
 - 🛁 **Bathrooms:** 4 full bathrooms (en-suite)
 - 💰 **Price:** $1,500,000 USD (plus taxes)
 - 🚗 **Parking:** Private covered parking for 2 vehicles
@@ -48,7 +48,7 @@ Welcome to **Casas Massima Reforma** — a collection of **three identical luxur
 
 ### Grand Double-Height Living
 
-The heart of the home features a breathtaking **double-height living and dining room** with exposed wooden ceiling beams — creating a dramatic sense of space and volume that few residences in Antigua can match.
+The heart of the home features a breathtaking **double-height living and dining room** with exposed wooden ceiling beams, creating a dramatic sense of space and volume that few residences in Antigua can match.
 
 ### Gourmet Kitchen with Character
 
@@ -60,7 +60,7 @@ A stunning **fireplace** anchors the living area, creating a cozy atmosphere for
 
 ### Spanish Terraces
 
-Step outside onto **expansive Spanish-style terraces** — the perfect extension of your living space. These outdoor areas are designed for entertaining, al fresco dining, or simply enjoying Antigua's year-round spring-like climate.
+Step outside onto **expansive Spanish-style terraces**, the perfect extension of your living space. These outdoor areas are designed for entertaining, al fresco dining, or simply enjoying Antigua's year-round spring-like climate.
 
 ### Every Bedroom is a Suite
 
@@ -94,9 +94,9 @@ One of Antigua Guatemala's most coveted residential areas, Jardines de Antigua o
 ### Pre-Construction Advantage
 
 As a pre-construction purchase, buyers benefit from:
-- **Phased payments** — structured throughout the construction period
-- **Customization potential** — influence final finishes and details
-- **Appreciation** — properties in Jardines de Antigua consistently increase in value during construction
+- **Phased payments**, structured throughout the construction period
+- **Customization potential**, influence final finishes and details
+- **Appreciation**, properties in Jardines de Antigua consistently increase in value during construction
 
 ### A Rare Opportunity
 
@@ -106,4 +106,4 @@ Three homes at this level of design and finish rarely come to market in Jardines
 
 **Interested in scheduling a site visit or discussing financing options?** Contact us today.
 
-*Antigua Real Estate Development — Your trusted partner in Antigua Guatemala real estate.*
+*Antigua Real Estate Development. Your trusted partner in Antigua Guatemala real estate.*

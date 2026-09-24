@@ -1,5 +1,5 @@
 ---
-title: "Casas Massima Reforma — Lujo en Jardines de Antigua"
+title: "Casas Massima Reforma. Lujo en Jardines de Antigua"
 location: "Jardines de Antigua, Guatemala"
 price: 1500000
 beds: 4
@@ -27,16 +27,16 @@ gallery:
 
 ## Acerca de Esta Propiedad
 
-Bienvenido a **Casas Massima Reforma** — una colección de **tres residencias de lujo idénticas** que se alzan en el prestigioso vecindario de **Jardines de Antigua**. Desarrolladas por <a href="https://liftinvestments.net/" target="_blank"><strong>Lift Investments</strong></a>, una firma de inversión con sede en Panamá y orígenes alemanes (Hamburgo), estas casas fueron diseñadas por el arquitecto Fernando y se ofrecen directamente a través de Antigua Real Estate Development para promoción exclusiva de ventas. Con un precio de **$1,500,000 USD** cada una (más impuestos), estas casas representan la cúspide de la vida moderna en Antigua: arquitectura audaz, espacios verticales de doble altura y la calidez de materiales naturales — todo dentro de uno de los enclaves residenciales más exclusivos de Antigua Guatemala.
+Bienvenido a **Casas Massima Reforma**, una colección de **tres residencias de lujo idénticas** que se alzan en el prestigioso vecindario de **Jardines de Antigua**. Desarrolladas por <a href="https://liftinvestments.net/" target="_blank"><strong>Lift Investments</strong></a>, una firma de inversión con sede en Panamá y orígenes alemanes (Hamburgo), estas casas fueron diseñadas por el arquitecto Fernando y se ofrecen directamente a través de Antigua Real Estate Development para promoción exclusiva de ventas. Con un precio de **$1,500,000 USD** cada una (más impuestos), estas casas representan la cúspide de la vida moderna en Antigua: arquitectura audaz, espacios verticales de doble altura y la calidez de materiales naturales, todo dentro de uno de los enclaves residenciales más exclusivos de Antigua Guatemala.
 
 **Referencia:** ARD-REF-001
 
 ## Detalles de la Propiedad
 
-- 📍 **Ubicación:** Jardines de Antigua — acceso por Av. Reforma y Calle del Rastro (2.3 km de la Plaza Central)
+- 📍 **Ubicación:** Jardines de Antigua, acceso por Av. Reforma y Calle del Rastro (2.3 km de la Plaza Central)
 - 📐 **Superficie del Lote:** 1,000m² por residencia
 - 🏗️ **Construcción:** 409m² en dos niveles
-- 🏠 **Recámaras:** 4 — cada una con baño privado
+- 🏠 **Recámaras:** 4, cada una con baño privado
 - 🛁 **Baños:** 4 baños completos (en suite)
 - 💰 **Precio:** $1,500,000 USD (más impuestos)
 - 🚗 **Estacionamiento:** Estacionamiento privado techado para 2 vehículos
@@ -48,7 +48,7 @@ Bienvenido a **Casas Massima Reforma** — una colección de **tres residencias 
 
 ### Gran Sala de Doble Altura
 
-El corazón del hogar presenta un impresionante **sala y comedor de doble altura** con vigas de madera expuestas en el techo — creando una sensación dramática de espacio y volumen que pocas residencias en Antigua pueden igualar.
+El corazón del hogar presenta un impresionante **sala y comedor de doble altura** con vigas de madera expuestas en el techo, creando una sensación dramática de espacio y volumen que pocas residencias en Antigua pueden igualar.
 
 ### Cocina Gourmet con Carácter
 
@@ -60,7 +60,7 @@ Una impresionante **chimenea** ancla la sala, creando una atmósfera acogedora p
 
 ### Terrazas Españolas
 
-Sal a las **amplias terrazas de estilo español** — la extensión perfecta de tu espacio de vida. Estas áreas exteriores están diseñadas para entretenimiento, comidas al aire libre o simplemente disfrutar del clima primaveral de Antigua durante todo el año.
+Sal a las **amplias terrazas de estilo español**, la extensión perfecta de tu espacio de vida. Estas áreas exteriores están diseñadas para entretenimiento, comidas al aire libre o simplemente disfrutar del clima primaveral de Antigua durante todo el año.
 
 ### Cada Recámara es una Suite
 
@@ -94,9 +94,9 @@ Una de las zonas residenciales más codiciadas de Antigua Guatemala, Jardines de
 ### Ventaja de Preventa
 
 Como compra en preventa, los compradores se benefician de:
-- **Pagos escalonados** — estructurados durante el período de construcción
-- **Potencial de personalización** — influir en acabados y detalles finales
-- **Apreciación** — las propiedades en Jardines de Antigua consistentemente aumentan su valor durante la construcción
+- **Pagos escalonados**, estructurados durante el período de construcción
+- **Potencial de personalización**, influir en acabados y detalles finales
+- **Apreciación**, las propiedades en Jardines de Antigua consistentemente aumentan su valor durante la construcción
 
 ### Una Oportunidad Rara
 
@@ -106,4 +106,4 @@ Tres casas a este nivel de diseño y acabado rara vez salen al mercado en Jardin
 
 **¿Interesado en agendar una visita al sitio o discutir opciones de financiamiento?** Contáctanos hoy.
 
-*Antigua Real Estate Development — Tu socio de confianza en bienes raíces en Antigua Guatemala.*
+*Antigua Real Estate Development. Tu socio de confianza en bienes raíces en Antigua Guatemala.*

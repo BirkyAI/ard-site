@@ -1,7 +1,7 @@
 ---
 title: "Rental Income Potential in Antigua Guatemala"
 tag: "Investment"
-excerpt: "Real rental yield data for Antigua Guatemala properties — what foreign investors earn on colonial homes, condos, and short-term vacation rentals in 2026."
+excerpt: "Real rental yield data for Antigua Guatemala properties, what foreign investors earn on colonial homes, condos, and short-term vacation rentals in 2026."
 image: "/images/blog/ai-generated/rental-income-potential-antigua-guatemala.jpg"
 alt: "Aerial view of colonial Antigua Guatemala neighborhood with colorful houses and Volcán de Agua in background"
 date: 2026-09-03
@@ -10,7 +10,7 @@ lang: "en"
 
 Antigua Guatemala has become one of the most attractive real estate investment markets in Central America for foreign buyers. But the big question is always the same: **how much can you actually earn?**
 
-Unlike US or European markets where cap rates hover around 4–6%, Antigua's rental market offers significantly higher returns — especially for investors who target the right property type and tenant mix. Here's what you can realistically expect based on current market data in 2026.
+Unlike US or European markets where cap rates hover around 4–6%, Antigua's rental market offers significantly higher returns, especially for investors who target the right property type and tenant mix. Here's what you can realistically expect based on current market data in 2026.
 
 ## Short-Term Vacation Rentals (Airbnb Model)
 
@@ -31,7 +31,7 @@ Short-term rentals deliver the highest gross returns in Antigua Guatemala, but t
 - Gross annual revenue: $22,000–$36,000
 - **Net yield: 7–10%**
 
-The seasonal swing is real. Holy Week (Semana Santa) commands premium pricing — $400–$600/night for prime colonial homes — and the city is effectively sold out. You'll cover a significant portion of your annual expenses in those 10 days alone.
+The seasonal swing is real. Holy Week (Semana Santa) commands premium pricing, $400–$600/night for prime colonial homes, and the city is effectively sold out. You'll cover a significant portion of your annual expenses in those 10 days alone.
 
 ## Long-Term Residential Rentals
 
@@ -102,4 +102,4 @@ The highest-performing properties are renovated colonial homes in walking distan
 
 Browse our available investment properties or contact Luna Jerney for a personalized rental yield analysis. We can connect you with property managers, renovation contractors, and legal experts to set up your Antigua rental investment the right way.
 
-[View Investment Properties](/properties/) — [Contact Us](/contact/)
+[View Investment Properties](/properties/), [Contact Us](/contact/)

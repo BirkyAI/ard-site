@@ -1,7 +1,7 @@
 ---
 title: "Potencial de Renta en Antigua Guatemala"
 tag: "Investment"
-excerpt: "Rendimientos reales de alquiler en Antigua Guatemala — lo que los inversores extranjeros ganan en casas coloniales, condominios y alquileres vacacionales en 2026."
+excerpt: "Rendimientos reales de alquiler en Antigua Guatemala, lo que los inversores extranjeros ganan en casas coloniales, condominios y alquileres vacacionales en 2026."
 image: "/images/blog/ai-generated/rental-income-potential-antigua-guatemala.jpg"
 alt: "Vista aérea del vecindario colonial de Antigua Guatemala con casas coloridas y el Volcán de Agua al fondo"
 date: 2026-09-03
@@ -10,7 +10,7 @@ lang: "es"
 
 Antigua Guatemala se ha convertido en uno de los mercados de inversión inmobiliaria más atractivos de Centroamérica para compradores extranjeros. Pero la gran pregunta siempre es la misma: **¿cuánto se puede ganar realmente?**
 
-A diferencia de los mercados de Estados Unidos o Europa donde las tasas de capitalización rondan el 4–6%, el mercado de alquiler de Antigua ofrece rendimientos significativamente más altos — especialmente para inversores que eligen el tipo de propiedad y la combinación de inquilinos adecuada. Esto es lo que puede esperar de manera realista según los datos de mercado actuales en 2026.
+A diferencia de los mercados de Estados Unidos o Europa donde las tasas de capitalización rondan el 4–6%, el mercado de alquiler de Antigua ofrece rendimientos significativamente más altos, especialmente para inversores que eligen el tipo de propiedad y la combinación de inquilinos adecuada. Esto es lo que puede esperar de manera realista según los datos de mercado actuales en 2026.
 
 ## Alquileres Vacacionales a Corto Plazo (Modelo Airbnb)
 
@@ -31,7 +31,7 @@ Los alquileres a corto plazo generan los rendimientos brutos más altos en Antig
 - Ingreso bruto anual: $22,000–$36,000
 - **Rendimiento neto: 7–10%**
 
-El cambio estacional es real. La Semana Santa exige precios premium — $400–$600/noche para casas coloniales de primera — y la ciudad está efectivamente vendida. Solo en esos 10 días puede cubrir una parte significativa de sus gastos anuales.
+El cambio estacional es real. La Semana Santa exige precios premium, $400–$600/noche para casas coloniales de primera, y la ciudad está efectivamente vendida. Solo en esos 10 días puede cubrir una parte significativa de sus gastos anuales.
 
 ## Alquileres Residenciales a Largo Plazo
 
@@ -102,4 +102,4 @@ Las propiedades de mejor rendimiento son casas coloniales renovadas a poca dista
 
 Explore nuestras propiedades de inversión disponibles o contacte a Luna Jerney para un análisis personalizado de rendimiento de alquiler. Podemos conectarlo con administradores de propiedades, contratistas de renovación y expertos legales para establecer su inversión de alquiler en Antigua de la manera correcta.
 
-[Ver Propiedades de Inversión](/es/properties/) — [Contáctenos](/es/contact/)
+[Ver Propiedades de Inversión](/es/properties/), [Contáctenos](/es/contact/)

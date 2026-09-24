@@ -1,7 +1,7 @@
 ---
 title: "Cost of Living in Antigua Guatemala (2026)"
 tag: "Relocation"
-excerpt: "A detailed breakdown of monthly expenses in Antigua Guatemala — rent, food, healthcare, and more for expats and retirees."
+excerpt: "A detailed breakdown of monthly expenses in Antigua Guatemala, rent, food, healthcare, and more for expats and retirees."
 image: "/images/blog/ai-generated/cost-of-living-antigua-guatemala-expats.jpg"
 alt: "Wicker basket of fresh groceries beside a calculator and coins on a kitchen counter in Antigua Guatemala"
 date: 2026-06-14
@@ -11,7 +11,7 @@ date: 2026-06-14
 
 A single person can live comfortably in Antigua Guatemala for $1,200–$1,800 per month, while a couple typically spends $2,000–$2,800. That includes rent for a furnished apartment, groceries, dining out, utilities, healthcare, and entertainment. Families with children can expect $3,000–$4,000 monthly depending on schooling choices.
 
-Antigua consistently ranks as one of the most affordable expat destinations in Central America. You get cobblestone streets, world-class dining, volcano views, and a thriving international community — all at a fraction of what you'd pay in comparable cities like San José, Costa Rica, or Mexico City's popular neighborhoods.
+Antigua consistently ranks as one of the most affordable expat destinations in Central America. You get cobblestone streets, world-class dining, volcano views, and a thriving international community, all at a fraction of what you'd pay in comparable cities like San José, Costa Rica, or Mexico City's popular neighborhoods.
 
 Let's break down every major expense category so you can plan your move with confidence.
 
@@ -111,7 +111,7 @@ Most expats in the center walk everywhere since Antigua is only about one square
 
 ### Social Life
 
-Antigua has a thriving expat community with regular meetups, language exchanges, trivia nights, and volunteer opportunities. A night out with drinks typically costs $10–$20 per person. Many social activities — hiking groups, photography walks, community events — are free.
+Antigua has a thriving expat community with regular meetups, language exchanges, trivia nights, and volunteer opportunities. A night out with drinks typically costs $10–$20 per person. Many social activities, hiking groups, photography walks, community events, are free.
 
 ## Sample Monthly Budgets
 
@@ -160,17 +160,17 @@ Antigua consistently comes in 30–50% less than comparable expat-friendly citie
 
 ## Tips for Keeping Costs Low
 
-1. **Shop at the mercado** for produce and staples — prices are half of supermarket costs.
-2. **Learn Spanish** — you'll negotiate better rent, avoid "gringo pricing," and connect with the community.
-3. **Cook at home** more often — Guatemalan ingredients are fresh, cheap, and delicious.
-4. **Walk everywhere** — the center is compact and safe for pedestrians.
-5. **Rent before buying** — spend at least six months understanding neighborhoods before investing in property.
-6. **Use local services** — dentists, mechanics, and handymen charge a fraction of US prices.
+1. **Shop at the mercado** for produce and staples, prices are half of supermarket costs.
+2. **Learn Spanish**, you'll negotiate better rent, avoid "gringo pricing," and connect with the community.
+3. **Cook at home** more often. Guatemalan ingredients are fresh, cheap, and delicious.
+4. **Walk everywhere**, the center is compact and safe for pedestrians.
+5. **Rent before buying**, spend at least six months understanding neighborhoods before investing in property.
+6. **Use local services**, dentists, mechanics, and handymen charge a fraction of US prices.
 
 ## Ready to Make the Move?
 
 The cost of living in Antigua Guatemala makes it one of the best-value destinations for expats, retirees, and digital nomads. Your money goes further, the lifestyle is rich, and the community is welcoming.
 
-If you're thinking about making Antigua your home — whether renting long-term or investing in property — Luna Jerney at Antigua Real Estate Development can help you find the perfect place. With deep local knowledge and years of experience helping international buyers, Luna can match you with a property that fits your budget and your dreams.
+If you're thinking about making Antigua your home, whether renting long-term or investing in property. Luna Jerney at Antigua Real Estate Development can help you find the perfect place. With deep local knowledge and years of experience helping international buyers, Luna can match you with a property that fits your budget and your dreams.
 
 **[Contact Luna today](https://antiguarealestatedevelopment.com/contact)** to start your Antigua Guatemala journey.

@@ -1,7 +1,7 @@
 ---
 title: "Banca en Guatemala para Expatriados"
 tag: "Relocation"
-excerpt: "Abrir una cuenta bancaria, transferir dinero y manejar finanzas en Guatemala — todo lo que cada expatriado necesita saber antes de mudarse."
+excerpt: "Abrir una cuenta bancaria, transferir dinero y manejar finanzas en Guatemala, todo lo que cada expatriado necesita saber antes de mudarse."
 image: "/images/blog/ai-generated/guatemala-banking-for-expats.jpg"
 alt: "Cajero automático y servicios bancarios en Guatemala para expatriados internacionales"
 date: 2026-06-16
@@ -12,15 +12,15 @@ Mudarse a Antigua Guatemala significa abrazar calles empedradas, vistas de volca
 
 ## ¿Los extranjeros pueden abrir una cuenta bancaria en Guatemala?
 
-Sí — los extranjeros pueden abrir cuentas bancarias en Guatemala, pero requiere paciencia y los documentos correctos. A diferencia de algunos países donde entrás con un pasaporte y salís con una cuenta, los bancos guatemaltecos tienen requisitos más estrictos debido a las regulaciones internacionales contra el lavado de dinero.
+Sí, los extranjeros pueden abrir cuentas bancarias en Guatemala, pero requiere paciencia y los documentos correctos. A diferencia de algunos países donde entrás con un pasaporte y salís con una cuenta, los bancos guatemaltecos tienen requisitos más estrictos debido a las regulaciones internacionales contra el lavado de dinero.
 
 La mayoría de los bancos requieren:
 
 - **Pasaporte válido** con al menos seis meses de vigencia
-- **Comprobante de ingresos** — recibos de pago recientes, declaraciones de impuestos o estados de pensión
-- **Una referencia local** — esta es la parte complicada. Algunos bancos piden que un ciudadano guatemalteco o residente permanente avale por vos
-- **Comprobante de domicilio** — un recibo de servicios o contrato de alquiler a tu nombre
-- **Depósito mínimo** — varía según el banco, típicamente Q1,000–Q5,000 ($130–$650 USD)
+- **Comprobante de ingresos**, recibos de pago recientes, declaraciones de impuestos o estados de pensión
+- **Una referencia local**, esta es la parte complicada. Algunos bancos piden que un ciudadano guatemalteco o residente permanente avale por vos
+- **Comprobante de domicilio**, un recibo de servicios o contrato de alquiler a tu nombre
+- **Depósito mínimo**, varía según el banco, típicamente Q1,000–Q5,000 ($130–$650 USD)
 
 El proceso usualmente toma de una a tres semanas, no la experiencia del mismo día que podrías esperar. Bancos como **Banrural**, **BAC Credomatic** y **G&T Continental** tienden a ser más amigables con los extranjeros que otros.
 
@@ -64,7 +64,7 @@ Aquí es donde los expatriados tienen el mayor ajuste. Guatemala todavía es una
 
 **Donde necesitás efectivo:** Mercados locales, vendedores de comida callejera, tuk-tuks, tiendas pequeñas, la mayoría de los servicios como plomeros y electricistas, y muchos propietarios locales que prefieren el pago de renta en efectivo.
 
-**Estrategia de cajeros automáticos:** Retirá quetzales en cajeros en denominaciones de Q100 o Q200. Tener billetes pequeños (Q20, Q50) es esencial — cambiar un billete de Q200 en una tienda pequeña puede ser sorprendentemente difícil. Los cajeros de Banrural y BAC en el área del parque central de Antigua son los más confiables.
+**Estrategia de cajeros automáticos:** Retirá quetzales en cajeros en denominaciones de Q100 o Q200. Tener billetes pequeños (Q20, Q50) es esencial, cambiar un billete de Q200 en una tienda pequeña puede ser sorprendentemente difícil. Los cajeros de Banrural y BAC en el área del parque central de Antigua son los más confiables.
 
 **Límites diarios de retiro:** La mayoría de las cuentas bancarias guatemaltecas limitan los retiros diarios a Q5,000–Q10,000 ($650–$1,300 USD). Si necesitás más, tendrás que visitar una sucursal en persona.
 
@@ -73,11 +73,11 @@ Aquí es donde los expatriados tienen el mayor ajuste. Guatemala todavía es una
 El quetzal guatemalteco (GTQ) ha sido relativamente estable frente al dólar estadounidense en los últimos años. A mediados de 2026, la tasa ronda los **Q7.63 por $1 USD**.
 
 **Dónde cambiar dinero:**
-- **Bancos** — lo más seguro, pero no siempre con las mejores tasas
-- **Casas de cambio** — tasas competitivas en el centro de Antigua, pero compará varias antes de decidir
-- **Cajeros automáticos** — la tasa de tu banco generalmente es razonable, aunque incluye su margen
+- **Bancos**, lo más seguro, pero no siempre con las mejores tasas
+- **Casas de cambio**, tasas competitivas en el centro de Antigua, pero compará varias antes de decidir
+- **Cajeros automáticos**, la tasa de tu banco generalmente es razonable, aunque incluye su margen
 
-**Qué evitar:** Casas de cambio en el aeropuerto (tasas terribles), cambistas callejeros (riesgo de billetes falsos) y cambiar grandes cantidades de una sola vez si no es necesario — la tasa puede fluctuar.
+**Qué evitar:** Casas de cambio en el aeropuerto (tasas terribles), cambistas callejeros (riesgo de billetes falsos) y cambiar grandes cantidades de una sola vez si no es necesario, la tasa puede fluctuar.
 
 ## Obligaciones fiscales para expatriados en Guatemala
 
@@ -112,7 +112,7 @@ La mayoría de los expatriados encuentran que durante los primeros meses desarro
 
 ## Obtener ayuda con tus finanzas en Antigua
 
-Navegar un nuevo sistema bancario es uno de los muchos desafíos prácticos de mudarse a Antigua Guatemala. En Antigua Real Estate Development, Luna Jerney y su equipo ayudan a los expatriados no solo a encontrar su casa colonial soñada o propiedad de inversión, sino también a conectarlos con contactos locales confiables — desde contadores bilingües hasta gerentes de sucursales bancarias que entienden las necesidades de los expatriados.
+Navegar un nuevo sistema bancario es uno de los muchos desafíos prácticos de mudarse a Antigua Guatemala. En Antigua Real Estate Development, Luna Jerney y su equipo ayudan a los expatriados no solo a encontrar su casa colonial soñada o propiedad de inversión, sino también a conectarlos con contactos locales confiables, desde contadores bilingües hasta gerentes de sucursales bancarias que entienden las necesidades de los expatriados.
 
 Ya sea que busquen una colonial restaurada en el centro, un lote con vista al volcán en San Mateo Milpas Altas, o un alquiler amueblado mientras se establecen, tener guía local hace toda la diferencia.
 

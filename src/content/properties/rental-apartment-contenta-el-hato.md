@@ -1,6 +1,6 @@
 ---
-title: "Apto Contenta — Modern Apartment, El Hato"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Apto Contenta. Modern Apartment, El Hato"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/month"
 beds: 1
@@ -46,18 +46,18 @@ gallery:
 
 Our most popular residence, **Apto Contenta** is a stunning and spacious modern apartment surrounded by nature and designed for comfort and connection with the outdoors. The open-concept layout features a fully equipped kitchen, floor-to-ceiling windows, a large private terrace, and breathtaking, unobstructed views of the active volcano across the valley.
 
-Set within the exclusive **Finca El Tambor** in El Hato — a private, secure natural environment above Antigua Guatemala — this apartment offers a premium living experience in harmony with nature.
+Set within the exclusive **Finca El Tambor** in El Hato, a private, secure natural environment above Antigua Guatemala, this apartment offers a premium living experience in harmony with nature.
 
 ### What You Get
 
 - 🏡 **80 m²** spacious open-concept layout with floor-to-ceiling windows
-- 🌋 **Panoramic volcano views** — unobstructed across the valley
+- 🌋 **Panoramic volcano views**, unobstructed across the valley
 - 🌿 **Large private terrace** immersed in the forest canopy
-- 🔥 **Indoor fireplace** — perfect for cool mountain evenings
-- 🍳 **Fully equipped kitchen** — modern appliances and cookware
-- 🏠 **Fully furnished** — move-in ready
-- 🌲 **Immersive forest setting** — private, exclusive natural surroundings
-- 🔒 **Secure property** — private grounds with controlled access
+- 🔥 **Indoor fireplace**, perfect for cool mountain evenings
+- 🍳 **Fully equipped kitchen**, modern appliances and cookware
+- 🏠 **Fully furnished**, move-in ready
+- 🌲 **Immersive forest setting**, private, exclusive natural surroundings
+- 🔒 **Secure property**, private grounds with controlled access
 
 ### General Conditions
 
@@ -82,5 +82,5 @@ El Hato is a peaceful mountain village just above Antigua Guatemala, known for i
 
 ### Contact
 
-📩 **Luna Jerney** — +502 3571 6181
-Questions or schedule a viewing — WhatsApp or call anytime!
+📩 **Luna Jerney**, +502 3571 6181
+Questions or schedule a viewing. WhatsApp or call anytime!

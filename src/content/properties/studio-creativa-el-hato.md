@@ -1,6 +1,6 @@
 ---
-title: "Studio Creativa — Nature Studio, El Hato"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Studio Creativa. Nature Studio, El Hato"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/month"
 beds: 1
@@ -49,13 +49,13 @@ The studio features a queen-size bed, an en-suite bathroom with a shower, and a 
 ### What You Get
 
 - 🏡 **40 m²** spacious rustic nature studio
-- 🌋 **Volcano views** — enjoy views of the nature reserve and surrounding volcanoes
-- ☀️ **Abundant natural light** — fills the space with calm throughout the day
-- 🎨 **Artist & writer retreat** — a favorite long-term stay for creative professionals
-- 🛏️ **Queen-size bed** — comfortable and inviting
+- 🌋 **Volcano views**, enjoy views of the nature reserve and surrounding volcanoes
+- ☀️ **Abundant natural light**, fills the space with calm throughout the day
+- 🎨 **Artist & writer retreat**, a favorite long-term stay for creative professionals
+- 🛏️ **Queen-size bed**, comfortable and inviting
 - 🚿 **En-suite bathroom** with shower
-- 🌿 **Private balcony/patio** — peaceful outdoor space
-- 📍 **Convenient location** — near the café and restaurant
+- 🌿 **Private balcony/patio**, peaceful outdoor space
+- 📍 **Convenient location**, near the café and restaurant
 - 🍳 **Kitchenette amenities:** mini fridge, electric kettle, French press coffee maker, and microwave
 
 ### General Conditions
@@ -81,5 +81,5 @@ El Hato is a peaceful mountain village just above Antigua Guatemala, known for i
 
 ### Contact
 
-📩 **Luna Jerney** — +502 3571 6181
-Questions or schedule a viewing — WhatsApp or call anytime!
+📩 **Luna Jerney**, +502 3571 6181
+Questions or schedule a viewing. WhatsApp or call anytime!

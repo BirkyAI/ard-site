@@ -41,7 +41,7 @@ gallery:
 
 ## About This Property
 
-Discover your own hidden paradise high above Antigua! This **2,934 m²** property of land in El Hato offers unmatched tranquility, incredible views, and self-sustainable living — ideal for a private retreat, eco-project, or dream home.
+Discover your own hidden paradise high above Antigua! This **2,934 m²** property of land in El Hato offers unmatched tranquility, incredible views, and self-sustainable living, ideal for a private retreat, eco-project, or dream home.
 
 **Reference:** ARD-0256
 
@@ -57,12 +57,12 @@ Discover your own hidden paradise high above Antigua! This **2,934 m²** propert
 
 ## What Makes This Property Special
 
-- **3 natural water sources** directly on the land — rare and valuable for self-sustainable living
-- **Complete privacy** — set in nature, away from neighbors
-- **Volcán de Agua views** — stunning backdrop from the property
-- **Half a manzana** — generous size for gardens, animals, or building
-- **Electricity nearby** — easy connection available
-- **Perfect elevation** — cooler temperatures than Antigua valley, clean mountain air
+- **3 natural water sources** directly on the land, rare and valuable for self-sustainable living
+- **Complete privacy**, set in nature, away from neighbors
+- **Volcán de Agua views**, stunning backdrop from the property
+- **Half a manzana**, generous size for gardens, animals, or building
+- **Electricity nearby**, easy connection available
+- **Perfect elevation**, cooler temperatures than Antigua valley, clean mountain air
 
 ## Why El Hato?
 

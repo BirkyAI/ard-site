@@ -1,7 +1,7 @@
 ---
 title: "Cierre de Compraventa en Guatemala"
 tag: "Legal"
-excerpt: "¿Vas a comprar una propiedad en Guatemala? Conoce el proceso completo de cierre, desde la oferta hasta la escritura — requisitos legales, pasos notariales, costos y qué esperar."
+excerpt: "¿Vas a comprar una propiedad en Guatemala? Conoce el proceso completo de cierre, desde la oferta hasta la escritura, requisitos legales, pasos notariales, costos y qué esperar."
 image: "/images/blog/ai-generated/guatemala-real-estate-closing-process.jpg"
 alt: "Escena de cierre inmobiliario con documentos de contrato firmados, llaves de bronce y una maqueta de casa sobre un escritorio"
 date: 2026-07-03
@@ -14,7 +14,7 @@ Si estás considerando comprar una casa, terreno o propiedad comercial en Antigu
 
 ## Cómo Funcionan los Cierres de Propiedades en Guatemala
 
-Toda transacción de bienes raíces en Guatemala requiere un **notario**. A diferencia de Estados Unidos o Canadá, el notario guatemalteco no es solo un testigo — es un abogado autorizado por la Corte Suprema para redactar, autenticar e inscribir instrumentos legales. El notario prepara la escritura pública, verifica el estado legal de la propiedad y asegura que la transferencia quede registrada en el Registro de la Propiedad.
+Toda transacción de bienes raíces en Guatemala requiere un **notario**. A diferencia de Estados Unidos o Canadá, el notario guatemalteco no es solo un testigo, es un abogado autorizado por la Corte Suprema para redactar, autenticar e inscribir instrumentos legales. El notario prepara la escritura pública, verifica el estado legal de la propiedad y asegura que la transferencia quede registrada en el Registro de la Propiedad.
 
 El proceso típicamente toma **de 30 a 90 días** desde la aceptación de la oferta hasta el título registrado. Estas son las etapas clave:
 
@@ -22,12 +22,12 @@ El proceso típicamente toma **de 30 a 90 días** desde la aceptación de la ofe
 
 Esta es la fase más crítica. Antes de que cambie cualquier dinero, tu notario:
 
-- **Consultará el Registro de la Propiedad** para confirmar que el vendedor realmente es dueño de la propiedad y que el título está limpio — sin hipotecas, gravámenes, órdenes judiciales o reclamos competidores
+- **Consultará el Registro de la Propiedad** para confirmar que el vendedor realmente es dueño de la propiedad y que el título está limpio, sin hipotecas, gravámenes, órdenes judiciales o reclamos competidores
 - **Verificará los registros catastrales** en la municipalidad local para asegurar que los límites legales coincidan con lo que se está vendiendo
 - **Revisará si hay impuestos de propiedad impagos** (*impuesto sobre bienes inmuebles*) y cargas municipales
 - **Examinará el historial de la propiedad** de al menos los últimos 10 años para detectar transferencias irregulares
 
-En Antigua Guatemala específicamente, las propiedades a veces arrastran reclamos de la época colonial o disputas familiares que nunca se resolvieron formalmente. una búsqueda exhaustiva de título detecta estos problemas antes de que comprometas tus fondos. Este paso no es negociable — saltárselo es el error más grave que cometen los compradores extranjeros.
+En Antigua Guatemala específicamente, las propiedades a veces arrastran reclamos de la época colonial o disputas familiares que nunca se resolvieron formalmente. una búsqueda exhaustiva de título detecta estos problemas antes de que comprometas tus fondos. Este paso no es negociable, saltárselo es el error más grave que cometen los compradores extranjeros.
 
 ### Paso 2: El Contrato de Compraventa (*Promesa de Venta*)
 
@@ -48,23 +48,23 @@ La mayoría de compradores en Guatemala pagan en **efectivo o transferencia banc
 
 - Los bancos típicamente financian del **60 al 70 por ciento** del valor tasado para compradores extranjeros
 - El proceso de solicitud y aprobación hipotecaria toma **de 60 a 90 días**
-- Las tasas de interés en Guatemala rondan entre el **8 y 12 por ciento** — más altas que en EE.UU., pero son comunes los periodos de amortización más cortos
+- Las tasas de interés en Guatemala rondan entre el **8 y 12 por ciento**, más altas que en EE.UU., pero son comunes los periodos de amortización más cortos
 - El banco comisiona una tasación independiente, y su valoración determina el monto del préstamo
 - Los costos hipotecarios incluyen la tasación (alrededor de $300 USD) más los honorarios notariales y legales (alrededor del 1 al 2 por ciento del monto del préstamo)
 
-Si pagás en efectivo, necesitarás transferir los fondos a una cuenta bancaria guatemalteca local. Calculá **de 2 a 5 días hábiles** para que se liquide la transferencia internacional. Tu banco puede solicitarte documentación que demuestre el origen de los fondos — esto es un procedimiento estándar de cumplimiento contra el lavado de dinero y no es algo de qué preocuparse, pero tené tu documentación lista.
+Si pagás en efectivo, necesitarás transferir los fondos a una cuenta bancaria guatemalteca local. Calculá **de 2 a 5 días hábiles** para que se liquide la transferencia internacional. Tu banco puede solicitarte documentación que demuestre el origen de los fondos, esto es un procedimiento estándar de cumplimiento contra el lavado de dinero y no es algo de qué preocuparse, pero tené tu documentación lista.
 
 ### Paso 4: La Escritura Pública
 
 El día del cierre, ambas partes se reúnen en la oficina del notario para firmar la *escritura pública*. Esta es la escritura oficial de transferencia. El notario lee el documento en voz alta (requisito legal), y tanto comprador como vendedor firman ante dos testigos.
 
-Al momento de la firma, pagás el saldo restante — típicamente mediante cheque de caja o transferencia bancaria. El notario retiene los fondos en su cuenta fiduciaria hasta que se complete el registro.
+Al momento de la firma, pagás el saldo restante, típicamente mediante cheque de caja o transferencia bancaria. El notario retiene los fondos en su cuenta fiduciaria hasta que se complete el registro.
 
 ### Paso 5: Inscripción en el Registro de la Propiedad
 
 Después de la firma, el notario presenta la *escritura* al Registro General de la Propiedad para su inscripción. Aquí es cuando la propiedad pasa oficialmente a tu nombre. El registro toma aproximadamente **de 15 a 30 días hábiles** dependiendo de la carga de trabajo del registro.
 
-El registro sella la escritura y emite un nuevo folio a tu nombre. Hasta que esto ocurra, la propiedad técnicamente sigue a nombre del vendedor — por eso el notario retiene los fondos hasta que el registro confirme la transferencia.
+El registro sella la escritura y emite un nuevo folio a tu nombre. Hasta que esto ocurra, la propiedad técnicamente sigue a nombre del vendedor, por eso el notario retiene los fondos hasta que el registro confirme la transferencia.
 
 ### Paso 6: Actualización del Impuesto Municipal
 
@@ -75,7 +75,7 @@ Una vez que el título esté registrado, vos (o tu notario) deben actualizar los
 Los compradores en Guatemala deben presupuestar aproximadamente del **5 al 7 por ciento del precio de compra** para costos de cierre:
 
 - **Honorarios notariales:** del 1 al 2 por ciento del precio de compra (regulados por el Colegio de Abogados de Guatemala)
-- **Impuesto de transferencia (*impuesto de alcaldía*):** 3 por ciento del valor registrado, dividido entre comprador y vendedor en la mayoría de los casos — pero esto es negociable
+- **Impuesto de transferencia (*impuesto de alcaldía*):** 3 por ciento del valor registrado, dividido entre comprador y vendedor en la mayoría de los casos, pero esto es negociable
 - **Honorarios del Registro de la Propiedad:** aproximadamente el 0.5 por ciento del valor registrado
 - **Revisión legal y debida diligencia:** de $500 a $1,500 USD según la complejidad
 - **Tasación (si hay financiamiento):** de $250 a $400 USD
@@ -84,7 +84,7 @@ Los vendedores típicamente pagan su propio impuesto sobre ganancias de capital 
 
 ## Errores Comunes que los Compradores Extranjeros Deben Evitar
 
-**Tenencia informal de la tierra.** En áreas rurales alrededor de Antigua — incluyendo partes de El Hato, San Miguel Dueños y Ciudad Vieja — algunas propiedades carecen de títulos formales. Familias pueden haber vivido en el terreno por generaciones sin haberlo registrado jamás. Comprar tierra no registrada requiere un largo proceso de legalización antes de que la transferencia pueda proceder.
+**Tenencia informal de la tierra.** En áreas rurales alrededor de Antigua, incluyendo partes de El Hato, San Miguel Dueños y Ciudad Vieja, algunas propiedades carecen de títulos formales. Familias pueden haber vivido en el terreno por generaciones sin haberlo registrado jamás. Comprar tierra no registrada requiere un largo proceso de legalización antes de que la transferencia pueda proceder.
 
 **Disputas de límites.** Los registros catastrales guatemaltecos no siempre son precisos. Siempre contratá una medición física (*medición*) por un agrimensor autorizado y comparala con el mapa del registro. Los vecinos ocasionalmente disputan límites, especialmente en parcelas rurales grandes.
 
@@ -107,10 +107,10 @@ Luna Jerney y el equipo de **Antigua Real Estate Development** trabajan con nota
 
 Una vez que el título está a tu nombre, algunos pasos adicionales mantienen todo en orden:
 
-- **Abrí una cuenta bancaria local** si aún no tenés una — los pagos de servicios, impuestos de propiedad y gastos de mantenimiento se manejan más fácilmente a través de un banco guatemalteco
-- **Configurá los pagos de impuesto de propiedad** — los impuestos anuales de propiedad en Guatemala son notablemente bajos, típicamente entre $100 y $500 USD al año para propiedades residenciales en el área de Antigua
-- **Considerá hacer un testamento local** que cubra tu propiedad guatemalteca — la ley de herencia guatemalteca tiene reglas de herederos forzosos, y un testamento local evita complicaciones para tu familia
-- **Mantené activa la relación con tu notario** — puede asistirte en futuras transacciones, mejoras que requieran permisos y cualquier actualización en el registro
+- **Abrí una cuenta bancaria local** si aún no tenés una, los pagos de servicios, impuestos de propiedad y gastos de mantenimiento se manejan más fácilmente a través de un banco guatemalteco
+- **Configurá los pagos de impuesto de propiedad**, los impuestos anuales de propiedad en Guatemala son notablemente bajos, típicamente entre $100 y $500 USD al año para propiedades residenciales en el área de Antigua
+- **Considerá hacer un testamento local** que cubra tu propiedad guatemalteca, la ley de herencia guatemalteca tiene reglas de herederos forzosos, y un testamento local evita complicaciones para tu familia
+- **Mantené activa la relación con tu notario**, puede asistirte en futuras transacciones, mejoras que requieran permisos y cualquier actualización en el registro
 
 ## En Resumen
 

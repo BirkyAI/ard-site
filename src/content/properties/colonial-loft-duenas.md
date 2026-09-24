@@ -16,7 +16,7 @@ date: 2026-02-03
 
 ## About This Property
 
-A brand-new corner house, beautifully built in traditional colonial loft-style and located in a tranquil gated community just a short drive from Antigua's historic center. Own a slice of Antigua's magic — perfect as a home, vacation property, or investment.
+A brand-new corner house, beautifully built in traditional colonial loft-style and located in a tranquil gated community just a short drive from Antigua's historic center. Own a slice of Antigua's magic, perfect as a home, vacation property, or investment.
 
 ## Property Details
 

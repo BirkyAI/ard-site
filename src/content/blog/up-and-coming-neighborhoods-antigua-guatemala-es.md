@@ -16,7 +16,7 @@ Aquí tienes un análisis detallado de las joyas ocultas que merecen tu atenció
 
 ## ¿Por Qué Mirar Más Allá del Centro Histórico?
 
-Los precios de las propiedades en la zona central de Antigua han subido constantemente — espera pagar entre $250,000 y $800,000+ por una casa colonial restaurada a poca distancia del Parque Central. Estas propiedades mantienen bien su valor pero requieren un capital significativo.
+Los precios de las propiedades en la zona central de Antigua han subido constantemente, espera pagar entre $250,000 y $800,000+ por una casa colonial restaurada a poca distancia del Parque Central. Estas propiedades mantienen bien su valor pero requieren un capital significativo.
 
 Los pueblos y barrios circundantes ofrecen una matemática diferente:
 
@@ -34,7 +34,7 @@ A solo 15 minutos al noroeste de Antigua, San Miguel Dueñas se ha convertido di
 
 **Qué impulsa el crecimiento:** Nuevas instalaciones de internet por fibra óptica y una creciente escena de cafés han transformado este pueblo una vez tranquilo en una opción viable para quienes trabajan en Antigua. El mercado de los sábados es una institución local, y las vistas del Volcán Acatenango son espectaculares.
 
-**Tipos de propiedades disponibles:** Casas de estilo colonial con jardines, nuevos desarrollos de townhouses y lotes vacíos para construcción personalizada. Una casa de 3 dormitorios con jardín cuesta entre $80,000 y $150,000 — aproximadamente la mitad de lo que pagarías por un espacio similar en el centro de Antigua.
+**Tipos de propiedades disponibles:** Casas de estilo colonial con jardines, nuevos desarrollos de townhouses y lotes vacíos para construcción personalizada. Una casa de 3 dormitorios con jardín cuesta entre $80,000 y $150,000, aproximadamente la mitad de lo que pagarías por un espacio similar en el centro de Antigua.
 
 **Ideal para:** Inversores que buscan alquileres a largo plazo para familias y trabajadores remotos que quieren tardes tranquilas con fácil acceso a restaurantes y eventos culturales de Antigua.
 
@@ -60,13 +60,13 @@ Situado en la ladera este de Antigua, San Cristóbal El Alto ofrece posiblemente
 
 ## Ciudad Vieja: La Zona de Inversión Familiar
 
-A diez minutos al sur de Antigua, Ciudad Vieja ofrece la infraestructura más establecida de los pueblos satélite de Antigua. Tiene su propio centro médico, supermercados, escuelas y servicios municipales — atractivo para familias que buscan una vida autónoma cerca de Antigua.
+A diez minutos al sur de Antigua, Ciudad Vieja ofrece la infraestructura más establecida de los pueblos satélite de Antigua. Tiene su propio centro médico, supermercados, escuelas y servicios municipales, atractivo para familias que buscan una vida autónoma cerca de Antigua.
 
 **Qué impulsa el crecimiento:** Los compradores orientados a la familia buscan Ciudad Vieja por su menor percepción de delincuencia (es una comunidad autónoma), buenas escuelas y lotes más grandes. El pueblo tiene su propio mercado semanal, farmacia y sucursales bancarias.
 
 **Tipos de propiedades disponibles:** Casas unifamiliares con jardín, propiedades de inversión dúplex y tríplex, y parcelas de terreno agrícola. Una casa de 3 dormitorios con jardín cuesta entre $90,000 y $180,000.
 
-**Ideal para:** Inversores que construyen un portafolio de alquileres familiares a largo plazo. La rotación de inquilinos es menor que en áreas turísticas, pero las tasas de desocupación también son significativamente más bajas — las familias se quedan durante años.
+**Ideal para:** Inversores que construyen un portafolio de alquileres familiares a largo plazo. La rotación de inquilinos es menor que en áreas turísticas, pero las tasas de desocupación también son significativamente más bajas, las familias se quedan durante años.
 
 ## Qué Observar en 2026
 
@@ -78,20 +78,20 @@ Cuatro tendencias están moldeando el mercado externo de Antigua:
 
 **3. Mejoras en agua y servicios.** Varias comunidades están modernizando sistemas de agua e infraestructura eléctrica. Las propiedades en áreas con mejoras confirmadas deberían ver una plusvalía acelerada.
 
-**4. Cambios en zonificación.** El centro histórico de Antigua tiene estrictos códigos de construcción. Los municipios vecinos son generalmente más flexibles, permitiendo construcción moderna, piscinas y estructuras más grandes — un punto de venta para ciertos compradores.
+**4. Cambios en zonificación.** El centro histórico de Antigua tiene estrictos códigos de construcción. Los municipios vecinos son generalmente más flexibles, permitiendo construcción moderna, piscinas y estructuras más grandes, un punto de venta para ciertos compradores.
 
 ## Resumen de Estrategia de Inversión para 2026
 
 | Área | Rango de Precios | Ideal para | Perspectiva 2026 |
 |:--|:--|:--|:--|
-| San Miguel Dueñas | $80K-$150K | Alquileres familiares/largo plazo | Fuerte — internet de fibra impulsando demanda |
-| Jocotenango | $70K-$120K | Alquileres vacacionales corto plazo | Muy Fuerte — demanda turística desbordándose |
-| San Cristóbal El Alto | $40K-$250K | Propiedades de alta gama con vista | Fuerte — inventario de vistas es limitado |
-| Ciudad Vieja | $90K-$180K | Alquileres familiares estables | Constante — infraestructura establecida |
+| San Miguel Dueñas | $80K-$150K | Alquileres familiares/largo plazo | Fuerte, internet de fibra impulsando demanda |
+| Jocotenango | $70K-$120K | Alquileres vacacionales corto plazo | Muy Fuerte, demanda turística desbordándose |
+| San Cristóbal El Alto | $40K-$250K | Propiedades de alta gama con vista | Fuerte, inventario de vistas es limitado |
+| Ciudad Vieja | $90K-$180K | Alquileres familiares estables | Constante, infraestructura establecida |
 
 ## Cómo Empezar
 
-Las mejores inversiones en barrios emergentes requieren conocimiento local. Las propiedades cambian de manos más por recomendación que por anuncios, y entender las dinámicas únicas de cada pueblo — disponibilidad de agua, historial de títulos, política vecinal — es esencial antes de comprometer capital.
+Las mejores inversiones en barrios emergentes requieren conocimiento local. Las propiedades cambian de manos más por recomendación que por anuncios, y entender las dinámicas únicas de cada pueblo, disponibilidad de agua, historial de títulos, política vecinal, es esencial antes de comprometer capital.
 
 Podemos ayudarte a identificar propiedades en estas áreas que coincidan con tus objetivos de inversión. Ya sea que busques un proyecto de alquiler vacacional, una inversión a largo plazo o una casa de retiro personalizada, los barrios más allá del centro de Antigua ofrecen oportunidades que simplemente ya no existen en la zona histórica.
 

@@ -1,6 +1,6 @@
 ---
-title: "Apto Contentita — Apartamento Moderno, El Hato"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Apto Contentita. Apartamento Moderno, El Hato"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/mes"
 beds: 1
@@ -39,20 +39,20 @@ gallery:
 
 ## Acerca de Este Apartamento
 
-**Apto Contentita** es nuestra residencia más popular — un impresionante y amplio apartamento moderno rodeado de naturaleza y diseñado para la comodidad y la conexión con el exterior. Ubicado dentro de la exclusiva **Finca El Tambor** en El Hato, este apartamento ofrece la mezcla perfecta de lujo moderno e inmersión natural.
+**Apto Contentita** es nuestra residencia más popular, un impresionante y amplio apartamento moderno rodeado de naturaleza y diseñado para la comodidad y la conexión con el exterior. Ubicado dentro de la exclusiva **Finca El Tambor** en El Hato, este apartamento ofrece la mezcla perfecta de lujo moderno e inmersión natural.
 
 El diseño de concepto abierto cuenta con una cocina totalmente equipada, ventanales del piso al techo que inundan el espacio con luz natural, una amplia terraza privada e impresionantes vistas sin obstáculos del volcán activo a través del valle. Con chimenea interior y un entorno inmersivo de bosque, este es el refugio definitivo para quienes lo quieren todo.
 
 ### Lo Que Incluye
 
 - 🏡 **80 m²** de amplio apartamento moderno de concepto abierto
-- 🌋 **Vistas panorámicas al volcán** — sin obstáculos a través del valle
-- 🪟 **Ventanales del piso al techo** — luz natural y naturaleza por todas partes
-- 🏠 **Amplia terraza privada** — perfecta para vivir al aire libre
-- 🔥 **Chimenea interior** — tardes acogedoras rodeado de naturaleza
-- 🌿 **Entorno inmersivo de bosque** — nuestra residencia más popular
-- 🍳 **Cocina totalmente equipada** — electrodomésticos y utensilios modernos
-- 🏠 **Completamente amueblado** — listo para mudarse
+- 🌋 **Vistas panorámicas al volcán**, sin obstáculos a través del valle
+- 🪟 **Ventanales del piso al techo**, luz natural y naturaleza por todas partes
+- 🏠 **Amplia terraza privada**, perfecta para vivir al aire libre
+- 🔥 **Chimenea interior**, tardes acogedoras rodeado de naturaleza
+- 🌿 **Entorno inmersivo de bosque**, nuestra residencia más popular
+- 🍳 **Cocina totalmente equipada**, electrodomésticos y utensilios modernos
+- 🏠 **Completamente amueblado**, listo para mudarse
 - 🛁 **Baño privado**
 
 ### Condiciones Generales
@@ -78,5 +78,5 @@ El Hato es un tranquilo pueblo montañoso justo sobre Antigua Guatemala, conocid
 
 ### Contacto
 
-📩 **Luna Jerney** — +502 3571 6181
+📩 **Luna Jerney**, +502 3571 6181
 ¿Preguntas o agendar una visita? ¡WhatsApp o llame en cualquier momento!

@@ -55,7 +55,7 @@ For families with high school–aged children, Guatemala City offers additional 
 
 ### Language Transition
 
-If your children are not yet fluent in Spanish, most bilingual schools offer Spanish-as-a-second-language support. The immersion effect is powerful — children typically achieve conversational fluency within 3–6 months and academic fluency within a year. Younger children (under 8) adapt fastest.
+If your children are not yet fluent in Spanish, most bilingual schools offer Spanish-as-a-second-language support. The immersion effect is powerful, children typically achieve conversational fluency within 3–6 months and academic fluency within a year. Younger children (under 8) adapt fastest.
 
 ### School Year and Schedule
 
@@ -71,7 +71,7 @@ Many bilingual schools offer van or bus service covering the Antigua valley. Mon
 
 ### Extracurricular Activities
 
-Sports (soccer, basketball, swimming), arts, music, and martial arts are commonly offered as after-school programs. Several schools partner with local organizations for horseback riding, rock climbing, and environmental education — activities that leverage Antigua's natural setting.
+Sports (soccer, basketball, swimming), arts, music, and martial arts are commonly offered as after-school programs. Several schools partner with local organizations for horseback riding, rock climbing, and environmental education, activities that leverage Antigua's natural setting.
 
 ## Costs Breakdown
 
@@ -96,7 +96,7 @@ Additional costs include registration fees (one-time, Q1,000–Q3,000), uniforms
 
 ## Living Near Good Schools
 
-Many of the best bilingual schools are located in the towns surrounding Antigua — Jocotenango, San Pedro Las Huertas, and Ciudad Vieja — all within a 10–15 minute drive of the historic center. Families often choose neighborhoods based on proximity to their preferred school, which can be a smart strategy when house hunting.
+Many of the best bilingual schools are located in the towns surrounding Antigua. Jocotenango, San Pedro Las Huertas, and Ciudad Vieja, all within a 10–15 minute drive of the historic center. Families often choose neighborhoods based on proximity to their preferred school, which can be a smart strategy when house hunting.
 
 Luna Jerney at Antigua Real Estate Development has helped numerous families find homes in school-friendly neighborhoods throughout the Antigua valley. Whether you are looking for a colonial home in the historic center, a modern house in Jocotenango, or a property with space for children to play in San Pedro Las Huertas, the right home can make the school commute easy and daily life enjoyable.
 

@@ -42,7 +42,7 @@ gallery:
 
 ## Acerca de Esta Propiedad
 
-¡Descubre tu propio paraíso escondido en las alturas sobre Antigua! Esta propiedad de **2,934 m²** de terreno en El Hato ofrece una tranquilidad inigualable, vistas increíbles y vida autosustentable — ideal para un retiro privado, proyecto ecológico o casa soñada.
+¡Descubre tu propio paraíso escondido en las alturas sobre Antigua! Esta propiedad de **2,934 m²** de terreno en El Hato ofrece una tranquilidad inigualable, vistas increíbles y vida autosustentable, ideal para un retiro privado, proyecto ecológico o casa soñada.
 
 **Referencia:** ARD-0256
 
@@ -58,12 +58,12 @@ gallery:
 
 ## Lo Que Hace Especial Esta Propiedad
 
-- **3 fuentes de agua natural** directamente en el terreno — raro y valioso para vida autosustentable
-- **Privacidad total** — en plena naturaleza, lejos de vecinos
-- **Vistas al Volcán de Agua** — impresionante telón de fondo desde la propiedad
-- **Media manzana** — tamaño generoso para jardines, animales o construcción
-- **Electricidad cercana** — conexión fácil disponible
-- **Elevación perfecta** — temperaturas más frescas que el valle de Antigua, aire puro de montaña
+- **3 fuentes de agua natural** directamente en el terreno, raro y valioso para vida autosustentable
+- **Privacidad total**, en plena naturaleza, lejos de vecinos
+- **Vistas al Volcán de Agua**, impresionante telón de fondo desde la propiedad
+- **Media manzana**, tamaño generoso para jardines, animales o construcción
+- **Electricidad cercana**, conexión fácil disponible
+- **Elevación perfecta**, temperaturas más frescas que el valle de Antigua, aire puro de montaña
 
 ## ¿Por Qué El Hato?
 

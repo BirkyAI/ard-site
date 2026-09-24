@@ -10,7 +10,7 @@ lang: "es"
 
 # Renovar para Ganar en Antigua Guatemala
 
-Antigua Guatemala tiene uno de los pocos mercados inmobiliarios de Centroamérica donde un edificio viejo y descuidado puede valer bastante más después de una renovación cuidadosa que el dinero que invertiste en él. Esa diferencia — entre lo que se paga por una propiedad abandonada y lo que vale una restaurada al venderla o alquilarla — es todo el caso de negocio de renovar para ganar aquí. No es un mercado para hacerte rico de un día para otro, ni es para alguien que pretende manejar un proyecto desde otro continente sin ayuda. Pero para un comprador que entiende los números, la prima colonial es real y repetible.
+Antigua Guatemala tiene uno de los pocos mercados inmobiliarios de Centroamérica donde un edificio viejo y descuidado puede valer bastante más después de una renovación cuidadosa que el dinero que invertiste en él. Esa diferencia, entre lo que se paga por una propiedad abandonada y lo que vale una restaurada al venderla o alquilarla, es todo el caso de negocio de renovar para ganar aquí. No es un mercado para hacerte rico de un día para otro, ni es para alguien que pretende manejar un proyecto desde otro continente sin ayuda. Pero para un comprador que entiende los números, la prima colonial es real y repetible.
 
 Esta guía cubre cómo funcionan de verdad las cuentas en Antigua: las tres vías de salida, cuánto cuesta renovar, de dónde sale la ganancia, las reglas patrimoniales que cambian tu presupuesto y los riesgos que convierten silenciosamente un buen proyecto en uno malo.
 
@@ -38,7 +38,7 @@ Renovás a un estándar sólido y durable, y alquilás a familias expatriadas o 
 
 ### 3. Alquiler de Corto Plazo o Vacacional
 
-Renovás pensando en huéspedes — buenos baños, internet confiable, un patio fotogénico — y alquilás por noche o por semana. Es el ingreso bruto más alto, pero también el mayor esfuerzo operativo y la mayor exposición a la regulación.
+Renovás pensando en huéspedes, buenos baños, internet confiable, un patio fotogénico, y alquilás por noche o por semana. Es el ingreso bruto más alto, pero también el mayor esfuerzo operativo y la mayor exposición a la regulación.
 
 ## Cuánto Cuesta Realmente Renovar en Antigua
 
@@ -52,7 +52,7 @@ Estos son rangos realistas de 2026 para una propiedad colonial de tamaño medio,
 | Restauración completa (techo, pisos, plomería, eléctrico) | $50,000 – $150,000+ | Ahí viven la ganancia real y el riesgo real |
 | Permisos, arquitecto, ingeniero, supervisión | 10–15% del costo de construcción | Presupuestá esto siempre por separado |
 
-La mano de obra y los materiales locales — piedra, barro cocido, cal, madera — cuestan bastante menos que en Estados Unidos o Europa. Los acabados importados (ventanas de alta eficiencia, bombas de calor, accesorios especiales) no, y son la partida que más seguido revienta un presupuesto.
+La mano de obra y los materiales locales, piedra, barro cocido, cal, madera, cuestan bastante menos que en Estados Unidos o Europa. Los acabados importados (ventanas de alta eficiencia, bombas de calor, accesorios especiales) no, y son la partida que más seguido revienta un presupuesto.
 
 ## De Dónde Sale Realmente la Ganancia
 
@@ -70,12 +70,12 @@ En Antigua, el patio central es lo que los compradores fotografían, recuerdan y
 
 ### No Mejorés de Más
 
-Agregar algo que el vecindario no puede sostener — una piscina en una calle donde nadie tiene una, o acabados importados muy por encima del estándar local — es dinero que no recuperás. Renová hasta el techo del mercado local, no por encima de él.
+Agregar algo que el vecindario no puede sostener, una piscina en una calle donde nadie tiene una, o acabados importados muy por encima del estándar local, es dinero que no recuperás. Renová hasta el techo del mercado local, no por encima de él.
 
 ## Las Reglas que Cambian tus Cuentas
 
 - **Permisos patrimoniales y de conservación.** Cualquier propiedad dentro de la zona protegida necesita aprobación del consejo de conservación antes de que alterés fachadas, techos o estructuras visibles. Eso agrega tiempo y no es opcional.
-- **Refuerzo sísmico.** Antigua está en una zona sísmica activa. Cualquier trabajo estructural serio debería incluir la evaluación de un ingeniero — mirá nuestra guía sobre seguridad ante terremotos para propiedades en Antigua Guatemala.
+- **Refuerzo sísmico.** Antigua está en una zona sísmica activa. Cualquier trabajo estructural serio debería incluir la evaluación de un ingeniero, mirá nuestra guía sobre seguridad ante terremotos para propiedades en Antigua Guatemala.
 - **Derechos de agua y cisternas.** Confirmá la fuente de agua y el almacenamiento de la propiedad antes de diseñar. La independencia de agua es un argumento de venta, no un detalle que se deja para después.
 - **Costos de cierre e impuestos.** Los impuestos de transferencia, los honorarios del notario y las comisiones de agentes, tanto en la compra como en la venta final, reducen tu margen neto. Presupuestalos desde el principio.
 
@@ -100,7 +100,7 @@ Calculá un fondo de contingencia de 15 a 20% por encima de tu presupuesto de co
 
 ## ¿Vale la Pena?
 
-Para un comprador con números realistas, apoyo local y paciencia, renovar para ganar en Antigua Guatemala es una de las estrategias inmobiliarias más defendibles que hay en la región. La prima colonial es estructural, no especulativa — viene de una oferta que no puede crecer. Pero la ganancia vive en el precio de compra y en la disciplina del presupuesto, no en el romance de una casa vieja y bonita. Entrá con números, no con una corazonada.
+Para un comprador con números realistas, apoyo local y paciencia, renovar para ganar en Antigua Guatemala es una de las estrategias inmobiliarias más defendibles que hay en la región. La prima colonial es estructural, no especulativa, viene de una oferta que no puede crecer. Pero la ganancia vive en el precio de compra y en la disciplina del presupuesto, no en el romance de una casa vieja y bonita. Entrá con números, no con una corazonada.
 
 ## Cómo Empezar
 

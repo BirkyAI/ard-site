@@ -19,9 +19,9 @@ La mayoría de los extranjeros experimentados y asesores inmobiliarios en Antigu
 Alquilar de seis a doce meses te da tiempo para:
 
 - **Aprender qué calles se ponen ruidosas** los fines de semana (Antigua es una ciudad de fiesta para turistas, y algunos bloques centrales tienen ruido de bares hasta las 2 AM)
-- **Descubrir barrios que no conocías** — San Felipe, las áreas cerca del sendero de Hobbitenango, o los bordes más tranquilos de Jocotenango
-- **Entender la vida estacional** — la temporada de lluvias (mayo a octubre) afecta diferentes áreas de manera distinta. Algunos alquileres se inundan, otros se mantienen secos
-- **Construir relaciones locales** — vecinos, comerciantes y otros extranjeros que te dirán cosas que ningún listado en línea te contará
+- **Descubrir barrios que no conocías**. San Felipe, las áreas cerca del sendero de Hobbitenango, o los bordes más tranquilos de Jocotenango
+- **Entender la vida estacional**, la temporada de lluvias (mayo a octubre) afecta diferentes áreas de manera distinta. Algunos alquileres se inundan, otros se mantienen secos
+- **Construir relaciones locales**, vecinos, comerciantes y otros extranjeros que te dirán cosas que ningún listado en línea te contará
 
 Un alquiler amueblado en el centro de Antigua oscila entre $800 y $1,600 al mes por una casa de dos o tres habitaciones. Los alquileres amueblados a corto plazo (tres a seis meses) cuestan un poco más, pero te permiten probar el estilo de vida antes de comprometerte.
 
@@ -93,7 +93,7 @@ El factor clave es la ubicación. Las propiedades a distancia caminable de la pl
 
 **Omitir la debida diligencia legal.** Siempre contratá un abogado independiente que se especialice en bienes raíces guatemaltecos. Verificará que el título esté limpio, revisará gravámenes, confirmará los límites de la propiedad y asegurará que el vendedor realmente tenga derecho a vender. Este no es el lugar para recortar costos.
 
-**Subestimar los costos de renovación.** Las casas coloniales son hermosas pero pueden esconder problemas costosos — plomería vieja, instalación eléctrica inadecuada, problemas de cimentación o daños en el techo. Pedí una inspección profesional antes de comprar cualquier propiedad antigua.
+**Subestimar los costos de renovación.** Las casas coloniales son hermosas pero pueden esconder problemas costosos, plomería vieja, instalación eléctrica inadecuada, problemas de cimentación o daños en el techo. Pedí una inspección profesional antes de comprar cualquier propiedad antigua.
 
 **Ignorar la temporada de lluvias.** Visitá una propiedad durante los meses lluviosos (mayo a octubre) antes de comprar. La intrusión de agua, problemas de drenaje y moho son problemas reales en algunas áreas.
 

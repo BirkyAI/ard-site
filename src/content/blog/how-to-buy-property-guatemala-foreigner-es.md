@@ -10,7 +10,7 @@ lang: "es"
 
 Durante décadas, los extranjeros se han sentido atraídos por las ciudades coloniales de Guatemala, sus paisajes volcánicos y su costo de vida accesible. Antigua Guatemala, en particular, se ha convertido en un destino clave para expatriados, jubilados y trabajadores remotos que buscan comprar propiedad.
 
-Si eres extranjero y te preguntas **cómo comprar propiedad en Guatemala**, la respuesta es clara: **sí, puedes — y el proceso es sorprendentemente sencillo.** Guatemala no tiene restricciones para la compra de propiedades por parte de extranjeros en la mayoría de los casos, y el sistema legal protege a los compradores que siguen los pasos correctos.
+Si eres extranjero y te preguntas **cómo comprar propiedad en Guatemala**, la respuesta es clara: **sí, puedes, y el proceso es sorprendentemente sencillo.** Guatemala no tiene restricciones para la compra de propiedades por parte de extranjeros en la mayoría de los casos, y el sistema legal protege a los compradores que siguen los pasos correctos.
 
 Esta guía te explica exactamente lo que necesitas saber, desde los requisitos legales hasta los costos de cierre, para que puedas comprar con confianza.
 
@@ -73,7 +73,7 @@ La escritura es legalmente vinculante y válida internacionalmente.
 El paso legal final es el **registro**. Tu notario presenta la escritura en el Registro General de la Propiedad. Una vez registrada (generalmente 2 a 4 semanas después de la firma), la propiedad es legalmente tuya.
 
 En este punto, también necesitarás:
-- Registrarte para el **Impuesto Único Sobre Inmuebles (IUSI)** — el notario generalmente lo maneja
+- Registrarte para el **Impuesto Único Sobre Inmuebles (IUSI)**, el notario generalmente lo maneja
 - Configurar cuentas de servicios públicos (agua, electricidad, internet)
 - Si planeas alquilar la propiedad, registrar tu contrato de arrendamiento en la municipalidad
 
@@ -99,10 +99,10 @@ Obtener una hipoteca como extranjero en Guatemala es posible pero no siempre sen
 
 **Opciones incluyen:**
 
-- **Compra al contado** — La ruta más común. Limpia, rápida y te da poder de negociación.
-- **Financiamiento del vendedor** — Algunos vendedores ofrecen financiamiento directo, típicamente con 30–50% de enganche y plazos de 5 a 10 años.
-- **Hipotecas internacionales** — Algunos bancos guatemaltecos ofrecen hipotecas a extranjeros, pero las tasas son más altas (9–14%) y requieren 40–50% de enganche.
-- **Financiamiento desde tu país** — Algunos compradores obtienen un préstamo hipotecario o línea de crédito en su país de origen y pagan en efectivo en Guatemala.
+- **Compra al contado**. La ruta más común. Limpia, rápida y te da poder de negociación.
+- **Financiamiento del vendedor**. Algunos vendedores ofrecen financiamiento directo, típicamente con 30–50% de enganche y plazos de 5 a 10 años.
+- **Hipotecas internacionales**. Algunos bancos guatemaltecos ofrecen hipotecas a extranjeros, pero las tasas son más altas (9–14%) y requieren 40–50% de enganche.
+- **Financiamiento desde tu país**. Algunos compradores obtienen un préstamo hipotecario o línea de crédito en su país de origen y pagan en efectivo en Guatemala.
 
 Para la mayoría de los compradores, **efectivo o financiamiento del vendedor** es el camino más práctico.
 
@@ -120,11 +120,11 @@ Tu notario puede aconsejarte qué estructura tiene sentido para tu situación. L
 
 ## Errores Comunes que Cometen los Compradores Extranjeros
 
-1. **Omitir la búsqueda de título** — El error más costoso. Siempre verifica la propiedad antes de transferir dinero.
-2. **No verificar la zonificación** — Esa mansión colonial podría tener zonificación residencial solamente. Si quieres un B&B, necesitas zonificación comercial.
-3. **Asumir que "económico" significa buena inversión** — Una propiedad barata con problemas de título o estructurales es mucho más costosa a largo plazo.
-4. **No presupuestar los costos de cierre** — 2–4% adicional al precio de compra toma por sorpresa a muchos compradores.
-5. **Usar un agente que no se especializa en compradores extranjeros** — Los agentes generales pueden no entender las necesidades específicas de compradores internacionales.
+1. **Omitir la búsqueda de título**. El error más costoso. Siempre verifica la propiedad antes de transferir dinero.
+2. **No verificar la zonificación**. Esa mansión colonial podría tener zonificación residencial solamente. Si quieres un B&B, necesitas zonificación comercial.
+3. **Asumir que "económico" significa buena inversión**. Una propiedad barata con problemas de título o estructurales es mucho más costosa a largo plazo.
+4. **No presupuestar los costos de cierre**, 2–4% adicional al precio de compra toma por sorpresa a muchos compradores.
+5. **Usar un agente que no se especializa en compradores extranjeros**. Los agentes generales pueden no entender las necesidades específicas de compradores internacionales.
 
 Para un análisis más profundo, lee nuestra guía sobre [errores comunes de compradores extranjeros en Antigua](/es/blog/top-mistakes-foreign-buyers-antigua-guatemala-es/).
 

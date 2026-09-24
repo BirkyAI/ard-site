@@ -12,11 +12,11 @@ Owning a home in Antigua Guatemala is one of the most rewarding investments you 
 
 Guatemalan inheritance law works very differently from the common-law systems of the United States, the United Kingdom or Canada. If you hold title in your own name with no plan in place, your family may face years of paperwork, mandatory-heir rules that divide the property in ways you never intended, and unexpected costs. The good news is that a little planning now saves your heirs a great deal of stress later.
 
-This guide explains how Guatemala handles inherited property, what a *testamento* covers, and the tools — from trusts to corporations — that let you pass your Antigua home to exactly who you want.
+This guide explains how Guatemala handles inherited property, what a *testamento* covers, and the tools, from trusts to corporations, that let you pass your Antigua home to exactly who you want.
 
 ## How Does Guatemalan Inheritance Law Work?
 
-Guatemala follows **forced-heirship (herederos forzosos)** rules. Unlike most U.S. states, where you can freely leave assets to anyone, Guatemalan law reserves a fixed portion of your estate for your **legal heirs** — typically your spouse and your children.
+Guatemala follows **forced-heirship (herederos forzosos)** rules. Unlike most U.S. states, where you can freely leave assets to anyone, Guatemalan law reserves a fixed portion of your estate for your **legal heirs**, typically your spouse and your children.
 
 This means:
 
@@ -36,7 +36,7 @@ A well-drafted *testamento* can:
 - Simplify the transfer when you pass, avoiding a contested intestate succession.
 - Coordinate with your home-country will so the two documents do not conflict.
 
-Creating one usually takes a few sessions with a *notario* and costs a fraction of the legal fees your heirs would pay to sort out an intestate estate. If you already closed on a property, you likely worked with a *notario* — the same professional can advise you on your will.
+Creating one usually takes a few sessions with a *notario* and costs a fraction of the legal fees your heirs would pay to sort out an intestate estate. If you already closed on a property, you likely worked with a *notario*, the same professional can advise you on your will.
 
 ## What Are the Inheritance Costs and Taxes?
 
@@ -51,7 +51,7 @@ None of these are deal-breakers for a single family home, but they are far easie
 
 ## Your Options for Passing Property Smoothly
 
-There is no single right answer — it depends on your family situation, your home country and how much privacy you want. The main structures are:
+There is no single right answer, it depends on your family situation, your home country and how much privacy you want. The main structures are:
 
 | Structure | When it helps most | Key trade-off |
 |---|---|---|
@@ -74,7 +74,7 @@ You do not need a dramatic restructure to get started. Focus on these five steps
 
 ## Plan for Peace of Mind
 
-Securing your family's future in Antigua is part of responsible ownership. Whether you bought your colonial home as a retreat, a rental or a permanent residence, a short session with a local professional means the home you love passes to the people you love — without a legal or financial fight.
+Securing your family's future in Antigua is part of responsible ownership. Whether you bought your colonial home as a retreat, a rental or a permanent residence, a short session with a local professional means the home you love passes to the people you love, without a legal or financial fight.
 
 If you own property in Antigua or are thinking of buying, our team can connect you with a trusted *notario* and help you understand how your plans fit with the local market. [Browse our properties](/properties/) to see the colonial homes, fincas and condos available, or [contact Luna Jerney](/contact/) to start the conversation today.
 

@@ -42,13 +42,13 @@ gallery:
 
 ## Acerca de Esta Renta
 
-Una amplia casa de 5 recámaras en **San Gaspar Vivar**, Santa Catarina Bobadilla — a solo dos cuadras de la encantadora plaza central. Esta casa de dos niveles ofrece buenos acabados y impresionantes **vistas panorámicas de 360°** desde la terraza.
+Una amplia casa de 5 recámaras en **San Gaspar Vivar**, Santa Catarina Bobadilla, a solo dos cuadras de la encantadora plaza central. Esta casa de dos niveles ofrece buenos acabados y impresionantes **vistas panorámicas de 360°** desde la terraza.
 
 ### Lo Que Incluye
 
-- 🏡 **5 recámaras, 4.5 baños** — amplio diseño de dos niveles
-- 🌇 **Terraza con vistas de 360°** — panorámicas en todas direcciones
-- 🍳 **Cocina, comedor y sala** — distribución funcional para familias
+- 🏡 **5 recámaras, 4.5 baños**, amplio diseño de dos niveles
+- 🌇 **Terraza con vistas de 360°**, panorámicas en todas direcciones
+- 🍳 **Cocina, comedor y sala**, distribución funcional para familias
 - 👗 **Área de lavado** incluida
 - 🚗 **Área frontal abierta** para estacionamiento
 - ✨ **Buenos acabados** en toda la casa
@@ -57,9 +57,9 @@ Una amplia casa de 5 recámaras en **San Gaspar Vivar**, Santa Catarina Bobadill
 ### Términos del Contrato
 
 - 📝 **Mínimo 1 año** de contrato
-- 🏷️ **Q13,000/mes** — no incluye servicios
+- 🏷️ **Q13,000/mes**, no incluye servicios
 - 🏠 **Sin amueblar**
-- 🐕 Se aceptan mascotas (perro o gato) — requiere **2 meses de depósito**
+- 🐕 Se aceptan mascotas (perro o gato), requiere **2 meses de depósito**
 - 💵 Depósito estándar requerido
 
 ### Bueno Saber
@@ -68,5 +68,5 @@ Esta propiedad funciona bien como **casa familiar** o como **oficinas para una O
 
 ### Contacto
 
-📩 **Luna Jerney** — +502 3571 6181
+📩 **Luna Jerney**, +502 3571 6181
 ¿Preguntas o agendar una visita? ¡WhatsApp o llama cuando quieras!

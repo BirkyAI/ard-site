@@ -1,5 +1,5 @@
 ---
-title: "5 Avenida Sur — Exclusive Condominium Near Caoba Farms"
+title: "5 Avenida Sur. Exclusive Condominium Near Caoba Farms"
 location: "5 Avenida Sur, Antigua Guatemala"
 price: 0
 beds: 0
@@ -22,15 +22,15 @@ gallery:
 
 ## About This Property
 
-An exciting new pre-construction opportunity is coming to **5 Avenida Sur** in the heart of Antigua Guatemala — an exclusive gated community of just **9 townhouses**, nestled in one of the city's most desirable locations near the beloved **Caoba Farms**. Developed by <a href="https://liftinvestments.net/" target="_blank"><strong>Lift Investments</strong></a>, a Panama-based investment firm with German origins (Hamburg), this project is designed by architect Fernando and offered directly through Antigua Real Estate Development for exclusive sales promotion.
+An exciting new pre-construction opportunity is coming to **5 Avenida Sur** in the heart of Antigua Guatemala, an exclusive gated community of just **9 townhouses**, nestled in one of the city's most desirable locations near the beloved **Caoba Farms**. Developed by <a href="https://liftinvestments.net/" target="_blank"><strong>Lift Investments</strong></a>, a Panama-based investment firm with German origins (Hamburg), this project is designed by architect Fernando and offered directly through Antigua Real Estate Development for exclusive sales promotion.
 
 **Reference:** ARD-5AV-001
 
 ## What We Know So Far
 
-- 📍 **Location:** 5 Avenida Sur, Antigua Guatemala — just 15 blocks from the Central Square and steps from Caoba Farms
+- 📍 **Location:** 5 Avenida Sur, Antigua Guatemala, just 15 blocks from the Central Square and steps from Caoba Farms
 - 🏘️ **Project:** Exclusive condominium with only 9 townhouses
-- 🏗️ **Status:** Pre-construction — renders available, technical specs coming soon
+- 🏗️ **Status:** Pre-construction, renders available, technical specs coming soon
 - 🔒 **Setting:** Gated community for privacy and security
 
 ## The Location
@@ -39,11 +39,11 @@ An exciting new pre-construction opportunity is coming to **5 Avenida Sur** in t
 
 This prime location on Antigua's south side puts you within walking distance of:
 
-- 🌿 **Caoba Farms** — Antigua's famous organic farm, restaurant, and event venue
-- 🏛️ **Historic Center** — just minutes from Central Park and the iconic colonial architecture
-- 🍽️ **Restaurants & Cafés** — some of Antigua's best dining right at your doorstep
-- 🛍️ **Shopping & Markets** — local markets and boutique shops nearby
-- 🏫 **Schools & Services** — close to international schools and everyday amenities
+- 🌿 **Caoba Farms**. Antigua's famous organic farm, restaurant, and event venue
+- 🏛️ **Historic Center**, just minutes from Central Park and the iconic colonial architecture
+- 🍽️ **Restaurants & Cafés**, some of Antigua's best dining right at your doorstep
+- 🛍️ **Shopping & Markets**, local markets and boutique shops nearby
+- 🏫 **Schools & Services**, close to international schools and everyday amenities
 
 ### A Neighborhood That Has It All
 
@@ -79,4 +79,4 @@ We are currently awaiting **technical specifications, floor plans, pricing, and 
 
 **Want to be the first to know when full details are available?** Contact us to join the priority interest list for this exclusive development.
 
-*Antigua Real Estate Development — Your trusted partner in Antigua Guatemala real estate.*
+*Antigua Real Estate Development. Your trusted partner in Antigua Guatemala real estate.*

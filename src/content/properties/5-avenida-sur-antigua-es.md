@@ -1,5 +1,5 @@
 ---
-title: "5 Avenida Sur — Condominio Cerca de Caoba"
+title: "5 Avenida Sur. Condominio Cerca de Caoba"
 location: "5 Avenida Sur, Antigua Guatemala"
 price: 0
 beds: 0
@@ -23,15 +23,15 @@ gallery:
 
 ## Acerca de Esta Propiedad
 
-Una emocionante oportunidad de preventa está llegando a **5 Avenida Sur** en el corazón de Antigua Guatemala — una comunidad cerrada exclusiva de solo **9 casas**, ubicada en una de las zonas más deseables de la ciudad, cerca de la querida **Caoba Farms**. Desarrollado por <a href="https://liftinvestments.net/" target="_blank"><strong>Lift Investments</strong></a>, una firma de inversión con sede en Panamá y orígenes alemanes (Hamburgo), este proyecto está diseñado por el arquitecto Fernando y se ofrece directamente a través de Antigua Real Estate Development para promoción exclusiva de ventas.
+Una emocionante oportunidad de preventa está llegando a **5 Avenida Sur** en el corazón de Antigua Guatemala, una comunidad cerrada exclusiva de solo **9 casas**, ubicada en una de las zonas más deseables de la ciudad, cerca de la querida **Caoba Farms**. Desarrollado por <a href="https://liftinvestments.net/" target="_blank"><strong>Lift Investments</strong></a>, una firma de inversión con sede en Panamá y orígenes alemanes (Hamburgo), este proyecto está diseñado por el arquitecto Fernando y se ofrece directamente a través de Antigua Real Estate Development para promoción exclusiva de ventas.
 
 **Referencia:** ARD-5AV-001
 
 ## Lo Que Sabemos Hasta Ahora
 
-- 📍 **Ubicación:** 5 Avenida Sur, Antigua Guatemala — a solo 15 cuadras de la Plaza Central y a pasos de Caoba Farms
+- 📍 **Ubicación:** 5 Avenida Sur, Antigua Guatemala, a solo 15 cuadras de la Plaza Central y a pasos de Caoba Farms
 - 🏘️ **Proyecto:** Condominio exclusivo con solo 9 casas
-- 🏗️ **Estado:** En preventa — renders disponibles, especificaciones técnicas próximamente
+- 🏗️ **Estado:** En preventa, renders disponibles, especificaciones técnicas próximamente
 - 🔒 **Ambiente:** Comunidad cerrada para privacidad y seguridad
 
 ## La Ubicación
@@ -40,11 +40,11 @@ Una emocionante oportunidad de preventa está llegando a **5 Avenida Sur** en el
 
 Esta ubicación premium en el lado sur de Antigua te pone a distancia caminable de:
 
-- 🌿 **Caoba Farms** — la famosa granja orgánica, restaurante y venue de eventos de Antigua
-- 🏛️ **Centro Histórico** — a minutos del Parque Central y la icónica arquitectura colonial
-- 🍽️ **Restaurantes y Cafés** — algunos de los mejores lugares de Antigua a tu puerta
-- 🛍️ **Tiendas y Mercados** — mercados locales y boutiques cerca
-- 🏫 **Escuelas y Servicios** — cerca de escuelas internacionales y servicios cotidianos
+- 🌿 **Caoba Farms**, la famosa granja orgánica, restaurante y venue de eventos de Antigua
+- 🏛️ **Centro Histórico**, a minutos del Parque Central y la icónica arquitectura colonial
+- 🍽️ **Restaurantes y Cafés**, algunos de los mejores lugares de Antigua a tu puerta
+- 🛍️ **Tiendas y Mercados**, mercados locales y boutiques cerca
+- 🏫 **Escuelas y Servicios**, cerca de escuelas internacionales y servicios cotidianos
 
 ### Un Vecindario Que Lo Tiene Todo
 
@@ -80,4 +80,4 @@ Actualmente estamos esperando **especificaciones técnicas, planos, precios y re
 
 **¿Quieres ser el primero en saber cuando haya más detalles disponibles?** Contáctanos para unirte a la lista prioritaria de interés para este exclusivo desarrollo.
 
-*Antigua Real Estate Development — Tu socio de confianza en bienes raíces en Antigua Guatemala.*
+*Antigua Real Estate Development. Tu socio de confianza en bienes raíces en Antigua Guatemala.*

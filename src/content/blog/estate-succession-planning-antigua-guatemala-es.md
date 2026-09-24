@@ -12,11 +12,11 @@ Tener una casa en Antigua Guatemala es una de las inversiones más gratificantes
 
 La ley de herencia guatemalteca funciona de manera muy distinta a los sistemas de derecho común de Estados Unidos, el Reino Unido o Canadá. Si tenés la propiedad a tu nombre y sin ningún plan, tu familia puede enfrentarse a años de trámites, reglas de herederos forzosos que dividen el inmueble de formas que nunca imaginaste y costos inesperados. La buena noticia es que un poco de planificación ahora le ahorra a tus herederos muchísimo estrés después.
 
-Esta guía explica cómo se maneja la herencia de una propiedad en Guatemala, qué cubre un *testamento* y qué herramientas —desde fideicomisos hasta sociedades— te permiten dejar tu casa en Antigua a las personas que realmente querés.
+Esta guía explica cómo se maneja la herencia de una propiedad en Guatemala, qué cubre un *testamento* y qué herramientas -desde fideicomisos hasta sociedades- te permiten dejar tu casa en Antigua a las personas que realmente querés.
 
 ## ¿Cómo Funciona la Ley de Herencia en Guatemala?
 
-Guatemala sigue reglas de **legítima o herederos forzosos**. A diferencia de la mayoría de los estados de EE. UU., donde podés dejar tus bienes libremente a quien quieras, la ley guatemalteca reserva una parte fija de tu patrimonio para tus **herederos legales** —por lo general, tu cónyuge y tus hijos.
+Guatemala sigue reglas de **legítima o herederos forzosos**. A diferencia de la mayoría de los estados de EE. UU., donde podés dejar tus bienes libremente a quien quieras, la ley guatemalteca reserva una parte fija de tu patrimonio para tus **herederos legales** -por lo general, tu cónyuge y tus hijos.
 
 Esto implica que:
 
@@ -36,7 +36,7 @@ Un buen *testamento* puede:
 - Simplificar la transferencia cuando fallezcás, evitando una sucesión intestada complicada.
 - Coordinarse con tu testamento del país de origen para que ambos documentos no entren en conflicto.
 
-Crearlo suele tomar unas cuantas sesiones con un *notario* y cuesta una fracción de los honorarios legales que tendrían que pagar tus herederos para resolver una sucesión intestada. Si ya compraste una propiedad, seguramente trabajaste con un *notario* —el mismo profesional puede asesorarte sobre tu testamento.
+Crearlo suele tomar unas cuantas sesiones con un *notario* y cuesta una fracción de los honorarios legales que tendrían que pagar tus herederos para resolver una sucesión intestada. Si ya compraste una propiedad, seguramente trabajaste con un *notario* -el mismo profesional puede asesorarte sobre tu testamento.
 
 ## ¿Cuáles son los Costos de la Herencia en Guatemala?
 
@@ -74,7 +74,7 @@ No necesitás una reestructuración dramática para empezar. Enfocate en estos c
 
 ## Planificá para Vivir Tranquilo
 
-Asegurar el futuro de tu familia en Antigua es parte de ser un dueño responsable. Ya sea que compraste tu casa colonial como retiro, alquiler o residencia permanente, una breve sesión con un profesional local hace que la casa que amás pase a las personas que amás —sin una batalla legal ni financiera.
+Asegurar el futuro de tu familia en Antigua es parte de ser un dueño responsable. Ya sea que compraste tu casa colonial como retiro, alquiler o residencia permanente, una breve sesión con un profesional local hace que la casa que amás pase a las personas que amás -sin una batalla legal ni financiera.
 
 Si tenés una propiedad en Antigua o estás pensando en comprar, nuestro equipo puede conectarte con un *notario* de confianza y ayudarte a entender cómo tus planes encajan con el mercado local. [Explorá nuestras propiedades](/es/properties/) para ver las casas coloniales, fincas y condominios disponibles, o [contactá a Luna Jerney](/es/contact/) para empezar la conversación hoy.
 

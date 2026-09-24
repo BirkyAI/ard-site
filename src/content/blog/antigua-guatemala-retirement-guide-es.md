@@ -10,7 +10,7 @@ lang: "es"
 
 ## ¿Por qué jubilarse en Antigua Guatemala?
 
-Antigua Guatemala se posiciona consistentemente entre los mejores destinos de jubilación en Centroamérica, y por buenas razones. Esta ciudad Patrimonio de la Humanidad por la UNESCO ofrece a los jubilados una combinación poco común: **costo de vida asequible**, una vibrante comunidad de expatriados, clima primaveral durante todo el año a 1,500 metros de altitud, y acceso a atención médica moderna — todo envuelto en uno de los entornos coloniales más hermosos de las Américas.
+Antigua Guatemala se posiciona consistentemente entre los mejores destinos de jubilación en Centroamérica, y por buenas razones. Esta ciudad Patrimonio de la Humanidad por la UNESCO ofrece a los jubilados una combinación poco común: **costo de vida asequible**, una vibrante comunidad de expatriados, clima primaveral durante todo el año a 1,500 metros de altitud, y acceso a atención médica moderna, todo envuelto en uno de los entornos coloniales más hermosos de las Américas.
 
 Ya sea que te atraigan las calles empedradas, las impresionantes vistas a los volcanes o la perspectiva de vivir cómodamente con un ingreso fijo, esta guía cubre todo lo que necesitas saber sobre jubilarte en Antigua Guatemala en 2026.
 
@@ -28,7 +28,7 @@ Uno de los mayores atractivos para los jubilados es lo lejos que rinde una pensi
 - **Entretenimiento y vida social:** $150 – $300 USD
 - **Total:** **$1,280 – $2,500 USD**
 
-Una pareja puede vivir muy cómodamente con **$2,000–$3,500 USD al mes**, incluyendo cenas regulares fuera, excursiones de fin de semana y un servicio doméstico que viene varias veces a la semana — un lujo común y asequible en Antigua.
+Una pareja puede vivir muy cómodamente con **$2,000–$3,500 USD al mes**, incluyendo cenas regulares fuera, excursiones de fin de semana y un servicio doméstico que viene varias veces a la semana, un lujo común y asequible en Antigua.
 
 Compara eso con destinos populares de jubilación en EE.UU. como Scottsdale o Charleston, donde un estilo de vida similar podría costar $5,000–$7,000 USD mensuales. En Antigua, tus ahorros de jubilación podrían durar dos o tres veces más.
 
@@ -67,7 +67,7 @@ Un poco más lejos pero significativamente más asequible. Comunidad de expatria
 
 Para jubilados que sueñan con vistas a los volcanes y tranquilidad rural. Este pequeño pueblo se ubica entre Antigua y Ciudad de Guatemala, ofreciendo un ritmo de vida más pausado con acceso conveniente a la carretera.
 
-Si estás considerando comprar en lugar de alquilar, explora nuestras [propiedades en venta](/properties/) actuales — poseer una casa colonial en Antigua puede ser tanto una elección de estilo de vida como una inversión inteligente.
+Si estás considerando comprar en lugar de alquilar, explora nuestras [propiedades en venta](/properties/) actuales, poseer una casa colonial en Antigua puede ser tanto una elección de estilo de vida como una inversión inteligente.
 
 ## Residencia en Guatemala: lo que los jubilados necesitan saber
 
@@ -87,7 +87,7 @@ Muchos expatriados también mantienen su ciudadanía de origen y simplemente ren
 
 ## Construyendo tu vida social: la comunidad de expatriados
 
-Una de las mayores fortalezas de Antigua como destino de jubilación es su **comunidad establecida y acogedora de expatriados**. No empezarás desde cero — hay cientos de jubilados de habla inglesa ya viviendo aquí.
+Una de las mayores fortalezas de Antigua como destino de jubilación es su **comunidad establecida y acogedora de expatriados**. No empezarás desde cero, hay cientos de jubilados de habla inglesa ya viviendo aquí.
 
 ### Cómo conectar
 
@@ -107,7 +107,7 @@ Abrir una cuenta bancaria guatemalteca es posible con una visa de rentista. La m
 
 ### Seguridad
 
-Antigua es una de las ciudades más seguras de Guatemala, con una fuerza policial turística dedicada y seguridad privada en la mayoría de zonas residenciales. Las precauciones estándar aplican — no exhibas joyas costosas, usa taxis registrados por la noche y mantente atento a tu entorno.
+Antigua es una de las ciudades más seguras de Guatemala, con una fuerza policial turística dedicada y seguridad privada en la mayoría de zonas residenciales. Las precauciones estándar aplican, no exhibas joyas costosas, usa taxis registrados por la noche y mantente atento a tu entorno.
 
 ### Desplazamiento
 
@@ -115,11 +115,11 @@ El centro de Antigua es altamente caminable. Para viajes a Ciudad de Guatemala o
 
 ### Clima
 
-Espera temperaturas diurnas entre 21–27°C (70–80°F) durante todo el año con noches frescas de 10–15°C (50°F). La temporada de lluvias (mayo a octubre) trae aguaceros por la tarde, pero las mañanas suelen ser soleadas y despejadas. No se necesita calefacción ni aire acondicionado — otro ahorro de costos.
+Espera temperaturas diurnas entre 21–27°C (70–80°F) durante todo el año con noches frescas de 10–15°C (50°F). La temporada de lluvias (mayo a octubre) trae aguaceros por la tarde, pero las mañanas suelen ser soleadas y despejadas. No se necesita calefacción ni aire acondicionado, otro ahorro de costos.
 
 ## Tu jubilación comienza aquí
 
-Jubilarte en Antigua Guatemala no se trata solo de ahorrar dinero — se trata de ganar una vida más rica y vibrante. Imagina el café de la mañana con vista a un volcán, paseos vespertinos por calles centenarias y noches con nuevos amigos de todo el mundo. Todo a una fracción de lo que gastarías en casa.
+Jubilarte en Antigua Guatemala no se trata solo de ahorrar dinero, se trata de ganar una vida más rica y vibrante. Imagina el café de la mañana con vista a un volcán, paseos vespertinos por calles centenarias y noches con nuevos amigos de todo el mundo. Todo a una fracción de lo que gastarías en casa.
 
 **¿Listo para explorar tus opciones?** Ya sea que busques alquilar primero para probar el terreno o comprar una casa colonial para hacerla tuya, Luna Jerney en Antigua Real Estate Development puede ayudarte a encontrar la propiedad perfecta. Con profundo conocimiento local y experiencia ayudando a clientes internacionales, Luna te guiará en cada paso del proceso.
 

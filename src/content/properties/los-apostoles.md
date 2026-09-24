@@ -1,5 +1,5 @@
 ---
-title: "Los Apóstoles — Colonial Home, Gated Community"
+title: "Los Apóstoles. Colonial Home, Gated Community"
 location: "Los Apóstoles, Antigua Guatemala"
 price: 615000
 beds: 4
@@ -37,7 +37,7 @@ gallery:
 
 ## About This Property
 
-Welcome to **Los Apóstoles** — an exclusive opportunity to own a stunning modern colonial home in one of Antigua Guatemala's most sought-after gated communities. Located just **2.5 kilometers from Antigua's iconic Central Park**, this property offers the perfect blend of contemporary luxury and traditional charm.
+Welcome to **Los Apóstoles**, an exclusive opportunity to own a stunning modern colonial home in one of Antigua Guatemala's most sought-after gated communities. Located just **2.5 kilometers from Antigua's iconic Central Park**, this property offers the perfect blend of contemporary luxury and traditional charm.
 
 **Reference:** ARD-LOS-001
 
@@ -50,45 +50,45 @@ Welcome to **Los Apóstoles** — an exclusive opportunity to own a stunning mod
 - 🛁 **Bathrooms:** 4 full bathrooms
 - 💰 **Price:** $615,000 USD (negotiable)
 - 🚗 **Parking:** Private garage
-- 🏡 **Style:** Modern meets Colonial — sophisticated design with traditional Antigüeño character
+- 🏡 **Style:** Modern meets Colonial, sophisticated design with traditional Antigüeño character
 - ⏱️ **Delivery:** Estimated 12-13 months from purchase
 
 ## What Makes This Home Special
 
 ### Thoughtful Design & Premium Finishes
 
-This home is designed for modern living with a touch of colonial elegance. The **two-level layout** maximizes space and privacy, with **two bedrooms on each floor** — perfect for families or those who love to entertain guests.
+This home is designed for modern living with a touch of colonial elegance. The **two-level layout** maximizes space and privacy, with **two bedrooms on each floor**, perfect for families or those who love to entertain guests.
 
 ### Breathtaking Views
 
-Step out onto your private **terrace** and enjoy stunning views of the majestic **Volcán de Agua** — one of Antigua's most iconic volcanoes. Whether you're sipping your morning coffee or watching the sunset, this view never gets old.
+Step out onto your private **terrace** and enjoy stunning views of the majestic **Volcán de Agua**, one of Antigua's most iconic volcanoes. Whether you're sipping your morning coffee or watching the sunset, this view never gets old.
 
 ### Lush Central Garden
 
-At the heart of the home lies a beautiful **50m² central garden** — a private oasis that brings natural light and fresh air into the living spaces. This is where indoor and outdoor living seamlessly blend together.
+At the heart of the home lies a beautiful **50m² central garden**, a private oasis that brings natural light and fresh air into the living spaces. This is where indoor and outdoor living seamlessly blend together.
 
 ### Living Spaces Designed for Life
 
-- **Living room with fireplace** — cozy evenings in the heart of Antigua
-- **Dedicated dining area** — perfect for family meals and entertaining
-- **Modern kitchen** — designed for both functionality and style
-- **Private garage** — secure parking for your vehicle
-- **Multiple terraces** — outdoor living spaces throughout
+- **Living room with fireplace**, cozy evenings in the heart of Antigua
+- **Dedicated dining area**, perfect for family meals and entertaining
+- **Modern kitchen**, designed for both functionality and style
+- **Private garage**, secure parking for your vehicle
+- **Multiple terraces**, outdoor living spaces throughout
 
 ### Exclusive Community Amenities
 
 Living in Los Apóstoles means access to premium community facilities:
 
-- 🏊 **Swimming pool** — perfect for warm Antigua days
-- 🏛️ **Club house** — social gatherings and community events
-- 🔒 **Gated community** — security and peace of mind
-- 🌳 **Well-maintained common areas** — beautiful landscaping throughout
+- 🏊 **Swimming pool**, perfect for warm Antigua days
+- 🏛️ **Club house**, social gatherings and community events
+- 🔒 **Gated community**, security and peace of mind
+- 🌳 **Well-maintained common areas**, beautiful landscaping throughout
 
 ## Investment Opportunity
 
 ### Flexible Payment Structure
 
-For pre-construction purchases, payments are structured in phases throughout the construction period — making it easier to manage your investment without requiring the full amount upfront.
+For pre-construction purchases, payments are structured in phases throughout the construction period, making it easier to manage your investment without requiring the full amount upfront.
 
 ### Financing Available
 
@@ -116,4 +116,4 @@ This property represents exceptional value in Antigua's real estate market. With
 
 **Interested in learning more?** Contact us to schedule a viewing or discuss financing options.
 
-*Antigua Real Estate Development — Your trusted partner in Antigua Guatemala real estate.*
+*Antigua Real Estate Development. Your trusted partner in Antigua Guatemala real estate.*

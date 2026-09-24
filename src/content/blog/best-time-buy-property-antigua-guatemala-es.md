@@ -16,7 +16,7 @@ Esta guía desglosa las dos temporadas que marcan el mercado de Antigua, cuándo
 
 Antigua funciona con dos ciclos que se superponen, y no siempre apuntan en la misma dirección.
 
-**Temporada seca: de noviembre a abril.** Cielo despejado, caminos secos, temporada alta de turismo. Es cuando las propiedades se fotografían mejor, cuando más propietarios las ponen en venta y cuando más compradores extranjeros llegan a ver. La oferta es mayor — y la competencia también. Los vendedores en esta ventana casi nunca tienen prisa.
+**Temporada seca: de noviembre a abril.** Cielo despejado, caminos secos, temporada alta de turismo. Es cuando las propiedades se fotografían mejor, cuando más propietarios las ponen en venta y cuando más compradores extranjeros llegan a ver. La oferta es mayor, y la competencia también. Los vendedores en esta ventana casi nunca tienen prisa.
 
 **Temporada verde: de mayo a octubre.** Lluvias por la tarde, menos visitantes, calles más tranquilas. La oferta se reduce, pero los vendedores que siguen publicando suelen estar motivados: una herencia, una sociedad que se disuelve, un alquiler que rindió menos de lo esperado. Ahí es donde aparece el margen de negociación.
 
@@ -61,7 +61,7 @@ Si una propiedad te importa de verdad, **tratá de inspeccionarla durante la tem
 
 Los compradores se obsesionan con el mes en que ofertan y pasan por alto lo que realmente define su resultado: cuánto demora la compra.
 
-Una compra sencilla en Antigua — oferta aceptada, depósito entregado, notario contratado — normalmente cierra en **30 a 60 días**. Si sumás un levantamiento topográfico, una revisión de título con historial de traspasos familiares no registrados o un crédito hipotecario de un banco guatemalteco, 90 días es realista. El [proceso de cierre en Guatemala](/es/blog/guatemala-real-estate-closing-process-es/) involucra un notario, el Registro de la Propiedad y un periodo de debida diligencia que nunca deberías comprimir.
+Una compra sencilla en Antigua, oferta aceptada, depósito entregado, notario contratado, normalmente cierra en **30 a 60 días**. Si sumás un levantamiento topográfico, una revisión de título con historial de traspasos familiares no registrados o un crédito hipotecario de un banco guatemalteco, 90 días es realista. El [proceso de cierre en Guatemala](/es/blog/guatemala-real-estate-closing-process-es/) involucra un notario, el Registro de la Propiedad y un periodo de debida diligencia que nunca deberías comprimir.
 
 Entonces calculá al revés. Si querés estar viviendo en la casa, o alquilándola, antes de la temporada alta de noviembre, tenés que tener contrato firmado **a principios de septiembre**. Si querés pasar Semana Santa en tu casa nueva, tenías que empezar en enero. El mes en que empezás a buscar importa menos que el mes en que necesitás terminar.
 

@@ -17,7 +17,7 @@ lang: "es"
 
 ## Acerca de Esta Propiedad
 
-Una casa de esquina nueva, bellamente construida en estilo colonial loft tradicional y ubicada en una tranquila comunidad cerrada a solo unos minutos en auto del centro histórico de Antigua. Posee un pedacito de la magia de Antigua — perfecta como hogar, propiedad vacacional o inversión.
+Una casa de esquina nueva, bellamente construida en estilo colonial loft tradicional y ubicada en una tranquila comunidad cerrada a solo unos minutos en auto del centro histórico de Antigua. Posee un pedacito de la magia de Antigua, perfecta como hogar, propiedad vacacional o inversión.
 
 ## Detalles de la Propiedad
 

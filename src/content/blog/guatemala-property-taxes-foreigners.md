@@ -7,7 +7,7 @@ alt: "Calculator, invoice papers, and a pen arranged on a desk for managing prop
 date: 2026-06-23
 ---
 
-If you're considering buying property in Antigua Guatemala, understanding the local tax system is one of the smartest things you can do before signing any contracts. Guatemala's property taxes are refreshingly straightforward — and remarkably affordable — compared to most North American and European markets. Here's everything foreign buyers need to know.
+If you're considering buying property in Antigua Guatemala, understanding the local tax system is one of the smartest things you can do before signing any contracts. Guatemala's property taxes are refreshingly straightforward, and remarkably affordable, compared to most North American and European markets. Here's everything foreign buyers need to know.
 
 ## How Guatemala's Property Tax System Works
 
@@ -17,7 +17,7 @@ The standard IUSI rate is **0.75% of the registered fiscal value** of the proper
 
 ### What Is Fiscal Value?
 
-Here's where it gets interesting for foreign buyers: the fiscal value registered with the **Registro de la Propiedad** (Property Registry) is almost always significantly lower than the actual market value you'll pay. This isn't a loophole — it's simply how the system works. The fiscal value is based on historical registration figures that haven't kept pace with the real estate market.
+Here's where it gets interesting for foreign buyers: the fiscal value registered with the **Registro de la Propiedad** (Property Registry) is almost always significantly lower than the actual market value you'll pay. This isn't a loophole, it's simply how the system works. The fiscal value is based on historical registration figures that haven't kept pace with the real estate market.
 
 In practice, a colonial home that sells for $200,000 USD might have a registered fiscal value of $40,000 to $80,000. Your annual IUSI tax would then be calculated on that lower figure, resulting in annual property taxes of just **$300 to $600 USD**. That's a fraction of what comparable properties carry in Mexico, Costa Rica, or the United States.
 
@@ -29,17 +29,17 @@ When you purchase property in Guatemala, there's a one-time transfer tax to budg
 - **Notary fees** for the public deed (*escritura pública*), which vary but generally run 1% to 2% of the transaction value
 - **Registration fees** at the Registro de la Propiedad
 
-For a property with a fiscal value of $60,000, your total closing costs would be roughly **$2,500 to $4,000 USD** — considerably less than closing costs in most developed markets.
+For a property with a fiscal value of $60,000, your total closing costs would be roughly **$2,500 to $4,000 USD**, considerably less than closing costs in most developed markets.
 
 ### The Notary Requirement
 
-All property transactions in Guatemala must be processed through a licensed notary (*notario*). The notary drafts the public deed, verifies the property's legal status, confirms there are no liens or encumbrances, and registers the transfer with the Property Registry. This isn't optional — it's the legal mechanism that protects your ownership rights.
+All property transactions in Guatemala must be processed through a licensed notary (*notario*). The notary drafts the public deed, verifies the property's legal status, confirms there are no liens or encumbrances, and registers the transfer with the Property Registry. This isn't optional, it's the legal mechanism that protects your ownership rights.
 
 Working with a qualified notary is essential. Luna Jerney at Antigua Real Estate Development can recommend trusted notaries who regularly handle foreign buyer transactions and speak English.
 
 ## Capital Gains Tax When Selling
 
-When you eventually sell your property in Guatemala, you'll be subject to **Impuesto Sobre la Renta (ISR)** — Guatemala's income tax on capital gains. The rate is:
+When you eventually sell your property in Guatemala, you'll be subject to **Impuesto Sobre la Renta (ISR)**. Guatemala's income tax on capital gains. The rate is:
 
 - **15% on the net gain** (sale price minus original purchase price and documented improvement costs)
 - Alternatively, **5% of the total sale price** if you cannot document the original purchase price
@@ -52,7 +52,7 @@ Owning property in Guatemala as a foreigner comes with a few annual obligations:
 
 ### 1. Pay Your IUSI on Time
 
-Property taxes are due annually, typically by the end of January. Some municipalities allow quarterly payments. Late payments incur penalties and interest. The Antigua municipality sends tax notices, but as a foreign owner living abroad, you may not receive them — so it's your responsibility to track the due date.
+Property taxes are due annually, typically by the end of January. Some municipalities allow quarterly payments. Late payments incur penalties and interest. The Antigua municipality sends tax notices, but as a foreign owner living abroad, you may not receive them, so it's your responsibility to track the due date.
 
 ### 2. Maintain Your Property Registry Status
 
@@ -68,7 +68,7 @@ Yes. Guatemala's constitution allows foreign nationals to own property with very
 
 Foreign buyers go through the same purchasing process as Guatemalan nationals. There's no need for a trust structure (like Mexico's *fideicomiso*) or a local partner. You hold the title directly in your own name.
 
-This straightforward ownership structure is one of the reasons Guatemala's real estate market is increasingly attractive to international buyers — especially retirees and investors looking for colonial properties at a fraction of what you'd pay in comparable Latin American destinations.
+This straightforward ownership structure is one of the reasons Guatemala's real estate market is increasingly attractive to international buyers, especially retirees and investors looking for colonial properties at a fraction of what you'd pay in comparable Latin American destinations.
 
 ## How Guatemala Compares to Neighboring Countries
 
@@ -92,12 +92,12 @@ Guatemala's effective rate is competitive, especially given the gap between fisc
 
 **Set up a payment reminder system.** Don't rely on the municipality to notify you. Set a calendar reminder for January each year to pay your IUSI.
 
-**Consider property management.** If you're an absentee owner, a local property manager can handle tax payments, utility bills, and maintenance — keeping your investment in good standing year-round.
+**Consider property management.** If you're an absentee owner, a local property manager can handle tax payments, utility bills, and maintenance, keeping your investment in good standing year-round.
 
 ## The Bottom Line
 
 Guatemala's property tax system is one of the most favorable in Central America for foreign buyers. Low annual taxes, transparent transfer costs, and unrestricted foreign ownership make it an increasingly popular destination for international real estate investment.
 
-The key is understanding the system before you buy, not after. Working with experienced local professionals — a trusted notary, a bilingual accountant, and a knowledgeable real estate advisor — ensures your investment is protected and your obligations are met.
+The key is understanding the system before you buy, not after. Working with experienced local professionals, a trusted notary, a bilingual accountant, and a knowledgeable real estate advisor, ensures your investment is protected and your obligations are met.
 
 **Ready to explore property opportunities in Antigua Guatemala?** [Contact Luna Jerney](https://antiguarealestatedevelopment.com/contact/) at Antigua Real Estate Development. Luna and her team guide foreign buyers through every step of the purchasing process, from finding the right property to navigating closing costs and connecting you with the legal and financial professionals you need.

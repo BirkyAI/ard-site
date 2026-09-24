@@ -40,7 +40,7 @@ Once you find a property, your agent presents a written offer to the seller. Neg
 
 ### 4. Due Diligence and Legal Review
 
-This is the most important step. Before signing anything, your notary (the *escribano* — a specialized lawyer-notary role unique to Guatemala) conducts a title search at the National Property Registry (*Registro de la Propiedad*). This confirms the seller owns the property free and clear with no liens, encumbrances, or boundary disputes.
+This is the most important step. Before signing anything, your notary (the *escribano*, a specialized lawyer-notary role unique to Guatemala) conducts a title search at the National Property Registry (*Registro de la Propiedad*). This confirms the seller owns the property free and clear with no liens, encumbrances, or boundary disputes.
 
 The due diligence process takes two to four weeks and covers:
 

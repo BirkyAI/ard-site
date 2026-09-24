@@ -29,6 +29,6 @@ Based on actual properties in Antigua:
 
 ## Best Areas for Airbnb
 
-1. **Antigua Centro** — Highest demand, premium rates
-2. **Paseo del Obispo** — Quiet, popular with families
-3. **San Miguel Dueñas** — Growing area, better value
+1. **Antigua Centro**. Highest demand, premium rates
+2. **Paseo del Obispo**. Quiet, popular with families
+3. **San Miguel Dueñas**. Growing area, better value

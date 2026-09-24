@@ -10,7 +10,7 @@ lang: "es"
 
 ## ¿Pueden los Extranjeros Comprar Propiedad en Guatemala?
 
-Sí — los extranjeros pueden comprar propiedad en Guatemala prácticamente sin restricciones. A diferencia de muchos países latinoamericanos que limitan la propiedad extranjera cerca de costas o fronteras, Guatemala permite a los no ciudadanos adquirir bienes raíces residenciales y comerciales en cualquier parte del país, incluyendo Antigua Guatemala. El proceso es directo, pero requiere una debida diligencia cuidadosa, la representación legal adecuada y un buen entendimiento de la legislación local sobre propiedad.
+Sí, los extranjeros pueden comprar propiedad en Guatemala prácticamente sin restricciones. A diferencia de muchos países latinoamericanos que limitan la propiedad extranjera cerca de costas o fronteras, Guatemala permite a los no ciudadanos adquirir bienes raíces residenciales y comerciales en cualquier parte del país, incluyendo Antigua Guatemala. El proceso es directo, pero requiere una debida diligencia cuidadosa, la representación legal adecuada y un buen entendimiento de la legislación local sobre propiedad.
 
 Esta guía te acompaña paso a paso en la compra de propiedad en Guatemala como extranjero, desde la investigación inicial hasta la recepción de tu escritura.
 
@@ -18,7 +18,7 @@ Esta guía te acompaña paso a paso en la compra de propiedad en Guatemala como 
 
 El mercado inmobiliario de Guatemala ha captado una atención internacional creciente en los últimos años. Estas son las razones:
 
-- **Precio de entrada accesible:** Las casas coloniales en Antigua Guatemala van desde $80,000 hasta $500,000 — una fracción del costo de propiedades comparables en ciudades Patrimonio de la Humanidad de la UNESCO en Europa o México.
+- **Precio de entrada accesible:** Las casas coloniales en Antigua Guatemala van desde $80,000 hasta $500,000, una fracción del costo de propiedades comparables en ciudades Patrimonio de la Humanidad de la UNESCO en Europa o México.
 - **Sin restricciones de propiedad para extranjeros:** Puedes ser propietario directo a tu nombre, igual que un ciudadano guatemalteco.
 - **Fuerte mercado de alquiler:** La economía turística de Antigua permite rendimientos de alquiler a corto plazo del 8 al 15% anual.
 - **Impuestos prediales bajos:** Los impuestos anuales a la propiedad en Guatemala suelen ser del 0.5 al 1% del valor registrado, entre los más bajos de las Américas.
@@ -30,7 +30,7 @@ Guatemala opera bajo un sistema de derecho civil. La propiedad está regulada po
 
 ### Propiedad Plena (Fee Simple)
 
-Cuando compras propiedad en Guatemala, recibes título de propiedad plena — posesión completa y transferible. No existen arreglos de arrendamiento ni categorías especiales para compradores extranjeros. Tus derechos de propiedad son idénticos a los de un ciudadano guatemalteco.
+Cuando compras propiedad en Guatemala, recibes título de propiedad plena, posesión completa y transferible. No existen arreglos de arrendamiento ni categorías especiales para compradores extranjeros. Tus derechos de propiedad son idénticos a los de un ciudadano guatemalteco.
 
 ### El Registro de la Propiedad
 
@@ -114,11 +114,11 @@ Aquí un desglose realista para un comprador extranjero:
 | Cuotas de registro | $50 – $200 |
 | **Total de costos de cierre** | **~4–5% del precio de compra** |
 
-Los impuestos prediales anuales son notablemente bajos — a menudo entre $200 y $800 al año para una casa estándar en Antigua.
+Los impuestos prediales anuales son notablemente bajos, a menudo entre $200 y $800 al año para una casa estándar en Antigua.
 
 ## Errores Comunes de los Compradores Extranjeros
 
-**Omitir el abogado.** El sistema de propiedad de Guatemala funciona de manera diferente al de Estados Unidos, Canadá o Europa. Un abogado local no es opcional — es esencial.
+**Omitir el abogado.** El sistema de propiedad de Guatemala funciona de manera diferente al de Estados Unidos, Canadá o Europa. Un abogado local no es opcional, es esencial.
 
 **Confiar únicamente en la información del vendedor.** Siempre realiza búsquedas de título y levantamientos topográficos de forma independiente. No te fíes de la palabra del vendedor sobre límites, gravámenes o situación fiscal.
 
@@ -157,7 +157,7 @@ La antigua capital colonial se ubica justo al sur de Antigua con un ritmo relaja
 
 ## Implicaciones Fiscales para Propietarios Extranjeros
 
-Guatemala grava la propiedad basándose en el valor registrado, no en el valor de mercado. El impuesto anual de predial es típicamente del 0.5 al 1% del valor registrado. No existe retención de impuesto sobre ganancias de capital para extranjeros — las ganancias se gravan como ingreso regular a una tasa fija. Consulta con un profesional fiscal tanto en Guatemala como en tu país de origen para optimizar tu situación tributaria.
+Guatemala grava la propiedad basándose en el valor registrado, no en el valor de mercado. El impuesto anual de predial es típicamente del 0.5 al 1% del valor registrado. No existe retención de impuesto sobre ganancias de capital para extranjeros, las ganancias se gravan como ingreso regular a una tasa fija. Consulta con un profesional fiscal tanto en Guatemala como en tu país de origen para optimizar tu situación tributaria.
 
 Los ingresos por alquiler generados en Guatemala están sujetos al impuesto local sobre la renta. Si operas un alquiler a corto plazo, también necesitarás registrarte ante el SAT y cobrar los impuestos aplicables a los huéspedes.
 

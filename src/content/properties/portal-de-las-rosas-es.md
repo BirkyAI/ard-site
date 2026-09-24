@@ -1,5 +1,5 @@
 ---
-title: "Condominio en San Miguel Dueñas — Precio Increíble"
+title: "Condominio en San Miguel Dueñas. Precio Increíble"
 location: "San Miguel Dueñas"
 price: 130000
 beds: 2
@@ -17,7 +17,7 @@ lang: "es"
 
 ## Acerca de Esta Propiedad
 
-Encontrar un hogar cerca de Antigua por solo $130,000 USD es casi inaudito — ¡pero aquí está! Perfecta para una pareja o persona soltera, esta casa en condominio segura en San Miguel Dueñas ofrece comodidad, seguridad y excelente potencial de inversión.
+Encontrar un hogar cerca de Antigua por solo $130,000 USD es casi inaudito, ¡pero aquí está! Perfecta para una pareja o persona soltera, esta casa en condominio segura en San Miguel Dueñas ofrece comodidad, seguridad y excelente potencial de inversión.
 
 ## Detalles de la Propiedad
 

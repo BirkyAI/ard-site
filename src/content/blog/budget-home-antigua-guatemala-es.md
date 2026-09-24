@@ -10,11 +10,11 @@ lang: "es"
 
 La pregunta más común que nos hacen los compradores es simple: **¿qué podés conseguir realmente con tu presupuesto en Antigua Guatemala?** La respuesta honesta es que el mercado se divide en rangos de precio muy claros, y saber en cuál estás comprando te ahorra semanas de visitas perdidas.
 
-Esta es una guía práctica de los rangos de precio de Antigua en 2026, qué compra cada uno de forma realista y dónde está el valor. Los precios de abajo son referencias verificadas de listados activos, no promedios de marketing — se mueven, pero los rangos se mantienen.
+Esta es una guía práctica de los rangos de precio de Antigua en 2026, qué compra cada uno de forma realista y dónde está el valor. Los precios de abajo son referencias verificadas de listados activos, no promedios de marketing, se mueven, pero los rangos se mantienen.
 
 ### Por qué Antigua no se cotiza como una ciudad normal
 
-Antes de los números, entendé las dos fuerzas que moldean cada precio. Primero, **Antigua es Patrimonio de la Humanidad de la UNESCO** — todo el centro colonial está protegido, así que la construcción nueva está muy limitada y hay un tope duro de tierra en el casco histórico. Segundo, **cada propiedad es una historia de restauración**: un cascarón colonial crudo necesita cableado, plomería y trabajo estructural que puede rivalizar con el precio de compra. Por eso dos casas en la misma calle pueden diferir en $400,000 — la diferencia casi siempre es el estado de la restauración, no la ubicación.
+Antes de los números, entendé las dos fuerzas que moldean cada precio. Primero, **Antigua es Patrimonio de la Humanidad de la UNESCO**, todo el centro colonial está protegido, así que la construcción nueva está muy limitada y hay un tope duro de tierra en el casco histórico. Segundo, **cada propiedad es una historia de restauración**: un cascarón colonial crudo necesita cableado, plomería y trabajo estructural que puede rivalizar con el precio de compra. Por eso dos casas en la misma calle pueden diferir en $400,000, la diferencia casi siempre es el estado de la restauración, no la ubicación.
 
 ## Menos de $200,000: condominios y apartamentos de entrada
 
@@ -23,13 +23,13 @@ Este rango es el punto de entrada, y en Antigua compra un **condominio, no una c
 - Un **condominio de 1–2 habitaciones** en un edificio establecido con patio y piscina compartidos
 - Un **apartamento pequeño** en el casco o en los barrios caminables (Santa Ana, San Pedro)
 
-Lo que *no* compra es una casa colonial independiente — esas rara vez aparecen por debajo de $250,000 en el centro histórico. La joya aquí es el rendimiento de alquiler: un condominio de 1 habitación bien administrado en zona de tráfico turístico puede generar un 7–10% bruto anual frente a un precio de compra manejable.
+Lo que *no* compra es una casa colonial independiente, esas rara vez aparecen por debajo de $250,000 en el centro histórico. La joya aquí es el rendimiento de alquiler: un condominio de 1 habitación bien administrado en zona de tráfico turístico puede generar un 7–10% bruto anual frente a un precio de compra manejable.
 
 **Para quién es:** primeros compradores, inversores con presupuesto que buscan flujo de caja, y compradores que quieren ser propietarios sin dolores de cabeza de restauración.
 
 ## $200,000–$350,000: la zona de valor para casas renovadas
 
-Aquí es donde Antigua se pone interesante. Desde alrededor de $220,000 empezás a ver **casas de patio renovadas** — de uno a dos dormitorios alrededor de un patio central, con cocinas y baños actualizados. Cuando subís hacia $300,000–$350,000 obtenés:
+Aquí es donde Antigua se pone interesante. Desde alrededor de $220,000 empezás a ver **casas de patio renovadas**, de uno a dos dormitorios alrededor de un patio central, con cocinas y baños actualizados. Cuando subís hacia $300,000–$350,000 obtenés:
 
 - Una **casa colonial de 2–3 dormitorios** en condiciones decentes, lista para entrar
 - Una **casa renovada en un barrio** como San Pedro o Jocotenango con parqueo
@@ -47,7 +47,7 @@ Cuando cruzás los $400,000 la elección se amplía de forma considerable. Por *
 - Una **construcción moderna** detrás de una fachada colonial, bien hecha
 - Una **casa con parqueo** (algo raro y valioso en el casco) más jardín
 
-Muchos expatriados e inversores serios aterrizan aquí. A este nivel, la calidad de la restauración lo es todo — un mal refuerzo estructural convierte una ganga en un pozo sin fondo.
+Muchos expatriados e inversores serios aterrizan aquí. A este nivel, la calidad de la restauración lo es todo, un mal refuerzo estructural convierte una ganga en un pozo sin fondo.
 
 **Para quién es:** familias, trabajadores remotos que quieren comodidad a largo plazo, y compradores que quieren mudarse sin tener que emprender un proyecto.
 
@@ -59,7 +59,7 @@ Desde alrededor de **$600,000–$750,000** empezás a ver el inventario destacad
 - Una **propiedad premium con vista directa a los volcanes** (una prima importante en Antigua)
 - Una **candidata para casa de huéspedes boutique o espacio para eventos**
 
-Son activos de trofeo con fuerte presencia de reventa. Como el inventario es pequeño y protegido, las casas del casco de gama alta se aprecian de forma confiable — pero exigen una debida diligencia estructural y patrimonial cuidadosa antes de comprometerte.
+Son activos de trofeo con fuerte presencia de reventa. Como el inventario es pequeño y protegido, las casas del casco de gama alta se aprecian de forma confiable, pero exigen una debida diligencia estructural y patrimonial cuidadosa antes de comprometerte.
 
 **Para quién es:** compradores que quieren una casa insignia o una propiedad con ingresos.
 
@@ -84,6 +84,6 @@ Agregale un 10–15% a tu número de compra para estos antes de decidir que un r
 
 ## Empezá con un número claro
 
-Antigua premia a los compradores que conocen su techo antes de empezar a ver propiedades. Determiná tu rango, sumá los costos ocultos y te vas a mover rápido cuando aparezca la casa correcta — porque en una ciudad patrimonio, la propiedad adecuada no espera.
+Antigua premia a los compradores que conocen su techo antes de empezar a ver propiedades. Determiná tu rango, sumá los costos ocultos y te vas a mover rápido cuando aparezca la casa correcta, porque en una ciudad patrimonio, la propiedad adecuada no espera.
 
-Si estás sopesando tu presupuesto contra lo que realmente está en el mercado, podemos preseleccionar las casas que de verdad encajan con tu número — sin perder tiempo con listados inflados que nunca estuvieron a tu alcance. Mirá nuestras [propiedades en venta](/es/properties/), conocé cómo [administramos y restauramos casas](/es/services/), o [escribinos](/es/contact/) y contanos tu presupuesto. Te diremos con honestidad qué compra.
+Si estás sopesando tu presupuesto contra lo que realmente está en el mercado, podemos preseleccionar las casas que de verdad encajan con tu número, sin perder tiempo con listados inflados que nunca estuvieron a tu alcance. Mirá nuestras [propiedades en venta](/es/properties/), conocé cómo [administramos y restauramos casas](/es/services/), o [escribinos](/es/contact/) y contanos tu presupuesto. Te diremos con honestidad qué compra.

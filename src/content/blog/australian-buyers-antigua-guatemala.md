@@ -1,14 +1,14 @@
 ---
 title: "Antigua Guatemala Real Estate for Australian Buyers"
 tag: "Relocation"
-excerpt: "Everything Australian buyers need to know about buying property in Antigua Guatemala — visas, costs, neighbourhoods, and how the Australian dollar stacks up."
+excerpt: "Everything Australian buyers need to know about buying property in Antigua Guatemala, visas, costs, neighbourhoods, and how the Australian dollar stacks up."
 image: "/images/blog/ai-generated/australian-buyers-antigua-guatemala.jpg"
 alt: "Colorful colonial homes along the cobblestone streets of Antigua Guatemala at sunset with Volcán de Agua in the background"
 date: 2026-09-10
 lang: "en"
 ---
 
-More Australian buyers are discovering Antigua Guatemala. In 2025, Australian inquiries for property in the city rose steadily, and the trend has continued into 2026. If you are an Australian buyer considering a home in Antigua, here is everything you need to know — from visas and costs to neighbourhoods and long-term investment potential.
+More Australian buyers are discovering Antigua Guatemala. In 2025, Australian inquiries for property in the city rose steadily, and the trend has continued into 2026. If you are an Australian buyer considering a home in Antigua, here is everything you need to know, from visas and costs to neighbourhoods and long-term investment potential.
 
 This guide is written specifically for Australian buyers, covering the practical differences that matter when buying property in Guatemala as an Australian citizen.
 
@@ -24,9 +24,9 @@ Then there is the lifestyle. Antigua is a UNESCO World Heritage city with cobble
 
 Australian buyers enjoy a favourable currency position when purchasing property in Antigua Guatemala. The Guatemalan quetzal (GTQ) is pegged loosely to the US dollar, and the Australian dollar has maintained solid purchasing power against both currencies.
 
-As of September 2026, AUD 1 buys approximately 4.9 GTQ. This means a property priced at 2,000,000 GTQ costs roughly AUD 408,000. When the Australian dollar strengthens, your buying power in Guatemala improves directly — which is why timing your currency transfer matters.
+As of September 2026, AUD 1 buys approximately 4.9 GTQ. This means a property priced at 2,000,000 GTQ costs roughly AUD 408,000. When the Australian dollar strengthens, your buying power in Guatemala improves directly, which is why timing your currency transfer matters.
 
-This currency position also applies to ongoing costs. Monthly expenses for a couple living in Antigua — rent, utilities, food, and healthcare — typically run between AUD 1,200 and AUD 2,100 per month, depending on lifestyle. That is often less than an Australian mortgage repayment alone.
+This currency position also applies to ongoing costs. Monthly expenses for a couple living in Antigua, rent, utilities, food, and healthcare, typically run between AUD 1,200 and AUD 2,100 per month, depending on lifestyle. That is often less than an Australian mortgage repayment alone.
 
 ## Visa Pathways for Australian Citizens
 
@@ -42,7 +42,7 @@ Guatemala's digital nomad visa allows remote workers to stay for up to two years
 
 ### Permanent Residency Through Investment
 
-Buying property in Guatemala does not automatically grant residency, but it strengthens a residency application significantly. A property investment of USD 50,000 or more demonstrates your commitment to the country and makes approval more likely. For larger investments — typically USD 100,000 or more — you may qualify for a faster-track residency process.
+Buying property in Guatemala does not automatically grant residency, but it strengthens a residency application significantly. A property investment of USD 50,000 or more demonstrates your commitment to the country and makes approval more likely. For larger investments, typically USD 100,000 or more, you may qualify for a faster-track residency process.
 
 ## The Buying Process for Australian Buyers
 
@@ -66,7 +66,7 @@ Closing in Guatemala involves signing the final deed (escritura pública) before
 
 ### Legal Representation
 
-Hiring a Guatemalan lawyer is not optional — it is required. Your lawyer handles the due diligence, drafts the purchase agreement, and ensures the transaction complies with Guatemalan law. Legal fees typically range from 1% to 2% of the property value. For a complete overview of legal requirements, read our guide on [Guatemala's real estate closing process](/blog/guatemala-real-estate-closing-process/).
+Hiring a Guatemalan lawyer is not optional, it is required. Your lawyer handles the due diligence, drafts the purchase agreement, and ensures the transaction complies with Guatemalan law. Legal fees typically range from 1% to 2% of the property value. For a complete overview of legal requirements, read our guide on [Guatemala's real estate closing process](/blog/guatemala-real-estate-closing-process/).
 
 ## Best Neighbourhoods for Australian Buyers
 
@@ -74,7 +74,7 @@ Different areas of Antigua suit different lifestyles. Here are the most popular 
 
 ### Centro Histórico
 
-The historic centre is ideal for buyers who want to be in the heart of the action. Properties here are colonial-era homes with interior courtyards, high ceilings, and traditional architecture. Expect to pay a premium for location — a restored colonial home in Centro starts around AUD 270,000.
+The historic centre is ideal for buyers who want to be in the heart of the action. Properties here are colonial-era homes with interior courtyards, high ceilings, and traditional architecture. Expect to pay a premium for location, a restored colonial home in Centro starts around AUD 270,000.
 
 ### San Pedro
 

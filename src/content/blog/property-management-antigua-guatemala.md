@@ -1,7 +1,7 @@
 ---
 title: "Property Management in Antigua Guatemala"
 tag: "Investment"
-excerpt: "Everything foreign property owners need to know about managing a home in Antigua Guatemala — from tenant screening and maintenance to legal compliance and rental income optimization."
+excerpt: "Everything foreign property owners need to know about managing a home in Antigua Guatemala, from tenant screening and maintenance to legal compliance and rental income optimization."
 image: "/images/blog/ai-generated/property-management-antigua-guatemala.jpg"
 alt: "Colonial courtyard in Antigua Guatemala with keys and property documents on a rustic wooden desk"
 date: 2026-09-01
@@ -10,7 +10,7 @@ lang: "en"
 
 # Property Management in Antigua Guatemala: A Complete Guide for Foreign Homeowners
 
-**Buying a colonial home or modern villa in Antigua Guatemala is one thing. Managing it from abroad is another. Property management services in Antigua handle everything from tenant screening and rent collection to emergency repairs and legal compliance — so you can own property here without living here full-time.**
+**Buying a colonial home or modern villa in Antigua Guatemala is one thing. Managing it from abroad is another. Property management services in Antigua handle everything from tenant screening and rent collection to emergency repairs and legal compliance, so you can own property here without living here full-time.**
 
 ## Why Foreign Property Owners Need Local Management
 
@@ -20,19 +20,19 @@ The common thread: most owners do not live in Antigua year-round.
 
 That creates a practical problem. A colonial home built in the 1700s requires regular maintenance. Tenants need screening. Repairs need supervision. Utility bills need paying. And Guatemalan property law has specific requirements that catch foreign owners off guard.
 
-A good property management company bridges that gap. For a monthly fee — typically 8 to 12 percent of rental income — they become your eyes and ears on the ground.
+A good property management company bridges that gap. For a monthly fee, typically 8 to 12 percent of rental income, they become your eyes and ears on the ground.
 
 ## What Property Management Services Cover in Antigua
 
 ### Tenant Screening and Placement
 
-Finding reliable tenants in Antigua requires local knowledge. Property managers maintain lists of vetted long-term tenants — often expat professionals working for NGOs, international schools, or remote companies — and short-term vacation renters through platforms like Airbnb and Booking.com.
+Finding reliable tenants in Antigua requires local knowledge. Property managers maintain lists of vetted long-term tenants, often expat professionals working for NGOs, international schools, or remote companies, and short-term vacation renters through platforms like Airbnb and Booking.com.
 
 Good managers run background checks, verify employment, and check references. They also know which neighborhoods attract which type of tenant. A property on Calle del Arco might work well for a short-term vacation rental, while a larger home in Panchoy suits a diplomatic family on a two-year contract.
 
 ### Maintenance and Repairs
 
-Colonial homes in Antigua are beautiful and demanding. The volcanic stone walls and terracotta roofs require regular upkeep. Plumbing in historic properties needs specialty attention. A property manager coordinates all of this with trusted local contractors — plumbers, electricians, masons, gardeners, and painters — who already know the quirks of Antigua's historic properties.
+Colonial homes in Antigua are beautiful and demanding. The volcanic stone walls and terracotta roofs require regular upkeep. Plumbing in historic properties needs specialty attention. A property manager coordinates all of this with trusted local contractors, plumbers, electricians, masons, gardeners, and painters, who already know the quirks of Antigua's historic properties.
 
 This matters most for emergency repairs. If a water pipe bursts at 2 AM while you are in Toronto, your property manager sends a plumber immediately and handles the whole thing. Without one, you are hoping a neighbor can help or watching the damage escalate from thousands of miles away.
 
@@ -43,7 +43,7 @@ Property managers handle monthly rent collection from long-term tenants, or mana
 Standard services include:
 - Monthly rent collection and deposit
 - Utility bill payments (water, electricity, internet)
-- Property tax payments (IBI — Impuesto Único Sobre Bienes Inmuebles)
+- Property tax payments (IBI. Impuesto Único Sobre Bienes Inmuebles)
 - Annual income reporting for tax purposes
 - Budget tracking for repairs and improvements
 
@@ -52,7 +52,7 @@ Standard services include:
 Guatemala has specific requirements for foreign property owners. Your property manager ensures compliance with:
 
 - **Rental contracts.** Written leases that comply with Guatemalan civil code and clearly spell out terms, deposits, and responsibilities.
-- **Tax registration.** Registering rental income with the SAT (Superintendencia de Administración Tributaria) — required for both short-term and long-term rentals.
+- **Tax registration.** Registering rental income with the SAT (Superintendencia de Administración Tributaria), required for both short-term and long-term rentals.
 - **Property tax payments.** The annual IBI tax is calculated based on the registered value of your property. Late payments accrue interest and penalties.
 - **HOA fees.** Many Antigua condo complexes and gated communities have monthly maintenance fees. The manager ensures these are paid on time.
 - **Tourism license.** If you rent short-term, Antigua Municipality requires a tourism operating license. Your manager handles the application and renewal.
@@ -64,7 +64,7 @@ If you own a vacation rental in Antigua, property management extends well beyond
 - **Booking management.** Calendar sync across Airbnb, Booking.com, and direct bookings
 - **Dynamic pricing.** Adjusting nightly rates based on season, local events (Semana Santa, All Saints' Day), and occupancy
 - **Check-in/check-out.** A local representative meets guests, hands over keys, and provides a property orientation
-- **Cleaning and turnover.** Coordinating between guest stays — linens, deep cleaning, restocking essentials
+- **Cleaning and turnover.** Coordinating between guest stays, linens, deep cleaning, restocking essentials
 - **Guest communication.** Answering questions, handling issues, coordinating late arrivals
 - **Reviews and reputation.** Monitoring and responding to guest reviews
 
@@ -123,15 +123,15 @@ Confirm the property manager carries liability insurance and is bonded. This pro
 
 Before you sign a property management agreement, have these ready:
 
-1. **A current property condition report** — photos and notes on every room, the roof, walls, and garden
-2. **Copies of your escritura (deed)** — the property title showing your legal ownership
-3. **Your Guatemalan bank account** — or international wire instructions for rent deposits
-4. **A power of attorney (if wanted)** — some owners grant limited POA for signing contracts and renewing licenses
-5. **Your visa status** — property managers need to know if you hold temporary/permanent residency or a tourist visa (this affects tax treatment)
+1. **A current property condition report**, photos and notes on every room, the roof, walls, and garden
+2. **Copies of your escritura (deed)**, the property title showing your legal ownership
+3. **Your Guatemalan bank account**, or international wire instructions for rent deposits
+4. **A power of attorney (if wanted)**, some owners grant limited POA for signing contracts and renewing licenses
+5. **Your visa status**, property managers need to know if you hold temporary/permanent residency or a tourist visa (this affects tax treatment)
 
 ## The Bottom Line
 
-Property management in Antigua Guatemala is not an optional expense — it is a core component of successful foreign property ownership. Whether you own a vacation rental near the Parque Central or a colonial villa in San Pedro, a professional manager ensures your investment is protected, your tenants are happy, and your income is consistent.
+Property management in Antigua Guatemala is not an optional expense, it is a core component of successful foreign property ownership. Whether you own a vacation rental near the Parque Central or a colonial villa in San Pedro, a professional manager ensures your investment is protected, your tenants are happy, and your income is consistent.
 
 The cost typically runs 8 to 20 percent of rental revenue, depending on the level of service. That is a small price for 24/7 coverage, local expertise, and the peace of mind that comes from knowing someone is watching your property while you are away.
 

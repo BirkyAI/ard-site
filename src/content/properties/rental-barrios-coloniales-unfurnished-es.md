@@ -1,5 +1,5 @@
 ---
-title: "Casa de 3 Hab. Sin Amueblar en Comunidad Cerrada — San Pedro Las Huertas"
+title: "Casa de 3 Hab. Sin Amueblar en Comunidad Cerrada. San Pedro Las Huertas"
 location: "San Pedro Las Huertas, Condominio Barrios Coloniales"
 price: 900
 priceLabel: "$900/mes"
@@ -43,33 +43,33 @@ gallery:
 
 ## Acerca de Esta Renta
 
-Una excelente casa sin amueblar de 3 recámaras disponible en **Condominio Barrios Coloniales**, una comunidad cerrada y segura en San Pedro Las Huertas — a solo 10 minutos de Antigua Guatemala. Ubicada a solo dos puertas de nuestra renta de 4 recámaras en la misma comunidad, esta es una opción excelente si prefieres un espacio más pequeño para traer tu propia mobiliario y hacerlo verdaderamente tuyo.
+Una excelente casa sin amueblar de 3 recámaras disponible en **Condominio Barrios Coloniales**, una comunidad cerrada y segura en San Pedro Las Huertas, a solo 10 minutos de Antigua Guatemala. Ubicada a solo dos puertas de nuestra renta de 4 recámaras en la misma comunidad, esta es una opción excelente si prefieres un espacio más pequeño para traer tu propia mobiliario y hacerlo verdaderamente tuyo.
 
 ### Lo Que Incluye
 
-- 🏡 **3 recámaras, 2 baños** — distribución cómoda para una familia pequeña o pareja
+- 🏡 **3 recámaras, 2 baños**, distribución cómoda para una familia pequeña o pareja
 - 🚗 **1 estacionamiento** para auto + espacio extra para motocicletas
-- 🍳 **Cocina equipada con estufa y horno** — solo trae tu propio refrigerador
+- 🍳 **Cocina equipada con estufa y horno**, solo trae tu propio refrigerador
 - 👗 **Vestidor** en la recámara principal *(instalación en proceso)*
 - 💦 **Lavadora** en el patio
 - 🚿 **Agua caliente** en toda la casa + sistema de filtración de agua
-- 🌿 **Patio privado** — perfecto para tu propio jardincito
+- 🌿 **Patio privado**, perfecto para tu propio jardincito
 - 🌇 **Terraza en azotea** con impresionantes vistas amplias del Volcán de Agua
 - 🔒 **Comunidad cerrada segura** con control de acceso 24/7
 - 🏊 **Amenidades del condominio:** alberca, jacuzzi, área de BBQ, área de juegos
-- 📍 **Cerca del centro comercial Santa Clara** — supermercado La Torre, bancos, restaurantes, MegaPaca
+- 📍 **Cerca del centro comercial Santa Clara**, supermercado La Torre, bancos, restaurantes, MegaPaca
 
 ### Términos del Contrato
 
 - 📝 Contrato de 1 año con opción de extensión
-- 🏷️ **$900/mes** — incluye cuota de mantenimiento del condominio
+- 🏷️ **$900/mes**, incluye cuota de mantenimiento del condominio
 - 💵 Se requiere un mes de depósito de renta
 
 ### ¿Por Qué San Pedro Las Huertas?
 
-San Pedro Las Huertas es uno de esos lugares que los locales adoran — más tranquilo que Antigua, menor costo de vida, pero lo suficientemente cerca de todo. Obtienes la paz de una comunidad residencial con fácil acceso a los restaurantes, tiendas y vida nocturna de Antigua. La comunidad cerrada ofrece seguridad y amenidades que las rentas independientes en Antigua no pueden igualar.
+San Pedro Las Huertas es uno de esos lugares que los locales adoran, más tranquilo que Antigua, menor costo de vida, pero lo suficientemente cerca de todo. Obtienes la paz de una comunidad residencial con fácil acceso a los restaurantes, tiendas y vida nocturna de Antigua. La comunidad cerrada ofrece seguridad y amenidades que las rentas independientes en Antigua no pueden igualar.
 
 ### Contacto
 
-📩 **Luna Jerney** — +502 3571 6181
+📩 **Luna Jerney**, +502 3571 6181
 ¿Preguntas o agendar una visita? ¡WhatsApp o llama cuando quieras!

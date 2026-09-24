@@ -1,6 +1,6 @@
 ---
-title: "Casa Coi — Mini Casa Ecológica, El Hato"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Casa Coi. Mini Casa Ecológica, El Hato"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/mes"
 beds: 1
@@ -41,18 +41,18 @@ gallery:
 
 **Casa Coi** es una encantadora mini casa ecológica ubicada entre los árboles dentro de la exclusiva **Finca El Tambor** en El Hato. Nombrada por su hermoso estanque de koi, este refugio único ofrece una experiencia inmersiva de vida en el bosque con impresionantes vistas al volcán directamente desde tu terraza privada elevada.
 
-La cabaña cuenta con un interior acogedor con cocina totalmente equipada y baño privado. Afuera, una terraza privada elevada con comedor al aire libre se extiende alrededor del costado y la parte trasera de la cabaña, conectando a un área privada de chimenea y el emblemático estanque de koi — ¡puedes alimentar a los peces!
+La cabaña cuenta con un interior acogedor con cocina totalmente equipada y baño privado. Afuera, una terraza privada elevada con comedor al aire libre se extiende alrededor del costado y la parte trasera de la cabaña, conectando a un área privada de chimenea y el emblemático estanque de koi, ¡puedes alimentar a los peces!
 
 ### Lo Que Incluye
 
 - 🏡 **30 m²** de diseño acogedor de casa ecológica entre los árboles
 - 🌋 **Impresionantes vistas al volcán** justo frente a la casa
 - 🎋 **Terraza privada elevada** con comedor al aire libre y vistas panorámicas al bosque
-- 🐟 **Estanque privado de koi** — ¡alimenta a los peces! (El nombre de la cabaña)
-- 🔥 **Área privada de chimenea** — perfecta para tardes frescas de montaña
-- 🌿 **Entorno inmersivo de bosque** — rodeado de naturaleza por todos lados
-- 🍳 **Cocina totalmente equipada** — electrodomésticos y utensilios modernos
-- 🏠 **Completamente amueblado** — listo para mudarse
+- 🐟 **Estanque privado de koi**, ¡alimenta a los peces! (El nombre de la cabaña)
+- 🔥 **Área privada de chimenea**, perfecta para tardes frescas de montaña
+- 🌿 **Entorno inmersivo de bosque**, rodeado de naturaleza por todos lados
+- 🍳 **Cocina totalmente equipada**, electrodomésticos y utensilios modernos
+- 🏠 **Completamente amueblado**, listo para mudarse
 - 🛁 **Baño privado**
 - 🌲 **Terraza que se extiende** alrededor del costado y parte trasera de la cabaña
 
@@ -79,5 +79,5 @@ El Hato es un tranquilo pueblo montañoso justo sobre Antigua Guatemala, conocid
 
 ### Contacto
 
-📩 **Luna Jerney** — +502 3571 6181
+📩 **Luna Jerney**, +502 3571 6181
 ¿Preguntas o agendar una visita? ¡WhatsApp o llame en cualquier momento!

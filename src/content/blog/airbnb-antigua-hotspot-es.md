@@ -30,6 +30,6 @@ Basado en propiedades reales en Antigua:
 
 ## Las mejores zonas para Airbnb
 
-1. **Antigua Centro** — Mayor demanda, tarifas premium
-2. **Paseo del Obispo** — Tranquilo, popular entre familias
-3. **San Miguel Dueñas** — Zona en crecimiento, mejor relación calidad-precio
+1. **Antigua Centro**. Mayor demanda, tarifas premium
+2. **Paseo del Obispo**. Tranquilo, popular entre familias
+3. **San Miguel Dueñas**. Zona en crecimiento, mejor relación calidad-precio

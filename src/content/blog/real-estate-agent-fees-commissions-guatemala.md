@@ -9,7 +9,7 @@ date: 2026-09-15
 
 One of the first questions foreign buyers ask us is: *"How much do real estate agents charge in Guatemala?"* It is a fair question, because the answer is genuinely different from what you are used to in the United States, Canada, or Europe.
 
-In Guatemala there is no single set commission rate, and — here is the part that surprises most buyers — **the buyer often pays their own agent directly.** Understanding how fees work before you start looking can save you thousands of dollars and a lot of confusion.
+In Guatemala there is no single set commission rate, and, here is the part that surprises most buyers. **the buyer often pays their own agent directly.** Understanding how fees work before you start looking can save you thousands of dollars and a lot of confusion.
 
 ## How Real Estate Commissions Work in Guatemala
 
@@ -17,11 +17,11 @@ Commission structures in Guatemala fall into two common models, and which one ap
 
 ### Model A: The seller pays both agents
 
-This is the model most similar to what you know from North America. The seller agrees to pay a total commission — usually split between the listing agent and the buyer's agent — out of the sale proceeds. In this case, the buyer does not pay their agent directly.
+This is the model most similar to what you know from North America. The seller agrees to pay a total commission, usually split between the listing agent and the buyer's agent, out of the sale proceeds. In this case, the buyer does not pay their agent directly.
 
 ### Model B: The buyer pays their own agent
 
-This is common in Guatemala and is the model that trips up many first-time buyers. When you work with a buyer's agent, that agent may charge you a fee directly — typically **3% to 5% of the purchase price** — separate from whatever the seller pays the listing agent. Sometimes this fee is a flat amount agreed in advance rather than a percentage.
+This is common in Guatemala and is the model that trips up many first-time buyers. When you work with a buyer's agent, that agent may charge you a fee directly, typically **3% to 5% of the purchase price**, separate from whatever the seller pays the listing agent. Sometimes this fee is a flat amount agreed in advance rather than a percentage.
 
 This is why the single most important piece of advice is: **ask about the buyer's agent fee before you sign anything, and get it in writing.** In Guatemala a verbal agreement is not enough. If you assume your agent is "free," you may be surprised by a 4% charge at closing that you never budgeted for.
 
@@ -51,21 +51,21 @@ Together these costs routinely add **5% to 8% on top of the purchase price**, be
 
 Because the market is lightly regulated, a few warning signs deserve your attention:
 
-- **Agents who refuse to put fees in writing** — walk away
-- **Dual agency disclosed late** — one agent representing both you and the seller should tell you clearly, and you should understand the conflict
-- **Vague talk of "standard" percentages** — there is no legal standard, so push for a concrete number
-- **Pressure to move fast on an "exclusive deal"** — take the time to get a second opinion
+- **Agents who refuse to put fees in writing**, walk away
+- **Dual agency disclosed late**, one agent representing both you and the seller should tell you clearly, and you should understand the conflict
+- **Vague talk of "standard" percentages**, there is no legal standard, so push for a concrete number
+- **Pressure to move fast on an "exclusive deal"**, take the time to get a second opinion
 
 For a full list of qualities to look for, see our guide to [finding a trusted real estate agent in Antigua Guatemala](https://antiguarealestatedevelopment.com/blog/trusted-real-estate-agent-antigua-guatemala/).
 
 ## How to Keep Fees Fair
 
-The best way to avoid paying more than you should is to go in prepared. Ask every agent you interview for a written fee schedule. Clarify who pays the buyer's agent before you tour a single property. And remember that the property transfer taxes and notary fees are separate from the commission — plan for both.
+The best way to avoid paying more than you should is to go in prepared. Ask every agent you interview for a written fee schedule. Clarify who pays the buyer's agent before you tour a single property. And remember that the property transfer taxes and notary fees are separate from the commission, plan for both.
 
 It also helps to understand how [property taxes are structured in Guatemala](https://antiguarealestatedevelopment.com/blog/guatemala-property-taxes-foreigners/), so your budget is realistic for the years after you buy, not just the day of closing.
 
 ## Ready to Buy in Antigua Guatemala?
 
-Buying property here is a rewarding investment when you understand the full cost picture upfront. Our team can walk you through agent fees, closing costs, and the entire purchase process — in English or Spanish.
+Buying property here is a rewarding investment when you understand the full cost picture upfront. Our team can walk you through agent fees, closing costs, and the entire purchase process, in English or Spanish.
 
 [Browse our property listings](https://antiguarealestatedevelopment.com/properties/) or [contact us](https://antiguarealestatedevelopment.com/contact/) to start your search with clarity and no surprises.

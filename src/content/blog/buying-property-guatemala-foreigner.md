@@ -1,7 +1,7 @@
 ---
 title: "Buying Property in Guatemala as a Foreigner"
 tag: "Legal"
-excerpt: "Everything foreigners need to know about buying property in Guatemala — legal steps, restrictions, costs, and expert tips for a safe purchase."
+excerpt: "Everything foreigners need to know about buying property in Guatemala, legal steps, restrictions, costs, and expert tips for a safe purchase."
 image: "/images/blog/ai-generated/buying-property-guatemala-foreigner.jpg"
 alt: "Colonial homes with colorful facades in Antigua Guatemala available for foreign buyers"
 date: 2026-06-15
@@ -9,7 +9,7 @@ date: 2026-06-15
 
 ## Can Foreigners Buy Property in Guatemala?
 
-Yes — foreigners can buy property in Guatemala with virtually no restrictions. Unlike many Latin American countries that limit foreign ownership near coastlines or borders, Guatemala allows non-citizens to purchase residential and commercial real estate anywhere in the country, including Antigua Guatemala. The process is straightforward but requires careful due diligence, the right legal representation, and an understanding of local property law.
+Yes, foreigners can buy property in Guatemala with virtually no restrictions. Unlike many Latin American countries that limit foreign ownership near coastlines or borders, Guatemala allows non-citizens to purchase residential and commercial real estate anywhere in the country, including Antigua Guatemala. The process is straightforward but requires careful due diligence, the right legal representation, and an understanding of local property law.
 
 This guide walks you through every step of buying property in Guatemala as a foreigner, from initial research to receiving your deed.
 
@@ -17,7 +17,7 @@ This guide walks you through every step of buying property in Guatemala as a for
 
 Guatemala's real estate market has attracted growing international attention over the past several years. Here's why:
 
-- **Affordable entry point:** Colonial homes in Antigua Guatemala range from $80,000 to $500,000 — a fraction of comparable UNESCO World Heritage properties in Europe or Mexico.
+- **Affordable entry point:** Colonial homes in Antigua Guatemala range from $80,000 to $500,000, a fraction of comparable UNESCO World Heritage properties in Europe or Mexico.
 - **No foreign ownership restrictions:** You can own property outright in your own name, just like a Guatemalan citizen.
 - **Strong rental market:** Antigua's tourism-driven economy supports short-term rental yields of 8–15% annually.
 - **Low property taxes:** Annual property taxes in Guatemala typically run 0.5–1% of the registered value, among the lowest in the Americas.
@@ -29,7 +29,7 @@ Guatemala operates under a civil law system. Property ownership is governed by t
 
 ### Fee Simple Ownership
 
-When you buy property in Guatemala, you receive fee simple title — full, transferable ownership. There are no leasehold arrangements or special categories for foreign buyers. Your ownership rights are identical to those of a Guatemalan national.
+When you buy property in Guatemala, you receive fee simple title, full, transferable ownership. There are no leasehold arrangements or special categories for foreign buyers. Your ownership rights are identical to those of a Guatemalan national.
 
 ### The Property Registry (Registro de la Propiedad)
 
@@ -46,7 +46,7 @@ The one exception to unrestricted ownership applies to coastal properties. Withi
 You do not need residency to buy property in Guatemala. However, you will need:
 
 - A valid passport
-- A Guatemalan tax identification number (NIT — Número de Identificación Tributaria). Your attorney can obtain this for you in a single day at the SAT (tax authority) office.
+- A Guatemalan tax identification number (NIT. Número de Identificación Tributaria). Your attorney can obtain this for you in a single day at the SAT (tax authority) office.
 - A local attorney who specializes in real estate transactions
 
 ### Step 2: Hire a Reputable Real Estate Attorney
@@ -113,11 +113,11 @@ Here's a realistic breakdown for a foreign buyer:
 | Registration fees | $50 – $200 |
 | **Total closing costs** | **~4–5% of purchase price** |
 
-Annual property taxes are remarkably low — often $200–$800 per year for a standard home in Antigua.
+Annual property taxes are remarkably low, often $200–$800 per year for a standard home in Antigua.
 
 ## Common Mistakes Foreign Buyers Make
 
-**Skipping the attorney.** Guatemala's property system works differently than in the US, Canada, or Europe. A local attorney is not optional — they're essential.
+**Skipping the attorney.** Guatemala's property system works differently than in the US, Canada, or Europe. A local attorney is not optional, they're essential.
 
 **Relying on the seller's information.** Always conduct independent title searches and surveys. Don't take the seller's word on boundaries, liens, or tax status.
 
@@ -156,7 +156,7 @@ The original colonial capital sits just south of Antigua with a relaxed pace and
 
 ## Tax Implications for Foreign Property Owners
 
-Guatemala taxes property based on registered value, not market value. Annual predial (property tax) is typically 0.5–1% of the registered value. There is no capital gains tax withholding for foreigners — gains are taxed as regular income at a flat rate. Consult with a tax professional in both Guatemala and your home country to optimize your tax position.
+Guatemala taxes property based on registered value, not market value. Annual predial (property tax) is typically 0.5–1% of the registered value. There is no capital gains tax withholding for foreigners, gains are taxed as regular income at a flat rate. Consult with a tax professional in both Guatemala and your home country to optimize your tax position.
 
 Rental income earned in Guatemala is subject to local income tax. If you're operating a short-term rental, you'll also need to register with the SAT and collect applicable taxes from guests.
 

@@ -10,7 +10,7 @@ lang: "en"
 
 Furnishing a home in Antigua Guatemala costs between $3,000 and $6,000 for a basic two-bedroom setup, $8,000 to $15,000 for a comfortable mid-range home, and $20,000 to $40,000 or more if you want custom colonial-style pieces and imported furniture. A three-bedroom colonial home typically lands in the $10,000 to $18,000 range when furnished from scratch with a mix of local and custom pieces.
 
-If you have just bought a property here — or are about to — one of the first questions is how much it takes to make the house feel like home. The good news is that Antigua has a deep pool of local craftsmen, competitive furniture markets, and prices well below what you would pay in North America or Europe. Here is what it actually costs, room by room, plus where to buy and how to save.
+If you have just bought a property here, or are about to, one of the first questions is how much it takes to make the house feel like home. The good news is that Antigua has a deep pool of local craftsmen, competitive furniture markets, and prices well below what you would pay in North America or Europe. Here is what it actually costs, room by room, plus where to buy and how to save.
 
 ## Furnishing Cost by Budget Level
 
@@ -44,7 +44,7 @@ A full mid-range furnish of a two-bedroom home lands around $8,000 to $12,000. A
 
 ### Local Furniture Stores
 
-Antigua and nearby Jocotenango have several furniture stores selling solid wood and colonial-style pieces. Prices are reasonable, and delivery is usually included within the Antigua area. This is the fastest way to furnish a home — most stores carry stock and can deliver within a week.
+Antigua and nearby Jocotenango have several furniture stores selling solid wood and colonial-style pieces. Prices are reasonable, and delivery is usually included within the Antigua area. This is the fastest way to furnish a home, most stores carry stock and can deliver within a week.
 
 ### Custom Work from Local Carpenters
 
@@ -56,15 +56,15 @@ For appliances and modern furniture, most people make the 45-minute trip to Guat
 
 ### Importing and Shipping
 
-You can ship furniture from the US, but a 20-foot container typically costs $3,000 to $6,000 plus customs clearance — which only makes sense if you are moving a full household. If you hold Guatemalan residency, the one-time **menaje de casa** exemption allows you to import your household goods duty-free. Read our guide on [importing household goods into Guatemala](/blog/importing-household-goods-guatemala/) for the full process.
+You can ship furniture from the US, but a 20-foot container typically costs $3,000 to $6,000 plus customs clearance, which only makes sense if you are moving a full household. If you hold Guatemalan residency, the one-time **menaje de casa** exemption allows you to import your household goods duty-free. Read our guide on [importing household goods into Guatemala](/blog/importing-household-goods-guatemala/) for the full process.
 
 ## Furnishing a Colonial Home: What Matters
 
-Colonial homes in Antigua have thick walls, high ceilings, and interior courtyards — features that change how you furnish them.
+Colonial homes in Antigua have thick walls, high ceilings, and interior courtyards, features that change how you furnish them.
 
 - **Scale matters.** High ceilings and large rooms swallow small furniture. Choose larger pieces than you would in a modern apartment.
 - **Wood and natural materials work best.** Solid wood, wrought iron, and natural textiles suit colonial architecture far better than sleek modern pieces.
-- **The courtyard is a room.** Most colonial homes have an interior courtyard that deserves a seating area, plants, and lighting. Budget $400 to $1,500 for this space — it is where you will spend the most time.
+- **The courtyard is a room.** Most colonial homes have an interior courtyard that deserves a seating area, plants, and lighting. Budget $400 to $1,500 for this space, it is where you will spend the most time.
 - **Custom doors and windows.** If your home needs them, having them made locally is far cheaper than importing and ensures they match the heritage style required in Antigua's protected zone.
 
 If you are still choosing a property, our guide to [colonial homes in Antigua Guatemala](/blog/colonial-homes-antigua-guatemala-restoration/) covers what to look for before you buy.
@@ -79,7 +79,7 @@ If you are still choosing a property, our guide to [colonial homes in Antigua Gu
 
 ## How Long Does It Take to Furnish a Home?
 
-A functional home can be furnished in one to two weeks if you buy from local stock. A fully custom home — with made-to-order furniture and imported appliances — takes one to three months. Plan for a phased approach: essentials first, custom pieces as they are completed.
+A functional home can be furnished in one to two weeks if you buy from local stock. A fully custom home, with made-to-order furniture and imported appliances, takes one to three months. Plan for a phased approach: essentials first, custom pieces as they are completed.
 
 ## Planning Your Move to Antigua?
 

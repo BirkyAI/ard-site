@@ -1,7 +1,7 @@
 ---
 title: "Guatemala Banking for Expats: 2026 Guide"
 tag: "Relocation"
-excerpt: "Opening a bank account, wiring money, and managing finances in Guatemala — what every expat needs to know before making the move."
+excerpt: "Opening a bank account, wiring money, and managing finances in Guatemala, what every expat needs to know before making the move."
 image: "/images/blog/ai-generated/guatemala-banking-for-expats.jpg"
 alt: "ATM and banking services in Guatemala for international expats"
 date: 2026-06-16
@@ -11,15 +11,15 @@ Moving to Antigua Guatemala means embracing cobblestone streets, volcano views, 
 
 ## Can Foreigners Open a Bank Account in Guatemala?
 
-Yes — foreigners can open bank accounts in Guatemala, but it requires patience and the right documents. Unlike some countries where you walk in with a passport and walk out with an account, Guatemalan banks have stricter requirements due to international anti-money-laundering regulations.
+Yes, foreigners can open bank accounts in Guatemala, but it requires patience and the right documents. Unlike some countries where you walk in with a passport and walk out with an account, Guatemalan banks have stricter requirements due to international anti-money-laundering regulations.
 
 Most banks require:
 
 - **Valid passport** with at least six months remaining
-- **Proof of income** — recent pay stubs, tax returns, or pension statements
-- **A local reference** — this is the tricky part. Some banks want a Guatemalan citizen or permanent resident to vouch for you
-- **Proof of address** — a utility bill or rental contract in your name
-- **Minimum deposit** — varies by bank, typically Q1,000–Q5,000 ($130–$650 USD)
+- **Proof of income**, recent pay stubs, tax returns, or pension statements
+- **A local reference**, this is the tricky part. Some banks want a Guatemalan citizen or permanent resident to vouch for you
+- **Proof of address**, a utility bill or rental contract in your name
+- **Minimum deposit**, varies by bank, typically Q1,000–Q5,000 ($130–$650 USD)
 
 The process usually takes one to three weeks, not the same-day experience you might expect. Banks like **Banrural**, **BAC Credomatic**, and **G&T Continental** tend to be more foreigner-friendly than others.
 
@@ -63,7 +63,7 @@ This is where expats have the biggest adjustment. Guatemala is still heavily cas
 
 **Where you need cash:** Local markets (mercados), street food vendors, tuk-tuks, smaller tiendas, most services like plumbers and electricians, and many local landlords who prefer cash rent payments.
 
-**ATM strategy:** Withdraw quetzales from ATMs in denominations of Q100 or Q200. Having small bills (Q20, Q50) is essential — breaking a Q200 note at a small shop can be surprisingly difficult. Banrural and BAC ATMs in Antigua's central park area are the most reliable.
+**ATM strategy:** Withdraw quetzales from ATMs in denominations of Q100 or Q200. Having small bills (Q20, Q50) is essential, breaking a Q200 note at a small shop can be surprisingly difficult. Banrural and BAC ATMs in Antigua's central park area are the most reliable.
 
 **Daily withdrawal limits:** Most Guatemalan bank accounts cap daily ATM withdrawals at Q5,000–Q10,000 ($650–$1,300 USD). If you need more, you'll have to visit a branch in person.
 
@@ -72,11 +72,11 @@ This is where expats have the biggest adjustment. Guatemala is still heavily cas
 The Guatemalan quetzal (GTQ) has been relatively stable against the US dollar in recent years. As of mid-2026, the rate hovers around **Q7.63 per $1 USD**.
 
 **Where to exchange money:**
-- **Banks** — safest, but not always the best rates
-- **Casas de cambio** (exchange houses) — competitive rates in Antigua's center, but compare a few before committing
-- **ATMs** — your bank's rate is usually reasonable, though it includes their markup
+- **Banks**, safest, but not always the best rates
+- **Casas de cambio** (exchange houses), competitive rates in Antigua's center, but compare a few before committing
+- **ATMs**, your bank's rate is usually reasonable, though it includes their markup
 
-**What to avoid:** Airport exchange counters (terrible rates), street money changers (risk of counterfeit bills), and exchanging large amounts all at once if you don't need to — the rate can shift.
+**What to avoid:** Airport exchange counters (terrible rates), street money changers (risk of counterfeit bills), and exchanging large amounts all at once if you don't need to, the rate can shift.
 
 ## Tax Obligations for Expats in Guatemala
 
@@ -111,7 +111,7 @@ Most expats find that within the first few months, they develop a rhythm: foreig
 
 ## Getting Help With Your Finances in Antigua
 
-Navigating a new banking system is one of the many practical challenges of relocating to Antigua Guatemala. At Antigua Real Estate Development, Luna Jerney and her team help expats not only find their dream colonial home or investment property but also connect them with trusted local contacts — from bilingual accountants to bank branch managers who understand expat needs.
+Navigating a new banking system is one of the many practical challenges of relocating to Antigua Guatemala. At Antigua Real Estate Development, Luna Jerney and her team help expats not only find their dream colonial home or investment property but also connect them with trusted local contacts, from bilingual accountants to bank branch managers who understand expat needs.
 
 Whether you're eyeing a restored colonial in the city center, a volcano-view lot in San Mateo Milpas Altas, or a furnished rental while you get settled, having local guidance makes all the difference.
 

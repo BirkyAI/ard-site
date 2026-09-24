@@ -20,19 +20,19 @@ El denominador común: la mayoría de los propietarios no viven en Antigua todo 
 
 Esto crea un problema práctico. Una casa colonial construida en el 1700 requiere mantenimiento regular. Los inquilinos necesitan verificación. Las reparaciones requieren supervisión. Las facturas de servicios deben pagarse. Y la ley de propiedad guatemalteca tiene requisitos específicos que toman por sorpresa a los propietarios extranjeros.
 
-Una buena empresa de administración de propiedades cierra esa brecha. Por una tarifa mensual — típicamente del 8 al 12 por ciento del ingreso por alquiler — se convierten en sus ojos y oídos sobre el terreno.
+Una buena empresa de administración de propiedades cierra esa brecha. Por una tarifa mensual, típicamente del 8 al 12 por ciento del ingreso por alquiler, se convierten en sus ojos y oídos sobre el terreno.
 
 ## Qué Cubren los Servicios de Administración de Propiedades en Antigua
 
 ### Selección y Colocación de Inquilinos
 
-Encontrar inquilinos confiables en Antigua requiere conocimiento local. Los administradores mantienen listas de inquilinos a largo plazo verificados — a menudo profesionales expatriados que trabajan para ONG, escuelas internacionales o empresas remotas — y de inquilinos de vacaciones a corto plazo a través de plataformas como Airbnb y Booking.com.
+Encontrar inquilinos confiables en Antigua requiere conocimiento local. Los administradores mantienen listas de inquilinos a largo plazo verificados, a menudo profesionales expatriados que trabajan para ONG, escuelas internacionales o empresas remotas, y de inquilinos de vacaciones a corto plazo a través de plataformas como Airbnb y Booking.com.
 
 Los buenos administradores realizan verificaciones de antecedentes, confirman el empleo y revisan referencias. También saben qué barrios atraen a qué tipo de inquilino. Una propiedad en Calle del Arco podría funcionar bien para alquiler vacacional, mientras que una casa más grande en Panchoy se adapta a una familia diplomática con contrato de dos años.
 
 ### Mantenimiento y Reparaciones
 
-Las casas coloniales en Antigua son hermosas y exigentes. Los muros de piedra volcánica y los techos de terracota requieren mantenimiento regular. La fontanería en propiedades históricas necesita atención especializada. Un administrador coordina todo esto con contratistas locales de confianza — plomeros, electricistas, albañiles, jardineros y pintores — que ya conocen las peculiaridades de las propiedades históricas de Antigua.
+Las casas coloniales en Antigua son hermosas y exigentes. Los muros de piedra volcánica y los techos de terracota requieren mantenimiento regular. La fontanería en propiedades históricas necesita atención especializada. Un administrador coordina todo esto con contratistas locales de confianza, plomeros, electricistas, albañiles, jardineros y pintores, que ya conocen las peculiaridades de las propiedades históricas de Antigua.
 
 Esto es más importante para las reparaciones de emergencia. Si una tubería de agua se rompe a las 2 AM mientras usted está en Toronto, su administrador envía un plomero de inmediato y maneja todo el proceso. Sin uno, espera que un vecino pueda ayudar o observa cómo el daño empeora desde miles de kilómetros de distancia.
 
@@ -52,7 +52,7 @@ Los servicios estándar incluyen:
 Guatemala tiene requisitos específicos para propietarios extranjeros. Su administrador asegura el cumplimiento de:
 
 - **Contratos de arrendamiento.** Contratos escritos que cumplen con el código civil guatemalteco y detallan claramente los términos, depósitos y responsabilidades.
-- **Registro fiscal.** Registro de ingresos por alquiler ante la SAT (Superintendencia de Administración Tributaria) — requerido tanto para alquileres a corto como a largo plazo.
+- **Registro fiscal.** Registro de ingresos por alquiler ante la SAT (Superintendencia de Administración Tributaria), requerido tanto para alquileres a corto como a largo plazo.
 - **Pago del IBI.** El impuesto anual se calcula sobre el valor registrado de su propiedad. Los pagos atrasados acumulan intereses y multas.
 - **Cuotas de mantenimiento.** Muchos condominios y comunidades cerradas en Antigua tienen cuotas mensuales. El administrador asegura que se paguen a tiempo.
 - **Licencia turística.** Si alquila a corto plazo, la Municipalidad de Antigua requiere una licencia de operación turística. Su administrador gestiona la solicitud y renovación.
@@ -64,7 +64,7 @@ Si posee una propiedad vacacional en Antigua, la administración va más allá d
 - **Gestión de reservas.** Sincronización de calendarios entre Airbnb, Booking.com y reservas directas
 - **Precios dinámicos.** Ajuste de tarifas según temporada, eventos locales (Semana Santa, Día de Todos los Santos) y ocupación
 - **Check-in/check-out.** Un representante local recibe a los huéspedes, entrega llaves y ofrece una orientación de la propiedad
-- **Limpieza y rotación.** Coordinación entre estancias — ropa de cama, limpieza profunda, reposición de artículos esenciales
+- **Limpieza y rotación.** Coordinación entre estancias, ropa de cama, limpieza profunda, reposición de artículos esenciales
 - **Comunicación con huéspedes.** Respuesta a preguntas, gestión de problemas, coordinación de llegadas tardías
 - **Reseñas y reputación.** Monitoreo y respuesta a reseñas de huéspedes
 
@@ -105,6 +105,6 @@ Un buen administrador envía informes mensuales con fotos, recibos de cada gasto
 
 ## El Resultado Final
 
-La administración de propiedades en Antigua Guatemala no es un gasto opcional — es un componente central de la propiedad exitosa para extranjeros. Ya sea que posea un alquiler vacacional cerca del Parque Central o una villa colonial en San Pedro, un administrador profesional asegura que su inversión esté protegida, sus inquilinos estén contentos y sus ingresos sean consistentes.
+La administración de propiedades en Antigua Guatemala no es un gasto opcional, es un componente central de la propiedad exitosa para extranjeros. Ya sea que posea un alquiler vacacional cerca del Parque Central o una villa colonial en San Pedro, un administrador profesional asegura que su inversión esté protegida, sus inquilinos estén contentos y sus ingresos sean consistentes.
 
 [Explore las propiedades disponibles en Antigua Guatemala.](/es/properties/) ¿No está seguro de qué tipo de propiedad se adapta a sus necesidades? [Contacte al equipo de ARD para una consulta.](/es/contact/)

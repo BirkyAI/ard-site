@@ -1,6 +1,6 @@
 ---
-title: "Catarata — Romantic Cabin at El Tambor"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Catarata. Romantic Cabin at El Tambor"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/month"
 beds: 1
@@ -38,7 +38,7 @@ gallery:
 
 ## About This Cabin
 
-**Catarata** is a cozy luxury wood-cabin retreat set within the exclusive **Finca El Tambor** in El Hato — a private, secure natural environment above Antigua Guatemala. Designed as a romantic getaway, this cabin combines rustic warmth with modern comforts in an immersive forest setting.
+**Catarata** is a cozy luxury wood-cabin retreat set within the exclusive **Finca El Tambor** in El Hato, a private, secure natural environment above Antigua Guatemala. Designed as a romantic getaway, this cabin combines rustic warmth with modern comforts in an immersive forest setting.
 
 The spacious open-concept layout features a welcoming living area, dining space, a fully equipped kitchen, an en-suite private bathroom, and a private elevated balcony with breathtaking volcano views surrounded by lush forest.
 
@@ -46,12 +46,12 @@ The spacious open-concept layout features a welcoming living area, dining space,
 
 - 🏡 **80 m²** spacious open-concept wood-cabin layout
 - 🌋 **Volcano views** from your private elevated terrace
-- 🌿 **Immersive forest setting** — surrounded by nature
-- 🍳 **Fully equipped kitchen** — modern appliances and cookware
-- 🏠 **Fully furnished** — move-in ready
+- 🌿 **Immersive forest setting**, surrounded by nature
+- 🍳 **Fully equipped kitchen**, modern appliances and cookware
+- 🏠 **Fully furnished**, move-in ready
 - 🛁 **En-suite private bathroom**
-- 🌲 **Private elevated balcony** — perfect for morning coffee or sunset views
-- 🔒 **Secure property** — private grounds with controlled access
+- 🌲 **Private elevated balcony**, perfect for morning coffee or sunset views
+- 🔒 **Secure property**, private grounds with controlled access
 
 ### General Conditions
 
@@ -76,5 +76,5 @@ El Hato is a peaceful mountain village just above Antigua Guatemala, known for i
 
 ### Contact
 
-📩 **Luna Jerney** — +502 3571 6181
-Questions or schedule a viewing — WhatsApp or call anytime!
+📩 **Luna Jerney**, +502 3571 6181
+Questions or schedule a viewing. WhatsApp or call anytime!

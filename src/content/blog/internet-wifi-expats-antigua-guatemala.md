@@ -7,7 +7,7 @@ alt: "Colorful coffee farm landscape in the Antigua Guatemala highlands with vol
 date: 2026-07-10
 ---
 
-Reliable internet is the first thing most expats ask about when considering a move to Antigua Guatemala. The good news: Antigua has solid connectivity for remote work, video calls, and streaming. The reality is a bit more nuanced than just picking a provider — understanding the infrastructure, backup options, and neighborhood differences will save you headaches down the road.
+Reliable internet is the first thing most expats ask about when considering a move to Antigua Guatemala. The good news: Antigua has solid connectivity for remote work, video calls, and streaming. The reality is a bit more nuanced than just picking a provider, understanding the infrastructure, backup options, and neighborhood differences will save you headaches down the road.
 
 ## How Fast Is Internet in Antigua Guatemala?
 
@@ -15,8 +15,8 @@ Residential internet speeds in Antigua typically range from 25 Mbps to 150 Mbps 
 
 The two main providers in the area are:
 
-- **Tigo** — Widely available across Antigua and surrounding towns. Offers fiber and cable plans starting around Q350/month ($45 USD) for 50 Mbps.
-- **Claro** — Another major option with competitive pricing and fiber availability in central Antigua.
+- **Tigo**. Widely available across Antigua and surrounding towns. Offers fiber and cable plans starting around Q350/month ($45 USD) for 50 Mbps.
+- **Claro**. Another major option with competitive pricing and fiber availability in central Antigua.
 
 For most expats working remotely, a 50 Mbps plan handles multiple devices, Zoom calls, and file uploads without issues. If your household has several people streaming or gaming simultaneously, upgrading to 100 Mbps is worth the extra Q100-150/month.
 
@@ -26,7 +26,7 @@ Not all connections are created equal in Antigua. Here is what to expect from ea
 
 ### Fiber Optic
 
-Fiber is the gold standard and is available in much of central Antigua and newer developments. It offers the most consistent speeds and lowest latency — critical for video calls and VPN use. When looking at rental properties or homes to buy, ask specifically whether fiber has been installed at the address. Older colonial homes sometimes only have cable infrastructure.
+Fiber is the gold standard and is available in much of central Antigua and newer developments. It offers the most consistent speeds and lowest latency, critical for video calls and VPN use. When looking at rental properties or homes to buy, ask specifically whether fiber has been installed at the address. Older colonial homes sometimes only have cable infrastructure.
 
 ### Cable Internet
 
@@ -40,7 +40,7 @@ A popular strategy among expats: keep a Tigo or Claro SIM with a generous data p
 
 ## Backup Internet: A Non-Negotiable for Remote Workers
 
-Power outages and internet disruptions happen in Guatemala — not frequently, but often enough that experienced remote workers always have a backup plan. Here is what seasoned expats in Antigua recommend:
+Power outages and internet disruptions happen in Guatemala, not frequently, but often enough that experienced remote workers always have a backup plan. Here is what seasoned expats in Antigua recommend:
 
 1. **Primary:** Home fiber or cable connection (Tigo or Claro)
 2. **Backup 1:** Mobile hotspot with a separate data plan (20-30 GB/month)
@@ -72,7 +72,7 @@ Cable is standard; fiber availability is spotty. If you are considering a proper
 
 ### El Hato and Surrounding Hills
 
-This is where things get more variable. Properties higher up the volcanic slopes may only have access to cable or wireless internet through local providers. Fiber is rare outside of main roads. For El Hato, a mobile hotspot backup is essential — not optional. Some rental properties at Finca El Tambor include internet in the rent, but always test the speed yourself.
+This is where things get more variable. Properties higher up the volcanic slopes may only have access to cable or wireless internet through local providers. Fiber is rare outside of main roads. For El Hato, a mobile hotspot backup is essential, not optional. Some rental properties at Finca El Tambor include internet in the rent, but always test the speed yourself.
 
 ## Working From Cafes and Restaurants
 
@@ -92,25 +92,25 @@ If your work requires a VPN connection to servers in the US or Europe, test it f
 - The VPN provider and protocol (WireGuard tends to be faster than OpenVPN over long distances)
 - Your home router (some ISP-provided routers handle VPN traffic poorly)
 
-Most expats report 15-30% speed reduction when connected through a VPN to US servers. With a 50 Mbps base connection, that still leaves you with 35-40 Mbps — plenty for most work tasks.
+Most expats report 15-30% speed reduction when connected through a VPN to US servers. With a 50 Mbps base connection, that still leaves you with 35-40 Mbps, plenty for most work tasks.
 
 ## Tips for Setting Up Internet After You Arrive
 
 Once you have found your home in Antigua, setting up internet takes 3-7 business days. Here is the typical process:
 
-1. **Visit the provider store** — Tigo and Claro both have offices on the main roads into Antigua. Bring your passport and proof of address (a lease contract works).
-2. **Choose your plan** — Staff generally speak some English, but having a Spanish-speaking friend helps. Plans are month-to-month with no long-term contracts.
-3. **Schedule installation** — A technician will come to your home to set up the modem and run any necessary cabling.
-4. **Test immediately** — Run a speed test before the technician leaves. If the speed does not match what you were promised, ask them to check the connection.
+1. **Visit the provider store**. Tigo and Claro both have offices on the main roads into Antigua. Bring your passport and proof of address (a lease contract works).
+2. **Choose your plan**. Staff generally speak some English, but having a Spanish-speaking friend helps. Plans are month-to-month with no long-term contracts.
+3. **Schedule installation**. A technician will come to your home to set up the modem and run any necessary cabling.
+4. **Test immediately**. Run a speed test before the technician leaves. If the speed does not match what you were promised, ask them to check the connection.
 
 For a smoother experience, ask your real estate agent or property manager to coordinate the internet setup before your move-in date. Luna Jerney and her team at Antigua Real Estate Development regularly help new residents get connected as part of the relocation process.
 
 ## What About Starlink?
 
-Starlink, Elon Musk's satellite internet service, is available in Guatemala and is increasingly popular in rural areas where traditional broadband is limited. In Antigua proper, it is not necessary — terrestrial internet is faster and cheaper. However, if you are looking at rural properties outside of town, Starlink can be a viable primary or backup connection. Equipment costs around $350-500 USD, with monthly service at approximately $50-70 USD.
+Starlink, Elon Musk's satellite internet service, is available in Guatemala and is increasingly popular in rural areas where traditional broadband is limited. In Antigua proper, it is not necessary, terrestrial internet is faster and cheaper. However, if you are looking at rural properties outside of town, Starlink can be a viable primary or backup connection. Equipment costs around $350-500 USD, with monthly service at approximately $50-70 USD.
 
 ## The Bottom Line
 
 Internet in Antigua Guatemala is good enough for full-time remote work. Fiber availability continues to expand, and the two major providers offer competitive plans. The key is to test before you commit, have a backup plan, and choose a neighborhood with proven infrastructure.
 
-**Ready to find your perfect home in Antigua?** [Contact Luna Jerney](https://antiguarealestatedevelopment.com/contact/) at Antigua Real Estate Development to explore properties with verified internet connectivity — whether you are looking to buy or rent.
+**Ready to find your perfect home in Antigua?** [Contact Luna Jerney](https://antiguarealestatedevelopment.com/contact/) at Antigua Real Estate Development to explore properties with verified internet connectivity, whether you are looking to buy or rent.

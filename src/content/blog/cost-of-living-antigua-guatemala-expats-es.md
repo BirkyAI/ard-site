@@ -1,7 +1,7 @@
 ---
 title: "Costo de Vida en Antigua Guatemala (Guía 2026)"
 tag: "Relocation"
-excerpt: "Un desglose detallado de los gastos mensuales en Antigua Guatemala — alquiler, alimentación, salud y más para expatriados y jubilados."
+excerpt: "Un desglose detallado de los gastos mensuales en Antigua Guatemala, alquiler, alimentación, salud y más para expatriados y jubilados."
 image: "/images/blog/ai-generated/cost-of-living-antigua-guatemala-expats.jpg"
 alt: "Cesta de mimbre con víveres frescos junto a una calculadora y monedas sobre una encimera de cocina en Antigua Guatemala"
 date: 2026-06-14
@@ -12,7 +12,7 @@ lang: "es"
 
 Una persona soltera puede vivir cómodamente en Antigua Guatemala por $1,200–$1,800 al mes, mientras que una pareja generalmente gasta $2,000–$2,800. Esto incluye el alquiler de un apartamento amueblado, comestibles, comidas fuera de casa, servicios públicos, salud y entretenimiento. Las familias con niños pueden esperar entre $3,000 y $4,000 mensuales dependiendo de las opciones de educación.
 
-Antigua se posiciona consistentemente como uno de los destinos más accesibles para expatriados en Centroamérica. Disfrutas de calles empedradas, gastronomía de clase mundial, vistas al volcán y una próspera comunidad internacional — todo a una fracción de lo que pagarías en ciudades comparables como San José, Costa Rica, o los barrios populares de Ciudad de México.
+Antigua se posiciona consistentemente como uno de los destinos más accesibles para expatriados en Centroamérica. Disfrutas de calles empedradas, gastronomía de clase mundial, vistas al volcán y una próspera comunidad internacional, todo a una fracción de lo que pagarías en ciudades comparables como San José, Costa Rica, o los barrios populares de Ciudad de México.
 
 Analicemos cada categoría de gasto principal para que puedas planificar tu mudanza con confianza.
 
@@ -112,7 +112,7 @@ La mayoría de los expatriados en el centro caminan a todas partes, ya que Antig
 
 ### Vida Social
 
-Antigua tiene una próspera comunidad de expatriados con reuniones regulares, intercambios de idiomas, noches de trivia y oportunidades de voluntariado. Una noche fuera con bebidas generalmente cuesta $10–$20 por persona. Muchas actividades sociales — grupos de caminata, paseos fotográficos, eventos comunitarios — son gratuitas.
+Antigua tiene una próspera comunidad de expatriados con reuniones regulares, intercambios de idiomas, noches de trivia y oportunidades de voluntariado. Una noche fuera con bebidas generalmente cuesta $10–$20 por persona. Muchas actividades sociales, grupos de caminata, paseos fotográficos, eventos comunitarios, son gratuitas.
 
 ## Presupuestos Mensuales de Ejemplo
 
@@ -161,17 +161,17 @@ Antigua consistentemente resulta un 30–50% más económica que ciudades compar
 
 ## Consejos para Mantener los Costos Bajos
 
-1. **Compra en el mercado** para productos frescos y básicos — los precios son la mitad de los del supermercado.
-2. **Aprende español** — negociarás mejor el alquiler, evitarás el "precio de gringo" y te conectarás con la comunidad.
-3. **Cocina en casa** más seguido — los ingredientes guatemaltecos son frescos, baratos y deliciosos.
-4. **Camina a todas partes** — el centro es compacto y seguro para peatones.
-5. **Alquila antes de comprar** — pasa al menos seis meses conociendo los barrios antes de invertir en propiedad.
-6. **Usa servicios locales** — dentistas, mecánicos y handymans cobran una fracción de los precios de EE.UU.
+1. **Compra en el mercado** para productos frescos y básicos, los precios son la mitad de los del supermercado.
+2. **Aprende español**, negociarás mejor el alquiler, evitarás el "precio de gringo" y te conectarás con la comunidad.
+3. **Cocina en casa** más seguido, los ingredientes guatemaltecos son frescos, baratos y deliciosos.
+4. **Camina a todas partes**, el centro es compacto y seguro para peatones.
+5. **Alquila antes de comprar**, pasa al menos seis meses conociendo los barrios antes de invertir en propiedad.
+6. **Usa servicios locales**, dentistas, mecánicos y handymans cobran una fracción de los precios de EE.UU.
 
 ## ¿Listo para Dar el Salto?
 
 El costo de vida en Antigua Guatemala la convierte en uno de los mejores destinos en relación calidad-precio para expatriados, jubilados y nómadas digitales. Tu dinero rinde más, el estilo de vida es rico y la comunidad es acogedora.
 
-Si estás pensando en hacer de Antigua tu hogar — ya sea alquilando a largo plazo o invirtiendo en propiedad — Luna Jerney en Antigua Real Estate Development puede ayudarte a encontrar el lugar perfecto. Con un profundo conocimiento local y años de experiencia ayudando a compradores internacionales, Luna puede conectarte con una propiedad que se ajuste a tu presupuesto y tus sueños.
+Si estás pensando en hacer de Antigua tu hogar, ya sea alquilando a largo plazo o invirtiendo en propiedad. Luna Jerney en Antigua Real Estate Development puede ayudarte a encontrar el lugar perfecto. Con un profundo conocimiento local y años de experiencia ayudando a compradores internacionales, Luna puede conectarte con una propiedad que se ajuste a tu presupuesto y tus sueños.
 
 **[Contacta a Luna hoy](https://antiguarealestatedevelopment.com/contact)** para iniciar tu camino hacia Antigua Guatemala.

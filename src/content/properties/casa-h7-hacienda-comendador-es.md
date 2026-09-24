@@ -1,5 +1,5 @@
 ---
-title: "Casa H7 — Hogar Colonial, Hacienda Comendador"
+title: "Casa H7. Hogar Colonial, Hacienda Comendador"
 location: "Hacienda del Comendador, San Miguel Dueñas, Sacatepéquez"
 price: 525000
 beds: 3
@@ -7,7 +7,7 @@ baths: 4
 area: "315m² de construcción en lote de 210m²"
 status: "Pre-Venta"
 badge: "Pre-Venta"
-description: "Casa de 3 recámaras estilo colonial moderno en comunidad cerrada cerca de Antigua. 315m² en lote de 210m², vistas a volcanes. Actualmente en obra gris — finalización estimada noviembre 2026."
+description: "Casa de 3 recámaras estilo colonial moderno en comunidad cerrada cerca de Antigua. 315m² en lote de 210m², vistas a volcanes. Actualmente en obra gris, finalización estimada noviembre 2026."
 image: "/images/properties/casa-h7-hacienda-comendador/1.jpg"
 alt: "Casa colonial moderna en venta en Hacienda del Comendador, San Miguel Dueñas cerca de Antigua Guatemala con vistas a volcanes"
 featured: true
@@ -65,7 +65,7 @@ gallery:
 
 ## Acerca de Esta Propiedad
 
-Bienvenido a **Casa H7** en **Hacienda del Comendador** — un impresionante hogar de estilo colonial moderno en una comunidad cerrada exclusiva a solo **16 minutos del Parque Central de Antigua Guatemala**. Actualmente se encuentra en **obra gris**, con finalización estimada para **noviembre de 2026**. El desarrollador, **Andrés Bueso**, terminó un modelo muy similar (V22) a principios de este año — las fotos en este listado son de esa casa terminada para mostrarle la calidad y el estilo que puede esperar.
+Bienvenido a **Casa H7** en **Hacienda del Comendador**, un impresionante hogar de estilo colonial moderno en una comunidad cerrada exclusiva a solo **16 minutos del Parque Central de Antigua Guatemala**. Actualmente se encuentra en **obra gris**, con finalización estimada para **noviembre de 2026**. El desarrollador, **Andrés Bueso**, terminó un modelo muy similar (V22) a principios de este año, las fotos en este listado son de esa casa terminada para mostrarle la calidad y el estilo que puede esperar.
 
 > **Nota sobre las fotos:** Las imágenes mostradas son de una casa casi idéntica ya terminada (Modelo V22) finalizada a principios de este año. Casa H7 sigue el mismo diseño con los mismos acabados premium. Actualizaremos con fotos de la casa real una vez que la construcción esté completa.
 
@@ -86,7 +86,7 @@ Bienvenido a **Casa H7** en **Hacienda del Comendador** — un impresionante hog
 
 ## Primer Nivel
 
-La planta baja cuenta con una entrada peatonal techada que lleva a una amplia sala-comedor de concepto abierto con **techo de bóveda y chimenea**. La cocina abierta incluye gabinetes, cooktop y lavaplatos, con un espacio de despensa separado. Un corredor colonial con columnas de madera conecta el interior con un amplio jardín — perfecto para una fuente colonial o piscina pequeña.
+La planta baja cuenta con una entrada peatonal techada que lleva a una amplia sala-comedor de concepto abierto con **techo de bóveda y chimenea**. La cocina abierta incluye gabinetes, cooktop y lavaplatos, con un espacio de despensa separado. Un corredor colonial con columnas de madera conecta el interior con un amplio jardín, perfecto para una fuente colonial o piscina pequeña.
 
 - 🚪 Entrada cubierta + garage para 1 auto con cisterna de 1,100L
 - 🛋️ Sala + comedor con techo de bóveda y chimenea
@@ -98,7 +98,7 @@ La planta baja cuenta con una entrada peatonal techada que lleva a una amplia sa
 
 ## Segundo Nivel
 
-Arriba, un corredor colonial con columnas de madera con vista al patio central. La **recámara principal** ofrece amplio espacio para walk-in closet y baño interno. Una sala familiar para TV/juegos con su propio baño completo. La segunda recámara cuenta con espacio para walk-in closet, baño interno y balcón francés. El punto destacado: una **amplia terraza con impresionantes vistas al Volcán de Agua, Fuego y Acatenango** — ideal para sala al aire libre, asador o reuniones al atardecer.
+Arriba, un corredor colonial con columnas de madera con vista al patio central. La **recámara principal** ofrece amplio espacio para walk-in closet y baño interno. Una sala familiar para TV/juegos con su propio baño completo. La segunda recámara cuenta con espacio para walk-in closet, baño interno y balcón francés. El punto destacado: una **amplia terraza con impresionantes vistas al Volcán de Agua, Fuego y Acatenango**, ideal para sala al aire libre, asador o reuniones al atardecer.
 
 - 🛏️ **Recámara principal** con walk-in closet y baño interno
 - 📺 Sala familiar para TV/juegos con baño completo
@@ -107,16 +107,16 @@ Arriba, un corredor colonial con columnas de madera con vista al patio central. 
 
 ## Amenidades de la Comunidad
 
-Hacienda del Comendador ofrece una **Casa Club** con piscina, áreas de BBQ y espacios recreativos — a solo 2 cuadras de la propiedad. La comunidad cuenta con seguridad 24 horas con garita de acceso y áreas comunes bien mantenidas.
+Hacienda del Comendador ofrece una **Casa Club** con piscina, áreas de BBQ y espacios recreativos, a solo 2 cuadras de la propiedad. La comunidad cuenta con seguridad 24 horas con garita de acceso y áreas comunes bien mantenidas.
 
 ## ¿Por Qué San Miguel Dueñas?
 
-San Miguel Dueñas es un área residencial en crecimiento justo afuera de Antigua — tranquilo, seguro y más accesible que las propiedades dentro del centro de la ciudad. Obtienes la paz de un estilo de vida en comunidad cerrada mientras estás a solo 16 minutos en auto de los restaurantes, bares, tiendas y atracciones culturales de Antigua. Las vistas a los volcanes desde este desarrollo están entre las mejores del valle.
+San Miguel Dueñas es un área residencial en crecimiento justo afuera de Antigua, tranquilo, seguro y más accesible que las propiedades dentro del centro de la ciudad. Obtienes la paz de un estilo de vida en comunidad cerrada mientras estás a solo 16 minutos en auto de los restaurantes, bares, tiendas y atracciones culturales de Antigua. Las vistas a los volcanes desde este desarrollo están entre las mejores del valle.
 
 ## Precio y Términos
 
 - **Precio:** $525,000 USD (más impuestos aplicables)
-- **Estado:** Preventa — actualmente en obra gris
+- **Estado:** Preventa, actualmente en obra gris
 - **Finalización Estimada:** Noviembre 2026
 - **Incluye:** Membresía de Casa Club, 1 estacionamiento
 
@@ -124,5 +124,5 @@ San Miguel Dueñas es un área residencial en crecimiento justo afuera de Antigu
 
 ## Contacto
 
-📩 **Luna Jerney** — +502 3571 6181
+📩 **Luna Jerney**, +502 3571 6181
 ¿Preguntas o agendar una visita? ¡WhatsApp o llama cuando quieras!

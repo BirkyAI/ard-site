@@ -11,7 +11,7 @@ Antigua Guatemala has earned its reputation as one of the best places in the wor
 
 ## Why Antigua Guatemala Is Perfect for Spanish Immersion
 
-Unlike classroom-only programs back home, Antigua offers total immersion. You take your morning lessons, then walk out into cobblestone streets where everything — ordering coffee, negotiating at the market, chatting with your host family — becomes practice. The city's compact size means you're never more than a few minutes from real-world conversation opportunities.
+Unlike classroom-only programs back home, Antigua offers total immersion. You take your morning lessons, then walk out into cobblestone streets where everything, ordering coffee, negotiating at the market, chatting with your host family, becomes practice. The city's compact size means you're never more than a few minutes from real-world conversation opportunities.
 
 The accent in Guatemala is often described as clear and relatively slow compared to other Latin American countries, making it especially approachable for beginners. Many expats who studied Spanish in Mexico or Colombia say that Guatemalan Spanish was easier to understand during their first weeks.
 
@@ -19,7 +19,7 @@ Beyond the language, Antigua's large expat community means you'll find study bud
 
 ## How Guatemalan Spanish Schools Work
 
-Most schools in Antigua follow a similar structure: **one-on-one instruction** for four hours each morning, Monday through Friday, with a dedicated teacher who tailors lessons to your level and goals. This is not the group classroom model you might expect — you get a private tutor for 20 hours per week at a fraction of the cost of private lessons anywhere else in the world.
+Most schools in Antigua follow a similar structure: **one-on-one instruction** for four hours each morning, Monday through Friday, with a dedicated teacher who tailors lessons to your level and goals. This is not the group classroom model you might expect, you get a private tutor for 20 hours per week at a fraction of the cost of private lessons anywhere else in the world.
 
 **Typical weekly costs:**
 
@@ -44,7 +44,7 @@ Popular with long-term students, Antiguena offers flexible scheduling and a stro
 
 ### Spanish Academy Tecún Umán
 
-A mid-sized school with a warm, family-like atmosphere. They offer specialized tracks for medical professionals, lawyers, and business people who need industry-specific vocabulary. Their cultural activities program — cooking classes, weaving workshops, market tours — adds a practical dimension to classroom learning.
+A mid-sized school with a warm, family-like atmosphere. They offer specialized tracks for medical professionals, lawyers, and business people who need industry-specific vocabulary. Their cultural activities program, cooking classes, weaving workshops, market tours, adds a practical dimension to classroom learning.
 
 ### San José el Viejo
 
@@ -58,9 +58,9 @@ Known for their social impact model, Ixchel reinvests a portion of tuition into 
 
 Your ideal school depends on where you are now and where you want to go:
 
-**Complete beginners** should prioritize schools with structured curricula and experienced teachers who work regularly with true beginners. PLFM and Antiguena are strong choices here — their teachers know how to build foundations without overwhelming new learners.
+**Complete beginners** should prioritize schools with structured curricula and experienced teachers who work regularly with true beginners. PLFM and Antiguena are strong choices here, their teachers know how to build foundations without overwhelming new learners.
 
-**Intermediate learners** often benefit from schools that emphasize conversation and cultural activities over grammar drills. At this level, the homestay experience becomes crucial — you already know enough vocabulary to have real conversations, and daily practice with your host family bridges the gap between classroom and street Spanish.
+**Intermediate learners** often benefit from schools that emphasize conversation and cultural activities over grammar drills. At this level, the homestay experience becomes crucial, you already know enough vocabulary to have real conversations, and daily practice with your host family bridges the gap between classroom and street Spanish.
 
 **Advanced students** should look for specialized programs: medical Spanish, legal terminology, or business communication. Several schools also offer literature and politics courses for students who want to engage with Guatemalan culture at a deeper level.
 
@@ -70,10 +70,10 @@ Your ideal school depends on where you are now and where you want to go:
 
 Based on feedback from hundreds of expats who've studied in Antigua, here's a realistic timeline:
 
-- **2–4 weeks:** Basic survival Spanish — ordering food, asking directions, simple conversations with patience from the listener
-- **8–12 weeks:** Conversational fluency — you can handle most daily situations, tell stories, and understand native speakers at moderate speed
-- **6 months:** Functional fluency — you can discuss complex topics, understand regional accents, and feel confident in professional settings
-- **12+ months:** Advanced fluency — you think in Spanish, understand humor and cultural references, and can hold your own in any conversation
+- **2–4 weeks:** Basic survival Spanish, ordering food, asking directions, simple conversations with patience from the listener
+- **8–12 weeks:** Conversational fluency, you can handle most daily situations, tell stories, and understand native speakers at moderate speed
+- **6 months:** Functional fluency, you can discuss complex topics, understand regional accents, and feel confident in professional settings
+- **12+ months:** Advanced fluency, you think in Spanish, understand humor and cultural references, and can hold your own in any conversation
 
 The key factor is not just classroom hours but daily practice. Students who combine lessons with a homestay, join local activities, and make an effort to speak Spanish (instead of defaulting to English with fellow expats) progress two to three times faster.
 
@@ -81,7 +81,7 @@ The key factor is not just classroom hours but daily practice. Students who comb
 
 Many expats who come to Antigua "just for a few weeks of Spanish" end up staying for months or even years. The combination of affordable living, beautiful surroundings, a thriving social scene, and genuine community connections makes it easy to extend your stay.
 
-If you're considering a longer-term move, studying Spanish first is one of the smartest investments you can make. Arriving with even basic conversational ability transforms your experience — from navigating the local market to understanding your rental contract to building real friendships with Guatemalan neighbors.
+If you're considering a longer-term move, studying Spanish first is one of the smartest investments you can make. Arriving with even basic conversational ability transforms your experience, from navigating the local market to understanding your rental contract to building real friendships with Guatemalan neighbors.
 
 **Luna Jerney of Antigua Real Estate Development** has helped many expats who started as Spanish students make the transition to permanent residents. "The clients who study Spanish before buying property always have a smoother experience," she notes. "They understand the local market, communicate directly with contractors and neighbors, and feel genuinely at home in the community."
 
@@ -93,7 +93,7 @@ Some students come for a month of immersion and decide to buy a colonial home. O
 
 **Bring a notebook and pen**, even in the digital age. Most teachers use a mix of whiteboard work, conversation, and written exercises. Having a dedicated Spanish notebook helps you review vocabulary and grammar points after each session.
 
-**Don't skip the cultural activities.** Cooking classes, market tours, and coffee farm visits aren't just fun — they're structured learning opportunities that expose you to vocabulary and cultural context you won't get in a classroom.
+**Don't skip the cultural activities.** Cooking classes, market tours, and coffee farm visits aren't just fun, they're structured learning opportunities that expose you to vocabulary and cultural context you won't get in a classroom.
 
 **Set realistic goals.** Four hours of one-on-one instruction is mentally exhausting, especially in the first week. Give yourself permission to be tired, and don't compare your progress to other students. Everyone learns at a different pace.
 
@@ -103,6 +103,6 @@ Some students come for a month of immersion and decide to buy a colonial home. O
 
 Antigua Guatemala's language schools offer an unbeatable combination of quality instruction, cultural immersion, and affordable pricing. Whether you're planning a short study vacation or a permanent relocation, learning Spanish here opens doors that remain closed elsewhere.
 
-**Considering making Antigua your long-term home?** Luna Jerney at Antigua Real Estate Development can help you explore the property market while you're here studying. Many clients combine a few weeks of Spanish lessons with property viewings — an efficient way to experience the community before making a commitment.
+**Considering making Antigua your long-term home?** Luna Jerney at Antigua Real Estate Development can help you explore the property market while you're here studying. Many clients combine a few weeks of Spanish lessons with property viewings, an efficient way to experience the community before making a commitment.
 
 [Contact Luna Jerney](https://antiguarealestatedevelopment.com/contact/) to discuss your plans for living, investing, or retiring in Antigua Guatemala.

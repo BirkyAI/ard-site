@@ -16,7 +16,7 @@ Esto es lo que los compradores extranjeros necesitan entender sobre el riesgo s�
 
 Antigua se ubica en el arco volcánico centroamericano, entre las fallas del Motagua y del Polochic, dos fallas transformantes mayores donde las placas del Caribe y de Norteamérica se desplazan una junto a la otra. Es el mismo límite tectónico responsable del terremoto de 1976 en Guatemala (magnitud 7.5), que dejó más de 23,000 muertos en todo el país, y de los terremotos de Santa Marta en 1773, que destruyeron la capital colonial y obligaron a la corona española a trasladar la sede del gobierno a la actual Ciudad de Guatemala.
 
-Además de las fallas, el Volcán de Fuego —uno de los más activos del continente— entra en erupción con regularidad a solo 16 km de Antigua, cubriendo el pueblo de ceniza y ocasionalmente provocando temblores locales. En resumen: la actividad sísmica no es un evento raro aquí. Es una característica permanente del paisaje.
+Además de las fallas, el Volcán de Fuego -uno de los más activos del continente- entra en erupción con regularidad a solo 16 km de Antigua, cubriendo el pueblo de ceniza y ocasionalmente provocando temblores locales. En resumen: la actividad sísmica no es un evento raro aquí. Es una característica permanente del paisaje.
 
 Eso suena alarmante hasta que entendés la segunda parte de la historia: Antigua lleva siglos construyendo para resistir terremotos.
 

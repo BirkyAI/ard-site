@@ -8,7 +8,7 @@ date: 2026-09-13
 lang: "es"
 ---
 
-Un hotel boutique restaurado en Antigua Guatemala puede generar un rendimiento bruto constante del 8–11 % anual mientras la propiedad sigue ganando valor con el tiempo. Pocas inversiones en Centroamérica combinan ese nivel de ingreso con una ubicación declarada Patrimonio de la Humanidad — y es justamente por eso que viajeros, inversores remotos y expatriados siguen mirando hacia la capital colonial.
+Un hotel boutique restaurado en Antigua Guatemala puede generar un rendimiento bruto constante del 8–11 % anual mientras la propiedad sigue ganando valor con el tiempo. Pocas inversiones en Centroamérica combinan ese nivel de ingreso con una ubicación declarada Patrimonio de la Humanidad, y es justamente por eso que viajeros, inversores remotos y expatriados siguen mirando hacia la capital colonial.
 
 Las calles protegidas por la UNESCO en Antigua impiden la construcción de edificios nuevos en altura, pero esa escasez es precisamente la clave: la ciudad tiene un inventario limitado y protegido de casas coloniales, y cada vez más se están convirtiendo en hoteles boutique y casas de huéspedes. Si has estado sopesando una propiedad de inversión aquí, esta guía repasa los costos reales, los modelos de operación y los pasos para cerrar la compra de un hotel en Antigua.
 
@@ -26,7 +26,7 @@ Como guía orientativa para 2026, una casa de huéspedes colonial convertida, en
 
 La mayor variable de costo es la restauración. Una propiedad colonial que todavía necesita trabajo estructural en su techo de teja, sus muros de piedra o la plomería del patio puede parecer más barata en papel y costar mucho más de terminar. Presupuestar entre el 15 y el 25 % del precio de compra para restauración y mobiliario es realista si comprás un inmueble que necesita reparaciones.
 
-Los costos de operación — personal, servicios, mantenimiento y un administrador si no vives en el país — suelen representar entre el 30 y el 45 % del ingreso bruto en una casa de huéspedes pequeña. Tenelo en cuenta antes de calcular tu rendimiento.
+Los costos de operación, personal, servicios, mantenimiento y un administrador si no vives en el país, suelen representar entre el 30 y el 45 % del ingreso bruto en una casa de huéspedes pequeña. Tenelo en cuenta antes de calcular tu rendimiento.
 
 ## Casa de huéspedes vs. hotel boutique vs. Airbnb: ¿qué modelo elegir?
 
@@ -48,10 +48,10 @@ Un propietario ausente que vive en el extranjero no debería esperar esa cifra c
 
 Los extranjeros pueden comprar y tener bienes raíces en Guatemala libremente, incluida una propiedad de negocio como un hotel. La ruta habitual es:
 
-1. **Confirmar que la propiedad esté legalmente limpia** — este paso no es negociable. Hacé una verificación completa de títulos, impuestos y gravámenes (lo detallamos en [debida diligencia de propiedades en Guatemala](/es/blog/guatemala-property-due-diligence-es/)).
-2. **Trabajar con un notario guatemalteco** — a diferencia de Estados Unidos, las transferencias de tierra aquí se cierran y registran con un notario autorizado, que es tu ancla legal en la operación.
-3. **Constituir una entidad local para el negocio hotelero** — una sociedad simple es común para los extranjeros que manejan hotelería, separando la empresa operativa de la propiedad y simplificando el tratamiento fiscal.
-4. **Estructurar la transferencia** — la propiedad en sí puede comprarse directamente o mediante una estructura de fideicomiso, que algunos compradores extranjeros prefieren por privacidad y planificación sucesoria.
+1. **Confirmar que la propiedad esté legalmente limpia**, este paso no es negociable. Hacé una verificación completa de títulos, impuestos y gravámenes (lo detallamos en [debida diligencia de propiedades en Guatemala](/es/blog/guatemala-property-due-diligence-es/)).
+2. **Trabajar con un notario guatemalteco**, a diferencia de Estados Unidos, las transferencias de tierra aquí se cierran y registran con un notario autorizado, que es tu ancla legal en la operación.
+3. **Constituir una entidad local para el negocio hotelero**, una sociedad simple es común para los extranjeros que manejan hotelería, separando la empresa operativa de la propiedad y simplificando el tratamiento fiscal.
+4. **Estructurar la transferencia**, la propiedad en sí puede comprarse directamente o mediante una estructura de fideicomiso, que algunos compradores extranjeros prefieren por privacidad y planificación sucesoria.
 
 El financiamiento hipotecario para no residentes es limitado; la mayoría de los compradores extranjeros de hoteles pagan en efectivo o usan financiamiento del vendedor. Si querés comparar tus opciones, leé tu guía sobre [financiamiento hipotecario para extranjeros en Guatemala](/es/blog/guatemala-mortgage-financing-foreigners-es/).
 
@@ -67,4 +67,4 @@ El financiamiento hipotecario para no residentes es limitado; la mayoría de los
 
 Comprar un hotel boutique en Antigua es un proyecto serio: los rendimientos pueden ser excelentes, pero los detalles de restauración, legales y de operación recompensan trabajar con personas que lo han hecho muchas veces. Ayudamos a inversores extranjeros a encontrar, verificar y cerrar propiedades de ingreso en [nuestras listas de propiedades en Antigua](/es/properties/), incluidos candidatos de casas de huéspedes y hoteles boutique, y te conectamos con notarios y contratistas de confianza en el camino.
 
-Si querés hacer números sobre una propiedad en particular o entender cómo es una casa de huéspedes restaurada dentro de tu presupuesto, [contactanos](/es/contact/) para una consulta sin costo. Sin presión, sin teoría — solo una imagen clara de lo que tu inversión en un hotel en Antigua Guatemala puede rendir.
+Si querés hacer números sobre una propiedad en particular o entender cómo es una casa de huéspedes restaurada dentro de tu presupuesto, [contactanos](/es/contact/) para una consulta sin costo. Sin presión, sin teoría, solo una imagen clara de lo que tu inversión en un hotel en Antigua Guatemala puede rendir.

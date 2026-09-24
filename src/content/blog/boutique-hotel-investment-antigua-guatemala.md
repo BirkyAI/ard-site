@@ -8,13 +8,13 @@ date: 2026-09-13
 lang: "en"
 ---
 
-A restored boutique hotel in Antigua Guatemala can return a steady 8–11% gross yield while the property itself appreciates year over year. Few investments in Central America combine that kind of income with a UNESCO World Heritage location — which is exactly why travelers, remote investors, and expats keep circling back to the colonial capital.
+A restored boutique hotel in Antigua Guatemala can return a steady 8–11% gross yield while the property itself appreciates year over year. Few investments in Central America combine that kind of income with a UNESCO World Heritage location, which is exactly why travelers, remote investors, and expats keep circling back to the colonial capital.
 
 Antigua's UNESCO-protected streets may ban new high-rise development, but that scarcity is precisely the point: the city has a finite, protected inventory of colonial homes, and a growing share of them are being converted into boutique hotels and guest houses. If you've been weighing an income property here, this guide walks through the real costs, the operating models, and the steps to close on an Antigua hotel.
 
 ## Why Invest in a Boutique Hotel in Antigua?
 
-Antigua is the single most visited destination in Guatemala, drawing roughly two million tourists a year. It's the country's cultural heart — cobblestone streets, colonial churches, coffee fincas, and volcano views that few places on earth can match.
+Antigua is the single most visited destination in Guatemala, drawing roughly two million tourists a year. It's the country's cultural heart, cobblestone streets, colonial churches, coffee fincas, and volcano views that few places on earth can match.
 
 That volume of demand, combined with a hard cap on new construction, keeps occupancy high for well-run properties. La Antigua also benefits from the wider Central America travel boom: boutique hotels here pull guests who bounce between Antigua, Lake Atitlán, and the coast. You're not betting on a one-trip market; you're plugging into a regional itinerary.
 
@@ -26,7 +26,7 @@ As an indicative guide for 2026, a converted colonial guest house in good condit
 
 The biggest cost variable is restoration. A colonial property that still needs structural work on its teja roof, stone walls, or courtyard plumbing can look cheaper on paper and cost far more to finish. Budgeting 15–25% of the purchase price for restoration and furnishings is realistic for a fixer.
 
-Operating costs — staff, utilities, property maintenance, and a manager if you're absentee — typically run 30–45% of gross revenue for a small guest house. Factor that in before you estimate your return.
+Operating costs, staff, utilities, property maintenance, and a manager if you're absentee, typically run 30–45% of gross revenue for a small guest house. Factor that in before you estimate your return.
 
 ## Guest House vs. Boutique Hotel vs. Airbnb: Which Model?
 
@@ -40,7 +40,7 @@ Many investors start with a single short-term rental to learn the market (see ou
 
 ## Income Potential & Occupancy
 
-Well-located, well-reviewed boutique hotels in Antigua frequently post 60–75% annual occupancy, spiking to near-full during Semana Santa, New Year, and school holidays. At an average nightly rate of $120 across, say, eight rooms at 65% occupancy, gross revenue lands around **$228,000 a year** — before the operating costs noted above.
+Well-located, well-reviewed boutique hotels in Antigua frequently post 60–75% annual occupancy, spiking to near-full during Semana Santa, New Year, and school holidays. At an average nightly rate of $120 across, say, eight rooms at 65% occupancy, gross revenue lands around **$228,000 a year**, before the operating costs noted above.
 
 An absentee owner who lives abroad shouldn't expect that full figure in net income. A professional manager takes roughly 10–15% of revenue, and two to three times a year the business dips in the off-season. But the combination of cash flow, leveraged appreciation, and the option to use the property personally is what makes hospitality the standout play for long-term investors.
 
@@ -48,23 +48,23 @@ An absentee owner who lives abroad shouldn't expect that full figure in net inco
 
 Foreigners can buy and hold real estate in Guatemala freely, including a business property like a hotel. The usual route is:
 
-1. **Confirm the property is legally clean** — this step is non-negotiable. Run a full due-diligence check on titles, taxes, and liens (we detail this in [property due diligence in Guatemala](/blog/guatemala-property-due-diligence/)).
-2. **Work with a Guatemalan notary (notario)** — unlike in the US, land transfers here are closed and registered by a licensed notary, who is your legal anchor in the deal.
-3. **Set up a local entity for the hotel business** — a simple société is common for foreigners running hospitality, separating the operating company from the property and simplifying tax handling.
-4. **Structure the transfer** — the property itself can be bought outright or through a fideicomiso (trust) structure, which some foreign buyers prefer for privacy and succession planning.
+1. **Confirm the property is legally clean**, this step is non-negotiable. Run a full due-diligence check on titles, taxes, and liens (we detail this in [property due diligence in Guatemala](/blog/guatemala-property-due-diligence/)).
+2. **Work with a Guatemalan notary (notario)**, unlike in the US, land transfers here are closed and registered by a licensed notary, who is your legal anchor in the deal.
+3. **Set up a local entity for the hotel business**, a simple société is common for foreigners running hospitality, separating the operating company from the property and simplifying tax handling.
+4. **Structure the transfer**, the property itself can be bought outright or through a fideicomiso (trust) structure, which some foreign buyers prefer for privacy and succession planning.
 
 Mortgage financing for non-residents is limited; most foreign hotel buyers pay cash or use seller financing. If you're weighing your options, read our guide on [mortgage financing for foreigners in Guatemala](/blog/guatemala-mortgage-financing-foreigners/).
 
 ## Steps to Buy a Boutique Hotel in Antigua
 
 1. **Clarify your model and budget.** Decide the room count, operator style, and what you're willing to spend on restoration.
-2. **Shortlist approved colonial properties.** Because Antigua sits on a UNESCO site, any conversion must comply with heritage preservation rules — work with an agent who knows the municipal approvals.
+2. **Shortlist approved colonial properties.** Because Antigua sits on a UNESCO site, any conversion must comply with heritage preservation rules, work with an agent who knows the municipal approvals.
 3. **Run due diligence.** Verify title, taxes, liens, and the property's legal building status before you commit.
 4. **Close with a notary.** Execute the sale with your notario, register the deed, and transfer any business permits.
 5. **Restore, furnish, and staff.** Plan the renovation timeline and hire your general manager well before opening.
 
 ## Start Your Antigua Hotel Search Here
 
-Buying a boutique hotel in Antigua is a serious project — the returns can be excellent, but the restoration, legal, and operating details reward working with people who've done it many times. We help foreign investors find, vet, and close on income properties across [our Antigua listings]( /properties/ ), including guest-house and boutique-hotel candidates, and we connect you with trusted notaries and contractors along the way.
+Buying a boutique hotel in Antigua is a serious project, the returns can be excellent, but the restoration, legal, and operating details reward working with people who've done it many times. We help foreign investors find, vet, and close on income properties across [our Antigua listings]( /properties/ ), including guest-house and boutique-hotel candidates, and we connect you with trusted notaries and contractors along the way.
 
-If you'd like to run the numbers on a specific property or understand what a restored guest house in your budget actually looks like, [contact us]( /contact/ ) for a complimentary consultation. No pressure, no theory — just a clear picture of what your hotel investment in Antigua Guatemala can return.
+If you'd like to run the numbers on a specific property or understand what a restored guest house in your budget actually looks like, [contact us]( /contact/ ) for a complimentary consultation. No pressure, no theory, just a clear picture of what your hotel investment in Antigua Guatemala can return.

@@ -8,9 +8,9 @@ date: 2026-08-26
 lang: "en"
 ---
 
-If you are considering buying property in Antigua Guatemala as a rental investment — or already own one — understanding the seasonal rental market is essential. Unlike most North American or European markets, Antigua's rental demand shifts dramatically through the year, driven by tourism patterns, climate, and cultural events.
+If you are considering buying property in Antigua Guatemala as a rental investment, or already own one, understanding the seasonal rental market is essential. Unlike most North American or European markets, Antigua's rental demand shifts dramatically through the year, driven by tourism patterns, climate, and cultural events.
 
-The good news? A well-managed property in Antigua can deliver strong returns across all seasons — if you know what each season demands and how to position your property accordingly.
+The good news? A well-managed property in Antigua can deliver strong returns across all seasons, if you know what each season demands and how to position your property accordingly.
 
 ## Antigua's Two Distinct Rental Seasons
 
@@ -22,7 +22,7 @@ The high season coincides with Guatemala's dry season, when skies are clear, aft
 
 **Demand drivers during high season:**
 - International tourists escaping northern winter
-- Semana Santa (Holy Week) — the single biggest tourism event in Antigua, drawing hundreds of thousands of visitors
+- Semana Santa (Holy Week), the single biggest tourism event in Antigua, drawing hundreds of thousands of visitors
 - New Year and Christmas holiday travel
 - Digital nomads seeking warm winter base camps
 - Wedding groups and family reunions
@@ -33,7 +33,7 @@ Properties near the central plaza, La Merced church, or along the popular touris
 
 ### Low Season: May through October
 
-The rainy season brings afternoon downpours and fewer international tourists. This is the "green season" — the volcanoes are often shrouded in dramatic clouds, the gardens are lush, and the city has a quieter, more local feel.
+The rainy season brings afternoon downpours and fewer international tourists. This is the "green season", the volcanoes are often shrouded in dramatic clouds, the gardens are lush, and the city has a quieter, more local feel.
 
 **Demand drivers during low season:**
 - Budget-conscious travelers (lower prices attract a different segment)
@@ -62,9 +62,9 @@ Not all properties perform equally across the seasonal cycle. Based on market da
 
 ### Location Factors
 
-**Central Antigua (historic core).** Highest nightly rates and strongest high-season demand. A colonial home within two blocks of the Parque Central can command premium pricing during Semana Santa and other peak periods. The trade-off is that low-season bookings can be slower — tourists who book in the off-season are often looking for quieter, more residential areas.
+**Central Antigua (historic core).** Highest nightly rates and strongest high-season demand. A colonial home within two blocks of the Parque Central can command premium pricing during Semana Santa and other peak periods. The trade-off is that low-season bookings can be slower, tourists who book in the off-season are often looking for quieter, more residential areas.
 
-**El Hato and mountain communities.** These properties appeal to a different market segment — nature lovers, wedding groups, and remote workers seeking tranquility. They tend to perform well year-round because their unique setting (volcano views, cooler climate, natural surroundings) attracts guests regardless of season. Properties like [Casa Contenta](/properties/rental-casa-contenta-el-hato/) in Finca El Tambor consistently book well because they offer an experience that central Antigua cannot replicate.
+**El Hato and mountain communities.** These properties appeal to a different market segment, nature lovers, wedding groups, and remote workers seeking tranquility. They tend to perform well year-round because their unique setting (volcano views, cooler climate, natural surroundings) attracts guests regardless of season. Properties like [Casa Contenta](/properties/rental-casa-contenta-el-hato/) in Finca El Tambor consistently book well because they offer an experience that central Antigua cannot replicate.
 
 **San Miguel Dueñas and Jocotenango.** Growing areas with good demand from both short-term and long-term tenants. These neighborhoods offer better value for buyers and attract renters who want a quieter lifestyle while still being close to Antigua.
 

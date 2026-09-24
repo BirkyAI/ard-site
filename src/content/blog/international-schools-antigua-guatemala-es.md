@@ -72,7 +72,7 @@ Muchas escuelas bilingües ofrecen servicio de van o autobús que cubre el valle
 
 ### Actividades Extraescolares
 
-Deportes (fútbol, baloncesto, natación), artes, música y artes marciales se ofrecen comúnmente como programas después de clases. Varias escuelas se asocián con organizaciones locales para equitación, escalada en roca y educación ambiental — actividades que aprovechan el entorno natural de Antigua.
+Deportes (fútbol, baloncesto, natación), artes, música y artes marciales se ofrecen comúnmente como programas después de clases. Varias escuelas se asocián con organizaciones locales para equitación, escalada en roca y educación ambiental, actividades que aprovechan el entorno natural de Antigua.
 
 ## Desglose de Costos
 
@@ -97,7 +97,7 @@ Costos adicionales incluyen matrícula (pago único, Q1,000 a Q3,000), uniformes
 
 ## Vivir Cerca de Buenas Escuelas
 
-Muchas de las mejores escuelas bilingües están ubicadas en los pueblos que rodean Antigua — Jocotenango, San Pedro Las Huertas y Ciudad Vieja — todos a 10 o 15 minutos en auto del centro histórico. Las familias a menudo eligen vecindarios basándose en la proximidad a su escuela preferida, lo cual puede ser una estrategia inteligente al buscar casa.
+Muchas de las mejores escuelas bilingües están ubicadas en los pueblos que rodean Antigua. Jocotenango, San Pedro Las Huertas y Ciudad Vieja, todos a 10 o 15 minutos en auto del centro histórico. Las familias a menudo eligen vecindarios basándose en la proximidad a su escuela preferida, lo cual puede ser una estrategia inteligente al buscar casa.
 
 Luna Jerney en Antigua Real Estate Development ha ayudado a numerosas familias a encontrar hogares en vecindarios amigables para familias con escolares en todo el valle de Antigua. Ya sea que busques una casa colonial en el centro histórico, una casa moderna en Jocotenango o una propiedad con espacio para que los niños jueguen en San Pedro Las Huertas, el hogar adecuado puede facilitar el traslado a la escuela y hacer la vida diaria más agradable.
 

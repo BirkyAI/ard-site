@@ -10,7 +10,7 @@ lang: "en"
 
 Antigua Guatemala has become one of Latin America's top destinations for digital nomads. With colonial charm, reliable infrastructure, and a growing community of remote workers, it offers the perfect blend of productivity and adventure.
 
-This guide covers everything you need to know to set up your remote work life in Antigua — from internet speeds and coworking spaces to visa logistics and monthly budgets.
+This guide covers everything you need to know to set up your remote work life in Antigua, from internet speeds and coworking spaces to visa logistics and monthly budgets.
 
 ## Why Digital Nomads Choose Antigua
 
@@ -65,9 +65,9 @@ Antigua has a thriving coworking scene. Here are the top options:
 ### 4. Cafe Hopping (De Facto Coworking)
 Many cafes in Antigua welcome laptop workers, especially in the morning:
 
-- **Café Bohemia** — Fast Wi-Fi, strong coffee, quiet courtyard
-- **Fernando's Pizza** — Rooftop seating with volcano views, good Wi-Fi
-- **La Cosecha** — Two locations, consistent internet, excellent pastries
+- **Café Bohemia**. Fast Wi-Fi, strong coffee, quiet courtyard
+- **Fernando's Pizza**. Rooftop seating with volcano views, good Wi-Fi
+- **La Cosecha**. Two locations, consistent internet, excellent pastries
 
 **Tip:** Most cafes close between 6–8 PM, so have a coworking membership for evening work sessions.
 
@@ -124,7 +124,7 @@ If you plan to stay 3–6 months, bring proof of onward travel (return flight or
 ### 3. Centro Histórico
 - **Vibe:** Central, convenient, walk everywhere
 - **Pros:** Steps from coworking, cafes, restaurants, and Parque Central
-- **Cons:** Noisier, pricier, tourist-heavy — but still charming
+- **Cons:** Noisier, pricier, tourist-heavy, but still charming
 
 ### 4. Santa Isabel / Ciudad Vieja
 - **Vibe:** Suburban, quiet, nature-focused
@@ -149,7 +149,7 @@ Getting a local SIM is straightforward:
 - **Private clinics:** Médico Particular on 5a Avenida (English-speaking doctors, Q200–400 per visit)
 - **Dental:** Several English-speaking dentists in town
 - **Pharmacies:** Farmacia Galeno on the plaza, well-stocked
-- **Travel insurance:** Recommended — SafetyWing is popular among nomads
+- **Travel insurance:** Recommended. SafetyWing is popular among nomads
 
 ### Safety
 Antigua is one of the safest towns in Central America for digital nomads. Practical advice:
@@ -157,7 +157,7 @@ Antigua is one of the safest towns in Central America for digital nomads. Practi
 - Don't walk alone late at night in unlit side streets
 - Keep laptop bags closed and zipped in crowded markets
 - Use official taxis (amarillos) or Uber after dark
-- Lock valuables in your accommodation — petty theft exists but violent crime is rare
+- Lock valuables in your accommodation, petty theft exists but violent crime is rare
 
 ## Community and Networking
 
@@ -165,12 +165,12 @@ Antigua has an active digital nomad community:
 
 - **Facebook group:** "Digital Nomads in Antigua Guatemala"
 - **Meetups:** Impact Hub hosts weekly nomad meetups (Wednesdays at 6 PM)
-- **Weekly events:** Language exchanges, salsa lessons, hiking groups — check Impact Hub's event board
-- **WhatsApp groups:** Several active groups for nomad meetups and plans — find them at coworking spaces
+- **Weekly events:** Language exchanges, salsa lessons, hiking groups, check Impact Hub's event board
+- **WhatsApp groups:** Several active groups for nomad meetups and plans, find them at coworking spaces
 
 ## Weather Considerations
 
-Antigua's climate is spring-like year-round (65–80°F / 18–27°C). The dry season (November–April) is ideal for outdoor work-from-cafe days. The rainy season (May–October) brings afternoon showers, so plan around them — morning work, afternoon rain, evening social.
+Antigua's climate is spring-like year-round (65–80°F / 18–27°C). The dry season (November–April) is ideal for outdoor work-from-cafe days. The rainy season (May–October) brings afternoon showers, so plan around them, morning work, afternoon rain, evening social.
 
 ## Getting Here
 

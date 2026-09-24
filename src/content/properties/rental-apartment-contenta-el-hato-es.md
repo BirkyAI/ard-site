@@ -1,6 +1,6 @@
 ---
-title: "Apto Contenta — Apartamento Moderno, El Hato"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Apto Contenta. Apartamento Moderno, El Hato"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/mes"
 beds: 1
@@ -46,18 +46,18 @@ gallery:
 
 Nuestra residencia más popular, el **Apto Contenta** es un impresionante y amplio apartamento moderno rodeado de naturaleza, diseñado para la comodidad y la conexión con el exterior. Su distribución de concepto abierto cuenta con una cocina totalmente equipada, ventanales del piso al techo, una amplia terraza privada y vistas impresionantes y despejadas del volcán activo al otro lado del valle.
 
-Ubicado dentro de la exclusiva **Finca El Tambor** en El Hato — un entorno natural privado y seguro sobre Antigua Guatemala — este apartamento ofrece una experiencia de vida premium en armonía con la naturaleza.
+Ubicado dentro de la exclusiva **Finca El Tambor** en El Hato, un entorno natural privado y seguro sobre Antigua Guatemala, este apartamento ofrece una experiencia de vida premium en armonía con la naturaleza.
 
 ### Lo Que Incluye
 
 - 🏡 **80 m²** amplia distribución de concepto abierto con ventanales del piso al techo
-- 🌋 **Vistas panorámicas al volcán** — despejadas a través del valle
+- 🌋 **Vistas panorámicas al volcán**, despejadas a través del valle
 - 🌿 **Amplia terraza privada** inmersa en el dosel del bosque
-- 🔥 **Chimenea interior** — perfecta para las frescas noches de montaña
-- 🍳 **Cocina totalmente equipada** — electrodomésticos y utensilios modernos
-- 🏠 **Completamente amoblado** — listo para mudarse
-- 🌲 **Entorno inmerso en el bosque** — naturaleza privada y exclusiva
-- 🔒 **Propiedad segura** — terrenos privados con acceso controlado
+- 🔥 **Chimenea interior**, perfecta para las frescas noches de montaña
+- 🍳 **Cocina totalmente equipada**, electrodomésticos y utensilios modernos
+- 🏠 **Completamente amoblado**, listo para mudarse
+- 🌲 **Entorno inmerso en el bosque**, naturaleza privada y exclusiva
+- 🔒 **Propiedad segura**, terrenos privados con acceso controlado
 
 ### Condiciones Generales
 
@@ -82,5 +82,5 @@ El Hato es una tranquila aldea montañosa justo sobre Antigua Guatemala, conocid
 
 ### Contacto
 
-📩 **Luna Jerney** — +502 3571 6181
+📩 **Luna Jerney**, +502 3571 6181
 ¿Preguntas o agendar una visita? ¡WhatsApp o llame en cualquier momento!

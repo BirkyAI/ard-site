@@ -33,7 +33,7 @@ Antigua opera en la Zona Horaria del Centro (GMT-6), lo que la hace ideal para:
 
 - **Costa Este de EE. UU.:** Misma zona horaria (o una hora de diferencia durante el horario de verano)
 - **Costa Oeste de EE. UU.:** 2–3 horas de superposición por la mañana
-- **Europa:** 7–8 horas adelante — las mañanas europeas coinciden con las tardes antigüeñas
+- **Europa:** 7–8 horas adelante, las mañanas europeas coinciden con las tardes antigüeñas
 
 La mayoría de los nómadas digitales trabajan temprano para cubrir el horario estadounidense y pasan las tardes explorando el pueblo.
 
@@ -65,9 +65,9 @@ Antigua tiene una escena de coworking próspera. Estas son las mejores opciones:
 ### 4. Trabajar en Cafés (Coworking De Facto)
 Muchos cafés en Antigua aceptan personas con laptop, especialmente por la mañana:
 
-- **Café Bohemia** — Wi-Fi rápido, café fuerte, patio tranquilo
-- **Fernando's Pizza** — Terraza con vistas al volcán, buen Wi-Fi
-- **La Cosecha** — Dos ubicaciones, internet consistente, excelentes pasteles
+- **Café Bohemia**. Wi-Fi rápido, café fuerte, patio tranquilo
+- **Fernando's Pizza**. Terraza con vistas al volcán, buen Wi-Fi
+- **La Cosecha**. Dos ubicaciones, internet consistente, excelentes pasteles
 
 **Consejo:** La mayoría de los cafés cierran entre 6–8 PM, así que ten una membresía de coworking para sesiones de trabajo nocturnas.
 
@@ -123,7 +123,7 @@ Si planeas quedarte 3–6 meses, lleva prueba de viaje de regreso (boleto de avi
 ### 3. Centro Histórico
 - **Ambiente:** Céntrico, conveniente, todo caminable
 - **Ventajas:** A pasos de coworking, cafés, restaurantes y el Parque Central
-- **Desventajas:** Más ruidoso, más caro, más turistas — pero aún así encantador
+- **Desventajas:** Más ruidoso, más caro, más turistas, pero aún así encantador
 
 ### 4. Santa Isabel / Ciudad Vieja
 - **Ambiente:** Suburbano, tranquilo, enfocado en la naturaleza
@@ -148,7 +148,7 @@ Obtener una SIM local es sencillo:
 - **Clínicas privadas:** Médico Particular en 5a Avenida (médicos que hablan inglés, Q200–400 por consulta)
 - **Dentistas:** Varios dentistas que hablan inglés en el pueblo
 - **Farmacias:** Farmacia Galeno en la plaza, bien surtida
-- **Seguro de viaje:** Recomendado — SafetyWing es popular entre nómadas
+- **Seguro de viaje:** Recomendado. SafetyWing es popular entre nómadas
 
 ### Seguridad
 Antigua es uno de los pueblos más seguros de Centroamérica para nómadas digitales. Consejos prácticos:
@@ -156,7 +156,7 @@ Antigua es uno de los pueblos más seguros de Centroamérica para nómadas digit
 - No camines solo tarde en la noche por calles sin alumbrado
 - Mantén las mochilas con laptop cerradas en mercados concurridos
 - Usa taxis oficiales (amarillos) o Uber después del anochecer
-- Guarda objetos de valor en tu alojamiento — el robo menor existe pero el crimen violento es raro
+- Guarda objetos de valor en tu alojamiento, el robo menor existe pero el crimen violento es raro
 
 ## Comunidad y Networking
 
@@ -164,8 +164,8 @@ Antigua tiene una comunidad activa de nómadas digitales:
 
 - **Grupo de Facebook:** "Digital Nomads in Antigua Guatemala"
 - **Meetups:** Impact Hub organiza reuniones semanales de nómadas (miércoles a las 6 PM)
-- **Eventos semanales:** Intercambios de idiomas, clases de salsa, grupos de senderismo — consulta el tablón de eventos de Impact Hub
-- **Grupos de WhatsApp:** Varios grupos activos para encuentros y planes — encuéntralos en los espacios de coworking
+- **Eventos semanales:** Intercambios de idiomas, clases de salsa, grupos de senderismo, consulta el tablón de eventos de Impact Hub
+- **Grupos de WhatsApp:** Varios grupos activos para encuentros y planes, encuéntralos en los espacios de coworking
 
 ## Consideraciones Climáticas
 

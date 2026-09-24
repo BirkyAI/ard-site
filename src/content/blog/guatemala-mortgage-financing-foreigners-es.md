@@ -24,16 +24,16 @@ Si estás acostumbrado al sistema hipotecario de Estados Unidos o Canadá, prepa
 - **Más documentación.** Los bancos requieren papeleo extenso, incluyendo verificación de ingresos apostillada desde tu país de origen
 - **Avalúo por peritos del banco.** El banco elige al perito, no vos
 - **Requisito de seguro de vida.** La mayoría de los bancos exigen un seguro de vida equivalente al monto del préstamo
-- **Penalización por pago anticipado.** Algunos bancos cobran una comisión por pago anticipado — siempre preguntá antes de firmar
+- **Penalización por pago anticipado.** Algunos bancos cobran una comisión por pago anticipado, siempre preguntá antes de firmar
 
 ## Requisitos para Compradores Extranjeros que Buscan Hipoteca
 
 Para solicitar una hipoteca en Guatemala como extranjero, normalmente necesitás:
 
 1. **Pasaporte vigente** con al menos 6 meses de validez
-2. **Comprobante de ingresos** — últimos 3 meses de recibos de pago o estados de cuenta bancarios, apostillados en tu país de origen
+2. **Comprobante de ingresos**, últimos 3 meses de recibos de pago o estados de cuenta bancarios, apostillados en tu país de origen
 3. **Informe crediticio** de tu país de origen (traducido al español por traductor certificado)
-4. **Cuenta bancaria guatemalteca** — la mayoría de los bancos requieren que abras una cuenta local antes de solicitar
+4. **Cuenta bancaria guatemalteca**, la mayoría de los bancos requieren que abras una cuenta local antes de solicitar
 5. **Comprobante de domicilio** en Guatemala (recibo de servicios o contrato de alquiler)
 6. **Escritura de propiedad o contrato de compraventa** del inmueble que estás adquiriendo
 
@@ -43,10 +43,10 @@ Algunos bancos también pueden solicitar una carta de referencia de tu banco de 
 
 Los bancos más grandes de Guatemala que trabajan con compradores extranjeros incluyen:
 
-- **Banco Industrial** — el banco más grande de Guatemala, con sucursales en todo el país
-- **BAC Credomatic** — conocido por muchos expats centroamericanos
-- **Banrural** — ofrece tasas competitivas para propiedades rurales y semi-rurales
-- **G&T Continental** — conocido por términos más flexibles para clientes internacionales
+- **Banco Industrial**, el banco más grande de Guatemala, con sucursales en todo el país
+- **BAC Credomatic**, conocido por muchos expats centroamericanos
+- **Banrural**, ofrece tasas competitivas para propiedades rurales y semi-rurales
+- **G&T Continental**, conocido por términos más flexibles para clientes internacionales
 
 Trabajar con un broker hipotecario bilingüe que entienda tanto la banca guatemalteca como las necesidades de compradores extranjeros puede ahorrarte semanas de trámites. Luna Jerney en Antigua Real Estate Development tiene relaciones con banqueros locales y puede conectarte con los contactos adecuados para tu situación.
 
@@ -56,12 +56,12 @@ Muchos compradores extranjeros en Antigua Guatemala eligen alternativas a las hi
 
 ### Crédito Hipotecario o Refinanciamiento desde tu País de Orija
 
-La alternativa más popular es aprovechar el patrimonio en una propiedad que ya tenés en tu país. Los bancos de EE.UU. y Canadá ofrecen refinanciamiento o líneas de crédito con garantía hipotecaria (HELOC) a tasas mucho más bajas — frecuentemente 6–7% comparado con 10–12% localmente. Luego usás esos fondos como comprador de contado en Guatemala, lo que también te da mayor poder de negociación.
+La alternativa más popular es aprovechar el patrimonio en una propiedad que ya tenés en tu país. Los bancos de EE.UU. y Canadá ofrecen refinanciamiento o líneas de crédito con garantía hipotecaria (HELOC) a tasas mucho más bajas, frecuentemente 6–7% comparado con 10–12% localmente. Luego usás esos fondos como comprador de contado en Guatemala, lo que también te da mayor poder de negociación.
 
 Esta estrategia tiene varias ventajas:
 
 - Tasas de interés más bajas que los bancos guatemaltecos
-- Trámites más sencillos — tu banco local ya te conoce
+- Trámites más sencillos, tu banco local ya te conoce
 - No necesitás navegar un sistema bancario extranjero
 - Las ofertas de contado frecuentemente consiguen mejores precios de los vendedores
 
@@ -79,7 +79,7 @@ Esta es una opción atractiva porque evita comisiones bancarias, cargos por inte
 
 ### Préstamos Privados y Financiamiento del Vendedor
 
-Algunos vendedores en Antigua Guatemala están dispuestos a ofrecer financiamiento directo, especialmente para propiedades de mayor valor. Los términos son negociables — podrías acordar un pagaré a 3–5 años con pagos mensuales a una tasa entre lo que cobraría un banco y lo que el vendedor ganaría en una cuenta de ahorro. Esto funciona mejor cuando ambas partes tienen representación legal y el acuerdo se formaliza en una escritura notarial.
+Algunos vendedores en Antigua Guatemala están dispuestos a ofrecer financiamiento directo, especialmente para propiedades de mayor valor. Los términos son negociables, podrías acordar un pagaré a 3–5 años con pagos mensuales a una tasa entre lo que cobraría un banco y lo que el vendedor ganaría en una cuenta de ahorro. Esto funciona mejor cuando ambas partes tienen representación legal y el acuerdo se formaliza en una escritura notarial.
 
 ## Consideraciones de Moneda para Pagos de Hipoteca
 
@@ -88,7 +88,7 @@ Si tomás una hipoteca en Guatemala, recordá que los pagos son en Quetzales. Es
 - **Si el Quetzal se debilita** frente al dólar, tus pagos se vuelven más baratos en términos de dólares
 - **Si el Quetzal se fortalece**, tus pagos se encarecen
 
-Muchos compradores expats mitigan esto manteniendo un colchón de Quetzales en su cuenta bancaria local — típicamente 3 a 6 meses de pagos — para evitar quedarse cortos durante fluctuaciones del tipo de cambio.
+Muchos compradores expats mitigan esto manteniendo un colchón de Quetzales en su cuenta bancaria local, típicamente 3 a 6 meses de pagos, para evitar quedarse cortos durante fluctuaciones del tipo de cambio.
 
 Algunos bancos ofrecen préstamos denominados en dólares para propiedades por encima de cierto umbral de valor (usualmente $100,000+), pero son menos comunes y pueden tener tasas ligeramente más altas. Consultá con tu banco si esta opción está disponible.
 
@@ -102,16 +102,16 @@ Ya sea que financiés localmente o traigas fondos del extranjero, tener un aboga
 - Asegurar que la propiedad quede registrada a tu nombre en el Registro de la Propiedad
 - Tramitar los impuestos relacionados con la compra
 
-Los honorarios de abogado en Guatemala típicamente van de $500 a $1,500 USD dependiendo de la complejidad de la transacción. Es dinero bien invertido — los problemas con títulos de propiedad son la fuente más común de complicaciones para compradores extranjeros en Guatemala.
+Los honorarios de abogado en Guatemala típicamente van de $500 a $1,500 USD dependiendo de la complejidad de la transacción. Es dinero bien invertido, los problemas con títulos de propiedad son la fuente más común de complicaciones para compradores extranjeros en Guatemala.
 
 ## Pasos para Asegurar el Financiamiento de tu Propiedad en Antigua
 
 Esta es una hoja de ruta práctica si planeás financiar la compra de una propiedad en Antigua Guatemala:
 
-1. **Decidí tu estrategia de financiamiento** — hipoteca local, crédito hipotecario de tu país, o financiamiento del desarrollador
-2. **Obtené una pre-aprobación** antes de buscar propiedades — esto te define el presupuesto y muestra a los vendedores que sos un comprador serio
-3. **Abrí una cuenta bancaria guatemalteca** si planeás financiar localmente — empezá esto temprano, ya que puede tomar 2 a 4 semanas
-4. **Reuní y apostillá tus documentos** — verificación de ingresos, informe crediticio y estados de cuenta de tu país de origen
+1. **Decidí tu estrategia de financiamiento**, hipoteca local, crédito hipotecario de tu país, o financiamiento del desarrollador
+2. **Obtené una pre-aprobación** antes de buscar propiedades, esto te define el presupuesto y muestra a los vendedores que sos un comprador serio
+3. **Abrí una cuenta bancaria guatemalteca** si planeás financiar localmente, empezá esto temprano, ya que puede tomar 2 a 4 semanas
+4. **Reuní y apostillá tus documentos**, verificación de ingresos, informe crediticio y estados de cuenta de tu país de origen
 5. **Trabajá con un agente inmobiliario local** como Luna Jerney que entienda tanto el mercado como el panorama de financiamiento
 6. **Contratá un abogado inmobiliario** para manejar la debida diligencia y el cierre
 

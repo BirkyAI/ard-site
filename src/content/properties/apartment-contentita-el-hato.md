@@ -1,6 +1,6 @@
 ---
-title: "Apto Contentita — Modern Apartment, El Hato"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Apto Contentita. Modern Apartment, El Hato"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/month"
 beds: 1
@@ -39,20 +39,20 @@ gallery:
 
 ## About This Apartment
 
-**Apto Contentita** is our most popular residence — a stunning and spacious modern apartment surrounded by nature and designed for comfort and connection with the outdoors. Located within the exclusive **Finca El Tambor** in El Hato, this apartment offers the perfect blend of modern luxury and natural immersion.
+**Apto Contentita** is our most popular residence, a stunning and spacious modern apartment surrounded by nature and designed for comfort and connection with the outdoors. Located within the exclusive **Finca El Tambor** in El Hato, this apartment offers the perfect blend of modern luxury and natural immersion.
 
 The open-concept layout features a fully equipped kitchen, floor-to-ceiling windows that flood the space with natural light, a large private terrace, and breathtaking, unobstructed views of the active volcano across the valley. With an indoor fireplace and immersive forest setting, this is the ultimate retreat for those who want it all.
 
 ### What You Get
 
 - 🏡 **80 m²** spacious open-concept modern apartment
-- 🌋 **Panoramic volcano views** — unobstructed across the valley
-- 🪟 **Floor-to-ceiling windows** — natural light and nature everywhere you look
-- 🏠 **Large private terrace** — perfect for outdoor living
-- 🔥 **Indoor fireplace** — cozy evenings surrounded by nature
-- 🌿 **Immersive forest setting** — our most popular residence
-- 🍳 **Fully equipped kitchen** — modern appliances and cookware
-- 🏠 **Fully furnished** — move-in ready
+- 🌋 **Panoramic volcano views**, unobstructed across the valley
+- 🪟 **Floor-to-ceiling windows**, natural light and nature everywhere you look
+- 🏠 **Large private terrace**, perfect for outdoor living
+- 🔥 **Indoor fireplace**, cozy evenings surrounded by nature
+- 🌿 **Immersive forest setting**, our most popular residence
+- 🍳 **Fully equipped kitchen**, modern appliances and cookware
+- 🏠 **Fully furnished**, move-in ready
 - 🛁 **Private bathroom**
 
 ### General Conditions
@@ -78,5 +78,5 @@ El Hato is a peaceful mountain village just above Antigua Guatemala, known for i
 
 ### Contact
 
-📩 **Luna Jerney** — +502 3571 6181
-Questions or schedule a viewing — WhatsApp or call anytime!
+📩 **Luna Jerney**, +502 3571 6181
+Questions or schedule a viewing. WhatsApp or call anytime!

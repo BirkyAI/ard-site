@@ -1,5 +1,5 @@
 ---
-title: "4BR Unfurnished Rental in Gated Community — San Pedro Las Huertas"
+title: "4BR Unfurnished Rental in Gated Community. San Pedro Las Huertas"
 location: "San Pedro Las Huertas, Condominio Barrios Coloniales"
 price: 1000
 priceLabel: "$1,000/month"
@@ -44,30 +44,30 @@ gallery:
 
 ## About This Rental
 
-Beautiful 4-bedroom home available **unfurnished** in **Condominio Barrios Coloniales**, a secure gated community in San Pedro Las Huertas — just 10 minutes from Antigua Guatemala.
+Beautiful 4-bedroom home available **unfurnished** in **Condominio Barrios Coloniales**, a secure gated community in San Pedro Las Huertas, just 10 minutes from Antigua Guatemala.
 
 ### What You Get
 
-- 🏡 **4 bedrooms, 3 bathrooms** — spacious layout for families or housemates
+- 🏡 **4 bedrooms, 3 bathrooms**, spacious layout for families or housemates
 - 🚗 **1 parking space** for car + extra room for motorcycles
 - 🚿 **Hot water** throughout + water filtration system
-- 🌿 **Private patio** — perfect for your own little garden
+- 🌿 **Private patio**, perfect for your own little garden
 - 🌇 **Rooftop terrace** with stunning wide views of Volcán de Agua
 - 🔒 **Secure gated community** with 24/7 access control
 - 🏊 **Condominium amenities:** swimming pool, jacuzzi, BBQ grill area, playground
-- 📍 **Close to Santa Clara shopping mall** — La Torre supermarket, banks, restaurants, MegaPaca
+- 📍 **Close to Santa Clara shopping mall**. La Torre supermarket, banks, restaurants, MegaPaca
 
 ### Lease Terms
 
 - 📝 1-year contract with option to extend
-- 🏷️ **$1,000/month** — includes condominium maintenance fee
+- 🏷️ **$1,000/month**, includes condominium maintenance fee
 - 💵 One month rent deposit required
 
 ### Why San Pedro Las Huertas?
 
-San Pedro Las Huertas is one of those spots locals love — quieter than Antigua, lower cost of living, but close enough to everything. You get the peace of a residential community with easy access to Antigua's restaurants, shops, and nightlife. The gated community offers security and amenities that standalone rentals in Antigua can't match.
+San Pedro Las Huertas is one of those spots locals love, quieter than Antigua, lower cost of living, but close enough to everything. You get the peace of a residential community with easy access to Antigua's restaurants, shops, and nightlife. The gated community offers security and amenities that standalone rentals in Antigua can't match.
 
 ### Contact
 
-📩 **Luna Jerney** — +502 3571 6181
-Questions or schedule a viewing — WhatsApp or call anytime!
+📩 **Luna Jerney**, +502 3571 6181
+Questions or schedule a viewing. WhatsApp or call anytime!

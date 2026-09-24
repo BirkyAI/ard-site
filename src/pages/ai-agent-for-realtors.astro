@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
-<BaseLayout title="AI Real Estate Assistant — One-Time Setup" description="We install a fully autonomous AI assistant on your computer. It drafts and sends your emails, runs your CRM, writes your listings, builds your website, and handles your marketing — all from voice commands on your phone. One-time fee. No subscription." image="/images/new-ai-agent-og-image.png">
+<BaseLayout title="AI Real Estate Assistant. One-Time Setup" description="We install a fully autonomous AI assistant on your computer. It drafts and sends your emails, runs your CRM, writes your listings, builds your website, and handles your marketing, all from voice commands on your phone. One-time fee. No subscription." image="/images/new-ai-agent-og-image.png">
   <script type="application/ld+json" set:html={JSON.stringify({"@context":"https://schema.org","@type":"Service","name":"AI Real Estate Assistant Setup","description":"Professional setup of a customized AI real estate assistant on your own computer. One-time fee, full privacy, no monthly subscription.","provider":{"@type":"Organization","name":"Antigua Real Estate Development"},"offers":{"@type":"Offer","priceCurrency":"USD","price":"500","priceSpecification":{"@type":"UnitPriceSpecification","price":"500","priceCurrency":"USD","billingDuration":"P1M"}}})} />
 
   <!-- HERO -->
@@ -11,10 +11,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     <div class="container" style="position:relative;z-index:2;color:white;padding:100px 0;text-align:center;">
       <div style="display:inline-flex;align-items:center;gap:8px;background:rgba(99,102,241,0.15);backdrop-filter:blur(8px);padding:8px 20px;border-radius:9999px;font-size:13px;font-weight:600;margin-bottom:28px;border:1px solid rgba(99,102,241,0.3);text-transform:uppercase;letter-spacing:2px;">🖥️ Runs On YOUR Mac or Linux Computer</div>
       <h1 style="font-size:clamp(32px,7vw,60px);font-weight:700;line-height:1.08;letter-spacing:-1.5px;margin-bottom:28px;max-width:780px;margin-left:auto;margin-right:auto;">Your Own AI Real Estate Assistant.<br><span style="background:linear-gradient(135deg,#818cf8,#f472b6,#22d3ee);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">Installed on Your Machine. One-Time Fee.</span></h1>
-      <p style="font-size:clamp(16px,2.5vw,20px);line-height:1.7;opacity:0.85;max-width:640px;margin:0 auto 40px;">We install a fully autonomous AI assistant on YOUR computer. It drafts and sends your emails, runs your CRM, writes your listings, builds your website, and handles your marketing — all from voice commands on your phone. Your data stays on YOUR machine. Always.</p>
+      <p style="font-size:clamp(16px,2.5vw,20px);line-height:1.7;opacity:0.85;max-width:640px;margin:0 auto 40px;">We install a fully autonomous AI assistant on YOUR computer. It drafts and sends your emails, runs your CRM, writes your listings, builds your website, and handles your marketing, all from voice commands on your phone. Your data stays on YOUR machine. Always.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;">
         <a href="https://calendly.com/birky-studio/ai-agent-demo-call" class="btn btn--primary" style="font-size:18px;padding:18px 44px;">Book a Demo Call →</a>
-        <a href="#pricing" class="btn btn--primary" style="font-size:18px;padding:18px 44px;">Get Started — $500 →</a>
+        <a href="#pricing" class="btn btn--primary" style="font-size:18px;padding:18px 44px;">Get Started, $500 →</a>
         <a href="#how-it-works" class="btn btn--outline" style="font-size:16px;padding:16px 32px;border-color:rgba(255,255,255,0.4);color:white;">See How It Works</a>
       </div>
       <p style="margin-top:20px;font-size:13px;opacity:0.5;">No monthly subscription required. We do the tech. You get the results.</p>
@@ -39,14 +39,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     <div class="container" style="max-width:720px;text-align:center;position:relative;z-index:1;">
       <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:#818cf8;margin-bottom:16px;">Why This Is Different</div>
       <h2 style="font-size:clamp(24px,4vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:24px;">This Is Not ChatGPT. This Is a Digital Employee.</h2>
-      <p style="font-size:17px;color:rgba(255,255,255,0.7);line-height:1.7;margin-bottom:48px;">ChatGPT is a website you visit. This is a fully autonomous AI agent that lives on YOUR computer, connected to YOUR email, YOUR files, and YOUR workflows — running 24/7 in the background.</p>
+      <p style="font-size:17px;color:rgba(255,255,255,0.7);line-height:1.7;margin-bottom:48px;">ChatGPT is a website you visit. This is a fully autonomous AI agent that lives on YOUR computer, connected to YOUR email, YOUR files, and YOUR workflows, running 24/7 in the background.</p>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;text-align:left;">
         {[
-          {icon:'📧',text:'Reads AND sends emails directly from YOUR inbox — drafts, follow-ups, and client responses in your voice, ready to send with one tap'},
-          {icon:'🎙️',text:'Create listings, draft emails, and update your CRM from a voice message on your phone — at the park, in the car, anywhere'},
+          {icon:'📧',text:'Reads AND sends emails directly from YOUR inbox, drafts, follow-ups, and client responses in your voice, ready to send with one tap'},
+          {icon:'🎙️',text:'Create listings, draft emails, and update your CRM from a voice message on your phone, at the park, in the car, anywhere'},
           {icon:'🌐',text:'Builds and deploys your website, writes daily SEO blog posts automatically, and keeps your online presence fresh without lifting a finger'},
-          {icon:'📱',text:'Manages your social media and Google Business Profile — weekly posts, captions, and content that are already optimized for AI search engines'},
-          {icon:'📊',text:'Your Notion CRM, tasks, and pipeline — all controlled by voice from Telegram. Manage your entire business from your phone'},
+          {icon:'📱',text:'Manages your social media and Google Business Profile, weekly posts, captions, and content that are already optimized for AI search engines'},
+          {icon:'📊',text:'Your Notion CRM, tasks, and pipeline, all controlled by voice from Telegram. Manage your entire business from your phone'},
           {icon:'🔒',text:'All data stays on YOUR machine. Runs 24/7 in the background. Remembers everything. Hours of admin work, handled automatically'},
         ].map(item => (
           <div style="display:flex;gap:12px;padding:18px;background:rgba(255,255,255,0.05);border-radius:12px;border:1px solid rgba(255,255,255,0.1);">
@@ -92,12 +92,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       </div>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:24px;">
         {[
-          {icon:'🔍',title:'Property Searches',desc:'Ask your assistant to find properties matching any criteria — beds, budget, location. It searches multiple sites and gives you a curated list in minutes. From a text or voice message.',color:'#818cf8'},
-          {icon:'🏠',title:'Listing Descriptions',desc:'Provide photos and details — even from a vague voice message — and get a polished listing description ready for MLS, social media, or print. Hours of work, done in seconds.',color:'#f472b6'},
-          {icon:'📧',title:'Email Drafting AND Sending',desc:'Connected to YOUR actual inbox. Drafts follow-ups, inquiry responses, and marketing emails in your voice. Reviews with you, then sends directly. Not copy-paste — real email automation.',color:'#22d3ee'},
-          {icon:'🌐',title:'Website Building and Daily SEO Blogs',desc:'Your assistant can build and deploy your website, then write daily blog posts optimized for SEO — automatically, every single day. Your online presence grows while you sleep.',color:'#10b981'},
-          {icon:'📱',title:'Social Media and Google Business',desc:'Weekly GBP posts, social media captions, and content — all optimized for AI search engines (ChatGPT, Perplexity, Google AI). You are light years ahead of the competition.',color:'#f59e0b'},
-          {icon:'📊',title:'Notion CRM and Task Management',desc:'Your entire CRM, tasks, and pipeline — controlled from Telegram. Update leads, manage tasks, track deals from a voice message at the park. Hours of admin, handled.',color:'#8b5cf6'},
+          {icon:'🔍',title:'Property Searches',desc:'Ask your assistant to find properties matching any criteria, beds, budget, location. It searches multiple sites and gives you a curated list in minutes. From a text or voice message.',color:'#818cf8'},
+          {icon:'🏠',title:'Listing Descriptions',desc:'Provide photos and details, even from a vague voice message, and get a polished listing description ready for MLS, social media, or print. Hours of work, done in seconds.',color:'#f472b6'},
+          {icon:'📧',title:'Email Drafting AND Sending',desc:'Connected to YOUR actual inbox. Drafts follow-ups, inquiry responses, and marketing emails in your voice. Reviews with you, then sends directly. Not copy-paste, real email automation.',color:'#22d3ee'},
+          {icon:'🌐',title:'Website Building and Daily SEO Blogs',desc:'Your assistant can build and deploy your website, then write daily blog posts optimized for SEO, automatically, every single day. Your online presence grows while you sleep.',color:'#10b981'},
+          {icon:'📱',title:'Social Media and Google Business',desc:'Weekly GBP posts, social media captions, and content, all optimized for AI search engines (ChatGPT, Perplexity, Google AI). You are light years ahead of the competition.',color:'#f59e0b'},
+          {icon:'📊',title:'Notion CRM and Task Management',desc:'Your entire CRM, tasks, and pipeline, controlled from Telegram. Update leads, manage tasks, track deals from a voice message at the park. Hours of admin, handled.',color:'#8b5cf6'},
         ].map(item => (
           <div style={`padding:28px;background:rgba(255,255,255,0.05);border-radius:16px;border:1px solid rgba(255,255,255,0.1);border-top:3px solid ${item.color};`}>
             <div style={`font-size:36px;margin-bottom:16px;width:56px;height:56px;background:${item.color}20;border-radius:14px;display:flex;align-items:center;justify-content:center;`}>{item.icon}</div>
@@ -119,9 +119,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       </div>
       <div style="display:grid;gap:32px;">
         {[
-          {num:'01',title:'You Pay. We Schedule.',desc:'After checkout, we schedule a 2-hour remote session via Zoom or Google Meet. We send you a simple prep checklist (install 2 free apps — takes 5 minutes).'},
+          {num:'01',title:'You Pay. We Schedule.',desc:'After checkout, we schedule a 2-hour remote session via Zoom or Google Meet. We send you a simple prep checklist (install 2 free apps, takes 5 minutes).'},
           {num:'02',title:'We Install Everything.',desc:'Via screen sharing, we install the AI agent framework on your computer, configure it for your market area and brand voice, connect your email and CRM, and set up your Telegram or WhatsApp channel. You watch. We work.'},
-          {num:'03',title:'You Start Using It.',desc:'Open Telegram or WhatsApp and start chatting with your new assistant. Ask it to find properties, write descriptions, draft emails, post to GBP — it handles everything. We stay available for 30 days of free support.'},
+          {num:'03',title:'You Start Using It.',desc:'Open Telegram or WhatsApp and start chatting with your new assistant. Ask it to find properties, write descriptions, draft emails, post to GBP, it handles everything. We stay available for 30 days of free support.'},
         ].map(item => (
           <div style="display:flex;gap:24px;align-items:flex-start;padding:28px;background:white;border-radius:16px;border:1px solid var(--color-border);">
             <div style="flex-shrink:0;width:56px;height:56px;background:linear-gradient(135deg,#818cf8,#f472b6);color:white;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:700;">{item.num}</div>
@@ -152,7 +152,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           {icon:'🔍',name:'Property Search Skills',desc:'Pre-built searches across multiple listing sites',color:'#f59e0b'},
           {icon:'🏠',name:'Listing Description Skills',desc:'Professional descriptions from any property details',color:'#ef4444'},
           {icon:'📊',name:'GBP Content Skills',desc:'Weekly Google Business Profile posts on autopilot',color:'#8b5cf6'},
-          {icon:'📋',name:'Notion Real Estate System',desc:'Complete CRM template — $79 value, FREE with setup. Voice-controlled from Telegram',color:'#ec4899'},
+          {icon:'📋',name:'Notion Real Estate System',desc:'Complete CRM template, $79 value, FREE with setup. Voice-controlled from Telegram',color:'#ec4899'},
           {icon:'⏰',name:'Automated Tasks',desc:'Cron jobs for daily blogs, weekly posts, and reminders',color:'#06b6d4'},
           {icon:'📞',name:'30 Days Free Support',desc:'Priority help via WhatsApp for any questions',color:'#16a34a'},
         ].map(item => (
@@ -173,7 +173,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     <div class="container" style="max-width:720px;text-align:center;">
       <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:var(--color-text-muted);margin-bottom:16px;">Your Privacy</div>
       <h2 style="font-size:clamp(24px,4vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:16px;">Your Data. Your Computer. Your Control.</h2>
-      <p style="font-size:17px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:48px;">Unlike cloud-based AI tools, your assistant runs entirely on YOUR machine. Your emails, your files, your conversations — they never leave your computer. You can turn it off, delete it, or modify it anytime. No vendor lock-in. No data harvesting.</p>
+      <p style="font-size:17px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:48px;">Unlike cloud-based AI tools, your assistant runs entirely on YOUR machine. Your emails, your files, your conversations, they never leave your computer. You can turn it off, delete it, or modify it anytime. No vendor lock-in. No data harvesting.</p>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px;">
         {[
           {icon:'🔒',title:'100% Local',desc:'Everything runs on your machine'},
@@ -206,7 +206,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             'Accesses your real email',
             'Accesses your real files',
             'Runs 24/7 on your computer',
-            'Full privacy — stays local',
+            'Full privacy, stays local',
             'Customized to your business',
             'One-time fee, you own it',
             'No monthly subscription',
@@ -235,7 +235,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             'No file access',
             'You have to go to it',
             'No memory between chats',
-            'Generic — not your business',
+            'Generic, not your business',
             'Monthly cost forever',
             'Manual copy-paste workflow',
           ].map(item => (
@@ -268,7 +268,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
               'Email and CRM integration',
               'Telegram or WhatsApp setup',
               'Pre-built real estate skills',
-              'Notion Real Estate System ($79 value — FREE)',
+              'Notion Real Estate System ($79 value. FREE)',
               'Daily blog automation + SEO',
               '30 days free support',
             ].map(item => (
@@ -280,7 +280,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <div style="background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.1);border-radius:20px;padding:32px;">
           <div style="font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:2px;color:rgba(255,255,255,0.5);margin-bottom:8px;">Monthly Support</div>
           <div style="font-size:48px;font-weight:700;margin-bottom:4px;">$49<span style="font-size:18px;font-weight:400;opacity:0.5;">/mo</span></div>
-          <div style="opacity:0.6;font-size:13px;margin-bottom:20px;">Optional — cancel anytime</div>
+          <div style="opacity:0.6;font-size:13px;margin-bottom:20px;">Optional, cancel anytime</div>
           <a href="#contact" class="btn btn--outline" style="font-size:16px;padding:14px 28px;width:100%;display:block;text-align:center;border-color:rgba(255,255,255,0.3);color:white;">Add Support →</a>
           <div style="margin-top:16px;text-align:left;">
             {[
@@ -338,11 +338,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       </div>
       <div style="display:grid;gap:16px;">
         {[
-          {q:'Do I need to be tech-savvy?',a:'Not at all. We handle the entire installation via screen sharing. You just need to download two free apps before our session (we send you a simple checklist). The AI agent itself is controlled through Telegram or WhatsApp — apps you already know how to use.'},
-          {q:'How is this different from ChatGPT?',a:'ChatGPT is a website you visit and type into. Your AI assistant is a fully autonomous agent that runs 24/7 on your computer, connected to your actual email, files, and workflows. It remembers everything, executes real tasks, and works in the background — even when you are sleeping.'},
+          {q:'Do I need to be tech-savvy?',a:'Not at all. We handle the entire installation via screen sharing. You just need to download two free apps before our session (we send you a simple checklist). The AI agent itself is controlled through Telegram or WhatsApp, apps you already know how to use.'},
+          {q:'How is this different from ChatGPT?',a:'ChatGPT is a website you visit and type into. Your AI assistant is a fully autonomous agent that runs 24/7 on your computer, connected to your actual email, files, and workflows. It remembers everything, executes real tasks, and works in the background, even when you are sleeping.'},
           {q:'What do I need on my computer?',a:'A Mac or Linux computer with at least 8GB of RAM. We install everything else: the AI framework, Docker (for isolation), and all the integrations. Most modern MacBooks, iMacs, and Linux laptops work perfectly. Note: Windows is not supported at this time.'},
           {q:'Is my data secure?',a:'Completely. Your AI assistant runs entirely on YOUR machine. Your emails, files, and conversations never leave your computer. You control your own API keys. You can delete everything anytime with one click.'},
-          {q:'What if I need help after setup?',a:'Every setup includes 30 days of free support. After that, you can add our optional $49/month support plan for ongoing help, updates, and new features. Or you can manage it yourself — the system is designed to be self-sufficient.'},
+          {q:'What if I need help after setup?',a:'Every setup includes 30 days of free support. After that, you can add our optional $49/month support plan for ongoing help, updates, and new features. Or you can manage it yourself, the system is designed to be self-sufficient.'},
           {q:'Can I use it for my team?',a:'Yes! We can set up multiple agents for different team members, each configured for their specific role and market area. Contact us for team pricing.'},
           {q:'What if it does not work for my business?',a:'We guarantee satisfaction. If we cannot get your AI assistant working during the setup session, you get a full refund. No questions asked.'},
         ].map(item => (
@@ -362,13 +362,13 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   <section id="contact" style="padding:80px 0;background:var(--color-surface);text-align:center;">
     <div class="container" style="max-width:560px;">
       <h2 style="font-size:clamp(24px,5vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:16px;">Ready to Get Your Own AI Assistant?</h2>
-      <p style="font-size:16px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:32px;">Book your setup session today. We install everything remotely — you just sit back and watch. 30 days of free support included.</p>
+      <p style="font-size:16px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:32px;">Book your setup session today. We install everything remotely, you just sit back and watch. 30 days of free support included.</p>
       <div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;">
         <a href="https://calendly.com/birky-studio/ai-agent-demo-call" class="btn btn--primary" style="font-size:18px;padding:18px 40px;">Book a Demo Call →</a>
         <a href="https://wa.me/50235716181?text=Hi!%20I%27m%20interested%20in%20the%20AI%20Real%20Estate%20Assistant%20setup." class="btn btn--primary" style="font-size:18px;padding:18px 40px;">Message on WhatsApp →</a>
         <a href="mailto:info@antiguarealestatedevelopment.com?subject=AI%20Real%20Estate%20Assistant%20Setup" class="btn btn--outline" style="font-size:16px;padding:16px 32px;">Or Email Us</a>
       </div>
-      <p style="margin-top:16px;font-size:13px;color:var(--color-text-muted);">Questions? Send a message — we respond fast. After all, we practice what we preach. 😉</p>
+      <p style="margin-top:16px;font-size:13px;color:var(--color-text-muted);">Questions? Send a message, we respond fast. After all, we practice what we preach. 😉</p>
     </div>
   </section>
 </BaseLayout>

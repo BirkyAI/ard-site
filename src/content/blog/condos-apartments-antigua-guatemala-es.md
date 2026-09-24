@@ -1,14 +1,14 @@
 ---
 title: "Condominios y Apartamentos en Antigua"
 tag: "Inversión"
-excerpt: "Todo lo que debes saber para comprar un condominio o apartamento en Antigua Guatemala — precios por zona, coloniales vs obra nueva, cuotas de mantenimiento, pasos legales para extranjeros y potencial de renta."
+excerpt: "Todo lo que debes saber para comprar un condominio o apartamento en Antigua Guatemala, precios por zona, coloniales vs obra nueva, cuotas de mantenimiento, pasos legales para extranjeros y potencial de renta."
 image: "/images/blog/ai-generated/condos-apartments-antigua-guatemala.jpg"
 alt: "Calle colonial de Antigua Guatemala al atardecer iluminada con luces cálidas sobre adoquines, con la silueta del Volcán de Agua al fondo"
 date: 2026-09-09
 lang: "es"
 ---
 
-No todo comprador en Antigua Guatemala quiere una casa colonial grande con patio que mantener. Cada vez más compradores internacionales — trabajadores remotos, residentes a tiempo parcial e inversionistas — buscan un condominio o apartamento: algo fácil de cerrar y dejar, de bajo mantenimiento, caminable y sencillo de alquilar cuando están fuera.
+No todo comprador en Antigua Guatemala quiere una casa colonial grande con patio que mantener. Cada vez más compradores internacionales, trabajadores remotos, residentes a tiempo parcial e inversionistas, buscan un condominio o apartamento: algo fácil de cerrar y dejar, de bajo mantenimiento, caminable y sencillo de alquilar cuando están fuera.
 
 Antigua ha construido de forma silenciosa un mercado de condominios saludable junto a sus famosas casas coloniales restauradas. Los precios siguen muy por debajo de propiedades comparables en Estados Unidos, Canadá o Europa, y la demanda de inquilinos de corto plazo mantiene la ocupación alta todo el año. Esta guía cubre lo que debes saber antes de comprar.
 
@@ -29,7 +29,7 @@ El atractivo práctico es claro. Compras la unidad, un administrador o la asocia
 
 La opción con más carácter: la planta alta de una casa colonial restaurada convertida en apartamento privado, con techos altos, vigas expuestas y, a menudo, un patio o terraza en la azotea compartidos. Están en el centro histórico declarado Patrimonio de la Humanidad y en los barrios aledaños.
 
-**Ideal para:** compradores que quieren la experiencia auténtica de Antigua y no les importan algunas particularidades de la construcción antigua — muros más gruesos, plomería menos estandarizada y, ocasionalmente, entradas compartidas.
+**Ideal para:** compradores que quieren la experiencia auténtica de Antigua y no les importan algunas particularidades de la construcción antigua, muros más gruesos, plomería menos estandarizada y, ocasionalmente, entradas compartidas.
 
 ### Edificios de Condominios Modernos y Desarrollos Cerrados
 
@@ -56,10 +56,10 @@ Los extranjeros pueden comprar y poseer propiedades libremente en Guatemala, inc
 
 El proceso legal es el mismo que para cualquier compra de propiedad:
 
-1. **Verifica el título** — confirma que el vendedor posee la unidad libre de gravámenes o deudas con una búsqueda de título en el registro de la propiedad.
-2. **Contrata un notario independiente** — en Guatemala, el notario es un abogado autorizado que redacta e inscribe la escritura. No dependas del abogado del vendedor.
-3. **Revisa la asociación de condóminos y los reglamentos** — lee el reglamento de la copropiedad antes de firmar. Confirma la cuota de mantenimiento, las restricciones sobre alquileres a corto plazo y quién es responsable de las reparaciones mayores.
-4. **Realiza la debida diligencia** — confirma que los servicios estén al día y que no haya cuotas municipales pendientes sobre la unidad.
+1. **Verifica el título**, confirma que el vendedor posee la unidad libre de gravámenes o deudas con una búsqueda de título en el registro de la propiedad.
+2. **Contrata un notario independiente**, en Guatemala, el notario es un abogado autorizado que redacta e inscribe la escritura. No dependas del abogado del vendedor.
+3. **Revisa la asociación de condóminos y los reglamentos**, lee el reglamento de la copropiedad antes de firmar. Confirma la cuota de mantenimiento, las restricciones sobre alquileres a corto plazo y quién es responsable de las reparaciones mayores.
+4. **Realiza la debida diligencia**, confirma que los servicios estén al día y que no haya cuotas municipales pendientes sobre la unidad.
 
 Para el desglose completo del proceso legal, lee nuestra guía sobre [cómo comprar propiedad en Guatemala como extranjero](/es/blog/how-to-buy-property-guatemala-foreigner-es/) y el [proceso de cierre paso a paso](/es/blog/guatemala-real-estate-closing-process-es/).
 
@@ -68,7 +68,7 @@ Para el desglose completo del proceso legal, lee nuestra guía sobre [cómo comp
 A diferencia de una casa independiente, un condominio conlleva costos recurrentes de asociación y mantenimiento. Presupuesta lo siguiente:
 
 - **Cuota de mantenimiento / HOA:** normalmente entre $80 y $200 al mes según el edificio y si tiene piscina, jardín o seguridad las 24 horas
-- **Impuesto predial (IUSI):** aproximadamente entre el 0.2% y el 0.9% del valor registrado al año — sobre un condominio de $150,000 esto equivale a unos $300 a $1,350 anuales
+- **Impuesto predial (IUSI):** aproximadamente entre el 0.2% y el 0.9% del valor registrado al año, sobre un condominio de $150,000 esto equivale a unos $300 a $1,350 anuales
 - **Servicios:** electricidad, agua e internet para un apartamento de una habitación rondan los $60 a $120 al mes
 
 Como el administrador del edificio se encarga del exterior y las áreas comunes, estas cuotas predecibles suelen ser mucho menores que los costos ocultos de mantenimiento de una casa colonial antigua.
@@ -87,24 +87,24 @@ Consulta nuestro análisis más profundo sobre el [potencial de ingresos por ren
 ## Pros y Contras de Poseer un Condominio en Antigua
 
 ### Pros
-- **Bajo mantenimiento** — la asociación se encarga del edificio; tú solo mantienes tu unidad
-- **Precio de entrada menor** — entras al mercado con una fracción del costo de una casa completa
-- **Seguridad de cerrar y dejar** — más fácil dejarlo vacío o alquilarlo mientras estás fuera
-- **Ubicaciones caminables** — la mayoría de los condominios están cerca del centro o de rutas de transporte frecuentes
-- **Favorable para la renta** — hay demanda fuerte a corto y largo plazo
+- **Bajo mantenimiento**, la asociación se encarga del edificio; tú solo mantienes tu unidad
+- **Precio de entrada menor**, entras al mercado con una fracción del costo de una casa completa
+- **Seguridad de cerrar y dejar**, más fácil dejarlo vacío o alquilarlo mientras estás fuera
+- **Ubicaciones caminables**, la mayoría de los condominios están cerca del centro o de rutas de transporte frecuentes
+- **Favorable para la renta**, hay demanda fuerte a corto y largo plazo
 
 ### Contras
-- **Cuotas de mantenimiento** — costos recurrentes aunque la unidad esté desocupada
-- **Menos carácter** — las obras nuevas carecen del alma de una casa colonial restaurada
-- **Reglas y vecinos** — debes seguir el reglamento del edificio y compartir muros
-- **Sin terreno exterior** — un balcón o una terraza compartida suele ser el límite de tu espacio privado
+- **Cuotas de mantenimiento**, costos recurrentes aunque la unidad esté desocupada
+- **Menos carácter**, las obras nuevas carecen del alma de una casa colonial restaurada
+- **Reglas y vecinos**, debes seguir el reglamento del edificio y compartir muros
+- **Sin terreno exterior**, un balcón o una terraza compartida suele ser el límite de tu espacio privado
 
 ## ¿Es un Condominio Adecuado para Ti?
 
-Elige un condominio o apartamento en Antigua si valoras la simplicidad, la seguridad y el bajo mantenimiento, o si quieres entrar al mercado a un precio menor con miras a la renta. Elige una casa colonial completa si tu prioridad es el carácter, la privacidad, el espacio de jardín y la experiencia tradicional de Antigua — y estás preparado para el mantenimiento y el presupuesto mayor.
+Elige un condominio o apartamento en Antigua si valoras la simplicidad, la seguridad y el bajo mantenimiento, o si quieres entrar al mercado a un precio menor con miras a la renta. Elige una casa colonial completa si tu prioridad es el carácter, la privacidad, el espacio de jardín y la experiencia tradicional de Antigua, y estás preparado para el mantenimiento y el presupuesto mayor.
 
 Sea cual sea tu decisión, el primer paso es ver qué hay realmente en el mercado en tu rango de precio.
 
 ## Encuentra tu Condominio en Antigua
 
-Explora nuestros [listados de propiedades actuales](/es/properties/), incluidos condominios, apartamentos y casas coloniales en toda Antigua Guatemala. Si no estás seguro de qué tipo se ajusta a tus objetivos, [contáctanos](/es/contact/) — nuestro equipo bilingüe puede ayudarte a comparar el carácter colonial frente a la vida moderna de bajo mantenimiento y encontrar la opción adecuada para tu presupuesto y tus planes.
+Explora nuestros [listados de propiedades actuales](/es/properties/), incluidos condominios, apartamentos y casas coloniales en toda Antigua Guatemala. Si no estás seguro de qué tipo se ajusta a tus objetivos, [contáctanos](/es/contact/), nuestro equipo bilingüe puede ayudarte a comparar el carácter colonial frente a la vida moderna de bajo mantenimiento y encontrar la opción adecuada para tu presupuesto y tus planes.

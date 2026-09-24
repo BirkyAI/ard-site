@@ -9,7 +9,7 @@ date: 2026-07-08
 
 Yes, Antigua Guatemala is considered one of the safest towns in Central America for expats and foreign visitors. With a strong police presence, a large international community, and decades of tourism infrastructure, Antigua offers a level of comfort that draws thousands of foreigners to live here year-round. That said, understanding the local safety landscape helps you make smarter decisions from day one.
 
-This guide covers what safety actually looks like on the ground — not headlines, but the everyday reality expats experience living in Antigua.
+This guide covers what safety actually looks like on the ground, not headlines, but the everyday reality expats experience living in Antigua.
 
 ## Why Antigua Feels Different From the Rest of Guatemala
 
@@ -17,7 +17,7 @@ Antigua is not Guatemala City. This distinction matters more than most people re
 
 ### Heavy Police and Tourism Police Presence
 
-Antigua has dedicated tourist police (Policía de Turismo) who patrol the central plaza, main streets, and popular walking areas daily. The national police (PNC) maintain a strong presence throughout town. You will regularly see officers on foot, bicycle, and in patrol vehicles — especially in the historic center.
+Antigua has dedicated tourist police (Policía de Turismo) who patrol the central plaza, main streets, and popular walking areas daily. The national police (PNC) maintain a strong presence throughout town. You will regularly see officers on foot, bicycle, and in patrol vehicles, especially in the historic center.
 
 This is not typical for Guatemalan towns. Antigua receives special attention because of its economic importance as the country's top tourist destination.
 
@@ -25,11 +25,11 @@ This is not typical for Guatemalan towns. Antigua receives special attention bec
 
 With an estimated 2,000 to 3,000 foreigners living in or near Antigua full-time, there is a robust informal safety network. Expats share information about neighborhoods, service providers, and any emerging concerns through WhatsApp groups, Facebook communities, and word of mouth. If something happens, the community talks about it quickly.
 
-## Common Safety Concerns — and What the Data Actually Shows
+## Common Safety Concerns, and What the Data Actually Shows
 
 ### Petty Theft
 
-The most common crime affecting foreigners in Antigua is petty theft — pickpocketing, bag snatching, and opportunistic theft from vehicles. This is comparable to any popular tourist destination worldwide.
+The most common crime affecting foreigners in Antigua is petty theft, pickpocketing, bag snatching, and opportunistic theft from vehicles. This is comparable to any popular tourist destination worldwide.
 
 **Practical steps:**
 - Use a crossbody bag rather than a backpack in crowded areas
@@ -39,13 +39,13 @@ The most common crime affecting foreigners in Antigua is petty theft — pickpoc
 
 ### Home Security
 
-Most colonial homes in Antigua have high walls, metal bars on windows, and heavy wooden or metal front doors — standard architectural features that double as security measures. Gated communities and newer developments add security guards and controlled access.
+Most colonial homes in Antigua have high walls, metal bars on windows, and heavy wooden or metal front doors, standard architectural features that double as security measures. Gated communities and newer developments add security guards and controlled access.
 
 **When choosing a home:**
 - Look for properties with exterior lighting, high walls, and secure entry points
 - Many expats add security cameras and alarm systems (affordable and widely available)
 - Dogs are both a lifestyle feature and an effective security presence
-- Ask neighbors about the block — Antigua neighborhoods vary street by street
+- Ask neighbors about the block. Antigua neighborhoods vary street by street
 
 ### Walking at Night
 
@@ -57,12 +57,12 @@ Outside this core zone, some streets are quieter and less well-lit after dark. W
 
 Expats live across several areas around Antigua, each with its own character:
 
-- **Antigua Centro Histórico** — The walkable heart of town. Highest police presence, busiest streets, most expat-oriented services. Day-to-day safety is excellent.
-- **Jocotenango** — Just north of Antigua. Quieter residential feel with strong local community. Popular with families.
-- **Ciudad Vieja** — The original colonial capital, about 10 minutes south. More rural feel, growing expat interest.
-- **San Juan del Obispo** — Hillside location with stunning views. Small-town feel, very safe.
-- **San Miguel Dueñas** — Agricultural town with a slower pace. Fewer foreigners but very peaceful.
-- **El Hato** — Mountain village above Antigua. Remote, quiet, nature-forward living.
+- **Antigua Centro Histórico**. The walkable heart of town. Highest police presence, busiest streets, most expat-oriented services. Day-to-day safety is excellent.
+- **Jocotenango**. Just north of Antigua. Quieter residential feel with strong local community. Popular with families.
+- **Ciudad Vieja**. The original colonial capital, about 10 minutes south. More rural feel, growing expat interest.
+- **San Juan del Obispo**. Hillside location with stunning views. Small-town feel, very safe.
+- **San Miguel Dueñas**. Agricultural town with a slower pace. Fewer foreigners but very peaceful.
+- **El Hato**. Mountain village above Antigua. Remote, quiet, nature-forward living.
 
 In all these areas, the safety profile is broadly similar: low violent crime, occasional petty theft, and a general atmosphere where neighbors look out for each other.
 
@@ -70,11 +70,11 @@ In all these areas, the safety profile is broadly similar: low violent crime, oc
 
 Safety extends beyond crime to include access to medical care. Antigua has several private clinics and hospitals:
 
-- **Hospital Hermano Pedro** — The main public hospital in Antigua
-- **Multiple private clinics** — Offering general practice, dentistry, and specialist care
-- **Proximity to Guatemala City hospitals** — World-class private hospitals like Hospital Herrera Llerandi are about 45 minutes away
+- **Hospital Hermano Pedro**. The main public hospital in Antigua
+- **Multiple private clinics**. Offering general practice, dentistry, and specialist care
+- **Proximity to Guatemala City hospitals**. World-class private hospitals like Hospital Herrera Llerandi are about 45 minutes away
 
-Many expats carry international health insurance (Cigna, IMG, or SafetyWing for digital nomads). Guatemalan private healthcare is high quality and affordable — a specialist visit typically costs $30-60 USD.
+Many expats carry international health insurance (Cigna, IMG, or SafetyWing for digital nomads). Guatemalan private healthcare is high quality and affordable, a specialist visit typically costs $30-60 USD.
 
 ## Practical Safety Tips From Long-Term Expats
 

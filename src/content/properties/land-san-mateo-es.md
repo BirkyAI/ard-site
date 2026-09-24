@@ -69,12 +69,12 @@ Este terreno en venta en San Mateo Milpas Altas, cerca de Antigua Guatemala, ofr
 
 Los terrenos grandes cerca de Antigua Guatemala son cada vez más escasos. Esta propiedad ofrece:
 
-- **Listo para construir** — Cimentación y muros de contención ya en su lugar
-- **Servicios conectados** — Sin espera para agua y electricidad
-- **Privacidad** — Retirado del camino con privacidad total
-- **Vistas** — Hermosas vistas a montañas y valle
-- **Zona en crecimiento** — San Mateo Milpas Altas es una comunidad de extranjeros en rápido crecimiento
-- **A 30 minutos de Antigua** — Lo suficientemente cerca para conveniencia, lo suficientemente lejos para paz y tranquilidad
+- **Listo para construir**. Cimentación y muros de contención ya en su lugar
+- **Servicios conectados**. Sin espera para agua y electricidad
+- **Privacidad**. Retirado del camino con privacidad total
+- **Vistas**. Hermosas vistas a montañas y valle
+- **Zona en crecimiento**. San Mateo Milpas Altas es una comunidad de extranjeros en rápido crecimiento
+- **A 30 minutos de Antigua**. Lo suficientemente cerca para conveniencia, lo suficientemente lejos para paz y tranquilidad
 
 ## Ubicación
 

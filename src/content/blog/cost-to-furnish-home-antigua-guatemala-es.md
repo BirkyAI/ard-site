@@ -10,7 +10,7 @@ lang: "es"
 
 Amueblar una casa en Antigua Guatemala cuesta entre $3,000 y $6,000 para un equipamiento básico de dos habitaciones, entre $8,000 y $15,000 para una casa cómoda de gama media, y entre $20,000 y $40,000 o más si quieres piezas coloniales a medida y muebles importados. Una casa colonial de tres habitaciones suele costar entre $10,000 y $18,000 cuando se amuebla desde cero con una mezcla de piezas locales y hechas a medida.
 
-Si acabas de comprar una propiedad aquí — o estás por hacerlo — una de las primeras preguntas es cuánto se necesita para que la casa se sienta como un hogar. La buena noticia es que Antigua tiene una gran cantidad de artesanos locales, mercados de muebles muy competitivos y precios bastante por debajo de lo que pagarías en Norteamérica o Europa. Esto es lo que cuesta en realidad, ambiente por ambiente, además de dónde comprar y cómo ahorrar.
+Si acabas de comprar una propiedad aquí, o estás por hacerlo, una de las primeras preguntas es cuánto se necesita para que la casa se sienta como un hogar. La buena noticia es que Antigua tiene una gran cantidad de artesanos locales, mercados de muebles muy competitivos y precios bastante por debajo de lo que pagarías en Norteamérica o Europa. Esto es lo que cuesta en realidad, ambiente por ambiente, además de dónde comprar y cómo ahorrar.
 
 ## Costo de Amueblar Según el Presupuesto
 
@@ -79,7 +79,7 @@ Si todavía estás eligiendo una propiedad, nuestra guía sobre las [casas colon
 
 ## ¿Cuánto Tiempo Toma Amueblar una Casa?
 
-Una casa funcional se puede amueblar en una o dos semanas si compras existencias locales. Una casa totalmente a medida — con muebles hechos a pedido y electrodomésticos importados — toma de uno a tres meses. Planea un enfoque por etapas: primero lo esencial, y las piezas a medida a medida que se van completando.
+Una casa funcional se puede amueblar en una o dos semanas si compras existencias locales. Una casa totalmente a medida, con muebles hechos a pedido y electrodomésticos importados, toma de uno a tres meses. Planea un enfoque por etapas: primero lo esencial, y las piezas a medida a medida que se van completando.
 
 ## ¿Planeas Mudarte a Antigua?
 

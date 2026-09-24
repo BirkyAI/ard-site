@@ -1,17 +1,17 @@
 ---
 title: "Long-Term Rentals in Antigua Guatemala"
 tag: "Relocation"
-excerpt: "Everything you need to know about finding and securing a long-term rental in Antigua Guatemala — neighborhoods, pricing, lease terms, and insider tips."
+excerpt: "Everything you need to know about finding and securing a long-term rental in Antigua Guatemala, neighborhoods, pricing, lease terms, and insider tips."
 image: "/images/blog/ai-generated/antigua-garden-pool.png"
 alt: "Lush garden courtyard with tropical plants and a pool at a colonial rental property in Antigua Guatemala"
 date: 2026-07-06
 ---
 
-Finding a long-term rental in Antigua Guatemala is one of the first practical steps for anyone planning to live here — whether you are relocating full-time, testing the waters before buying, or simply want a home base in one of Central America's most charming colonial cities. The rental market in Antigua is active and varied, but it works differently from what most foreigners expect. This guide walks you through everything: where to look, what to expect, how lease terms work, and how to avoid common pitfalls.
+Finding a long-term rental in Antigua Guatemala is one of the first practical steps for anyone planning to live here, whether you are relocating full-time, testing the waters before buying, or simply want a home base in one of Central America's most charming colonial cities. The rental market in Antigua is active and varied, but it works differently from what most foreigners expect. This guide walks you through everything: where to look, what to expect, how lease terms work, and how to avoid common pitfalls.
 
 ## How the Antigua Guatemala Rental Market Works
 
-Antigua's rental market is not like the United States or Europe. There is no centralized MLS for rentals, and many of the best properties never appear on public listings. The majority of high-quality long-term rentals are marketed through local real estate agents, word of mouth, and social media groups. Facebook Marketplace and local WhatsApp groups are where many renters start, but the most reliable path — especially for furnished homes — is working with a trusted local agent who manages multiple properties.
+Antigua's rental market is not like the United States or Europe. There is no centralized MLS for rentals, and many of the best properties never appear on public listings. The majority of high-quality long-term rentals are marketed through local real estate agents, word of mouth, and social media groups. Facebook Marketplace and local WhatsApp groups are where many renters start, but the most reliable path, especially for furnished homes, is working with a trusted local agent who manages multiple properties.
 
 Inventory fluctuates seasonally. From November through April (dry season and high tourism months), furnished rentals can be harder to secure because some owners prefer short-term Airbnb income. From May through October, the market loosens and you have more negotiating power on lease terms and pricing.
 
@@ -44,7 +44,7 @@ This is where Antigua rentals differ most from what foreigners are used to. In a
 - **Sometimes included:** Internet, electricity, gardening, and weekly housekeeping (common in furnished rentals at higher price points)
 - **Usually not included:** Electricity (you pay directly to the utility company, EEGSA), personal items, and sometimes gas for cooking
 
-Always clarify before signing what is included and what is not. Premium rental properties — like those at Finca El Tambor in El Hato — often bundle water, electricity, internet, garbage, gardening, maintenance, and weekly housekeeping into the monthly rent, which makes budgeting much simpler.
+Always clarify before signing what is included and what is not. Premium rental properties, like those at Finca El Tambor in El Hato, often bundle water, electricity, internet, garbage, gardening, maintenance, and weekly housekeeping into the monthly rent, which makes budgeting much simpler.
 
 ## Lease Terms and Security Deposits
 
@@ -56,7 +56,7 @@ Standard long-term lease terms in Antigua run from six months to one year. Some 
 
 ## Best Neighborhoods for Long-Term Rentals
 
-Antigua is compact — the entire city center is walkable — but the neighborhoods surrounding it offer very different living experiences.
+Antigua is compact, the entire city center is walkable, but the neighborhoods surrounding it offer very different living experiences.
 
 ### Centro Histórico (Historic Center)
 
@@ -68,7 +68,7 @@ Just a few blocks from the center, these neighborhoods offer a quieter residenti
 
 ### El Hato
 
-Located about 15 minutes above Antigua in the hills, El Hato offers cooler temperatures, stunning volcano views, and a peaceful rural setting. Properties here tend to be larger with gardens and outdoor spaces. The trade-off is you need a car or reliable transportation to get to town. Ideal for families, remote workers, and anyone who values space and nature. Several of Antigua's most distinctive rental properties — including unique eco-houses and luxury cabins — are located at Finca El Tambor in El Hato.
+Located about 15 minutes above Antigua in the hills, El Hato offers cooler temperatures, stunning volcano views, and a peaceful rural setting. Properties here tend to be larger with gardens and outdoor spaces. The trade-off is you need a car or reliable transportation to get to town. Ideal for families, remote workers, and anyone who values space and nature. Several of Antigua's most distinctive rental properties, including unique eco-houses and luxury cabins, are located at Finca El Tambor in El Hato.
 
 ### Ciudad Vieja
 
@@ -84,7 +84,7 @@ Here is the most effective approach to finding a long-term rental in Antigua:
 
 **1. Work with a local real estate agent.** An experienced agent who knows the market can save you weeks of searching. They have access to listings that never appear online, can negotiate on your behalf, and understand the legal requirements. Luna Jerney at Antigua Real Estate Development manages several rental properties and can help you find the right fit for your needs and budget.
 
-**2. Check Facebook groups.** Search for "Antigua Guatemala Rentals" or "Alquiler Antigua Guatemala" on Facebook. New listings appear daily, but be prepared to act quickly — good properties go fast.
+**2. Check Facebook groups.** Search for "Antigua Guatemala Rentals" or "Alquiler Antigua Guatemala" on Facebook. New listings appear daily, but be prepared to act quickly, good properties go fast.
 
 **3. Walk the neighborhoods.** Some of the best rental opportunities are found by simply walking around and looking for "Se Alquila" (For Rent) signs. This works especially well in the center and surrounding barrios.
 
@@ -96,7 +96,7 @@ Here is the most effective approach to finding a long-term rental in Antigua:
 
 **Skipping the written lease.** Even if the landlord seems trustworthy, get everything in writing. This protects both parties.
 
-**Not clarifying utility costs.** Electricity in Guatemala can be expensive compared to rent — ask for recent electricity bills to estimate your monthly costs.
+**Not clarifying utility costs.** Electricity in Guatemala can be expensive compared to rent, ask for recent electricity bills to estimate your monthly costs.
 
 **Ignoring water supply issues.** Some areas of Antigua have intermittent water supply, especially during the dry season. Ask about water tanks (tanques) and the water schedule.
 

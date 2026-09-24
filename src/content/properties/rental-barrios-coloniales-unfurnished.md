@@ -1,5 +1,5 @@
 ---
-title: "3BR Unfurnished Rental in Gated Community — San Pedro Las Huertas"
+title: "3BR Unfurnished Rental in Gated Community. San Pedro Las Huertas"
 location: "San Pedro Las Huertas, Condominio Barrios Coloniales"
 price: 900
 priceLabel: "$900/month"
@@ -42,33 +42,33 @@ gallery:
 
 ## About This Rental
 
-A great unfurnished 3-bedroom home available in **Condominio Barrios Coloniales**, a secure gated community in San Pedro Las Huertas — just 10 minutes from Antigua Guatemala. Located just two doors down from our 4-bedroom rental in the same community, this is an excellent option if you prefer a smaller space to bring your own furniture and make truly yours.
+A great unfurnished 3-bedroom home available in **Condominio Barrios Coloniales**, a secure gated community in San Pedro Las Huertas, just 10 minutes from Antigua Guatemala. Located just two doors down from our 4-bedroom rental in the same community, this is an excellent option if you prefer a smaller space to bring your own furniture and make truly yours.
 
 ### What You Get
 
-- 🏡 **3 bedrooms, 2 bathrooms** — a comfortable layout for a small family or couple
+- 🏡 **3 bedrooms, 2 bathrooms**, a comfortable layout for a small family or couple
 - 🚗 **1 parking space** for car + extra room for motorcycles
-- 🍳 **Kitchen equipped with stovetop and oven** — just bring your own fridge
+- 🍳 **Kitchen equipped with stovetop and oven**, just bring your own fridge
 - 👗 **Walk-in closet** in the master bedroom *(currently being installed)*
 - 💦 **Washing machine** on the patio
 - 🚿 **Hot water** throughout + water filtration system
-- 🌿 **Private patio** — perfect for your own little garden
+- 🌿 **Private patio**, perfect for your own little garden
 - 🌇 **Rooftop terrace** with stunning wide views of Volcán de Agua
 - 🔒 **Secure gated community** with 24/7 access control
 - 🏊 **Condominium amenities:** swimming pool, jacuzzi, BBQ grill area, playground
-- 📍 **Close to Santa Clara shopping mall** — La Torre supermarket, banks, restaurants, MegaPaca
+- 📍 **Close to Santa Clara shopping mall**. La Torre supermarket, banks, restaurants, MegaPaca
 
 ### Lease Terms
 
 - 📝 1-year contract with option to extend
-- 🏷️ **$900/month** — includes condominium maintenance fee
+- 🏷️ **$900/month**, includes condominium maintenance fee
 - 💵 One month rent deposit required
 
 ### Why San Pedro Las Huertas?
 
-San Pedro Las Huertas is one of those spots locals love — quieter than Antigua, lower cost of living, but close enough to everything. You get the peace of a residential community with easy access to Antigua's restaurants, shops, and nightlife. The gated community offers security and amenities that standalone rentals in Antigua can't match.
+San Pedro Las Huertas is one of those spots locals love, quieter than Antigua, lower cost of living, but close enough to everything. You get the peace of a residential community with easy access to Antigua's restaurants, shops, and nightlife. The gated community offers security and amenities that standalone rentals in Antigua can't match.
 
 ### Contact
 
-📩 **Luna Jerney** — +502 3571 6181
-Questions or schedule a viewing — WhatsApp or call anytime!
+📩 **Luna Jerney**, +502 3571 6181
+Questions or schedule a viewing. WhatsApp or call anytime!

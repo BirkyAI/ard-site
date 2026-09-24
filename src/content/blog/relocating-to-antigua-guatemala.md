@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide to Relocating to Antigua Guatemala"
 tag: "Relocation"
-excerpt: "Everything you need to know about moving to Antigua — from visas to finding your first home."
+excerpt: "Everything you need to know about moving to Antigua, from visas to finding your first home."
 image: "/images/blog/ai-generated/relocating-to-antigua-guatemala.jpg"
 alt: "White moving van with open rear doors packed with cardboard boxes parked on a cobblestone street in front of white colonial buildings with terracotta roofs in Antigua Guatemala"
 date: 2025-11-07
@@ -33,4 +33,4 @@ Antigua offers an incredibly affordable lifestyle:
 
 ## Getting Around
 
-Antigua is a walkable city — most things are within a 15-minute walk. For longer trips, tuk-tuks cost $1-2 and Uber is available for trips to Guatemala City.
+Antigua is a walkable city, most things are within a 15-minute walk. For longer trips, tuk-tuks cost $1-2 and Uber is available for trips to Guatemala City.

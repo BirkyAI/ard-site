@@ -1,14 +1,14 @@
 ---
 title: "Antigua para Compradores Británicos"
 tag: "Relocation"
-excerpt: "Todo lo que los compradores británicos necesitan saber sobre la compra de propiedades en Antigua Guatemala — visas, costos, vecindarios y cómo el tipo de cambio GBP juega a su favor."
+excerpt: "Todo lo que los compradores británicos necesitan saber sobre la compra de propiedades en Antigua Guatemala, visas, costos, vecindarios y cómo el tipo de cambio GBP juega a su favor."
 image: "/images/blog/ai-generated/uk-buyers-antigua-guatemala.jpg"
 alt: "Calle colonial en Antigua Guatemala con adoquines y edificios coloridos contra un fondo de volcán"
 date: 2026-09-05
 lang: "es"
 ---
 
-Cada vez más compradores británicos están descubriendo Antigua Guatemala. Solo en 2025, las consultas de ciudadanos del Reino Unido sobre propiedades en la ciudad aumentaron significativamente, y la tendencia se acelera en 2026. Si usted es un comprador británico que considera un hogar en Antigua, aquí tiene todo lo que necesita saber — desde visas y costos hasta vecindarios y potencial de inversión a largo plazo.
+Cada vez más compradores británicos están descubriendo Antigua Guatemala. Solo en 2025, las consultas de ciudadanos del Reino Unido sobre propiedades en la ciudad aumentaron significativamente, y la tendencia se acelera en 2026. Si usted es un comprador británico que considera un hogar en Antigua, aquí tiene todo lo que necesita saber, desde visas y costos hasta vecindarios y potencial de inversión a largo plazo.
 
 Esta guía está escrita específicamente para compradores del Reino Unido, cubriendo las diferencias prácticas que importan al comprar propiedad en Guatemala como ciudadano británico.
 
@@ -26,7 +26,7 @@ Los compradores británicos disfrutan de una ventaja cambiaria significativa al 
 
 A septiembre de 2026, £1 compra aproximadamente 10.2 GTQ. Esto significa que una propiedad valorada en 2,000,000 GTQ cuesta aproximadamente £196,000. Hace dos años, la misma propiedad habría costado cerca de £220,000. La fortaleza de la libra frente al dólar y al quetzal ha hecho que las propiedades en Antigua sean más asequibles para los compradores del Reino Unido que en cualquier otro momento reciente.
 
-Esta ventaja cambiaria también se aplica a los costos continuos. Los gastos mensuales para una pareja que vive en Antigua — alquiler, servicios públicos, comida y atención médica — suelen oscilar entre £800 y £1,400 al mes, dependiendo del estilo de vida. Eso es menos que el pago promedio de una hipoteca en el Reino Unido.
+Esta ventaja cambiaria también se aplica a los costos continuos. Los gastos mensuales para una pareja que vive en Antigua, alquiler, servicios públicos, comida y atención médica, suelen oscilar entre £800 y £1,400 al mes, dependiendo del estilo de vida. Eso es menos que el pago promedio de una hipoteca en el Reino Unido.
 
 ## Opciones de Visa para Ciudadanos Británicos
 
@@ -42,7 +42,7 @@ La visa de nómada digital de Guatemala permite a los trabajadores remotos perma
 
 ### Residencia Permanente por Inversión
 
-Comprar una propiedad en Guatemala no otorga residencia automáticamente, pero fortalece significativamente una solicitud de residencia. Una inversión inmobiliaria de $50,000 o más demuestra su compromiso con el país y hace más probable la aprobación. Para inversiones más grandes — típicamente $100,000 o más — puede calificar para un proceso de residencia acelerado.
+Comprar una propiedad en Guatemala no otorga residencia automáticamente, pero fortalece significativamente una solicitud de residencia. Una inversión inmobiliaria de $50,000 o más demuestra su compromiso con el país y hace más probable la aprobación. Para inversiones más grandes, típicamente $100,000 o más, puede calificar para un proceso de residencia acelerado.
 
 ## El Proceso de Compra para Compradores Británicos
 
@@ -66,7 +66,7 @@ El cierre en Guatemala implica la firma de la escritura pública ante un notario
 
 ### Representación Legal
 
-Contratar a un abogado guatemalteco no es opcional — es obligatorio. Su abogado maneja la debida diligencia, redacta el contrato de compra y asegura que la transacción cumpla con la ley guatemalteca. Los honorarios legales generalmente oscilan entre el 1% y el 2% del valor de la propiedad. Para una visión completa de los requisitos legales, lea nuestra guía sobre el [proceso de cierre inmobiliario en Guatemala](/es/blog/guatemala-real-estate-closing-process/).
+Contratar a un abogado guatemalteco no es opcional, es obligatorio. Su abogado maneja la debida diligencia, redacta el contrato de compra y asegura que la transacción cumpla con la ley guatemalteca. Los honorarios legales generalmente oscilan entre el 1% y el 2% del valor de la propiedad. Para una visión completa de los requisitos legales, lea nuestra guía sobre el [proceso de cierre inmobiliario en Guatemala](/es/blog/guatemala-real-estate-closing-process/).
 
 ## Mejores Vecindarios para Compradores Británicos
 
@@ -74,7 +74,7 @@ Diferentes áreas de Antigua se adaptan a diferentes estilos de vida. Estos son 
 
 ### Centro Histórico
 
-El centro histórico es ideal para compradores que quieren estar en el corazón de la acción. Las propiedades aquí son casas coloniales con patios interiores, techos altos y arquitectura tradicional. Espere pagar una prima por la ubicación — una casa colonial restaurada en el centro comienza alrededor de £180,000.
+El centro histórico es ideal para compradores que quieren estar en el corazón de la acción. Las propiedades aquí son casas coloniales con patios interiores, techos altos y arquitectura tradicional. Espere pagar una prima por la ubicación, una casa colonial restaurada en el centro comienza alrededor de £180,000.
 
 ### San Pedro
 

@@ -1,6 +1,6 @@
 ---
-title: "Catarata — Cabaña Romántica en El Tambor"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Catarata. Cabaña Romántica en El Tambor"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/mes"
 beds: 1
@@ -38,7 +38,7 @@ gallery:
 
 ## Acerca de Esta Cabaña
 
-**Catarata** es una acogedora cabaña de madera de lujo ubicada dentro de la exclusiva **Finca El Tambor** en El Hato — un entorno natural privado y seguro sobre Antigua Guatemala. Diseñada como un refugio romántico, esta cabaña combina la calidez rústica con comodidades modernas en un entorno inmersivo de bosque.
+**Catarata** es una acogedora cabaña de madera de lujo ubicada dentro de la exclusiva **Finca El Tambor** en El Hato, un entorno natural privado y seguro sobre Antigua Guatemala. Diseñada como un refugio romántico, esta cabaña combina la calidez rústica con comodidades modernas en un entorno inmersivo de bosque.
 
 El amplio diseño de concepto abierto incluye una sala de estar acogedora, espacio para comedor, una cocina totalmente equipada, un baño privado en suite y un balcón privado elevado con impresionantes vistas al volcán rodeado de exuberante bosque.
 
@@ -46,12 +46,12 @@ El amplio diseño de concepto abierto incluye una sala de estar acogedora, espac
 
 - 🏡 **80 m²** de diseño amplio de concepto abierto en cabaña de madera
 - 🌋 **Vistas al volcán** desde tu terraza privada elevada
-- 🌿 **Entorno inmersivo de bosque** — rodeado de naturaleza
-- 🍳 **Cocina totalmente equipada** — electrodomésticos y utensilios modernos
-- 🏠 **Completamente amueblado** — listo para mudarse
+- 🌿 **Entorno inmersivo de bosque**, rodeado de naturaleza
+- 🍳 **Cocina totalmente equipada**, electrodomésticos y utensilios modernos
+- 🏠 **Completamente amueblado**, listo para mudarse
 - 🛁 **Baño privado en suite**
-- 🌲 **Balcón privado elevado** — perfecto para el café de la mañana o atardeceres
-- 🔒 **Propiedad segura** — terrenos privados con acceso controlado
+- 🌲 **Balcón privado elevado**, perfecto para el café de la mañana o atardeceres
+- 🔒 **Propiedad segura**, terrenos privados con acceso controlado
 
 ### Condiciones Generales
 
@@ -76,5 +76,5 @@ El Hato es un tranquilo pueblo montañoso justo sobre Antigua Guatemala, conocid
 
 ### Contacto
 
-📩 **Luna Jerney** — +502 3571 6181
+📩 **Luna Jerney**, +502 3571 6181
 ¿Preguntas o agendar una visita? ¡WhatsApp o llame en cualquier momento!

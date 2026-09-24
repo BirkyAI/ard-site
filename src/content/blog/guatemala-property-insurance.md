@@ -26,9 +26,9 @@ Many providers bundle both into a single policy. Premiums are typically lower th
 
 Several local insurers offer property coverage for residential homes. The most commonly used providers among foreigners and Guatemalan homeowners include:
 
-- **Aseguradora General (AG)** — One of the largest and most established insurers in Guatemala. They offer residential property packages that cover fire, earthquake, theft, and civil liability.
-- **Aseguradora Agrícola Comercial (AAC)** — Another major provider with flexible residential plans, popular with property owners in the Antigua area.
-- **Seguros G&T (Banco Industrial group)** — Often bundled with mortgage financing from the same banking group.
+- **Aseguradora General (AG)**. One of the largest and most established insurers in Guatemala. They offer residential property packages that cover fire, earthquake, theft, and civil liability.
+- **Aseguradora Agrícola Comercial (AAC)**. Another major provider with flexible residential plans, popular with property owners in the Antigua area.
+- **Seguros G&T (Banco Industrial group)**. Often bundled with mortgage financing from the same banking group.
 
 International brokers can also place coverage through Lloyds of London or other global carriers, which may offer higher limits and broader terms. This route tends to be more expensive but provides access to adjusters and claims processes familiar to US or European property owners.
 

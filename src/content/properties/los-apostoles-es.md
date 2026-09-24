@@ -1,5 +1,5 @@
 ---
-title: "Los Apóstoles — Casa Colonial en Comunidad Cerrada"
+title: "Los Apóstoles. Casa Colonial en Comunidad Cerrada"
 location: "Los Apóstoles, Antigua Guatemala"
 price: 615000
 beds: 4
@@ -37,7 +37,7 @@ gallery:
 
 ## Acerca de Esta Propiedad
 
-Bienvenido a **Los Apóstoles** — una oportunidad exclusiva de poseer una impresionante casa colonial moderna en una de las comunidades cerradas más codiciadas de Antigua Guatemala. Ubicada a solo **2.5 kilómetros del icónico Parque Central de Antigua**, esta propiedad ofrece la mezcla perfecta de lujo contemporáneo y encanto tradicional.
+Bienvenido a **Los Apóstoles**, una oportunidad exclusiva de poseer una impresionante casa colonial moderna en una de las comunidades cerradas más codiciadas de Antigua Guatemala. Ubicada a solo **2.5 kilómetros del icónico Parque Central de Antigua**, esta propiedad ofrece la mezcla perfecta de lujo contemporáneo y encanto tradicional.
 
 **Referencia:** ARD-LOS-001
 
@@ -50,45 +50,45 @@ Bienvenido a **Los Apóstoles** — una oportunidad exclusiva de poseer una impr
 - 🛁 **Baños:** 4 baños completos
 - 💰 **Precio:** $615,000 USD (negociable)
 - 🚗 **Estacionamiento:** Garaje privado
-- 🏡 **Estilo:** Moderno con Colonial — diseño sofisticado con carácter tradicional antigueño
+- 🏡 **Estilo:** Moderno con Colonial, diseño sofisticado con carácter tradicional antigueño
 - ⏱️ **Entrega:** Estimada 12-13 meses a partir de la compra
 
 ## Lo Que Hace Especial Esta Casa
 
 ### Diseño Pensado y Acabados Premium
 
-Esta casa está diseñada para la vida moderna con un toque de elegancia colonial. La **distribución en dos niveles** maximiza el espacio y la privacidad, con **dos recámaras en cada piso** — perfecta para familias o quienes disfrutan recibir invitados.
+Esta casa está diseñada para la vida moderna con un toque de elegancia colonial. La **distribución en dos niveles** maximiza el espacio y la privacidad, con **dos recámaras en cada piso**, perfecta para familias o quienes disfrutan recibir invitados.
 
 ### Vistas Impresionantes
 
-Sal a tu **terraza** privada y disfruta las vistas majestuosas del **Volcán de Agua** — uno de los volcanes más icónicos de Antigua. Ya sea tomando tu café matutino o viendo el atardecer, esta vista nunca se pone vieja.
+Sal a tu **terraza** privada y disfruta las vistas majestuosas del **Volcán de Agua**, uno de los volcanes más icónicos de Antigua. Ya sea tomando tu café matutino o viendo el atardecer, esta vista nunca se pone vieja.
 
 ### Jardín Central Exuberante
 
-En el corazón de la casa se encuentra un hermoso **jardín central de 50m²** — un oasis privado que lleva luz natural y aire fresco a los espacios de vida. Aquí la vida interior y exterior se fusionan perfectamente.
+En el corazón de la casa se encuentra un hermoso **jardín central de 50m²**, un oasis privado que lleva luz natural y aire fresco a los espacios de vida. Aquí la vida interior y exterior se fusionan perfectamente.
 
 ### Espacios Diseñados para la Vida
 
-- **Sala con chimenea** — tardes acogedoras en el corazón de Antigua
-- **Comedor dedicado** — perfecto para comidas familiares y entretenimiento
-- **Cocina moderna** — diseñada para funcionalidad y estilo
-- **Garaje privado** — estacionamiento seguro para tu vehículo
-- **Múltiples terrazas** — espacios de vida exterior a lo largo de la casa
+- **Sala con chimenea**, tardes acogedoras en el corazón de Antigua
+- **Comedor dedicado**, perfecto para comidas familiares y entretenimiento
+- **Cocina moderna**, diseñada para funcionalidad y estilo
+- **Garaje privado**, estacionamiento seguro para tu vehículo
+- **Múltiples terrazas**, espacios de vida exterior a lo largo de la casa
 
 ### Amenidades Exclusivas de la Comunidad
 
 Vivir en Los Apóstoles significa acceso a instalaciones comunitarias premium:
 
-- 🏊 **Alberca** — perfecta para los cálidos días de Antigua
-- 🏛️ **Salón de usos múltiples** — reuniones sociales y eventos comunitarios
-- 🔒 **Comunidad cerrada** — seguridad y tranquilidad
-- 🌳 **Áreas comunes bien cuidadas** — hermosa jardinería en toda la comunidad
+- 🏊 **Alberca**, perfecta para los cálidos días de Antigua
+- 🏛️ **Salón de usos múltiples**, reuniones sociales y eventos comunitarios
+- 🔒 **Comunidad cerrada**, seguridad y tranquilidad
+- 🌳 **Áreas comunes bien cuidadas**, hermosa jardinería en toda la comunidad
 
 ## Oportunidad de Inversión
 
 ### Estructura de Pago Flexible
 
-Para compras en preventa, los pagos se estructuran en fases durante el período de construcción — facilitando el manejo de tu inversión sin requerir el monto total por adelantado.
+Para compras en preventa, los pagos se estructuran en fases durante el período de construcción, facilitando el manejo de tu inversión sin requerir el monto total por adelantado.
 
 ### Financiamiento Disponible
 
@@ -116,4 +116,4 @@ Esta propiedad representa un valor excepcional en el mercado inmobiliario de Ant
 
 **¿Te gustaría saber más?** Contáctanos para agendar una visita o discutir opciones de financiamiento.
 
-*Antigua Real Estate Development — Tu socio de confianza en bienes raíces en Antigua Guatemala.*
+*Antigua Real Estate Development. Tu socio de confianza en bienes raíces en Antigua Guatemala.*

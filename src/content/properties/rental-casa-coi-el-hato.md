@@ -1,6 +1,6 @@
 ---
-title: "Casa Coi — Eco-House at Finca El Tambor"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Casa Coi. Eco-House at Finca El Tambor"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/month"
 beds: 1
@@ -41,18 +41,18 @@ gallery:
 
 **Casa Coi** is a charming tiny eco-house nestled among the trees within the exclusive **Finca El Tambor** in El Hato. Named after its beautiful koi pond, this unique retreat offers an immersive forest living experience with stunning volcano views right from your private elevated deck.
 
-The cabin features a cozy interior with a fully equipped kitchen and private bathroom. Outside, an elevated private deck with outdoor dining wraps around the side and back of the cabin, connecting to a private fireplace area and the signature koi pond — you can even feed the fish!
+The cabin features a cozy interior with a fully equipped kitchen and private bathroom. Outside, an elevated private deck with outdoor dining wraps around the side and back of the cabin, connecting to a private fireplace area and the signature koi pond, you can even feed the fish!
 
 ### What You Get
 
 - 🏡 **30 m²** cozy eco-house design nestled among the trees
 - 🌋 **Stunning volcano views** right in front of the house
 - 🎋 **Elevated private deck** with outdoor dining and panoramic forest views
-- 🐟 **Private koi pond** — feed the fish! (The cabin's namesake)
-- 🔥 **Private fireplace area** — perfect for cool mountain evenings
-- 🌿 **Immersive forest setting** — surrounded by nature on all sides
-- 🍳 **Fully equipped kitchen** — modern appliances and cookware
-- 🏠 **Fully furnished** — move-in ready
+- 🐟 **Private koi pond**, feed the fish! (The cabin's namesake)
+- 🔥 **Private fireplace area**, perfect for cool mountain evenings
+- 🌿 **Immersive forest setting**, surrounded by nature on all sides
+- 🍳 **Fully equipped kitchen**, modern appliances and cookware
+- 🏠 **Fully furnished**, move-in ready
 - 🛁 **Private bathroom**
 - 🌲 **Deck wraps around** the side and back of the cabin
 
@@ -79,5 +79,5 @@ El Hato is a peaceful mountain village just above Antigua Guatemala, known for i
 
 ### Contact
 
-📩 **Luna Jerney** — +502 3571 6181
-Questions or schedule a viewing — WhatsApp or call anytime!
+📩 **Luna Jerney**, +502 3571 6181
+Questions or schedule a viewing. WhatsApp or call anytime!

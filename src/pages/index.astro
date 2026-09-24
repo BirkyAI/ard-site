@@ -8,7 +8,7 @@ const allBlog = await getCollection('blog');
 const recentBlog = allBlog.filter(p => p.data.lang !== 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
 const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type":"RealEstateAgent","name":"Luna Jerney","jobTitle":"Real Estate Agent"},{"@type":"Organization","name":"Antigua Real Estate Development","alternateName":"ARD","url":"https://antiguarealestatedevelopment.com","logo":"https://antiguarealestatedevelopment.com/images/logo.jpg"},{"@type":"WebSite","name":"Antigua Real Estate Development","alternateName":"ARD","url":"https://antiguarealestatedevelopment.com"},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can foreigners buy property in Antigua Guatemala?","acceptedAnswer":{"@type":"Answer","text":"Yes! Foreigners can buy property in Guatemala with full ownership rights."}},{"@type":"Question","name":"How much does a house cost in Antigua Guatemala?","acceptedAnswer":{"@type":"Answer","text":"Colonial homes range from $150,000 to $800,000+."}},{"@type":"Question","name":"Is Antigua Guatemala good for expats?","acceptedAnswer":{"@type":"Answer","text":"One of the most popular expat destinations in Central America."}},{"@type":"Question","name":"Do I need a real estate agent?","acceptedAnswer":{"@type":"Answer","text":"Highly recommended for foreign buyers."}}]}]});
 ---
-<BaseLayout title="Antigua Real Estate Development | Antigua Guatemala" description="Find your dream home in Antigua Guatemala. Expert real estate guidance for expats and Guatemalans abroad — colonial homes, land, and investment properties." image="/images/header-pool-villa.jpg">
+<BaseLayout title="Antigua Real Estate Development | Antigua Guatemala" description="Find your dream home in Antigua Guatemala. Expert real estate guidance for expats and Guatemalans abroad, colonial homes, land, and investment properties." image="/images/header-pool-villa.jpg">
   <script type="application/ld+json" set:html={jsonLD} />
 
   <!-- HERO -->
@@ -114,7 +114,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
           <div style="border-radius:16px;padding:32px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);display:flex;flex-direction:column;gap:16px;">
             <div style="font-size:16px;letter-spacing:2px;">{review.stars}</div>
             <p style="font-size:15px;line-height:1.7;color:rgba(255,255,255,0.7);flex:1;">"{review.text}"</p>
-            <div style="font-size:14px;font-weight:600;">— {review.name}</div>
+            <div style="font-size:14px;font-weight:600;">- {review.name}</div>
           </div>
         ))}
       </div>
@@ -134,7 +134,7 @@ const jsonLD = JSON.stringify({"@context":"https://schema.org","@graph":[{"@type
         <div>
           <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:3px;color:var(--color-text-muted);margin-bottom:8px;">Your Agent</div>
           <h2 style="font-size:clamp(26px,4vw,36px);font-weight:600;letter-spacing:-0.5px;line-height:1.2;margin-bottom:24px;">Hi, I'm Luna Jerney</h2>
-          <p style="font-size:16px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:16px;">I moved to Antigua Guatemala from the Netherlands over 5 years ago and fell in love with this city — the colonial beauty, the volcanoes, the community, and the lifestyle.</p>
+          <p style="font-size:16px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:16px;">I moved to Antigua Guatemala from the Netherlands over 5 years ago and fell in love with this city, the colonial beauty, the volcanoes, the community, and the lifestyle.</p>
           <p style="font-size:16px;color:var(--color-text-secondary);line-height:1.7;margin-bottom:24px;">As a fellow expat, I understand the challenges of buying property in a foreign country. I specialize in helping expats and Guatemalans abroad navigate the real estate market with confidence.</p>
           <div style="display:flex;gap:8px;margin-bottom:24px;flex-wrap:wrap;">
             <span style="padding:6px 14px;background:white;border:1px solid #ccc;border-radius:9999px;font-size:13px;font-weight:500;">English</span>

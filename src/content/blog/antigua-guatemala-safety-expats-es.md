@@ -10,7 +10,7 @@ lang: "es"
 
 Sí, Antigua Guatemala es considerada uno de los pueblos más seguros de Centroamérica para extranjeros y visitantes. Con una fuerte presencia policial, una gran comunidad internacional y décadas de infraestructura turística, Antigua ofrece un nivel de comodidad que atrae a miles de personas extranjeras a vivir aquí todo el año. Dicho esto, entender el panorama local de seguridad te ayuda a tomar mejores decisiones desde el primer día.
 
-Esta guía cubre cómo es la seguridad en la vida diaria — no titulares de periódico, sino la realidad cotidiana que los extranjeros experimentan viviendo en Antigua.
+Esta guía cubre cómo es la seguridad en la vida diaria, no titulares de periódico, sino la realidad cotidiana que los extranjeros experimentan viviendo en Antigua.
 
 ## Por Qué Antigua Se Siente Distinta al Resto de Guatemala
 
@@ -18,7 +18,7 @@ Antigua no es Ciudad de Guatemala. Esta distinción importa más de lo que la ma
 
 ### Fuerte Presencia Policial y de Policía de Turismo
 
-Antigua cuenta con policía de turismo dedicada (Policía de Turismo) que patrulla la plaza central, las calles principales y las zonas peatonales más transitadas todos los días. La policía nacional (PNC) mantiene una presencia fuerte en todo el pueblo. Vas a ver oficiales regularmente a pie, en bicicleta y en patrullas — especialmente en el centro histórico.
+Antigua cuenta con policía de turismo dedicada (Policía de Turismo) que patrulla la plaza central, las calles principales y las zonas peatonales más transitadas todos los días. La policía nacional (PNC) mantiene una presencia fuerte en todo el pueblo. Vas a ver oficiales regularmente a pie, en bicicleta y en patrullas, especialmente en el centro histórico.
 
 Esto no es lo común en los pueblos guatemaltecos. Antigua recibe atención especial por su importancia económica como el destino turístico número uno del país.
 
@@ -26,11 +26,11 @@ Esto no es lo común en los pueblos guatemaltecos. Antigua recibe atención espe
 
 Con un estimado de 2,000 a 3,000 extranjeros viviendo en o cerca de Antigua de forma permanente, existe una red informal robusta de seguridad. Los extranjeros comparten información sobre barrios, proveedores de servicios y cualquier preocupación emergente a través de grupos de WhatsApp, comunidades de Facebook y el boca a boca. Si algo sucede, la comunidad lo comenta rápidamente.
 
-## Preocupaciones Comunes de Seguridad — y Qué Muestran los Datos Realmente
+## Preocupaciones Comunes de Seguridad, y Qué Muestran los Datos Realmente
 
 ### Hurtos Menores
 
-El delito más común que afecta a los extranjeros en Antigua son los hurtos menores — carterismo, robo de bolsas y hurtos oportunistas de vehículos. Esto es comparable a cualquier destino turístico popular del mundo.
+El delito más común que afecta a los extranjeros en Antigua son los hurtos menores, carterismo, robo de bolsas y hurtos oportunistas de vehículos. Esto es comparable a cualquier destino turístico popular del mundo.
 
 **Medidas prácticas:**
 - Usá una bolso cruzado en vez de una mochila en zonas concurridas
@@ -40,13 +40,13 @@ El delito más común que afecta a los extranjeros en Antigua son los hurtos men
 
 ### Seguridad del Hogar
 
-La mayoría de las casas coloniales en Antigua tienen muros altos, barras de metal en las ventanas y puertas pesadas de madera o metal — características arquitectónicas estándar que doblan como medidas de seguridad. Las comunidades cerradas y desarrollos más nuevos suman guardias de seguridad y acceso controlado.
+La mayoría de las casas coloniales en Antigua tienen muros altos, barras de metal en las ventanas y puertas pesadas de madera o metal, características arquitectónicas estándar que doblan como medidas de seguridad. Las comunidades cerradas y desarrollos más nuevos suman guardias de seguridad y acceso controlado.
 
 **Al elegir una casa:**
 - Buscá propiedades con iluminación exterior, muros altos y puntos de entrada seguros
 - Muchos extranjeros agregan cámaras de seguridad y sistemas de alarma (económicos y ampliamente disponibles)
 - Los perros son tanto un estilo de vida como una presencia efectiva de seguridad
-- Preguntale a los vecinos sobre la cuadra — los barrios de Antigua varían calle por calle
+- Preguntale a los vecinos sobre la cuadra, los barrios de Antigua varían calle por calle
 
 ### Caminar de Noche
 
@@ -58,12 +58,12 @@ Fuera de esta zona central, algunas calles son más tranquilas y menos iluminada
 
 Los extranjeros viven en varias áreas alrededor de Antigua, cada una con su propio carácter:
 
-- **Antigua Centro Histórico** — El corazón caminable del pueblo. Mayor presencia policial, calles más transitadas, servicios más orientados a extranjeros. La seguridad día a día es excelente.
-- **Jocotenango** — Justo al norte de Antigua. Ambiente residencial más tranquilo con una fuerte comunidad local. Popular entre familias.
-- **Ciudad Vieja** — La capital colonial original, a unos 10 minutos al sur. Ambiente más rural, creciente interés de extranjeros.
-- **San Juan del Obispo** — Ubicación en ladera con vistas impresionantes. Sensación de pueblo pequeño, muy seguro.
-- **San Miguel Dueñas** — Pueblo agrícola con un ritmo más lento. Menos extranjeros pero muy tranquilo.
-- **El Hato** — Pueblo de montaña sobre Antigua. Remoto, silencioso, vida en contacto con la naturaleza.
+- **Antigua Centro Histórico**. El corazón caminable del pueblo. Mayor presencia policial, calles más transitadas, servicios más orientados a extranjeros. La seguridad día a día es excelente.
+- **Jocotenango**. Justo al norte de Antigua. Ambiente residencial más tranquilo con una fuerte comunidad local. Popular entre familias.
+- **Ciudad Vieja**. La capital colonial original, a unos 10 minutos al sur. Ambiente más rural, creciente interés de extranjeros.
+- **San Juan del Obispo**. Ubicación en ladera con vistas impresionantes. Sensación de pueblo pequeño, muy seguro.
+- **San Miguel Dueñas**. Pueblo agrícola con un ritmo más lento. Menos extranjeros pero muy tranquilo.
+- **El Hato**. Pueblo de montaña sobre Antigua. Remoto, silencioso, vida en contacto con la naturaleza.
 
 En todas estas áreas, el perfil de seguridad es ampliamente similar: bajo crimen violento, hurtos menores ocasionales y una atmósfera general donde los vecinos se cuidan entre sí.
 
@@ -71,11 +71,11 @@ En todas estas áreas, el perfil de seguridad es ampliamente similar: bajo crime
 
 La seguridad va más allá del crimen para incluir el acceso a atención médica. Antigua tiene varias clínicas y hospitales privados:
 
-- **Hospital Hermano Pedro** — El hospital público principal de Antigua
-- **Múltiples clínicas privadas** — Que ofrecen medicina general, odontología y especialidades
-- **Proximidad a hospitales de Ciudad de Guatemala** — Hospitales privados de primer nivel como el Hospital Herrera Llerandi están a unos 45 minutos
+- **Hospital Hermano Pedro**. El hospital público principal de Antigua
+- **Múltiples clínicas privadas**. Que ofrecen medicina general, odontología y especialidades
+- **Proximidad a hospitales de Ciudad de Guatemala**. Hospitales privados de primer nivel como el Hospital Herrera Llerandi están a unos 45 minutos
 
-Muchos extranjeros tienen seguro médico internacional (Cigna, IMG o SafetyWing para nómadas digitales). La atención médica privada en Guatemala es de alta calidad y accesible — una consulta con especialista cuesta típicamente entre $30 y $60 USD.
+Muchos extranjeros tienen seguro médico internacional (Cigna, IMG o SafetyWing para nómadas digitales). La atención médica privada en Guatemala es de alta calidad y accesible, una consulta con especialista cuesta típicamente entre $30 y $60 USD.
 
 ## Consejos Prácticos de Seguridad de Extranjeros con Experiencia
 

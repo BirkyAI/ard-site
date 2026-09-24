@@ -10,11 +10,11 @@ lang: "en"
 
 The single most common question buyers ask us is simple: **what can I actually get for my budget in Antigua Guatemala?** The honest answer is that the market splits into clear price bands, and knowing which band you're shopping in saves you weeks of wasted viewings.
 
-Here's a practical guide to Antigua's property price bands in 2026, what each one realistically buys, and where the value lies. Prices below are verified guides from active listings, not marketing averages — they move, but the bands hold.
+Here's a practical guide to Antigua's property price bands in 2026, what each one realistically buys, and where the value lies. Prices below are verified guides from active listings, not marketing averages, they move, but the bands hold.
 
 ### Why Antigua doesn't price like a normal town
 
-Before the numbers, understand the two forces shaping every price. First, **Antigua is a UNESCO World Heritage town** — the entire colonial center is protected, so new construction is tightly limited and there's a hard cap on land in the casco histórico. Second, **every property is a renovation story**: a raw colonial shell needs wiring, plumbing and structural work that can rival the purchase price. This is why two houses on the same street can differ by $400,000 — the gap is almost always the state of the restoration, not the location.
+Before the numbers, understand the two forces shaping every price. First, **Antigua is a UNESCO World Heritage town**, the entire colonial center is protected, so new construction is tightly limited and there's a hard cap on land in the casco histórico. Second, **every property is a renovation story**: a raw colonial shell needs wiring, plumbing and structural work that can rival the purchase price. This is why two houses on the same street can differ by $400,000, the gap is almost always the state of the restoration, not the location.
 
 ## Under $200,000: condos and starter apartments
 
@@ -23,13 +23,13 @@ This band is the entry point, and in Antigua it buys a **condominium, not a colo
 - A **1–2 bedroom condo** in an established building with shared courtyard and pool
 - A **small apartment** in the casco or the walkable barrios (Santa Ana, San Pedro)
 
-What it *doesn't* buy is a free-standing colonial home — those rarely appear below $250,000 in the historic center. The sweet spot here is rental yield: a well-managed 1-bedroom condo in tourist traffic can gross 7–10% a year against a manageable purchase price.
+What it *doesn't* buy is a free-standing colonial home, those rarely appear below $250,000 in the historic center. The sweet spot here is rental yield: a well-managed 1-bedroom condo in tourist traffic can gross 7–10% a year against a manageable purchase price.
 
 **Who this fits:** first buyers, budget investors chasing cash flow, and buyers who want ownership without restoration headaches.
 
 ## $200,000–$350,000: the value zone for renovated casas
 
-This is where Antigua gets interesting. From around $220,000 you start seeing **renovated courtyard houses** — one to two bedrooms around a central patio, with updated kitchens and bathrooms. Step up toward $300,000–$350,000 and you get:
+This is where Antigua gets interesting. From around $220,000 you start seeing **renovated courtyard houses**, one to two bedrooms around a central patio, with updated kitchens and bathrooms. Step up toward $300,000–$350,000 and you get:
 
 - A **2–3 bedroom colonial** in decent, move-in condition
 - A **renovated house in a barrio** like San Pedro or Jocotenango with parking
@@ -47,7 +47,7 @@ Cross toward $400,000 and the choice widens meaningfully. For **$350,000–$450,
 - A **modern build** behind a colonial facade, competently done
 - A **house with parking** (rare and valuable in the casco) plus a garden
 
-Many serious expats and investors land here. At this level, restoration quality is the whole game — a poor structural retrofit turns a bargain into a money pit.
+Many serious expats and investors land here. At this level, restoration quality is the whole game, a poor structural retrofit turns a bargain into a money pit.
 
 **Who this fits:** families, remote workers wanting long-term comfort, and buyers who want to move straight in without a project.
 
@@ -59,7 +59,7 @@ From around **$600,000–$750,000** you begin to see the standout inventory: **g
 - A **premium property with direct volcano views** (a major premium in Antigua)
 - A **candidate for a boutique guest house or event space**
 
-These are trophy assets with strong resale presence. Because the stock is small and protected, top-tier casco homes appreciate reliably — but they demand careful structural and heritage due diligence before you commit.
+These are trophy assets with strong resale presence. Because the stock is small and protected, top-tier casco homes appreciate reliably, but they demand careful structural and heritage due diligence before you commit.
 
 **Who this fits:** buyers wanting a flagship home or an income-producing estate property.
 
@@ -84,6 +84,6 @@ Add 10–15% to your purchase number for these before you decide a band is affor
 
 ## Start with a clear number
 
-Antigua rewards buyers who know their ceiling before they start viewing. Decide your band, factor in the hidden costs, and you'll move fast when the right casa appears — because in a protected heritage town, the right property doesn't wait.
+Antigua rewards buyers who know their ceiling before they start viewing. Decide your band, factor in the hidden costs, and you'll move fast when the right casa appears, because in a protected heritage town, the right property doesn't wait.
 
-If you're weighing your budget against what's actually on the market, we can shortlist the homes that genuinely fit your number — no time wasted on frosted-glass listings that were never within reach. Browse our current [property listings](/properties/), see how we [manage and restore homes](/services/), or [get in touch](/contact/) and tell us your budget. We'll tell you honestly what it buys.
+If you're weighing your budget against what's actually on the market, we can shortlist the homes that genuinely fit your number, no time wasted on frosted-glass listings that were never within reach. Browse our current [property listings](/properties/), see how we [manage and restore homes](/services/), or [get in touch](/contact/) and tell us your budget. We'll tell you honestly what it buys.

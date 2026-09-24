@@ -10,7 +10,7 @@ lang: 'es'
 
 Una de las primeras preguntas que nos hacen los compradores extranjeros es: *"¿Cuánto cobran los agentes inmobiliarios en Guatemala?"* Es una pregunta justa, porque la respuesta es realmente diferente a lo que estás acostumbrado en Estados Unidos, Canadá o Europa.
 
-En Guatemala no existe una tarifa única de comisión y — aquí está la parte que más sorprende a los compradores — **a menudo el comprador paga directamente a su propio agente.** Entender cómo funcionan los honorarios antes de empezar a buscar puede ahorrarte miles de dólares y mucha confusión.
+En Guatemala no existe una tarifa única de comisión y, aquí está la parte que más sorprende a los compradores. **a menudo el comprador paga directamente a su propio agente.** Entender cómo funcionan los honorarios antes de empezar a buscar puede ahorrarte miles de dólares y mucha confusión.
 
 ## Cómo Funcionan las Comisiones Inmobiliarias en Guatemala
 
@@ -18,11 +18,11 @@ Las estructuras de comisión en Guatemala caen en dos modelos comunes, y cuál a
 
 ### Modelo A: el vendedor paga a ambos agentes
 
-Este es el modelo más parecido a lo que conocés de Norteamérica. El vendedor acepta pagar una comisión total — normalmente dividida entre el agente listador y el agente del comprador — de los fondos de la venta. En este caso, el comprador no paga directamente a su agente.
+Este es el modelo más parecido a lo que conocés de Norteamérica. El vendedor acepta pagar una comisión total, normalmente dividida entre el agente listador y el agente del comprador, de los fondos de la venta. En este caso, el comprador no paga directamente a su agente.
 
 ### Modelo B: el comprador paga a su propio agente
 
-Esto es común en Guatemala y es el modelo que desconcierta a muchos compradores primerizos. Cuando trabajás con un agente del comprador, ese agente puede cobrarte un honorario directamente — normalmente **del 3% al 5% del precio de compra** — aparte de lo que el vendedor paga al agente listador. A veces este honorario es un monto fijo acordado de antemano en lugar de un porcentaje.
+Esto es común en Guatemala y es el modelo que desconcierta a muchos compradores primerizos. Cuando trabajás con un agente del comprador, ese agente puede cobrarte un honorario directamente, normalmente **del 3% al 5% del precio de compra**, aparte de lo que el vendedor paga al agente listador. A veces este honorario es un monto fijo acordado de antemano en lugar de un porcentaje.
 
 Por eso el consejo más importante es: **preguntá por el honorario del agente del comprador antes de firmar cualquier cosa y dejalo por escrito.** En Guatemala un acuerdo verbal no es suficiente. Si asumís que tu agente es "gratis", podrías llevarte una sorpresa con un cargo del 4% al cierre que nunca presupuestaste.
 
@@ -52,21 +52,21 @@ Juntos, estos costos suman con frecuencia **del 5% al 8% sobre el precio de comp
 
 Como el mercado está poco regulado, algunas señales merecen tu atención:
 
-- **Agentes que se niegan a poner los honorarios por escrito** — salí de ahí
-- **Doble agencia revelada tarde** — un agente que representa a vos y al vendedor debe decírtelo claramente, y debés entender el conflicto
-- **Menciones vagas de porcentajes "estándar"** — no hay estándar legal, así que pedí una cifra concreta
-- **Presión para avanzar rápido en un "trato exclusivo"** — tomate el tiempo de obtener una segunda opinión
+- **Agentes que se niegan a poner los honorarios por escrito**, salí de ahí
+- **Doble agencia revelada tarde**, un agente que representa a vos y al vendedor debe decírtelo claramente, y debés entender el conflicto
+- **Menciones vagas de porcentajes "estándar"**, no hay estándar legal, así que pedí una cifra concreta
+- **Presión para avanzar rápido en un "trato exclusivo"**, tomate el tiempo de obtener una segunda opinión
 
 Para una lista completa de cualidades a buscar, mirá nuestra guía sobre [cómo encontrar un agente inmobiliario confiable en Antigua Guatemala](https://antiguarealestatedevelopment.com/es/blog/trusted-real-estate-agent-antigua-guatemala-es/).
 
 ## Cómo Mantener los Honorarios Justos
 
-La mejor manera de evitar pagar de más es llegar preparado. Pedile a cada agente que entrevistés un calendario de honorarios por escrito. Aclará quién paga al agente del comprador antes de recorrer una sola propiedad. Y recordá que los impuestos de traspaso y los honorarios del notario son aparte de la comisión — planificá para ambos.
+La mejor manera de evitar pagar de más es llegar preparado. Pedile a cada agente que entrevistés un calendario de honorarios por escrito. Aclará quién paga al agente del comprador antes de recorrer una sola propiedad. Y recordá que los impuestos de traspaso y los honorarios del notario son aparte de la comisión, planificá para ambos.
 
 También ayuda entender [cómo se estructuran los impuestos a la propiedad en Guatemala](https://antiguarealestatedevelopment.com/es/blog/guatemala-property-taxes-foreigners-es/), para que tu presupuesto sea realista en los años posteriores a la compra, no solo el día del cierre.
 
 ## ¿Listo Para Comprar en Antigua Guatemala?
 
-Comprar propiedad aquí es una inversión gratificante cuando entendés el panorama completo de costos desde el inicio. Nuestro equipo puede guiarte en honorarios de agentes, costos de cierre y todo el proceso de compra — en inglés o español.
+Comprar propiedad aquí es una inversión gratificante cuando entendés el panorama completo de costos desde el inicio. Nuestro equipo puede guiarte en honorarios de agentes, costos de cierre y todo el proceso de compra, en inglés o español.
 
 [Explorá nuestras propiedades](https://antiguarealestatedevelopment.com/es/properties/) o [contactanos](https://antiguarealestatedevelopment.com/es/contact/) para comenzar tu búsqueda con claridad y sin sorpresas.

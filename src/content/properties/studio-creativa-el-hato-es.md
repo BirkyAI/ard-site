@@ -1,6 +1,6 @@
 ---
-title: "Studio Creativa — Estudio Rústico, El Hato"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Studio Creativa. Estudio Rústico, El Hato"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/mes"
 beds: 1
@@ -49,13 +49,13 @@ El estudio cuenta con una cama tamaño queen, un baño privado con ducha y un ba
 ### Lo Que Incluye
 
 - 🏡 **40 m²** de amplio estudio rústico de naturaleza
-- 🌋 **Vistas al volcán** — disfruta de vistas a la reserva natural y volcanes circundantes
-- ☀️ **Abundante luz natural** — llena el espacio de calma durante todo el día
-- 🎨 **Refugio de artistas y escritores** — estancia a largo plazo favorita para profesionales creativos
-- 🛏️ **Cama tamaño queen** — cómoda e invitante
+- 🌋 **Vistas al volcán**, disfruta de vistas a la reserva natural y volcanes circundantes
+- ☀️ **Abundante luz natural**, llena el espacio de calma durante todo el día
+- 🎨 **Refugio de artistas y escritores**, estancia a largo plazo favorita para profesionales creativos
+- 🛏️ **Cama tamaño queen**, cómoda e invitante
 - 🚿 **Baño privado** con ducha
-- 🌿 **Balcón/patio privado** — espacio tranquilo al aire libre
-- 📍 **Ubicación conveniente** — cerca del café y restaurante
+- 🌿 **Balcón/patio privado**, espacio tranquilo al aire libre
+- 📍 **Ubicación conveniente**, cerca del café y restaurante
 - 🍳 **Amenidades de cocinaette:** mini refrigerador, hervidor eléctrico, cafetera de prensa francesa y microondas
 
 ### Condiciones Generales
@@ -81,5 +81,5 @@ El Hato es un tranquilo pueblo montañoso justo sobre Antigua Guatemala, conocid
 
 ### Contacto
 
-📩 **Luna Jerney** — +502 3571 6181
+📩 **Luna Jerney**, +502 3571 6181
 ¿Preguntas o agendar una visita? ¡WhatsApp o llame en cualquier momento!

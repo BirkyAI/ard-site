@@ -41,13 +41,13 @@ gallery:
 
 ## About This Rental
 
-A spacious 5-bedroom home in **San Gaspar Vivar**, Santa Catarina Bobadilla — just two blocks from the charming central plaza. This two-level house offers nice finishes throughout and stunning **360° panoramic views** from the rooftop terrace.
+A spacious 5-bedroom home in **San Gaspar Vivar**, Santa Catarina Bobadilla, just two blocks from the charming central plaza. This two-level house offers nice finishes throughout and stunning **360° panoramic views** from the rooftop terrace.
 
 ### What You Get
 
-- 🏡 **5 bedrooms, 4.5 bathrooms** — generous two-level layout
-- 🌇 **Rooftop terrace with 360° views** — panoramic scenery in every direction
-- 🍳 **Kitchen, dining, and living areas** — functional family layout
+- 🏡 **5 bedrooms, 4.5 bathrooms**, generous two-level layout
+- 🌇 **Rooftop terrace with 360° views**, panoramic scenery in every direction
+- 🍳 **Kitchen, dining, and living areas**, functional family layout
 - 👗 **Laundry area** included
 - 🚗 **Open front area** for parking
 - ✨ **Nice finishes** throughout the home
@@ -56,9 +56,9 @@ A spacious 5-bedroom home in **San Gaspar Vivar**, Santa Catarina Bobadilla — 
 ### Lease Terms
 
 - 📝 **1-year minimum** contract
-- 🏷️ **Q13,000/month** — does not include utilities
+- 🏷️ **Q13,000/month**, does not include utilities
 - 🏠 **Unfurnished**
-- 🐕 Pets allowed (dog or cat) — requires **2 months deposit**
+- 🐕 Pets allowed (dog or cat), requires **2 months deposit**
 - 💵 Standard deposit required
 
 ### Good To Know
@@ -67,5 +67,5 @@ This property works well for a **family home** or as **offices for an NGO**. It 
 
 ### Contact
 
-📩 **Luna Jerney** — +502 3571 6181
-Questions or schedule a viewing — WhatsApp or call anytime!
+📩 **Luna Jerney**, +502 3571 6181
+Questions or schedule a viewing. WhatsApp or call anytime!

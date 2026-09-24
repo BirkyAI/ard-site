@@ -18,9 +18,9 @@ Most experienced expats and real estate advisors in Antigua will tell you the sa
 Renting for six to twelve months gives you time to:
 
 - **Learn which streets get loud** on weekends (Antigua is a party town for tourists, and some central blocks have bar noise until 2 AM)
-- **Discover neighborhoods you did not know existed** — San Felipe, the areas near the Hobbitenango trailhead, or the quieter edges of Jocotenango
-- **Understand seasonal living** — the rainy season (May through October) affects different areas differently. Some rentals flood, others stay dry
-- **Build local relationships** — neighbors, shopkeepers, and fellow expats who will tell you things no online listing ever will
+- **Discover neighborhoods you did not know existed**. San Felipe, the areas near the Hobbitenango trailhead, or the quieter edges of Jocotenango
+- **Understand seasonal living**, the rainy season (May through October) affects different areas differently. Some rentals flood, others stay dry
+- **Build local relationships**, neighbors, shopkeepers, and fellow expats who will tell you things no online listing ever will
 
 A furnished rental in central Antigua runs between $800 and $1,600 per month for a two or three-bedroom home. Shorter-term furnished rentals (three to six months) cost a bit more, but they let you test-drive the lifestyle before committing.
 
@@ -92,7 +92,7 @@ The key factor is location. Properties within walking distance of the central pl
 
 **Skipping legal due diligence.** Always hire an independent attorney who specializes in Guatemalan real estate. They will verify the title is clean, check for liens, confirm the property boundaries, and ensure the seller actually has the right to sell. This is not the place to cut costs.
 
-**Underestimating renovation costs.** Colonial homes are beautiful but can hide expensive problems — old plumbing, inadequate electrical, foundation issues, or roof damage. Get a professional inspection before buying any older property.
+**Underestimating renovation costs.** Colonial homes are beautiful but can hide expensive problems, old plumbing, inadequate electrical, foundation issues, or roof damage. Get a professional inspection before buying any older property.
 
 **Ignoring the rainy season.** Visit a property during the rainy months (May to October) before buying. Water intrusion, drainage problems, and mold are real issues in some areas.
 

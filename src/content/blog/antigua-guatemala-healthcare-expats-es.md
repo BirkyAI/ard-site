@@ -1,7 +1,7 @@
 ---
 title: "Salud en Antigua Guatemala para Expats"
 tag: "Relocation"
-excerpt: "Hospitales, clínicas, seguros y costos — tu guía completa para navegar el sistema de salud como expatriado viviendo en Antigua Guatemala."
+excerpt: "Hospitales, clínicas, seguros y costos, tu guía completa para navegar el sistema de salud como expatriado viviendo en Antigua Guatemala."
 image: "/images/blog/ai-generated/antigua-guatemala-healthcare-expats.jpg"
 alt: "Casas coloniales en Antigua Guatemala donde los expatriados disfrutan de salud asequible y calidad de vida"
 date: 2026-06-17
@@ -10,7 +10,7 @@ lang: "es"
 
 ## La salud en Antigua Guatemala es más accesible de lo que piensas
 
-Una de las mayores preocupaciones para cualquiera que considere mudarse al extranjero es la atención médica. En Antigua Guatemala, los expatriados descubren consistentemente que la atención médica es sorprendentemente asequible, accesible y — en muchas instalaciones privadas — comparable a lo que encontrarías en Estados Unidos o Europa. Ya sea que necesites un chequeo de rutina, trabajo dental o atención de emergencia, Antigua y la cercana Ciudad de Guatemala te tienen cubierto.
+Una de las mayores preocupaciones para cualquiera que considere mudarse al extranjero es la atención médica. En Antigua Guatemala, los expatriados descubren consistentemente que la atención médica es sorprendentemente asequible, accesible y, en muchas instalaciones privadas, comparable a lo que encontrarías en Estados Unidos o Europa. Ya sea que necesites un chequeo de rutina, trabajo dental o atención de emergencia, Antigua y la cercana Ciudad de Guatemala te tienen cubierto.
 
 ## Cómo funciona el sistema de salud en Guatemala
 
@@ -31,9 +31,9 @@ Para procedimientos avanzados, diagnósticos complejos o cirugías especializada
 
 ## Atención dental: una gran ventaja
 
-La atención dental en Guatemala merece una mención especial. Trabajo dental de alta calidad — incluyendo coronas, implantes, tratamientos de conducto y odontología estética — está disponible con un 50–70% de descuento respecto a los precios de EE.UU. Muchos dentistas en Antigua y Ciudad de Guatemala se formaron en EE.UU. o Europa y utilizan los mismos materiales y equipos.
+La atención dental en Guatemala merece una mención especial. Trabajo dental de alta calidad, incluyendo coronas, implantes, tratamientos de conducto y odontología estética, está disponible con un 50–70% de descuento respecto a los precios de EE.UU. Muchos dentistas en Antigua y Ciudad de Guatemala se formaron en EE.UU. o Europa y utilizan los mismos materiales y equipos.
 
-Una limpieza de rutina cuesta alrededor de Q150–Q300 ($20–$40 USD), y una corona de porcelana cuesta entre Q2,000 y Q3,500 ($260–$460 USD) — comparado con $1,000–$2,000 en Estados Unidos. Algunos expatriados incluso planifican viajes de turismo dental, combinando su cita con un fin de semana explorando las calles empedradas de Antigua.
+Una limpieza de rutina cuesta alrededor de Q150–Q300 ($20–$40 USD), y una corona de porcelana cuesta entre Q2,000 y Q3,500 ($260–$460 USD), comparado con $1,000–$2,000 en Estados Unidos. Algunos expatriados incluso planifican viajes de turismo dental, combinando su cita con un fin de semana explorando las calles empedradas de Antigua.
 
 ## Opciones de seguro médico para expatriados
 
@@ -44,11 +44,11 @@ Varias aseguradoras guatemaltecas ofrecen planes de salud para residentes extran
 Si deseas cobertura global que funcione tanto en Guatemala como al viajar a casa, proveedores internacionales como Cigna Global, Allianz Care y SafetyWing ofrecen planes adaptados a expatriados. Estos tienden a costar más pero brindan la tranquilidad de tener cobertura donde sea que vayas.
 
 ### Pagar de forma particular
-Muchos expatriados — especialmente los de EE.UU. acostumbrados a altos deducibles — eligen pagar de forma particular por la atención de rutina y contratar un seguro solo para catástrofes. Dado el bajo costo de los servicios médicos en Guatemala, este enfoque puede tener sentido financiero para personas saludables. Un año completo de visitas al médico, limpiezas dentales y procedimientos menores podría sumar $500–$1,000 USD.
+Muchos expatriados, especialmente los de EE.UU. acostumbrados a altos deducibles, eligen pagar de forma particular por la atención de rutina y contratar un seguro solo para catástrofes. Dado el bajo costo de los servicios médicos en Guatemala, este enfoque puede tener sentido financiero para personas saludables. Un año completo de visitas al médico, limpiezas dentales y procedimientos menores podría sumar $500–$1,000 USD.
 
 ## Farmacias y recetas
 
-Las farmacias están por todas partes en Antigua, y muchos medicamentos que requieren receta en EE.UU. están disponibles sin receta en Guatemala — incluyendo antibióticos, medicamentos para la presión arterial y tratamientos para alergias. Farmacia Galeno y Farmacia Batres son cadenas confiables con farmacéuticos capacitados.
+Las farmacias están por todas partes en Antigua, y muchos medicamentos que requieren receta en EE.UU. están disponibles sin receta en Guatemala, incluyendo antibióticos, medicamentos para la presión arterial y tratamientos para alergias. Farmacia Galeno y Farmacia Batres son cadenas confiables con farmacéuticos capacitados.
 
 Los medicamentos comunes cuestan significativamente menos. Un tratamiento de antibióticos que podría costar $50–$100 USD en EE.UU. sin seguro se puede comprar por Q30–Q80 ($4–$11 USD) en Antigua. Para expatriados que manejan condiciones crónicas, los ahorros en recetas mensuales solos pueden ser sustanciales.
 
@@ -68,8 +68,8 @@ El número de emergencia de Guatemala es **110** para la policía y **123** para
 
 ## Por qué la salud es una razón más para elegir Antigua
 
-Cuando combinas la asequibilidad de la atención privada con la calidad de los servicios disponibles, Antigua Guatemala se vuelve aún más atractiva como lugar para vivir, jubilarse o invertir. El dinero que ahorras en salud puede destinarse a disfrutar del increíble estilo de vida que esta ciudad ofrece — desde sus vistas volcánicas y restaurantes de clase mundial hasta su vibrante comunidad de expatriados y su encanto colonial.
+Cuando combinas la asequibilidad de la atención privada con la calidad de los servicios disponibles, Antigua Guatemala se vuelve aún más atractiva como lugar para vivir, jubilarse o invertir. El dinero que ahorras en salud puede destinarse a disfrutar del increíble estilo de vida que esta ciudad ofrece, desde sus vistas volcánicas y restaurantes de clase mundial hasta su vibrante comunidad de expatriados y su encanto colonial.
 
-Si estás considerando mudarte a Antigua Guatemala y quieres entender el panorama completo — desde la salud hasta la vivienda — Luna Jerney en Antigua Real Estate Development puede ayudarte. Luna ha guiado a docenas de familias y jubilados en el proceso de encontrar su hogar perfecto en Antigua, y comprende los detalles prácticos que importan al mudarse al extranjero.
+Si estás considerando mudarte a Antigua Guatemala y quieres entender el panorama completo, desde la salud hasta la vivienda. Luna Jerney en Antigua Real Estate Development puede ayudarte. Luna ha guiado a docenas de familias y jubilados en el proceso de encontrar su hogar perfecto en Antigua, y comprende los detalles prácticos que importan al mudarse al extranjero.
 
 **¿Listo para explorar opciones de propiedad en Antigua Guatemala?** [Contacta a Luna Jerney hoy](https://antiguarealestatedevelopment.com/contact/) para comenzar tu camino hacia una nueva vida en una de las ciudades más encantadoras de Centroamérica.

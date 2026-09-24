@@ -1,7 +1,7 @@
 ---
 title: "Antigua Guatemala Retirement Guide"
 tag: "Relocation"
-excerpt: "Discover why retirees are choosing Antigua Guatemala — affordable living, world-class healthcare, spring-like weather, and a welcoming expat community."
+excerpt: "Discover why retirees are choosing Antigua Guatemala, affordable living, world-class healthcare, spring-like weather, and a welcoming expat community."
 image: "/images/blog/ai-generated/antigua-guatemala-retirement-guide.jpg"
 alt: "Tranquil colonial courtyard in Antigua Guatemala with a stone fountain, lounge chairs and lush tropical gardens"
 date: 2026-06-18
@@ -9,7 +9,7 @@ date: 2026-06-18
 
 ## Why Retire in Antigua Guatemala?
 
-Antigua Guatemala consistently ranks among the top retirement destinations in Central America, and for good reason. This UNESCO World Heritage city offers retirees a rare combination: **affordable cost of living**, a vibrant expat community, year-round spring-like weather at 5,000 feet elevation, and access to modern healthcare — all wrapped in one of the most beautiful colonial settings in the Americas.
+Antigua Guatemala consistently ranks among the top retirement destinations in Central America, and for good reason. This UNESCO World Heritage city offers retirees a rare combination: **affordable cost of living**, a vibrant expat community, year-round spring-like weather at 5,000 feet elevation, and access to modern healthcare, all wrapped in one of the most beautiful colonial settings in the Americas.
 
 Whether you're drawn by the cobblestone streets, the stunning volcano views, or the prospect of living comfortably on a fixed income, this guide covers everything you need to know about retiring in Antigua Guatemala in 2026.
 
@@ -29,7 +29,7 @@ One of the biggest draws for retirees is how far a pension or Social Security ch
 | Entertainment & social life | $150 – $300 |
 | **Total** | **$1,280 – $2,500** |
 
-A couple can live very comfortably on **$2,000–$3,500 per month**, including regular dining out, weekend excursions, and a housekeeper who comes several times a week — a common and affordable luxury in Antigua.
+A couple can live very comfortably on **$2,000–$3,500 per month**, including regular dining out, weekend excursions, and a housekeeper who comes several times a week, a common and affordable luxury in Antigua.
 
 Compare that to popular U.S. retirement spots like Scottsdale or Charleston, where a similar lifestyle might cost $5,000–$7,000 monthly. In Antigua, your retirement savings could last two to three times longer.
 
@@ -68,7 +68,7 @@ Slightly further out but significantly more affordable. Growing expat community 
 
 For retirees who dream of volcano views and rural tranquility. This small town sits between Antigua and Guatemala City, offering a slower pace of life with convenient highway access.
 
-If you're considering purchasing rather than renting, explore our current [properties for sale](/properties/) — owning a colonial home in Antigua can be both a lifestyle choice and a smart investment.
+If you're considering purchasing rather than renting, explore our current [properties for sale](/properties/), owning a colonial home in Antigua can be both a lifestyle choice and a smart investment.
 
 ## Guatemala Residency: What Retirees Need to Know
 
@@ -88,7 +88,7 @@ Many expats also maintain their home country citizenship and simply renew their 
 
 ## Building Your Social Life: The Expat Community
 
-One of Antigua's greatest strengths as a retirement destination is its **established and welcoming expat community**. You won't be starting from scratch — there are hundreds of English-speaking retirees already living here.
+One of Antigua's greatest strengths as a retirement destination is its **established and welcoming expat community**. You won't be starting from scratch, there are hundreds of English-speaking retirees already living here.
 
 ### How to Get Connected
 
@@ -108,7 +108,7 @@ Opening a Guatemalan bank account is possible with a rentista visa. Most retiree
 
 ### Safety
 
-Antigua is one of the safest cities in Guatemala, with a dedicated tourist police force and private security in most residential areas. Standard precautions apply — don't flash expensive jewelry, use registered taxis at night, and be aware of your surroundings.
+Antigua is one of the safest cities in Guatemala, with a dedicated tourist police force and private security in most residential areas. Standard precautions apply, don't flash expensive jewelry, use registered taxis at night, and be aware of your surroundings.
 
 ### Getting Around
 
@@ -116,11 +116,11 @@ Central Antigua is highly walkable. For trips to Guatemala City or the airport, 
 
 ### Climate
 
-Expect daytime temperatures between 70–80°F (21–27°C) year-round with cool evenings in the 50s°F (10–15°C). The rainy season (May–October) brings afternoon showers, but mornings are typically sunny and clear. No heating or air conditioning is needed — another cost savings.
+Expect daytime temperatures between 70–80°F (21–27°C) year-round with cool evenings in the 50s°F (10–15°C). The rainy season (May–October) brings afternoon showers, but mornings are typically sunny and clear. No heating or air conditioning is needed, another cost savings.
 
 ## Your Retirement Starts Here
 
-Retiring in Antigua Guatemala isn't just about saving money — it's about gaining a richer, more vibrant life. Imagine morning coffee with a volcano view, afternoon walks through centuries-old streets, and evenings spent with new friends from around the world. All at a fraction of what you'd spend back home.
+Retiring in Antigua Guatemala isn't just about saving money, it's about gaining a richer, more vibrant life. Imagine morning coffee with a volcano view, afternoon walks through centuries-old streets, and evenings spent with new friends from around the world. All at a fraction of what you'd spend back home.
 
 **Ready to explore your options?** Whether you're looking to rent first and test the waters or purchase a colonial home to call your own, Luna Jerney at Antigua Real Estate Development can help you find the perfect property. With deep local knowledge and experience helping international clients, Luna will guide you through every step of the process.
 

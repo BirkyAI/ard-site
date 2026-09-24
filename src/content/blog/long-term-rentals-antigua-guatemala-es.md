@@ -8,11 +8,11 @@ date: 2026-07-06
 lang: "es"
 ---
 
-Encontrar un alquiler a largo plazo en Antigua Guatemala es uno de los primeros pasos prácticos para cualquiera que planea vivir aquí — ya sea que te estés mudando de forma permanente, quieras probar antes de comprar, o simplemente busques una base en una de las ciudades coloniales más encantadoras de Centroamérica. El mercado de alquileres en Antigua es activo y variado, pero funciona de manera diferente a lo que la mayoría de extranjeros esperan. Esta guía te lleva a través de todo: dónde buscar, qué esperar, cómo funcionan los contratos y cómo evitar errores comunes.
+Encontrar un alquiler a largo plazo en Antigua Guatemala es uno de los primeros pasos prácticos para cualquiera que planea vivir aquí, ya sea que te estés mudando de forma permanente, quieras probar antes de comprar, o simplemente busques una base en una de las ciudades coloniales más encantadoras de Centroamérica. El mercado de alquileres en Antigua es activo y variado, pero funciona de manera diferente a lo que la mayoría de extranjeros esperan. Esta guía te lleva a través de todo: dónde buscar, qué esperar, cómo funcionan los contratos y cómo evitar errores comunes.
 
 ## Cómo Funciona el Mercado de Alquileres en Antigua Guatemala
 
-El mercado de alquileres en Antigua no es como el de Estados Unidos o Europa. No existe un sistema centralizado de listados para alquileres, y muchas de las mejores propiedades nunca aparecen en anuncios públicos. La mayoría de los alquileres a largo plazo de alta calidad se promocionan a través de agentes inmobiliarios locales, recomendaciones de boca en boca y grupos de redes sociales. Facebook Marketplace y los grupos locales de WhatsApp son donde muchos inquilinos comienzan, pero el camino más confiable — especialmente para casas amuebladas — es trabajar con un agente local de confianza que maneje múltiples propiedades.
+El mercado de alquileres en Antigua no es como el de Estados Unidos o Europa. No existe un sistema centralizado de listados para alquileres, y muchas de las mejores propiedades nunca aparecen en anuncios públicos. La mayoría de los alquileres a largo plazo de alta calidad se promocionan a través de agentes inmobiliarios locales, recomendaciones de boca en boca y grupos de redes sociales. Facebook Marketplace y los grupos locales de WhatsApp son donde muchos inquilinos comienzan, pero el camino más confiable, especialmente para casas amuebladas, es trabajar con un agente local de confianza que maneje múltiples propiedades.
 
 La disponibilidad fluctúa según la temporada. De noviembre a abril (temporada seca y alta turística), los alquileres amueblados pueden ser más difíciles de conseguir porque algunos propietarios prefieren el ingreso de Airbnb de corto plazo. De mayo a octubre, el mercado se relaja y tenés más poder de negociación en términos y precios.
 
@@ -45,7 +45,7 @@ Aquí es donde los alquileres en Antigua difieren más de lo que los extranjeros
 - **A veces incluido:** Internet, electricidad, jardinería y limpieza semanal (común en alquileres amueblados de mayor precio)
 - **Generalmente no incluido:** Electricidad (pagás directamente a la empresa eléctrica, EEGSA), artículos personales y a veces gas para cocinar
 
-Siempre aclará antes de firmar qué está incluido y qué no. Las propiedades de alquiler premium — como las de Finca El Tambor en El Hato — a menudo incluyen agua, electricidad, internet, basura, jardinería, mantenimiento y limpieza semanal en el alquiler mensual, lo que hace que el presupuesto sea mucho más simple.
+Siempre aclará antes de firmar qué está incluido y qué no. Las propiedades de alquiler premium, como las de Finca El Tambor en El Hato, a menudo incluyen agua, electricidad, internet, basura, jardinería, mantenimiento y limpieza semanal en el alquiler mensual, lo que hace que el presupuesto sea mucho más simple.
 
 ## Términos de Contrato y Depósitos de Garantía
 
@@ -57,7 +57,7 @@ Los **depósitos de garantía** son estándar y usualmente equivalen a un mes de
 
 ## Mejores Barrios para Alquileres a Largo Plazo
 
-Antigua es compacta — todo el centro es caminable — pero los barrios que la rodean ofrecen experiencias de vida muy diferentes.
+Antigua es compacta, todo el centro es caminable, pero los barrios que la rodean ofrecen experiencias de vida muy diferentes.
 
 ### Centro Histórico
 
@@ -69,7 +69,7 @@ A pocas cuadras del centro, estos barrios ofrecen un ambiente residencial más t
 
 ### El Hato
 
-Ubicado a unos 15 minutos arriba de Antigua en las colinas, El Hato ofrece temperaturas más frescas, vistas impresionantes al volcán y un ambiente rural tranquilo. Las propiedades aquí tienden a ser más grandes con jardines y espacios al aire libre. El contrapeso es que necesitás un auto o transporte confiable para llegar al pueblo. Ideal para familias, trabajadores remotos y cualquiera que valore el espacio y la naturaleza. Varias de las propiedades de alquiler más distintivas de Antigua — incluyendo casas ecológicas únicas y cabañas de lujo — están ubicadas en Finca El Tambor en El Hato.
+Ubicado a unos 15 minutos arriba de Antigua en las colinas, El Hato ofrece temperaturas más frescas, vistas impresionantes al volcán y un ambiente rural tranquilo. Las propiedades aquí tienden a ser más grandes con jardines y espacios al aire libre. El contrapeso es que necesitás un auto o transporte confiable para llegar al pueblo. Ideal para familias, trabajadores remotos y cualquiera que valore el espacio y la naturaleza. Varias de las propiedades de alquiler más distintivas de Antigua, incluyendo casas ecológicas únicas y cabañas de lujo, están ubicadas en Finca El Tambor en El Hato.
 
 ### Ciudad Vieja
 
@@ -85,7 +85,7 @@ Este es el enfoque más efectivo para encontrar un alquiler a largo plazo en Ant
 
 **1. Trabajá con un agente inmobiliario local.** Un agente experimentado que conoce el mercado te puede ahorrar semanas de búsqueda. Tiene acceso a listados que nunca aparecen en línea, puede negociar en tu nombre y entiende los requisitos legales. Luna Jerney en Antigua Real Estate Development maneja varias propiedades de alquiler y puede ayudarte a encontrar la opción correcta para tus necesidades y presupuesto.
 
-**2. Revisá grupos de Facebook.** Buscá "Alquileres Antigua Guatemala" o "Renta Antigua Guatemala" en Facebook. Nuevos listados aparecen diariamente, pero preparate para actuar rápido — las buenas propiedades se van rápido.
+**2. Revisá grupos de Facebook.** Buscá "Alquileres Antigua Guatemala" o "Renta Antigua Guatemala" en Facebook. Nuevos listados aparecen diariamente, pero preparate para actuar rápido, las buenas propiedades se van rápido.
 
 **3. Recorré los barrios.** Algunas de las mejores oportunidades de alquiler se encuentran simplemente caminando y buscando letreros de "Se Alquila". Esto funciona especialmente bien en el centro y barrios circundantes.
 
@@ -97,7 +97,7 @@ Este es el enfoque más efectivo para encontrar un alquiler a largo plazo en Ant
 
 **Saltarse el contrato por escrito.** Incluso si el propietario parece confiable, poné todo por escrito. Esto protege a ambas partes.
 
-**No aclarar los costos de servicios.** La electricidad en Guatemala puede ser cara en comparación con el alquiler — pedí facturas recientes de electricidad para estimar tus costos mensuales.
+**No aclarar los costos de servicios.** La electricidad en Guatemala puede ser cara en comparación con el alquiler, pedí facturas recientes de electricidad para estimar tus costos mensuales.
 
 **Ignorar problemas de suministro de agua.** Algunas áreas de Antigua tienen suministro de agua intermitente, especialmente durante la temporada seca. Preguntá sobre tanques de agua y el horario de distribución.
 

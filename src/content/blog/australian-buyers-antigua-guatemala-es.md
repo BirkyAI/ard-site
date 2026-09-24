@@ -1,14 +1,14 @@
 ---
 title: "Antigua para Compradores Australianos"
 tag: "Relocation"
-excerpt: "Todo lo que los compradores australianos necesitan saber para comprar propiedad en Antigua Guatemala — visas, costos, vecindarios y cómo se compara el dólar australiano."
+excerpt: "Todo lo que los compradores australianos necesitan saber para comprar propiedad en Antigua Guatemala, visas, costos, vecindarios y cómo se compara el dólar australiano."
 image: "/images/blog/ai-generated/australian-buyers-antigua-guatemala.jpg"
 alt: "Casas coloniales de colores por las calles empedradas de Antigua Guatemala al atardecer con el Volcán de Agua al fondo"
 date: 2026-09-10
 lang: "es"
 ---
 
-Cada vez más compradores australianos descubren Antigua Guatemala. En 2025, las consultas de australianos para comprar propiedad en la ciudad crecieron de forma constante, y la tendencia continuó en 2026. Si usted es un comprador australiano que considera una casa en Antigua, aquí tiene todo lo que necesita saber — desde visas y costos hasta vecindarios y potencial de inversión a largo plazo.
+Cada vez más compradores australianos descubren Antigua Guatemala. En 2025, las consultas de australianos para comprar propiedad en la ciudad crecieron de forma constante, y la tendencia continuó en 2026. Si usted es un comprador australiano que considera una casa en Antigua, aquí tiene todo lo que necesita saber, desde visas y costos hasta vecindarios y potencial de inversión a largo plazo.
 
 Esta guía está escrita específicamente para compradores australianos, cubriendo las diferencias prácticas que importan al comprar propiedad en Guatemala como ciudadano australiano.
 
@@ -24,9 +24,9 @@ Luego está el estilo de vida. Antigua es una ciudad Patrimonio Mundial de la UN
 
 Los compradores australianos gozan de una posición cambiaria favorable al comprar propiedad en Antigua Guatemala. El quetzal guatemalteco (GTQ) está vinculado de forma flexible al dólar estadounidense, y el dólar australiano ha mantenido un poder adquisitivo sólido frente a ambas monedas.
 
-En septiembre de 2026, AUD 1 compra aproximadamente 4.9 GTQ. Esto significa que una propiedad valorada en 2,000,000 GTQ cuesta alrededor de AUD 408,000. Cuando el dólar australiano se fortalece, su poder de compra en Guatemala mejora directamente — por eso el momento de su transferencia de divisas importa.
+En septiembre de 2026, AUD 1 compra aproximadamente 4.9 GTQ. Esto significa que una propiedad valorada en 2,000,000 GTQ cuesta alrededor de AUD 408,000. Cuando el dólar australiano se fortalece, su poder de compra en Guatemala mejora directamente, por eso el momento de su transferencia de divisas importa.
 
-Esta posición cambiaria también se aplica a los costos continuos. Los gastos mensuales para una pareja que vive en Antigua — alquiler, servicios, comida y atención médica — suelen oscilar entre AUD 1,200 y AUD 2,100 al mes, según el estilo de vida. Esto suele ser menos que un pago hipotecario australiano.
+Esta posición cambiaria también se aplica a los costos continuos. Los gastos mensuales para una pareja que vive en Antigua, alquiler, servicios, comida y atención médica, suelen oscilar entre AUD 1,200 y AUD 2,100 al mes, según el estilo de vida. Esto suele ser menos que un pago hipotecario australiano.
 
 ## Vías de Visado para Ciudadanos Australianos
 
@@ -42,7 +42,7 @@ El visado de nómada digital de Guatemala permite a los trabajadores remotos que
 
 ### Residencia Permanente por Inversión
 
-Comprar propiedad en Guatemala no otorga residencia automáticamente, pero fortalece significativamente una solicitud de residencia. Una inversión inmobiliaria de USD 50,000 o más demuestra su compromiso con el país y hace más probable la aprobación. Para inversiones más grandes — típicamente USD 100,000 o más — puede calificar para un proceso de residencia acelerado.
+Comprar propiedad en Guatemala no otorga residencia automáticamente, pero fortalece significativamente una solicitud de residencia. Una inversión inmobiliaria de USD 50,000 o más demuestra su compromiso con el país y hace más probable la aprobación. Para inversiones más grandes, típicamente USD 100,000 o más, puede calificar para un proceso de residencia acelerado.
 
 ## El Proceso de Compra para Compradores Australianos
 
@@ -66,7 +66,7 @@ El cierre en Guatemala implica firmar la escritura pública ante un notario. El 
 
 ### Representación Legal
 
-Contratar un abogado guatemalteco no es opcional — es obligatorio. Su abogado maneja la debida diligencia, redacta el contrato de compra y garantiza que la transacción cumpla con la ley guatemalteca. Los honorarios legales suelen oscilar entre el 1% y el 2% del valor de la propiedad. Para una descripción completa de los requisitos legales, lea nuestra guía sobre el [proceso de cierre de bienes raíces en Guatemala](/es/blog/guatemala-real-estate-closing-process/).
+Contratar un abogado guatemalteco no es opcional, es obligatorio. Su abogado maneja la debida diligencia, redacta el contrato de compra y garantiza que la transacción cumpla con la ley guatemalteca. Los honorarios legales suelen oscilar entre el 1% y el 2% del valor de la propiedad. Para una descripción completa de los requisitos legales, lea nuestra guía sobre el [proceso de cierre de bienes raíces en Guatemala](/es/blog/guatemala-real-estate-closing-process/).
 
 ## Mejores Vecindarios para Compradores Australianos
 
@@ -74,7 +74,7 @@ Diferentes áreas de Antigua se adaptan a diferentes estilos de vida. Estos son 
 
 ### Centro Histórico
 
-El centro histórico es ideal para compradores que quieren estar en el corazón de la acción. Las propiedades aquí son casas de época colonial con patios interiores, techos altos y arquitectura tradicional. Espere pagar una prima por la ubicación — una casa colonial restaurada en el Centro comienza alrededor de AUD 270,000.
+El centro histórico es ideal para compradores que quieren estar en el corazón de la acción. Las propiedades aquí son casas de época colonial con patios interiores, techos altos y arquitectura tradicional. Espere pagar una prima por la ubicación, una casa colonial restaurada en el Centro comienza alrededor de AUD 270,000.
 
 ### San Pedro
 

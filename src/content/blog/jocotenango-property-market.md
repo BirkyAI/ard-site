@@ -1,7 +1,7 @@
 ---
 title: "Jocotenango Property Market Near Antigua"
 tag: "Neighborhoods"
-excerpt: "Discover Jocotenango's growing real estate market — colonial charm, lower prices, and minutes from Antigua Guatemala's historic center."
+excerpt: "Discover Jocotenango's growing real estate market, colonial charm, lower prices, and minutes from Antigua Guatemala's historic center."
 image: "/images/blog/ai-generated/jocotenango-property-market.jpg"
 alt: "Bustling open-air market street in Jocotenango near Antigua Guatemala lined with stalls of colorful handwoven textiles and clay pottery on a cobblestone street"
 date: 2026-06-30
@@ -9,7 +9,7 @@ date: 2026-06-30
 
 Jocotenango is one of the best-kept secrets in Guatemala's real estate market. Located just three kilometers north of Antigua Guatemala's central park, this small colonial town offers significantly lower property prices while keeping the historic center, restaurants, and cultural life of Antigua within a five-minute drive.
 
-For buyers priced out of Antigua's increasingly competitive market — or investors looking for strong returns before prices catch up — Jocotenango deserves serious attention.
+For buyers priced out of Antigua's increasingly competitive market, or investors looking for strong returns before prices catch up. Jocotenango deserves serious attention.
 
 ## Why Jocotenango Is Gaining Attention
 
@@ -19,7 +19,7 @@ Jocotenango has always lived in Antigua's shadow, but that dynamic is shifting. 
 
 **Lower entry prices.** Property prices in Jocotenango run 30-50% below comparable properties in Antigua's historic center. A well-maintained colonial home that might list for $250,000 in central Antigua could be available for $150,000-$180,000 in Jocotenango. Land prices are even more attractive for buyers interested in building.
 
-**Growing infrastructure.** The municipality has invested in road improvements, public spaces, and utility upgrades over the past few years. Better infrastructure means rising property values — early buyers benefit the most.
+**Growing infrastructure.** The municipality has invested in road improvements, public spaces, and utility upgrades over the past few years. Better infrastructure means rising property values, early buyers benefit the most.
 
 **Authentic community feel.** While parts of Antigua have become heavily touristic, Jocotenango remains a genuine Guatemalan town. The local market, churches, and community events create an authentic lifestyle that many expats find more rewarding than living in a tourist corridor.
 
@@ -29,11 +29,11 @@ The Jocotenango property market offers a different mix than central Antigua:
 
 ### Colonial Homes Ready for Renovation
 
-You can still find traditional colonial homes in Jocotenango that need restoration work — often at prices that make the renovation investment worthwhile. These properties feature the classic Guatemalan colonial layout: thick adobe walls, interior courtyards, high ceilings with exposed beams, and tile roofs. Buyers willing to invest in restoration can create stunning homes at a fraction of what a comparable finished property would cost in Antigua.
+You can still find traditional colonial homes in Jocotenango that need restoration work, often at prices that make the renovation investment worthwhile. These properties feature the classic Guatemalan colonial layout: thick adobe walls, interior courtyards, high ceilings with exposed beams, and tile roofs. Buyers willing to invest in restoration can create stunning homes at a fraction of what a comparable finished property would cost in Antigua.
 
 ### Move-In Ready Houses
 
-For those who prefer not to take on a renovation project, Jocotenango has a growing selection of modern and updated homes. Newer construction tends to offer more space — larger lots, additional bedrooms, parking — compared to what the same budget buys in Antigua's compact historic center.
+For those who prefer not to take on a renovation project, Jocotenango has a growing selection of modern and updated homes. Newer construction tends to offer more space, larger lots, additional bedrooms, parking, compared to what the same budget buys in Antigua's compact historic center.
 
 ### Land and Lots
 
@@ -64,7 +64,7 @@ Jocotenango has its own local market, pharmacies, small restaurants, and grocery
 
 ### Community and Culture
 
-The town has deep cultural roots — its annual feria and religious celebrations bring the community together throughout the year. Expats who live in Jocotenango often describe feeling more integrated into local life compared to living in central Antigua, where the tourist presence can create a bubble.
+The town has deep cultural roots, its annual feria and religious celebrations bring the community together throughout the year. Expats who live in Jocotenango often describe feeling more integrated into local life compared to living in central Antigua, where the tourist presence can create a bubble.
 
 ### Transportation
 
@@ -86,7 +86,7 @@ Jocotenango is considered a safe community with a lower crime profile than large
 
 ## How Luna Jerney Can Help
 
-Luna Jerney and the team at Antigua Real Estate Development have deep knowledge of the Jocotenango market and established relationships with local property owners. Whether you are looking for a colonial renovation project, a move-in ready family home, or an investment property, Luna can guide you through every step — from property search and title verification to negotiation and closing.
+Luna Jerney and the team at Antigua Real Estate Development have deep knowledge of the Jocotenango market and established relationships with local property owners. Whether you are looking for a colonial renovation project, a move-in ready family home, or an investment property, Luna can guide you through every step, from property search and title verification to negotiation and closing.
 
 The Jocotenango market is still relatively undiscovered by international buyers, which means the best opportunities are available now. As more buyers discover the value proposition, prices will continue to rise.
 

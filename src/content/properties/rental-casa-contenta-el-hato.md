@@ -1,6 +1,6 @@
 ---
-title: "Casa Contenta — Rústica Moderna at Finca El Tambor, El Hato"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Casa Contenta. Rústica Moderna at Finca El Tambor, El Hato"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/month"
 beds: 1
@@ -45,15 +45,15 @@ gallery:
 ### What You Get
 
 - 🏡 **80 m²** spacious rustic modern cabin design
-- 🌋 **Volcano views** — views of the nature reserve and surrounding volcanoes
-- ☀️ **Abundant natural light** — bright and inviting throughout the day
-- 🔥 **Cozy fireplace** — perfect for cool mountain evenings
-- 🛋️ **Open-concept layout** — living room and dining area blend seamlessly
-- 🌿 **Immersive nature setting** — surrounded by the nature reserve
-- 🍳 **Fully equipped kitchen** — everything you need for comfortable living
-- 🏠 **Fully furnished** — move-in ready
+- 🌋 **Volcano views**, views of the nature reserve and surrounding volcanoes
+- ☀️ **Abundant natural light**, bright and inviting throughout the day
+- 🔥 **Cozy fireplace**, perfect for cool mountain evenings
+- 🛋️ **Open-concept layout**, living room and dining area blend seamlessly
+- 🌿 **Immersive nature setting**, surrounded by the nature reserve
+- 🍳 **Fully equipped kitchen**, everything you need for comfortable living
+- 🏠 **Fully furnished**, move-in ready
 - 🛁 **Private bathroom**
-- 🌲 **Private patio** — peaceful outdoor space
+- 🌲 **Private patio**, peaceful outdoor space
 
 ### General Conditions
 
@@ -78,5 +78,5 @@ El Hato is a peaceful mountain village just above Antigua Guatemala, known for i
 
 ### Contact
 
-📩 **Luna Jerney** — +502 3571 6181
-Questions or schedule a viewing — WhatsApp or call anytime!
+📩 **Luna Jerney**, +502 3571 6181
+Questions or schedule a viewing. WhatsApp or call anytime!

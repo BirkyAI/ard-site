@@ -1,6 +1,6 @@
 ---
-title: "Casa Contenta — Rústica Moderna en Finca El Tambor, El Hato"
-location: "El Hato, Antigua Guatemala — Finca El Tambor"
+title: "Casa Contenta. Rústica Moderna en Finca El Tambor, El Hato"
+location: "El Hato, Antigua Guatemala. Finca El Tambor"
 price: 1600
 priceLabel: "$1,600/mes"
 beds: 1
@@ -45,15 +45,15 @@ gallery:
 ### Lo Que Incluye
 
 - 🏡 **80 m²** de amplio diseño de cabaña rústica moderna
-- 🌋 **Vistas al volcán** — vistas a la reserva natural y volcanes circundantes
-- ☀️ **Abundante luz natural** — luminoso e invitante durante todo el día
-- 🔥 **Chimenea acogedora** — perfecta para tardes frescas de montaña
-- 🛋️ **Diseño de concepto abierto** — sala y comedor se integran perfectamente
-- 🌿 **Entorno inmersivo de naturaleza** — rodeado de la reserva natural
-- 🍳 **Cocina totalmente equipada** — todo lo necesario para vivir cómodamente
-- 🏠 **Completamente amueblado** — listo para mudarse
+- 🌋 **Vistas al volcán**, vistas a la reserva natural y volcanes circundantes
+- ☀️ **Abundante luz natural**, luminoso e invitante durante todo el día
+- 🔥 **Chimenea acogedora**, perfecta para tardes frescas de montaña
+- 🛋️ **Diseño de concepto abierto**, sala y comedor se integran perfectamente
+- 🌿 **Entorno inmersivo de naturaleza**, rodeado de la reserva natural
+- 🍳 **Cocina totalmente equipada**, todo lo necesario para vivir cómodamente
+- 🏠 **Completamente amueblado**, listo para mudarse
 - 🛁 **Baño privado**
-- 🌲 **Patio privado** — espacio tranquilo al aire libre
+- 🌲 **Patio privado**, espacio tranquilo al aire libre
 
 ### Condiciones Generales
 
@@ -78,5 +78,5 @@ El Hato es un tranquilo pueblo montañoso justo sobre Antigua Guatemala, conocid
 
 ### Contacto
 
-📩 **Luna Jerney** — +502 3571 6181
+📩 **Luna Jerney**, +502 3571 6181
 ¿Preguntas o agendar una visita? ¡WhatsApp o llame en cualquier momento!

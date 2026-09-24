@@ -1,5 +1,5 @@
 ---
-title: "Condo in San Miguel Dueñas — Unbelievable Price"
+title: "Condo in San Miguel Dueñas. Unbelievable Price"
 location: "San Miguel Dueñas"
 price: 130000
 beds: 2
@@ -16,7 +16,7 @@ date: 2025-11-29
 
 ## About This Property
 
-Finding a home near Antigua at just $130,000 USD is almost unheard of — but here it is! Perfect for a couple or single, this secure condo home in San Miguel Dueñas offers comfort, security, and excellent investment potential.
+Finding a home near Antigua at just $130,000 USD is almost unheard of, but here it is! Perfect for a couple or single, this secure condo home in San Miguel Dueñas offers comfort, security, and excellent investment potential.
 
 ## Property Details
 
