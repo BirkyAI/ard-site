@@ -12,7 +12,7 @@ const { Content } = await render(post);
 const d = post.data;
 ---
 <BaseLayout locale="es" title={`${d.title} | ARD`} description={d.excerpt} image={d.image}>
-  <script type="application/ld+json" set:html={JSON.stringify({"@context":"https://schema.org","@type":"Article","headline":d.title,"description":d.excerpt,"image":d.image,"datePublished":d.date.toISOString(),"author":{"@type":"Person","name":"Luna Jerney"},"publisher":{"@type":"Organization","name":"Antigua Real Estate Development"}})} />
+  <script type="application/ld+json" set:html={JSON.stringify({"@context":"https://schema.org","@type":"Article","headline":d.title,"description":d.excerpt,"image":d.image,"datePublished":d.date.toISOString(),"author":{"@type":"Person","name":"Luna Jerney"},"publisher":{"@type":"Organization","name":"Antigua Real Estate Development","logo":{"@type":"ImageObject","url":"https://antiguarealestatedevelopment.com/images/logo.jpg"}}})} />
   <section style="padding:48px 0;">
     <div class="container">
       <a href="/es/blog/" style="font-size:14px;color:var(--color-text-muted);font-weight:500;display:inline-flex;align-items:center;gap:4px;margin-bottom:24px;">{t.labels.backToBlog}</a>
