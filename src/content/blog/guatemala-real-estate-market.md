@@ -31,6 +31,22 @@ Buying property in Guatemala as a foreigner is straightforward:
 
 Antigua offers excellent investment potential:
 - Growing tourism driving rental demand
-- Property values appreciating 5-10% annually
+- Property values appreciating about 6% a year in nominal terms (roughly 2% after inflation), with forecasts of 6% to 8% annually over the next five years
 - Strong Airbnb market with 8-15% yields
 - Limited supply in the historic center
+
+## What Property Actually Costs in 2026
+
+Asking prices tell the clearest story. In September 2026, the median asking price per square meter of construction in Antigua Guatemala proper was about $2,549, roughly 1.2 times neighboring Ciudad Vieja. That is a more honest number than the inflated per-meter figures floating around older reports.
+
+By price bracket, 2026 data puts a typical Antigua home between $196,000 and $653,000, with a median around $420,000, and restored colonial properties near the central plaza commanding a premium of 20% to 30% over comparable Guatemala City homes. New construction runs about 15% more per square meter than comparable existing homes.
+
+Two things to keep in mind. Guatemala publishes no closing prices, so every figure here is an asking price, and sellers corrected one listing at a time through 2026 rather than dropping the market. Growth has been steady, not speculative.
+
+### Frequently asked questions
+
+**How much does property cost per square meter in Antigua Guatemala?**
+The median asking price per square meter of construction in Antigua Guatemala proper was about $2,549 in September 2026, roughly 1.2 times Ciudad Vieja and well above the villages around it. These are asking prices, since Guatemala has no public record of closings.
+
+**Are property prices in Antigua going up in 2026?**
+Mostly holding. Values rose about 6% in nominal terms over the past year, roughly 2% after inflation, with forecasts of 6% to 8% annually over the next five years. In a 39-day window in late 2026, sellers made 17 asking-price cuts against 10 raises, so the market is steady rather than overheated.

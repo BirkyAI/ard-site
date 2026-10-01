@@ -34,6 +34,22 @@ Comprar propiedad en Guatemala como extranjero es sencillo:
 Antigua ofrece un excelente potencial de inversión:
 
 - Turismo en crecimiento que impulsa la demanda de alquileres
-- Valores de propiedad apreciándose un 5–10% anualmente
+- Valores de propiedad apreciándose cerca del 6% anual en términos nominales (un 2% después de inflación), con pronósticos del 6% al 8% anual en los próximos cinco años
 - Fuerte mercado de Airbnb con rendimientos del 8–15%
 - Oferta limitada en el centro histórico
+
+## Lo que realmente cuesta una propiedad en 2026
+
+Los precios publicados cuentan la historia más clara. En septiembre de 2026, la mediana del precio por metro cuadrado de construcción en la Antigua Guatemala era de unos $2,549, alrededor de 1.2 veces la vecina Ciudad Vieja. Es una cifra más honesta que los números inflados por metro que circulan en reportes viejos.
+
+Por rango de precio, los datos de 2026 ubican una casa típica en Antigua entre $196,000 y $653,000, con una mediana cercana a los $420,000, y las propiedades coloniales restauradas cerca del parque central con una prima del 20% al 30% sobre casas comparables de la Ciudad de Guatemala. La construcción nueva cuesta cerca de un 15% más por metro cuadrado que las casas existentes comparables.
+
+Dos cosas para tener en cuenta. Guatemala no publica precios de cierre, así que toda cifra aquí es un precio de venta publicado, y los vendedores corrigieron una propiedad a la vez durante 2026 en lugar de tirar el mercado. El crecimiento ha sido constante, no especulativo.
+
+### Preguntas frecuentes
+
+**¿Cuánto cuesta el metro cuadrado en Antigua Guatemala?**
+La mediana del precio publicado por metro cuadrado de construcción en la Antigua Guatemala era de unos $2,549 en septiembre de 2026, alrededor de 1.2 veces Ciudad Vieja y muy por encima de las aldeas vecinas. Son precios publicados, ya que Guatemala no tiene registro público de cierres.
+
+**¿Están subiendo los precios de las propiedades en Antigua en 2026?**
+Mayormente estables. Los valores subieron cerca del 6% en términos nominales durante el último año, unos 2% después de inflación, con pronósticos del 6% al 8% anual en los próximos cinco años. En una ventana de 39 días a finales de 2026, los vendedores hicieron 17 rebajas de precio contra 10 alzas, así que el mercado es constante, no sobrecalentado.
