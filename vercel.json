@@ -285,6 +285,11 @@
       "permanent": true
     },
     {
+      "source": "/es/blog/dutch-buyers-antigua-guatemala/",
+      "destination": "/es/blog/dutch-buyers-antigua-guatemala-es/",
+      "permanent": true
+    },
+    {
       "source": "/es/blog/el-hato-living-guide-antigua/",
       "destination": "/es/blog/el-hato-living-guide-antigua-es/",
       "permanent": true
