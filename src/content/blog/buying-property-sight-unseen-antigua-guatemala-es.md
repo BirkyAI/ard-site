@@ -8,8 +8,6 @@ date: 2026-10-19
 lang: "es"
 ---
 
-# Comprar Propiedad en Antigua Guatemala Sin Verla
-
 Todos los meses se cierran compras de casas en Antigua Guatemala con compradores que nunca pisaron la sala. Funciona, y no es un atajo raro: ninguna ley guatemalteca te obliga a presentarte en persona, y al Registro de la Propiedad solo le importa que la escritura esté bien redactada, timbrada y presentada. Lo que exige comprar a distancia es cambiar presencia por proceso: ojos locales sobre el terreno, una inspección independiente, una búsqueda en el registro y una secuencia de cierre que mantenga tu depósito protegido hasta confirmar el título. Si te saltás esos pasos, la distancia deja de ser una comodidad y se convierte en el riesgo.
 
 ## ¿De verdad podés comprar una propiedad en Antigua Guatemala sin visitarla?

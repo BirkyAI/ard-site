@@ -8,8 +8,6 @@ date: 2026-10-19
 lang: "en"
 ---
 
-# Buying Property in Antigua Guatemala Sight-Unseen
-
 Buyers close on Antigua Guatemala houses every month without standing in the living room first. Nothing in Guatemalan law requires you to appear in person, and the Registro de la Propiedad only cares that the deed is drafted, stamped and submitted correctly. What remote buying demands is that you replace presence with process: local eyes on the ground, an independent inspection, a registry search, and a closing sequence that keeps your deposit protected until title is confirmed. Skip those, and distance stops being a convenience and becomes the risk.
 
 ## Can you really buy a property in Antigua Guatemala without visiting it first?
