@@ -36,7 +36,7 @@ If your clients are in the United States, your working day is their working day.
 I spent almost thirty years as an executive secretary, working in someone else's office. When I moved to Antigua that experience did not stop mattering, it changed address. Here is what those years turned into:
 
 - **Antigua Real Estate Development** handles property here, helping foreign buyers find and buy colonial homes and answering the questions that come up in the middle of a purchase.
-- **Birky Studio** is the other half of my work, and it exists because I live here. I build AI agents and websites for small businesses, mostly real estate agents in the United States. They need something that answers their phone while they are standing in a client's kitchen, and I can build it from Antigua, on their schedule.
+- [**Birky Studio**](https://birkystudio.com/) is the other half of my work, and it exists because I live here. I build AI agents and websites for small businesses, mostly real estate agents in the United States, and the full list is on our [products page](https://birkystudio.com/products/). They need something that answers their phone while they are standing in a client's kitchen, and I can build it from Antigua, on their schedule.
 
 The two work together and neither one needed a local office. What they required was a laptop, a reliable fiber connection, a quiet room, and clients who found me. That is the whole infrastructure, and the connection is the only part Antigua has to provide. If you want the practical side of living and working here, internet speeds, coworking and neighborhoods, I wrote that up separately in [Remote Work from Antigua Guatemala](https://antiguarealestatedevelopment.com/blog/remote-work-antigua-guatemala/).
 
