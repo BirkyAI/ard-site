@@ -6,14 +6,9 @@ const faqs = [
   {q:'What is the rental income potential?',a:'The Historic Center has the highest rental demand in the entire region. Well-located properties can generate strong Airbnb income year-round thanks to consistent tourist traffic, especially during peak season (November through April).'},
   {q:'What types of properties are available?',a:'You will find colonial homes, renovated luxury properties, boutique hotels, and investment properties. Prices are the highest in the area, but so is the return on investment.'},
 ];
-const jsonLD = JSON.stringify({
-  "@context":"https://schema.org",
-  "@type":"FAQPage",
-  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
-});
+
 ---
 <BaseLayout title="Antigua Guatemala Historic Center Guide" description="Everything you need to know about living in the Historic Center of Antigua Guatemala, lifestyle, property types, prices, and who it is best for." image="/images/blog/ai-generated/antigua-arch-golden-hour.png">
-  <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">
       <div class="section-label">Neighborhood Guide</div>

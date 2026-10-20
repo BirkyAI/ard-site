@@ -8,8 +8,6 @@ date: 2026-10-13
 lang: "es"
 ---
 
-# Parqueo y Garajes en Casas de Antigua Guatemala
-
 El trazado de Antigua se dibujó siglos antes de que alguien por aquí tuviera carro, y así se siente. La mayoría de las casas dentro del centro histórico, que mide 12 cuadras por 12, no tienen garaje, el parqueo en la calle necesita permiso municipal y los parqueos privados cobran por hora. Si vas a tener carro, el parqueo debería decidir en qué zona comprás.
 
 ## ¿Podés parquear en la calle en Antigua Guatemala?

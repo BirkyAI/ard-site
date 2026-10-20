@@ -8,8 +8,6 @@ date: 2026-10-02
 lang: "en"
 ---
 
-# Courtyard Gardens in Antigua Guatemala Homes
-
 In Antigua Guatemala the garden is not the backyard. Colonial houses are built around an interior patio, so the courtyard is the first thing you see when the door opens and the room you actually use most evenings. Bougainvillea spilling over a white wall, a fountain you can hear from the kitchen, a lime tree beside the outdoor table: that is the part of a home buyers remember.
 
 This guide covers what grows here, what landscaping costs in 2026, how the seasons change the work, and how to keep a courtyard alive from abroad.

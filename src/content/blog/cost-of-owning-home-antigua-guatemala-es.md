@@ -8,8 +8,6 @@ date: 2026-10-15
 lang: "es"
 ---
 
-# Costo de Mantener una Casa en Antigua Guatemala
-
 La mayoría de propietarios en Antigua Guatemala gasta entre $2,000 y $5,000 al año en mantener una casa en pie después de comprarla. Ahí entran el impuesto predial, el seguro, el mantenimiento, la seguridad y las pequeñas reparaciones que una casa colonial nunca deja de pedir. Una propiedad más grande, con piscina, jardín maduro y personal de apoyo, supera los $8,000.
 
 El precio de compra es lo fácil de comparar. El costo anual de mantenerla es donde los presupuestos se rompen en silencio, porque ningún despacho te manda una sola factura por todo eso.

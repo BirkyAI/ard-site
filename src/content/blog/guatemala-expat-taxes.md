@@ -84,4 +84,4 @@ For most expats in Antigua Guatemala, the combined tax burden is manageable, esp
 
 The important thing is to get professional advice for your specific situation. Tax rules change, individual circumstances vary, and what works for one expat may not work for another. A one-hour consultation with a Guatemalan accountant and a cross-border tax specialist from your home country can save you thousands of dollars and countless headaches.
 
-**Need help buying property in Guatemala or understanding your financial obligations as an owner?** [Contact Luna Jerney](https://antiguarealestatedevelopment.com/connect/) at Antigua Real Estate Development for guidance on property investment and local resources.
+**Need help buying property in Guatemala or understanding your financial obligations as an owner?** [Contact Luna Jerney](https://antiguarealestatedevelopment.com/contact/) at Antigua Real Estate Development for guidance on property investment and local resources.

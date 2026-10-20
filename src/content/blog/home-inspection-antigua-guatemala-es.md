@@ -8,8 +8,6 @@ date: 2026-10-07
 lang: "es"
 ---
 
-# Inspección de Casa en Antigua Guatemala: Qué Esperar
-
 Una inspección profesional de casa en Antigua Guatemala cuesta entre 150 y 450 dólares y toma de tres a cuatro horas en el sitio. El inspector entrega un informe escrito en un plazo de 48 horas, y con base en lo que encuentra podés renegociar el precio o retirarte. Todo comprador de una casa colonial o de una propiedad en las aldeas debería pedir una antes de firmar la escritura.
 
 El parque de vivienda de Antigua es viejo, y las casas viejas esconden problemas que una visita de fin de semana nunca muestra. Tejas rotas, daño de termitas en vigas de madera, instalación eléctrica insuficiente y cisternas que fallan son hallazgos de rutina. Esta guía explica qué cubre una inspección profesional, cuánto cuesta, cómo contratar a un inspector y los problemas que más importan en este mercado.

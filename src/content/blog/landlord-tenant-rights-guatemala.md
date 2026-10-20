@@ -8,8 +8,6 @@ date: 2026-10-05
 lang: "en"
 ---
 
-# Tenant and Landlord Rights in Antigua Guatemala
-
 Renting in Antigua Guatemala runs on a written lease, a deposit of roughly one month's rent, and one firm rule: neither side can be forced out or priced out in the middle of a contract. Guatemala has no rent control, so almost everything is decided by what landlord and tenant agree. The catch is that the agreement must still respect the Civil Code, and actions like changing the locks or withholding rent without notice are illegal no matter what the contract says.
 
 This guide explains how leases, deposits, repairs, rent increases, notice, and eviction work in Antigua, for renters and for owners who rent out property.

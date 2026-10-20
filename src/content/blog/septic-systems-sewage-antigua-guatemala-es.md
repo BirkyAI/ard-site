@@ -8,8 +8,6 @@ date: 2026-10-15
 lang: "es"
 ---
 
-# Tanques Sépticos en Antigua Guatemala: Guía
-
 Las casas del centro histórico de Antigua y de los barrios cercanos casi siempre están conectadas al drenaje municipal, mientras que las propiedades en las aldeas, en las faldas del volcán y en los caminos de las fincas fuera de la ciudad funcionan con fosa séptica. Si vas a comprar fuera del anillo de circunvalación, el estado de ese tanque importa tanto como el estado del techo.
 
 Esta guía te explica cómo averiguar qué sistema usa una propiedad, cuánto cuestan la instalación, el deslave y las reparaciones en 2026, y las revisiones que evitan sorpresas caras.

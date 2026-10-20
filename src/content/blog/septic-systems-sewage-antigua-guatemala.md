@@ -8,8 +8,6 @@ date: 2026-10-15
 lang: "en"
 ---
 
-# Septic Tanks in Antigua Guatemala: What to Know
-
 Homes in Antigua's historic center and the barrios around it usually connect to the municipal sewer, while properties in the villages, on the coffee slopes and along the hillside roads outside the city almost always run on a septic tank, known here as a *fosa séptica*. If you are buying outside the ring road, the condition of that tank matters as much as the condition of the roof.
 
 This guide covers how to find out which system a property uses, what installation, pumping and repair cost in 2026, and the checks that save buyers from a very expensive surprise.

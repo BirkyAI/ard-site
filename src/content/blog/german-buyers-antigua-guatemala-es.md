@@ -8,8 +8,6 @@ date: 2026-10-01
 lang: "es"
 ---
 
-# Comprar Propiedad en Antigua Guatemala desde Alemania
-
 Los compradores alemanes son uno de los grupos más constantes en el mercado inmobiliario de Antigua Guatemala, y las razones no son difíciles de ver. Quien tiene pasaporte alemán puede ser dueño de una casa aquí sin intermediarios, el clima se mantiene templado todo el año, y el vuelo de Frankfurt a Ciudad de Guatemala es más corto de lo que la mayoría supone antes de buscarlo.
 
 Esta guía cubre lo que un ciudadano alemán realmente necesita saber antes de comprar: el proceso, los costos reales, cómo se mueve el dinero desde un banco alemán, las preguntas de impuestos que vale la pena hacer, y cómo se ve la vida diaria para la comunidad de habla alemana en Antigua.

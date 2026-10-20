@@ -8,8 +8,6 @@ date: 2026-09-25
 lang: "en"
 ---
 
-# Pest Control in Antigua Guatemala: Termites and More
-
 Antigua Guatemala's warm valley, six-month rainy season, and colonial building materials make pest pressure higher and more constant here than in a city with a hard winter. It is not a crisis, and most homes live with it comfortably. But pests quietly destroy property value, and owners who stay ahead of them spend far less than those who react late. This guide covers which pests matter, how to spot the damage, and what treatments cost in 2026.
 
 ## Why Pest Pressure Is High in Antigua Guatemala

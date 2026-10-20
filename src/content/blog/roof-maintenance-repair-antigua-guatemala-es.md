@@ -8,8 +8,6 @@ date: 2026-10-14
 lang: "es"
 ---
 
-# Reparación y Mantenimiento de Techos en Antigua
-
 En Antigua Guatemala el techo es lo más caro que vas a mantener y lo primero que la temporada de lluvias pone a prueba. Una reparación pequeña de teja cuesta entre Q1,500 y Q8,000 ($195 a $1,040), mientras que cambiar por completo un techo colonial con membrana nueva anda entre Q80,000 y Q250,000 ($10,400 a $32,500). Saber cuál de las dos cosas necesitás de verdad es donde la mayoría de propietarios pierde dinero.
 
 Casi toda casa colonial aquí lleva techo de teja de barro curva, colocada sobre vigas de madera y una capa de mortero o membrana. La teja en sí es muy resistente y puede durar 40 o 60 años, a veces más. Lo que falla primero casi nunca es la teja: es la capa de abajo, el mortero de las cumbreras y limatesas, y la madera que sostiene todo.

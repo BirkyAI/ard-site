@@ -134,7 +134,7 @@ Los compradores australianos enfrentan algunos desafíos únicos al comprar en A
 
 **No visitar primero.** Aunque los recorridos en video son útiles, comprar a ciegas conlleva riesgo. Visite Antigua, camine por los vecindarios y vea las propiedades en persona antes de comprometerse.
 
-Para más errores comunes, lea nuestra guía sobre los [principales errores de los compradores extranjeros en Antigua Guatemala](/es/blog/top-mistakes-foreign-buyers-antigua-guatemala/).
+Para más errores comunes, lea nuestra guía sobre los [principales errores de los compradores extranjeros en Antigua Guatemala](/es/blog/top-mistakes-foreign-buyers-antigua-guatemala-es/).
 
 ## ¿Es Antigua Guatemala Adecuada para Usted?
 

@@ -42,7 +42,7 @@ Aqui hay estrategias practicas que funcionan en el mercado de alquiler de Antigu
 
 **Obtenga una referencia de su arrendador actual.** Si tiene un buen historial de alquiler con una mascota, una referencia por escrito de su arrendador anterior puede ser muy convincente. Muestra al nuevo propietario que usted es responsable y que su mascota no causo problemas antes.
 
-**Considere El Hato o areas suburbanas.** Las propiedades fuera del centro historico suelen tener mas espacio y politicas de mascotas mas flexibles. El Hato, por ejemplo, ofrece propiedades de montana con jardines, aire fresco y mucho espacio para que su perro disfrute. Nuestras propiedades en Finca El Tambor en El Hato son populares entre los duenos de mascotas precisamente por esta razon. Vea nuestras [propiedades en El Hato](https://antiguarealestatedevelopment.com/es/properties/el-hato/) para conocer la disponibilidad actual.
+**Considere El Hato o areas suburbanas.** Las propiedades fuera del centro historico suelen tener mas espacio y politicas de mascotas mas flexibles. El Hato, por ejemplo, ofrece propiedades de montana con jardines, aire fresco y mucho espacio para que su perro disfrute. Nuestras propiedades en Finca El Tambor en El Hato son populares entre los duenos de mascotas precisamente por esta razon. Vea nuestras [propiedades en El Hato](https://antiguarealestatedevelopment.com/es/properties/) para conocer la disponibilidad actual.
 
 ## Que Buscan los Propietarios en los Duenos de Mascotas
 

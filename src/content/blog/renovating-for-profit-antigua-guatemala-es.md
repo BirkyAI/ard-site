@@ -8,8 +8,6 @@ date: 2026-09-24
 lang: "es"
 ---
 
-# Renovar para Ganar en Antigua Guatemala
-
 Antigua Guatemala tiene uno de los pocos mercados inmobiliarios de Centroamérica donde un edificio viejo y descuidado puede valer bastante más después de una renovación cuidadosa que el dinero que invertiste en él. Esa diferencia, entre lo que se paga por una propiedad abandonada y lo que vale una restaurada al venderla o alquilarla, es todo el caso de negocio de renovar para ganar aquí. No es un mercado para hacerte rico de un día para otro, ni es para alguien que pretende manejar un proyecto desde otro continente sin ayuda. Pero para un comprador que entiende los números, la prima colonial es real y repetible.
 
 Esta guía cubre cómo funcionan de verdad las cuentas en Antigua: las tres vías de salida, cuánto cuesta renovar, de dónde sale la ganancia, las reglas patrimoniales que cambian tu presupuesto y los riesgos que convierten silenciosamente un buen proyecto en uno malo.

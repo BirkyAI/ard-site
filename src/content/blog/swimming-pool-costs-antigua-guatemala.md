@@ -8,8 +8,6 @@ date: 2026-10-08
 lang: "en"
 ---
 
-# Swimming Pool Costs in Antigua Guatemala Homes
-
 A private swimming pool in Antigua Guatemala costs between $18,000 and $55,000 to build, and between $80 and $250 a month to run and maintain. Those figures move with size, site access, and the finishes you choose, but they are the real ranges builders and agents quote in 2026. This guide covers what a pool costs, whether you need a permit, what maintenance runs, how much value it adds, and what to check before buying a home that already has one.
 
 Antigua's climate makes outdoor water attractive almost all year. The dry months from November to April bring blazing afternoons, and the rainy season still delivers plenty of warm, sticky days. In a colonial home with a walled courtyard, a pool becomes the center of daily life. In the villages and gated communities around town, pools are more common and often bigger.

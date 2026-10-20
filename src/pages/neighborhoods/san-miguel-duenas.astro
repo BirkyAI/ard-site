@@ -7,14 +7,9 @@ const faqs = [
   {q:'Is it safe?',a:'San Miguel Dueñas is generally considered safe. As with any area, it is worth visiting and getting a feel for the specific neighborhood. Gated developments offer additional security.'},
   {q:'Do I need a car?',a:'Yes, a car is essential in San Miguel Dueñas. The area is more spread out and there is limited public transportation. Most residents drive to Antigua for shopping, dining, and entertainment.'},
 ];
-const jsonLD = JSON.stringify({
-  "@context":"https://schema.org",
-  "@type":"FAQPage",
-  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
-});
+
 ---
 <BaseLayout title="Living in San Miguel Dueñas, Antigua" description="San Miguel Dueñas is a fast-growing investment area near Antigua Guatemala, affordable land, new developments, and great value. Discover if it is right for you." image="/images/blog/ai-generated/antigua-hacienda-exterior.png">
-  <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">
       <div class="section-label">Neighborhood Guide</div>

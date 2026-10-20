@@ -1,4 +1,5 @@
 ---
+import { getCollection } from 'astro:content';
 import { getTranslation, getLocaleFromUrl, getOppositeLocalePath, type Locale } from '../i18n';
 import Analytics from '@vercel/analytics/astro';
 
@@ -37,7 +38,36 @@ const breadcrumbJsonLd = JSON.stringify({
   '@type': 'BreadcrumbList',
   itemListElement: breadcrumbItems,
 });
-const switchPath = getOppositeLocalePath(Astro.url);
+// ---------------------------------------------------------------------------
+// Route existence check so hreflang and the language switcher never point at a
+// page that does not exist (a 404 or a redirect target). Static pages come from
+// the file tree, blog and property pages from the content collections.
+// ---------------------------------------------------------------------------
+const pageModules = import.meta.glob('../pages/**/*.astro');
+const knownPaths = new Set<string>();
+for (const key of Object.keys(pageModules)) {
+  let p = key.replace('../pages', '').replace(/\.astro$/, '');
+  if (p.includes('[')) continue; // dynamic templates, handled via collections below
+  if (p.endsWith('/index')) p = p.slice(0, -'/index'.length);
+  if (p === '') p = '/';
+  knownPaths.add(p.endsWith('/') ? p : `${p}/`);
+}
+for (const post of await getCollection('blog')) {
+  const isEs = post.data.lang === 'es' || String(post.id).endsWith('-es');
+  knownPaths.add(isEs ? `/es/blog/${post.id}/` : `/blog/${post.id}/`);
+}
+for (const listing of await getCollection('properties')) {
+  const isEs = (listing.data as Record<string, unknown>).lang === 'es' || String(listing.id).endsWith('-es');
+  knownPaths.add(isEs ? `/es/properties/${listing.id}/` : `/properties/${listing.id}/`);
+}
+
+const normPath = (p: string) => (p.endsWith('/') ? p : `${p}/`);
+const currentNorm = normPath(Astro.url.pathname);
+const twinNorm = normPath(getOppositeLocalePath(Astro.url));
+const twinExists = twinNorm !== currentNorm && knownPaths.has(twinNorm);
+const enPath = locale === 'es' ? twinNorm : currentNorm;
+const enExists = knownPaths.has(enPath);
+const switchPath = twinExists ? twinNorm : (locale === 'en' ? '/es/' : '/');
 const switchLabel = locale === 'en' ? 'ES' : 'EN';
 const whatsappMsg = encodeURIComponent(t.whatsappMessage);
 const imageSrc = image.startsWith('http') ? image : `https://antiguarealestatedevelopment.com${image}`;
@@ -68,8 +98,10 @@ const imageSrc = image.startsWith('http') ? image : `https://antiguarealestatede
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700;1,9..40,300..700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/styles/global.css">
-  <link rel="alternate" hreflang="en" href={`https://antiguarealestatedevelopment.com${locale === 'es' ? switchPath : Astro.url.pathname}`} />
-  <link rel="alternate" hreflang="es" href={`https://antiguarealestatedevelopment.com${locale === 'es' ? Astro.url.pathname : switchPath}`} />
+  {enExists && <link rel="alternate" hreflang="en" href={`${siteBase}${enPath}`} />}
+  {locale === 'es' && <link rel="alternate" hreflang="es" href={`${siteBase}${currentNorm}`} />}
+  {locale === 'en' && twinExists && <link rel="alternate" hreflang="es" href={`${siteBase}${twinNorm}`} />}
+  {enExists && <link rel="alternate" hreflang="x-default" href={`${siteBase}${enPath}`} />}
   <script type="application/ld+json" set:html={breadcrumbJsonLd}></script>
   <!-- Google Analytics 4 -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-TKJVTP4L6Z"></script>

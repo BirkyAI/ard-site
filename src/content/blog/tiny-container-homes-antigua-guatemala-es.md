@@ -8,7 +8,6 @@ date: 2026-10-06
 lang: "es"
 ---
 
-
 # Casas Pequeñas y Contenedores en Antigua Guatemala
 
 Una casa pequeña en Antigua Guatemala cuesta entre 25,000 y 70,000 dólares construirla, según si convertís un contenedor marítimo o levantás una casa compacta nueva, y ese monto no incluye el terreno. La idea dejó de ser una novedad el día en que el precio del suelo dentro del valle se separó del de las aldeas que lo rodean. Una casa chica, o una casita construida detrás de una vivienda que ya tenés, hoy le da al comprador una puerta de entrada más barata y al propietario una segunda unidad de alquiler sin comprar nada nuevo.

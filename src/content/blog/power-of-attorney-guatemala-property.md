@@ -8,8 +8,6 @@ date: 2026-10-12
 lang: "en"
 ---
 
-# Buying Guatemala Property with Power of Attorney
-
 Yes, you can buy or sell property in Guatemala without flying down, by granting a power of attorney (poder) to someone you trust in Guatemala. The catch is paperwork: the mandate has to be granted in a public deed, and if you sign it abroad it must be apostilled, translated into Spanish under oath, protocolized before a Guatemalan notary and registered in the Registro Electrónico de Poderes. Done properly, it takes two to four weeks and costs a few hundred dollars, not thousands.
 
 ## Can a foreigner buy Guatemalan property through a power of attorney?

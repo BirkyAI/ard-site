@@ -64,19 +64,6 @@ const hasMore = posts.length > POSTS_PER_PAGE;
   </section>
 </BaseLayout>
 
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      { "@type": "Question", "name": "¿Pueden los extranjeros comprar propiedad en Antigua Guatemala?", "acceptedAnswer": { "@type": "Answer", "text": "Sí. Los extranjeros pueden comprar y poseer propiedad en Guatemala, incluso en Antigua, con los mismos derechos que los ciudadanos. Comprar a través de una sociedad anónima guatemalteca (S.A.) es la práctica estándar." } },
-      { "@type": "Question", "name": "¿Cuánto cuesta vivir en Antigua Guatemala?", "acceptedAnswer": { "@type": "Answer", "text": "Un expatriado puede vivir cómodamente en Antigua con aproximadamente $1,500 a $2,500 al mes, incluyendo renta, servicios, comida y salud. Una pareja suele presupuestar entre $2,500 y $4,000 mensuales." } },
-      { "@type": "Question", "name": "¿Es seguro invertir en bienes raíces en Antigua?", "acceptedAnswer": { "@type": "Answer", "text": "Antigua es uno de los mercados inmobiliarios más seguros y establecidos de Centroamérica. Los valores se han mantenido estables y la fuerte demanda de alquiler lo convierte en un mercado de ingresos confiable." } },
-      { "@type": "Question", "name": "¿Cuál es la mejor zona de Antigua para comprar propiedad?", "acceptedAnswer": { "@type": "Answer", "text": "El Centro Histórico es ideal para ingresos por alquiler y caminabilidad, mientras que zonas como San Pedro Las Huertas, Jocotenango y Santa Lucía Milpas Altas ofrecen más terreno, privacidad y casas más grandes." } }
-    ]
-  }
-</script>
-
 <script define:vars={{ allPosts: posts.map(p => ({ id: p.id, image: p.data.image, alt: p.data.alt, tag: p.data.tag, title: p.data.title, excerpt: p.data.excerpt })), POSTS_PER_PAGE }}>
   let currentPage = 1;
   const btn = document.getElementById('load-more-btn');

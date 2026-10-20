@@ -42,7 +42,7 @@ Here are practical strategies that work in the Antigua rental market:
 
 **Get a reference from your current landlord.** If you have a good rental history with a pet, a written reference from your previous landlord can be very persuasive. It shows the new landlord that you are responsible and that your pet did not cause problems before.
 
-**Consider El Hato or suburban areas.** Properties outside the historic center often have more space and more flexible pet policies. El Hato, for example, offers mountain properties with gardens, fresh air, and plenty of room for your dog to roam. Our rental properties at Finca El Tambor in El Hato are popular with pet owners for exactly this reason. Check out our [El Hato property listings](https://antiguarealestatedevelopment.com/properties/el-hato/) to see current availability.
+**Consider El Hato or suburban areas.** Properties outside the historic center often have more space and more flexible pet policies. El Hato, for example, offers mountain properties with gardens, fresh air, and plenty of room for your dog to roam. Our rental properties at Finca El Tambor in El Hato are popular with pet owners for exactly this reason. Check out our [El Hato property listings](https://antiguarealestatedevelopment.com/properties/) to see current availability.
 
 ## What Landlords Look For in Pet Owners
 

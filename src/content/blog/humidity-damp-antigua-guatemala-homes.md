@@ -8,8 +8,6 @@ date: 2026-10-16
 lang: "en"
 ---
 
-# Humidity and Damp in Antigua Guatemala Homes
-
 Damp is the most common hidden defect in Antigua Guatemala houses, and the rainy season from May to October is when it shows. Thick colonial walls, lime plaster and enclosed courtyards hold moisture well, so a house that looks flawless in February can smell of mildew and bloom white salt by August. This guide covers what causes it, what repairs cost and how to check a property before you commit.
 
 ## How Humid Does Antigua Guatemala Actually Get?

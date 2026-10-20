@@ -8,8 +8,6 @@ date: 2026-10-04
 lang: "es"
 ---
 
-# Glosario Inmobiliario de Antigua Guatemala
-
 Toda compra de propiedad en Antigua Guatemala se hace en español. Tu agente, tu notario y tu abogado te van a entregar documentos llenos de términos que no aparecen en un contrato de Estados Unidos o de Europa: folio real, finca, escritura, usufructo. Conocerlos antes de firmar es la diferencia entre una compra tranquila y un mes de confusión cara.
 
 Este glosario explica los términos en español que de verdad vas a ver cuando compres propiedad en Antigua Guatemala, agrupados por lo que hacen. Las definiciones reflejan el mercado y el proceso legal guatemalteco de 2026.

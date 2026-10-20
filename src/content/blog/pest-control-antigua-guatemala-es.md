@@ -8,8 +8,6 @@ date: 2026-09-25
 lang: "es"
 ---
 
-# Control de Plagas en Antigua Guatemala: Termitas
-
 El valle cálido de Antigua Guatemala, su temporada de lluvias de seis meses y sus materiales de construcción colonial hacen que la presión de plagas aquí sea más alta y más constante que en una ciudad con un invierno duro. No es una crisis, y la mayoría de las casas convive con esto sin problema. Pero las plagas destruyen el valor de una propiedad en silencio, y quien se adelanta a ellas gasta mucho menos que quien reacciona tarde. Esta guía cubre qué plagas importan, cómo detectar el daño y cuánto cuestan los tratamientos en 2026.
 
 ## Por Qué la Presión de Plagas Es Alta en Antigua Guatemala

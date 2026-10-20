@@ -8,8 +8,6 @@ date: 2026-10-09
 lang: "es"
 ---
 
-# Comprar Propiedad en Antigua Guatemala con Cripto
-
 Sí, en la práctica, pero no como la mayoría se lo imagina. Podés tener criptomonedas en Guatemala y podés usar el valor de esas monedas para comprar una casa en Antigua, pero ningún banco y ningún vendedor está obligado a aceptar Bitcoin, Ethereum o USDT directamente. Casi toda compra financiada con cripto aquí se hace convirtiendo tus monedas a dólares o quetzales en un exchange regulado antes del cierre, para que la transferencia de la propiedad siga por el canal legal normal.
 
 Aquí te explico cómo funciona de verdad, cuánto cuesta y dónde se traba la gente.

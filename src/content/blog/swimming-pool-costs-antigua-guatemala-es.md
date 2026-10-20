@@ -8,8 +8,6 @@ date: 2026-10-08
 lang: "es"
 ---
 
-# Cuánto Cuesta una Piscina en Antigua Guatemala
-
 Una piscina privada en Antigua Guatemala cuesta entre 18,000 y 55,000 dólares construirla, y entre 80 y 250 dólares al mes operarla y mantenerla. Esos números cambian según el tamaño, el acceso al sitio y los acabados que elegís, pero son los rangos reales que manejan constructores y agentes en 2026. Esta guía cubre cuánto cuesta, si necesitás permiso, el mantenimiento, el valor de reventa y qué revisar antes de comprar una casa que ya tiene piscina.
 
 El clima de Antigua hace atractiva el agua al aire libre casi todo el año. Los meses secos, de noviembre a abril, traen tardes de mucho calor, y la época de lluvia igual da días cálidos y húmedos. En una casa colonial con patio amurallado, la piscina se vuelve el centro de la vida diaria. En las aldeas y los condominios cerrados alrededor del pueblo, las piscinas son más comunes y a menudo más grandes.

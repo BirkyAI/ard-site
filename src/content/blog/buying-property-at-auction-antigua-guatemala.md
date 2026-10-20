@@ -8,8 +8,6 @@ date: 2026-10-10
 lang: "en"
 ---
 
-# Buying Property at Auction in Antigua Guatemala
-
 Yes, you can buy property at auction in Guatemala, including as a foreigner, but it looks nothing like the bargain hunting you see on television. A Guatemalan auction is a remate judicial, a court-ordered sale used to pay a debt, and the process, the risks and the timeline are all set by a judge rather than a real estate agent. Handled carefully it can put a property in your hands below market value. Handled casually it can leave you owning a building you cannot enter.
 
 Here is how remates actually work, who is allowed to bid, and where the real risks sit.

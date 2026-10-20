@@ -8,8 +8,6 @@ date: 2026-09-30
 lang: "en"
 ---
 
-# Villages Around Antigua Guatemala Worth Buying In
-
 Buying in one of the villages around Antigua Guatemala can cost 30 to 50 percent less than a home inside the colonial grid, while still putting you 10 to 20 minutes from Parque Central. The trade is simple: smaller lots, fewer restaurants within walking distance, and a slower pace in exchange for lower prices and more land.
 
 For buyers who want a garden, a workshop, or a second home that does not stretch the budget, the ring of villages on the slopes of Volcán de Agua is where the value sits.

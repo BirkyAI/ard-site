@@ -8,8 +8,6 @@ date: 2026-10-14
 lang: "en"
 ---
 
-# How to Earn Online While Living in Antigua Guatemala
-
 The honest answer first: people who live well here on money they earn themselves are almost always doing one of four things. They work remotely for a foreign employer, they freelance for foreign clients, they run an online business that serves clients abroad, or they serve the local market. This post is about the first three, because that is the part I know from the inside. I have been earning from Antigua for years, running Antigua Real Estate Development here and, alongside it, an AI automation business with clients in the United States.
 
 ## The question underneath the question

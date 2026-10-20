@@ -8,8 +8,6 @@ date: 2026-09-28
 lang: "en"
 ---
 
-# Buying Property in Antigua Guatemala from Mexico
-
 Mexican buyers can own property in Antigua Guatemala outright, in their own name, with no fideicomiso and no restricted zone. That single rule is the biggest difference from buying in Mexico, and it is why a growing number of Mexican families and investors are treating Antigua as their second-home market. The process is direct, the paperwork is finite, and the whole purchase can close in a few weeks when the title is clean.
 
 ## Can Mexicans buy property in Antigua Guatemala?

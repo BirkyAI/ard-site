@@ -139,7 +139,7 @@ La mayoría de las parejas se las arreglan sin coche el primer año. Los tuk-tuk
 
 ### Visas y Residencia
 
-Las parejas que se quedan más de 90 días necesitan un plan de visa. La opción más común es la visa de turista de 90 días con un viaje de renovación a El Salvador o Belice. Lee nuestras guías sobre [residencia a través de bienes raíces](/es/blog/guatemala-residency-through-real-estate/) y [visa de nómada digital](/es/blog/guatemala-digital-nomad-visa/).
+Las parejas que se quedan más de 90 días necesitan un plan de visa. La opción más común es la visa de turista de 90 días con un viaje de renovación a El Salvador o Belice. Lee nuestras guías sobre [residencia a través de bienes raíces](/es/blog/guatemala-residency-through-real-estate/) y [visa de nómada digital](/es/blog/guatemala-digital-nomad-visa-es/).
 
 ## ¿Es Antigua Adecuada para Ustedes como Pareja?
 

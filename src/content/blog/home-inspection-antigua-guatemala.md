@@ -8,8 +8,6 @@ date: 2026-10-07
 lang: "en"
 ---
 
-# Home Inspection in Antigua Guatemala: What to Expect
-
 A professional home inspection in Antigua Guatemala costs between $150 and $450 and takes three to four hours on site. The inspector delivers a written report within 48 hours, and you can renegotiate the price or walk away based on what it finds. Any buyer of a colonial home or a village property should order one before signing the final deed.
 
 Antigua's housing stock is old, and old houses hide problems a weekend viewing never shows. Cracked roof tiles, termite damage in wooden beams, undersized electrical service, and failing cisterns are routine findings. This guide explains what a professional inspection covers, what it costs, how to hire an inspector, and the problems that matter most in this market.

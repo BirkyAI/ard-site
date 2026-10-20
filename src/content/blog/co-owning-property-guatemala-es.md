@@ -8,8 +8,6 @@ date: 2026-09-20
 lang: "es"
 ---
 
-# Copropiedad de una Propiedad en Guatemala: Lo Que Necesitás Saber
-
 Comprar una casa colonial en Antigua Guatemala con tu pareja, tu cónyuge o un grupo de amigos es algo común, pero los mecanismos legales son distintos de lo que la mayoría de los extranjeros espera. En Guatemala, la propiedad no se rige por la "tenencia conjunta con derecho de supervivencia" a la que quizás estés acostumbrado en Estados Unidos o Canadá, y un acuerdo de palabra no protege a nadie.
 
 Esta guía explica cómo funciona realmente la copropiedad bajo la ley guatemalteca: cómo aparece un título con varios dueños, qué pasa cuando un copropietario fallece o quiere salir, y cómo estructurar la compra para que tu inversión quede limpia.

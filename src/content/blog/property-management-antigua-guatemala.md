@@ -8,8 +8,6 @@ date: 2026-09-01
 lang: "en"
 ---
 
-# Property Management in Antigua Guatemala: A Complete Guide for Foreign Homeowners
-
 **Buying a colonial home or modern villa in Antigua Guatemala is one thing. Managing it from abroad is another. Property management services in Antigua handle everything from tenant screening and rent collection to emergency repairs and legal compliance, so you can own property here without living here full-time.**
 
 ## Why Foreign Property Owners Need Local Management

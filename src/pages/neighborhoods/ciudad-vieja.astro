@@ -7,14 +7,9 @@ const faqs = [
   {q:'What is the average property price?',a:'Ciudad Vieja offers excellent value compared to the Historic Center. You can find modern homes with more space and newer construction for significantly less than what you would pay in Antigua proper. Prices vary by development, but this is one of the best value areas in the region.'},
   {q:'Are there good restaurants and shops nearby?',a:'Yes. Ciudad Vieja has a growing number of restaurants, and the Telares and El Encuentro shopping centers are nearby with supermarkets, restaurants, and services. The popular Cervecería Catorce brewery is also in the area.'},
 ];
-const jsonLD = JSON.stringify({
-  "@context":"https://schema.org",
-  "@type":"FAQPage",
-  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
-});
+
 ---
 <BaseLayout title="Living in Ciudad Vieja, Antigua Guatemala" description="Ciudad Vieja offers modern homes, gated communities, and great value, just minutes from Antigua Guatemala. Discover if this growing area is right for you." image="/images/blog/ai-generated/antigua-garden-pool.png">
-  <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">
       <div class="section-label">Neighborhood Guide</div>

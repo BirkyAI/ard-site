@@ -8,8 +8,6 @@ date: 2026-09-24
 lang: "en"
 ---
 
-# Renovating for Profit in Antigua Guatemala
-
 Antigua Guatemala has one of the few real estate markets in Central America where an old, tired building can be worth considerably more after a careful renovation than the money you put into it. That gap, between what a neglected property sells for and what a restored one sells or rents for, is the entire business case for renovating for profit here. It is not a get-rich-quick market. But for a buyer who understands the numbers, the colonial premium is real and repeatable.
 
 This guide covers how the math works in Antigua: the exit routes, the costs, where profit comes from, the heritage rules, and the risks.

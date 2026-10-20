@@ -7,14 +7,9 @@ const faqs = [
   {q:'Are there gated communities?',a:'Yes, San Pedro Las Huertas has several modern gated communities with security, shared amenities, and well-maintained common areas. These are popular with both expats and local professionals.'},
   {q:'What is the weather like?',a:'San Pedro Las Huertas enjoys a pleasant spring-like climate year-round, typical of the Antigua valley. Temperatures range from the mid-50s at night to the mid-70s during the day. The rainy season runs from May through October, with afternoon showers.'},
 ];
-const jsonLD = JSON.stringify({
-  "@context":"https://schema.org",
-  "@type":"FAQPage",
-  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
-});
+
 ---
 <BaseLayout title="Living in San Pedro Las Huertas, Antigua" description="San Pedro Las Huertas is a favorite expat village near Antigua Guatemala, volcano views, peaceful countryside, and modern gated communities. Discover if it is right for you." image="/images/blog/ai-generated/antigua-local-cafe.png">
-  <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">
       <div class="section-label">Neighborhood Guide</div>

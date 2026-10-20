@@ -7,14 +7,9 @@ const faqs = [
   {q:'What types of properties are available?',a:'You will find larger homes, properties with forested land, and some gated developments. The lots tend to be bigger than in the towns closer to Antigua, and the prices are lower for what you get.'},
   {q:'Do I need a car?',a:'Absolutely. Santa Lucía is in the mountains and there is limited public transportation. A car is essential for daily life, commuting to Antigua, and accessing shopping and services.'},
 ];
-const jsonLD = JSON.stringify({
-  "@context":"https://schema.org",
-  "@type":"FAQPage",
-  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
-});
+
 ---
 <BaseLayout title="Living in Santa Lucía Milpas Altas, Antigua" description="Santa Lucía Milpas Altas offers cooler mountain air, forested surroundings, and larger homes, a peaceful retreat for nature lovers near Antigua Guatemala." image="/images/blog/ai-generated/antigua-rooftop-morning.png">
-  <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">
       <div class="section-label">Neighborhood Guide</div>

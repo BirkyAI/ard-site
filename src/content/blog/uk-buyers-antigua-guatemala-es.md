@@ -134,7 +134,7 @@ Los compradores británicos enfrentan algunos desafíos únicos al comprar en An
 
 **No visitar primero.** Aunque los recorridos en video son útiles, comprar sin ver conlleva riesgos. Visite Antigua, camine por los vecindarios y vea las propiedades en persona antes de comprometerse.
 
-Para más errores comunes, lea nuestra guía sobre los [principales errores de compradores extranjeros en Antigua Guatemala](/es/blog/top-mistakes-foreign-buyers-antigua-guatemala/).
+Para más errores comunes, lea nuestra guía sobre los [principales errores de compradores extranjeros en Antigua Guatemala](/es/blog/top-mistakes-foreign-buyers-antigua-guatemala-es/).
 
 ## ¿Es Antigua Guatemala Adecuada para Usted?
 

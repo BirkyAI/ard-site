@@ -62,19 +62,6 @@ const hasMore = posts.length > POSTS_PER_PAGE;
   </section>
 </BaseLayout>
 
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      { "@type": "Question", "name": "Can foreigners buy property in Antigua Guatemala?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Foreigners can buy and own property in Guatemala, including in Antigua, with the same rights as citizens. Buying through a Guatemalan corporation (S.A.) is standard practice, especially for income-producing or short-term rental properties." } },
-      { "@type": "Question", "name": "How much does it cost to live in Antigua Guatemala?", "acceptedAnswer": { "@type": "Answer", "text": "A single expat can live comfortably in Antigua on roughly $1,500 to $2,500 per month, covering rent, utilities, food, and healthcare. A couple renting a furnished home typically budgets $2,500 to $4,000 monthly." } },
-      { "@type": "Question", "name": "Is it safe to invest in Antigua real estate?", "acceptedAnswer": { "@type": "Answer", "text": "Antigua is one of the safest and most established real estate markets in Central America. Property values have remained stable and strong rental demand makes it a dependable income market. Always verify the title and work with a licensed attorney." } },
-      { "@type": "Question", "name": "What is the best area of Antigua to buy property?", "acceptedAnswer": { "@type": "Answer", "text": "The Historic Center is ideal for rental income and walkability, while neighborhoods like San Pedro Las Huertas, Jocotenango, and Santa Lucía Milpas Altas offer more land, privacy, and larger homes." } }
-    ]
-  }
-</script>
-
 <script define:vars={{ allPosts: posts.map(p => ({ id: p.id, image: p.data.image, alt: p.data.alt, tag: p.data.tag, title: p.data.title, excerpt: p.data.excerpt })), POSTS_PER_PAGE }}>
   let currentPage = 1;
   const btn = document.getElementById('load-more-btn');

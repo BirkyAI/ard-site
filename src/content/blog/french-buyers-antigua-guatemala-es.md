@@ -8,8 +8,6 @@ date: 2026-10-03
 lang: "es"
 ---
 
-# Comprar Propiedad en Antigua Guatemala desde Francia
-
 Los compradores franceses se han vuelto uno de los grupos más constantes del mercado inmobiliario de Antigua Guatemala, y el atractivo es fácil de explicar. Quien tiene pasaporte francés puede ser dueño de una casa aquí sin intermediarios, la ciudad colonial mantiene un ritmo europeo de cafés, panaderías y mercados, y la costumbre francesa de almuerzos largos y caminatas diarias encaja casi perfecto con Antigua.
 
 Esta guía cubre lo que un ciudadano francés realmente necesita saber antes de comprar: el proceso, los costos reales, cómo se mueve el dinero desde un banco francés, las preguntas de impuestos que vale la pena hacer en ambos países, y cómo se ve la vida diaria para quienes hablan francés en Antigua.

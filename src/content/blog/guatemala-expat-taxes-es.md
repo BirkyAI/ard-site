@@ -83,4 +83,4 @@ Para la mayoría de los extranjeros en Antigua Guatemala, la carga tributaria co
 
 Lo importante es obtener asesoramiento profesional para tu situación específica. Las reglas fiscales cambian, las circunstancias individuales varían, y lo que funciona para un extranjero puede no funcionar para otro. Una consulta de una hora con un contador guatemalteco y un especialista fiscal de tu país de origen puede ahorrarte miles de dólares y muchos dolores de cabeza.
 
-**¿Necesitás ayuda comprando propiedad en Guatemala o entendiendo tus obligaciones financieras como propietario?** [Contactá a Luna Jerney](https://antiguarealestatedevelopment.com/connect/) en Antigua Real Estate Development para orientación sobre inversión inmobiliaria y recursos locales.
+**¿Necesitás ayuda comprando propiedad en Guatemala o entendiendo tus obligaciones financieras como propietario?** [Contactá a Luna Jerney](https://antiguarealestatedevelopment.com/es/contact/) en Antigua Real Estate Development para orientación sobre inversión inmobiliaria y recursos locales.

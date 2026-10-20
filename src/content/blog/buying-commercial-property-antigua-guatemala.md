@@ -8,8 +8,6 @@ date: 2026-10-01
 lang: "en"
 ---
 
-# Buying Commercial Property in Antigua Guatemala
-
 Commercial property in Antigua Guatemala is a small, protected market: the historic center is a UNESCO World Heritage site, so no one can demolish a colonial building and build larger. That fixed supply is why a well-placed storefront, café or office rents for 6 to 9 percent gross and holds value through downturns.
 
 Antigua draws a steady flow of tourists, expats and Guatemalan weekend visitors into a grid you can walk end to end in twenty minutes. Every business that wants to serve them needs a door on one of those streets, and there are only so many doors.

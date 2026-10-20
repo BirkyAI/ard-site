@@ -7,14 +7,9 @@ const faqs = [
   {q:'Are there expats living there?',a:'There is a small but growing expat presence. Most residents are local families who have lived in the area for generations. The village is less developed than San Pedro Las Huertas or Ciudad Vieja, which keeps it peaceful and affordable.'},
   {q:'Do I need a car?',a:'Yes, a car is recommended. While the village has some local shops, most amenities require a trip to Antigua. The roads are generally good but can be winding in the mountain areas.'},
 ];
-const jsonLD = JSON.stringify({
-  "@context":"https://schema.org",
-  "@type":"FAQPage",
-  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
-});
+
 ---
 <BaseLayout title="Living in San Juan del Obispo, Antigua" description="San Juan del Obispo is one of the prettiest villages near Antigua Guatemala, stunning scenery, avocado farms, and tranquil mountain living. Discover if it is right for you." image="/images/blog/ai-generated/antigua-church-interior.png">
-  <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">
       <div class="section-label">Neighborhood Guide</div>

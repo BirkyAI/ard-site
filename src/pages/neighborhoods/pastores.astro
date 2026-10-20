@@ -7,14 +7,9 @@ const faqs = [
   {q:'Are there expats living in Pastores?',a:'The expat presence in Pastores is minimal compared to towns like San Pedro Las Huertas or Ciudad Vieja. Most residents are local Guatemalan families. This is part of the appeal for buyers who want an authentic experience.'},
   {q:'What types of properties are available?',a:'You will find traditional homes, building lots, and some larger properties at prices well below what you would pay in Antigua or the closer towns. The market is smaller but the value is excellent.'},
 ];
-const jsonLD = JSON.stringify({
-  "@context":"https://schema.org",
-  "@type":"FAQPage",
-  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
-});
+
 ---
 <BaseLayout title="Living in Pastores, Antigua Guatemala" description="Pastores is an affordable, authentic town near Antigua Guatemala, known for leather goods and local character. Discover if this hidden gem is right for you." image="/images/blog/ai-generated/antigua-market-textiles.png">
-  <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">
       <div class="section-label">Neighborhood Guide</div>

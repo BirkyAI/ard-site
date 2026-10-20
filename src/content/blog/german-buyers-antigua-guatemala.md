@@ -8,8 +8,6 @@ date: 2026-10-01
 lang: "en"
 ---
 
-# Buying Property in Antigua Guatemala from Germany
-
 German buyers are one of the steadiest groups in Antigua Guatemala's property market, and the reasons are not hard to see. A German passport holder can own a home here outright, the climate stays mild all year, and the flight from Frankfurt to Guatemala City is shorter than most people assume before they look it up.
 
 This guide covers what German citizens actually need to know before buying: the process, the real costs, how money moves from a German bank, the tax questions worth asking, and what daily life looks like for the German speaking community in Antigua.

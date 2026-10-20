@@ -8,8 +8,6 @@ date: 2026-10-09
 lang: "en"
 ---
 
-# Can You Buy Antigua Guatemala Property with Crypto?
-
 Yes, in practice, but not the way most buyers imagine it. You can own cryptocurrency in Guatemala, and you can use the value of that crypto to buy a house in Antigua, but no bank and no seller is obliged to accept Bitcoin, Ethereum or USDT directly. Almost every crypto-funded purchase here happens by converting your coins into US dollars or quetzales through a regulated exchange before closing, so the property transfer itself stays in the normal legal channel.
 
 Here is how it actually works, what it costs, and where buyers get stuck.

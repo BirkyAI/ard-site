@@ -50,9 +50,9 @@ Comprar una propiedad en el extranjero conlleva sus propias consideraciones. Aqu
 
 Diferentes compradores tienen diferentes necesidades. Aqui hay una vision general de lo que funciona mejor.
 
-**Para reubicacion a tiempo completo.** Una casa colonial o condominio moderno en el centro historico o en un area residencial establecida como Jocotenango, Ciudad Vieja o San Pedro Las Huertas. Estas areas ofrecen accesibilidad peatonal, comunida y faci acceso a servicios. Explore nuestras [guias de vecindarios](https://antiguarealestatedevelopment.com/es/neighbohoods/) para perfiles detallados de cada area.
+**Para reubicacion a tiempo completo.** Una casa colonial o condominio moderno en el centro historico o en un area residencial establecida como Jocotenango, Ciudad Vieja o San Pedro Las Huertas. Estas areas ofrecen accesibilidad peatonal, comunida y faci acceso a servicios. Explore nuestras [guias de vecindarios](https://antiguarealestatedevelopment.com/neighborhoods/) para perfiles detallados de cada area.
 
-**Para vacaciones o segunda vivienda.** Una unidad en preventa en un complejo resindencial como Los Apostoles o Casas Massima Reforma, donde puede personalizar los acabados y disfutar de comodidades modernas con vistas a los volcanes. Vea nuestra guia sobre [casas en preventa en Antigua Guatemala](https://antiguarealestatedevelopment.com/es/blog/pre-constrution-homes-antigua-guatemala-es/) para saber que esperar.
+**Para vacaciones o segunda vivienda.** Una unidad en preventa en un complejo resindencial como Los Apostoles o Casas Massima Reforma, donde puede personalizar los acabados y disfutar de comodidades modernas con vistas a los volcanes. Vea nuestra guia sobre [casas en preventa en Antigua Guatemala](https://antiguarealestatedevelopment.com/es/blog/pre-construction-homes-antigua-guatemala-es/) para saber que esperar.
 
 ** Para inversion en alquiler.** Una propiedad en o cerca del centro historio que atrae a turistas e inquilinos a corto plazo, o una unidad bien ubicada en El Hato o Barrios Coloniales que atrae a inquilinos expatriados a largo plazo. Explore nuestros [alquileres disponibles](https://antiguarealestatedevelopment.com/es/properties/) para entender el mercado.
 

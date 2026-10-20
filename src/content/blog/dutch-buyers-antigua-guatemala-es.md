@@ -8,8 +8,6 @@ date: 2026-10-04
 lang: "es"
 ---
 
-# Comprar Propiedad en Antigua Guatemala desde Holanda
-
 Los compradores holandeses se han vuelto uno de los grupos más constantes del mercado inmobiliario de Antigua Guatemala, y el encaje no es difícil de ver. Quien tiene pasaporte holandés puede ser dueño de una casa aquí sin intermediarios, la ciudad mantiene una escala caminable y amigable para la bicicleta que resulta familiar, y la costumbre holandesa de hacer negocios de forma directa, sin mucha ceremonia, encaja con la manera en que las compras de propiedad realmente se cierran en Antigua.
 
 Esta guía cubre lo que un ciudadano holandés realmente necesita saber antes de comprar: el proceso, los costos reales, cómo se mueve el dinero desde un banco holandés, las preguntas de impuestos que vale la pena hacer en ambos países, y cómo se ve la vida diaria para quienes hablan holandés en Antigua.

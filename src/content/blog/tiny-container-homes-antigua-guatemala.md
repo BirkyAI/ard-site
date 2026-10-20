@@ -8,7 +8,6 @@ date: 2026-10-06
 lang: "en"
 ---
 
-
 # Tiny Homes & Container Homes in Antigua Guatemala
 
 A tiny home in Antigua Guatemala costs roughly $25,000 to $70,000 to build, depending on whether you convert a shipping container or build a new compact house, and land is not included. A small home, or a casita behind an existing house, now gives buyers a cheaper way in and gives owners a second rental unit without buying anything new.

@@ -8,8 +8,6 @@ date: 2026-10-04
 lang: "en"
 ---
 
-# Buying Property in Antigua Guatemala from Holland
-
 Dutch buyers have quietly become one of the most consistent groups in Antigua Guatemala's property market, and the fit is not hard to see. A Dutch passport holder can own a home here outright, the city keeps a walkable, bike-friendly scale that feels familiar, and the Dutch habit of doing business directly, without much ceremony, suits the way property deals actually close in Antigua.
 
 This guide covers what Dutch citizens need to know before buying: the process, the real costs, how money moves from a Dutch bank, the tax questions on both sides, and daily life for Dutch speakers in Antigua.

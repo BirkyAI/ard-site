@@ -8,8 +8,6 @@ date: 2026-09-21
 lang: "es"
 ---
 
-# Guía de Vida Nocturna en Antigua Guatemala
-
 Antigua Guatemala es famosa por sus fachadas coloniales, sus calles empedradas y sus vistas a los volcanes, todo lo que podés disfrutar a la luz del día. Pero el pueblo también tiene un lado nocturno muy animado, y para quienes compran propiedad o piensan mudarse, entenderlo importa más de lo que parece. El bar que te gusta un viernes por la noche, la plaza donde tocan música en vivo y si tu calle se mantiene tranquila después del anochecer: todo eso influye en qué barrio se siente como hogar.
 
 Esta guía cubre cómo es realmente la escena nocturna, dónde están los lugares más animados y cómo el ritmo del pueblo debería influir en tu decisión de compra.

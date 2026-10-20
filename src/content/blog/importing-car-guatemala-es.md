@@ -8,8 +8,6 @@ date: 2026-09-29
 lang: "es"
 ---
 
-# Importar un Carro a Guatemala: Costos y Trámites
-
 Importar un carro a Guatemala es legal, predecible y más barato en impuestos de lo que la mayoría de los extranjeros imagina, pero el papeleo castiga a quien improvisa. Si te mudás a Antigua Guatemala y querés tu propio vehículo en la calle, la factura de importación de un carro normal de cinco plazas ronda el 32 por ciento de lo que pagaste, y el vehículo sale de aduana en una o dos semanas cuando los documentos están en orden.
 
 ## ¿Puede un extranjero importar un carro a Guatemala?

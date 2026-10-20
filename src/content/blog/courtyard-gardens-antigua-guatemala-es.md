@@ -8,8 +8,6 @@ date: 2026-10-02
 lang: "es"
 ---
 
-# Jardines y Patios en Antigua Guatemala
-
 En Antigua Guatemala el jardín no está en el fondo de la casa. Las casas coloniales se construyen alrededor de un patio interior, así que el jardín es lo primero que ves cuando se abre la puerta y el espacio que de verdad usás casi todas las tardes. Buganvilias desbordándose sobre una pared blanca, una fuente que se escucha desde la cocina, un limonero junto a la mesa de afuera: eso es lo que los compradores recuerdan de una casa.
 
 Esta guía cubre qué crece aquí, cuánto cuesta la jardinería en 2026, cómo cambian el trabajo las dos estaciones y cómo mantener vivo un patio cuando no estás en el país.

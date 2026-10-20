@@ -8,8 +8,6 @@ date: 2026-10-16
 lang: "es"
 ---
 
-# Humedad y Salitre en Casas de Antigua Guatemala
-
 La humedad es el defecto oculto más común en las casas de Antigua Guatemala, y la temporada de lluvia, de mayo a octubre, es cuando aparece. Las paredes gruesas de las casas coloniales, el repello de cal y los patios cerrados retienen agua con facilidad, así que una casa que se ve impecable en febrero puede oler a moho y florecer salitre en agosto. Esta guía explica qué lo causa, cuánto cuesta repararlo y cómo revisar una propiedad antes de comprometerte.
 
 ## ¿Qué Tan Húmedo Es Antigua Guatemala en Realidad?

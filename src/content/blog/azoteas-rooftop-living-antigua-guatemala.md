@@ -8,8 +8,6 @@ date: 2026-09-23
 lang: "en"
 ---
 
-# Azotea Rooftop Living in Antigua Guatemala
-
 Ask anyone who has bought a colonial home in Antigua Guatemala what their favorite room is, and a surprising number will point up. Not to a bedroom or a courtyard, but to a flat open platform above the roofline: the **azotea**. It is the rooftop that turned a house into a lifestyle, and in this town it is often the single feature that decides whether a buyer falls in love.
 
 If you are weighing a purchase here, understanding what an azotea really is, and what it costs to keep one, will change how you read listings. Here is what to look for, what to budget for, and why these rooftops carry more value than any square meter at street level.

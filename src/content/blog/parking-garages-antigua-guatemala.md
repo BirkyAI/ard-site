@@ -8,8 +8,6 @@ date: 2026-10-13
 lang: "en"
 ---
 
-# Parking and Garages in Antigua Guatemala Homes
-
 Antigua's street grid was laid out centuries before anyone here owned a car, and it shows. Most houses inside the 12-by-12-block historic center have no garage, street parking needs a municipal permit, and private lots charge by the hour. If you plan to keep a car, parking should decide which neighborhood you buy in.
 
 ## Can you park on the street in Antigua Guatemala?

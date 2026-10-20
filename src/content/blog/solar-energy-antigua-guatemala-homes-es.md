@@ -8,8 +8,6 @@ date: 2026-09-26
 lang: "es"
 ---
 
-# Energía Solar en Casas de Antigua Guatemala
-
 La energía solar se paga sola en Antigua Guatemala en unos cinco a ocho años, gracias a uno de los mejores niveles de sol en Centroamérica y a tarifas eléctricas que no dejan de subir. Para quien compra una propiedad pensando en quedársela por años, un sistema en el techo es una de las pocas mejoras que baja una factura mensual real en lugar de subirla.
 
 Esta guía explica cuánto cuesta la energía solar en 2026, cómo funciona la medición neta y qué revisar antes de dejar que alguien toque un techo colonial.

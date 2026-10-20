@@ -8,8 +8,6 @@ date: 2026-10-03
 lang: "en"
 ---
 
-# Buying Property in Antigua Guatemala from France
-
 French buyers have become one of the steadiest groups in Antigua Guatemala's property market, and the appeal is easy to trace. A French passport holder can own a home here outright, the colonial city keeps a European rhythm of cafés, bakeries and markets, and the French habit of long lunches and daily walks translates almost perfectly to Antigua.
 
 This guide covers what French citizens actually need to know before buying: the process, the real costs, how money moves from a French bank, the tax questions worth asking on both sides, and what daily life looks like for French speakers in Antigua.

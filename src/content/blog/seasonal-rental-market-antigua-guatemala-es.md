@@ -64,7 +64,7 @@ No todas las propiedades se desempeñan igual en el ciclo estacional. Según los
 
 **Centro de Antigua (casco histórico).** Las tarifas nocturnas más altas y la demanda más fuerte en temporada alta. Una casa colonial a dos calles del Parque Central puede exigir precios premium durante Semana Santa y otros períodos pico. La contrapartida es que las reservas de temporada baja pueden ser más lentas, los turistas que reservan fuera de temporada a menudo buscan áreas más tranquilas y residenciales.
 
-**El Hato y comunidades montañosas.** Estas propiedades atraen a un segmento de mercado diferente: amantes de la naturaleza, grupos de bodas y trabajadores remotos que buscan tranquilidad. Tienden a funcionar bien durante todo el año porque su entorno único (vistas al volcán, clima más fresco, entorno natural) atrae huéspedes independientemente de la temporada. Propiedades como [Casa Contenta](/es/properties/rental-casa-contenta-el-hato/) en Finca El Tambor se reservan consistentemente bien porque ofrecen una experiencia que el centro de Antigua no puede replicar.
+**El Hato y comunidades montañosas.** Estas propiedades atraen a un segmento de mercado diferente: amantes de la naturaleza, grupos de bodas y trabajadores remotos que buscan tranquilidad. Tienden a funcionar bien durante todo el año porque su entorno único (vistas al volcán, clima más fresco, entorno natural) atrae huéspedes independientemente de la temporada. Propiedades como [Casa Contenta](/es/properties/rental-casa-contenta-el-hato-es/) en Finca El Tambor se reservan consistentemente bien porque ofrecen una experiencia que el centro de Antigua no puede replicar.
 
 **San Miguel Dueñas y Jocotenango.** Áreas en crecimiento con buena demanda tanto de inquilinos a corto como a largo plazo. Estos vecindarios ofrecen mejor valor para los compradores y atraen a inquilinos que buscan un estilo de vida más tranquilo mientras están cerca de Antigua.
 
@@ -105,7 +105,7 @@ Una tendencia que vale la pena notar: las temporadas de transición de Antigua s
 
 Esto es especialmente relevante para los propietarios. Si fija el precio de su propiedad de manera competitiva durante estos meses de transición y comercializa para el creciente segmento de trabajadores remotos y nómadas digitales, puede extender efectivamente su temporada alta por varias semanas en cada extremo.
 
-La [visa de nómada digital de Guatemala](/es/blog/guatemala-digital-nomad-visa/) también ha contribuido a una demanda más estable durante todo el año. Los trabajadores remotos que califican para la visa tienden a quedarse de uno a seis meses, reservando durante la temporada baja cuando las tarifas son más favorables para estadías prolongadas.
+La [visa de nómada digital de Guatemala](/es/blog/guatemala-digital-nomad-visa-es/) también ha contribuido a una demanda más estable durante todo el año. Los trabajadores remotos que califican para la visa tienden a quedarse de uno a seis meses, reservando durante la temporada baja cuando las tarifas son más favorables para estadías prolongadas.
 
 ## ¿Es su Propiedad Adecuada para el Mercado de Temporada?
 

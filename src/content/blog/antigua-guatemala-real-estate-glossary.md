@@ -8,8 +8,6 @@ date: 2026-10-04
 lang: "en"
 ---
 
-# Antigua Guatemala Real Estate Glossary for Buyers
-
 Every property purchase in Antigua Guatemala happens in Spanish. Your agent, notary and lawyer will hand you documents full of terms that never appear in a North American or European contract: folio real, finca, escritura, usufructo. Knowing them before you sign is the difference between a confident purchase and a month of expensive confusion.
 
 This glossary explains the Spanish terms you will actually see when buying property in Antigua Guatemala, grouped by what they do. The definitions reflect the Guatemalan market and legal process as of 2026.

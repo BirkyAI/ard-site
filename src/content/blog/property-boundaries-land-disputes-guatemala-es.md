@@ -8,8 +8,6 @@ date: 2026-10-11
 lang: "es"
 ---
 
-# Linderos y Disputas de Tierra en Guatemala
-
 En Guatemala, el lindero que ves en el suelo y el que aparece escrito en tu título pueden no coincidir, y en esa diferencia empiezan casi todas las disputas de tierra. Antes de comprar en Antigua Guatemala, tres cosas tienen que cuadrar: lo que dice la escritura, lo que guarda el Registro de la Propiedad y lo que mide un topógrafo. Cuando cuadran, la propiedad está limpia. Cuando no, heredás un problema que el vendedor nunca mencionó.
 
 Acá te explico cómo se comprueban los linderos en Guatemala, cómo se resuelven las disputas y qué verificar primero.

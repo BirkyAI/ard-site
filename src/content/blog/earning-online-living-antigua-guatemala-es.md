@@ -8,8 +8,6 @@ date: 2026-10-14
 lang: "es"
 ---
 
-# Cómo Ganar en Línea Viviendo en Antigua
-
 La respuesta honesta primero: la gente que vive bien aquí con dinero que gana por su cuenta casi siempre está haciendo una de cuatro cosas. Trabaja de forma remota para un empleador extranjero, trabaja como freelance para clientes extranjeros, tiene un negocio en línea que atiende a clientes fuera del país, o atiende al mercado local. Este artículo trata de las tres primeras, porque esa es la parte que conozco desde dentro. Llevo años ganando desde Antigua, con Antigua Real Estate Development aquí y, en paralelo, un negocio de automatización con IA con clientes en Estados Unidos.
 
 ## La pregunta que hay debajo de la pregunta
@@ -68,7 +66,7 @@ Los que la pasan mal aquí son los que se mudan primero y resuelven el ingreso d
 
 Decide qué vas a vender y quién te lo va a comprar antes de comprar el boleto, y Antigua es un lugar muy bueno para hacerlo funcionar.
 
-Si la propiedad es la razón por la que estás mirando este país, eso es lo que hacemos todo el día, y puedes [escribirnos a Antigua Real Estate Development](https://antiguarealestatedevelopment.com/es/contacto/) con tus preguntas. Si lo que necesitas construir es software y no una casa, eso es [Birky Studio](https://birkystudio.com/), donde lo que más me piden es un asistente con IA que conteste el teléfono del negocio cuando nadie del equipo puede.
+Si la propiedad es la razón por la que estás mirando este país, eso es lo que hacemos todo el día, y puedes [escribirnos a Antigua Real Estate Development](https://antiguarealestatedevelopment.com/es/contact/) con tus preguntas. Si lo que necesitas construir es software y no una casa, eso es [Birky Studio](https://birkystudio.com/), donde lo que más me piden es un asistente con IA que conteste el teléfono del negocio cuando nadie del equipo puede.
 
 ## Las preguntas que no puedo responder
 

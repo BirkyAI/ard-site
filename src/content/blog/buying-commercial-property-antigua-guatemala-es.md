@@ -8,8 +8,6 @@ date: 2026-10-01
 lang: "es"
 ---
 
-# Comprar Propiedad Comercial en Antigua Guatemala
-
 La propiedad comercial en Antigua Guatemala es un mercado chico y protegido: el centro histórico es Patrimonio de la Humanidad de la UNESCO, así que nadie puede demoler un edificio colonial y construir algo más grande en su lugar. Esa oferta fija es la razón por la que un local, un café o una oficina bien ubicados rentan de 6 a 9 por ciento bruto y mantienen su valor en los años flojos.
 
 Antigua atrae un flujo constante de turistas, expatriados y visitantes guatemaltecos de fin de semana a un cuadro que podés caminar de punta a punta en veinte minutos. Todo negocio que quiera atenderlos necesita una puerta en una de esas calles, y esas puertas son finitas.

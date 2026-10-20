@@ -8,8 +8,6 @@ date: 2026-09-20
 lang: "en"
 ---
 
-# Co-Owning Property in Guatemala: What You Need to Know
-
 Buying a colonial home in Antigua Guatemala with a partner, a spouse or a group of friends is common, but the legal mechanics are different from what most foreigners expect. In Guatemala, ownership is not governed by the "joint tenancy with right of survivorship" you might be used to in the US or Canada, and a handshake agreement does not protect anyone.
 
 This guide explains how co-ownership actually works under Guatemalan law: how a title lists multiple owners, what happens when one co-owner dies or wants out, and how to structure the purchase so your investment stays clean.

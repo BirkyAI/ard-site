@@ -7,14 +7,9 @@ const faqs = [
   {q:'Is there an expat community?',a:'The expat presence in Jocotenango is smaller than in San Pedro Las Huertas or Ciudad Vieja, but it is growing. Most residents are local Guatemalan families, which gives the town a more authentic feel.'},
   {q:'Is it good for rental investment?',a:'Yes. Jocotenango is interesting for rental investors because of its proximity to Antigua and lower purchase prices. Long-term rentals targeting local professionals can provide steady income, and the growing expat community is increasing demand.'},
 ];
-const jsonLD = JSON.stringify({
-  "@context":"https://schema.org",
-  "@type":"FAQPage",
-  "mainEntity": faqs.map(f => ({"@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a}}))
-});
+
 ---
 <BaseLayout title="Living in Jocotenango, Antigua Guatemala" description="Jocotenango is a practical, affordable town just north of Antigua Guatemala, great for families, first-time buyers, and rental investors. Discover what it has to offer." image="/images/blog/ai-generated/antigua-street-colonial-walk.png">
-  <script type="application/ld+json" set:html={jsonLD} />
   <section class="page-hero">
     <div class="container">
       <div class="section-label">Neighborhood Guide</div>

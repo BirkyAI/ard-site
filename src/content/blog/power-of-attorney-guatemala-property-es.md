@@ -8,8 +8,6 @@ date: 2026-10-12
 lang: "es"
 ---
 
-# Comprar Propiedad en Guatemala con Poder Notarial
-
 Sí, podés comprar o vender propiedad en Guatemala sin viajar, otorgándole un poder a alguien de tu confianza en el país. El detalle está en el papeleo: el mandato tiene que constar en escritura pública, y si lo firmás en el extranjero hay que apostillarlo, traducirlo al español bajo juramento, protocolizarlo ante notario guatemalteco e inscribirlo en el Registro Electrónico de Poderes. Bien hecho, el trámite toma de dos a cuatro semanas y cuesta unos cientos de dólares, no miles.
 
 ## ¿Puede un extranjero comprar propiedad en Guatemala con un poder?

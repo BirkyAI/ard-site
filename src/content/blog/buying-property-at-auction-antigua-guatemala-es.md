@@ -8,8 +8,6 @@ date: 2026-10-10
 lang: "es"
 ---
 
-# Comprar Propiedad en Subasta en Antigua Guatemala
-
 Sí, podés comprar propiedad en subasta en Guatemala, incluso como extranjero, pero no se parece en nada a la caza de gangas que ves en televisión. Una subasta guatemalteca es un remate judicial, una venta ordenada por un juez para pagar una deuda, y el proceso, los riesgos y los plazos los fija el juez, no un agente inmobiliario. Bien manejado, puede dejarte una propiedad por debajo del valor de mercado. Mal manejado, puede dejarte dueño de un edificio al que no podés entrar.
 
 Aquí te explico cómo funcionan los remates de verdad, quién puede pujar y dónde están los riesgos reales.

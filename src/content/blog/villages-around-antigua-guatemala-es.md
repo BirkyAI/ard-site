@@ -8,8 +8,6 @@ date: 2026-09-30
 lang: "es"
 ---
 
-# Pueblos Cerca de Antigua Guatemala para Comprar
-
 Comprar en uno de los pueblos que rodean Antigua Guatemala puede costar entre 30 y 50 por ciento menos que una casa dentro del cuadro colonial, y aun así te deja a 10 o 20 minutos del Parque Central. El intercambio es simple: lotes más chicos, menos restaurantes a pie y un ritmo más lento a cambio de precios más bajos y más terreno.
 
 Para quien busca un jardín, un taller o una segunda casa que no reviente el presupuesto, el anillo de pueblos en las faldas del Volcán de Agua es donde está el valor.

@@ -8,8 +8,6 @@ date: 2026-10-11
 lang: "en"
 ---
 
-# Property Boundaries and Land Disputes in Guatemala
-
 In Guatemala the boundary drawn on the ground and the boundary written in your title can disagree, and that gap is where most land disputes start. Before you buy near Antigua Guatemala, three things have to line up: what the escritura says, what the Property Registry holds, and what a surveyor measures on the ground. When they agree, ownership is clean. When they do not, you inherit a problem the seller never mentioned.
 
 Here is how boundaries are proven, how disputes are resolved, and what to verify first.

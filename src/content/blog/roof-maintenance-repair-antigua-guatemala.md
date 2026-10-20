@@ -8,8 +8,6 @@ date: 2026-10-14
 lang: "en"
 ---
 
-# Roof Repair and Maintenance in Antigua Guatemala
-
 In Antigua Guatemala your roof is the single most expensive thing you will maintain, and it is the first thing the rainy season tests. A small tile repair runs about Q1,500 to Q8,000 ($195 to $1,040), while a full re-roof with new underlayment on a colonial house typically lands between Q80,000 and Q250,000 ($10,400 to $32,500). Knowing which one you actually need is where most owners lose money.
 
 Almost every colonial home here wears a roof of curved clay barrel tiles, teja de barro, laid over wooden beams and an underlayment layer. The tiles themselves are remarkably durable and can last 40 to 60 years or more. The part that fails first is almost never the tile. It is the layer underneath, the mortar at the ridges and valleys, and the wood that holds everything up.

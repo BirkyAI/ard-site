@@ -8,8 +8,6 @@ date: 2026-09-29
 lang: "en"
 ---
 
-# Importing a Car to Guatemala: Costs and Process
-
 Importing a car to Guatemala is legal, predictable, and cheaper on taxes than most expats expect, but the paperwork punishes anyone who improvises. If you are moving to Antigua Guatemala and want your own vehicle on the road, the import bill for a normal five-seat car lands at roughly 32 percent of what you paid for it, and the car clears customs in one to two weeks once your documents are in order.
 
 ## Can a foreigner import a car to Guatemala?

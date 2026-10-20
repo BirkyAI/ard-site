@@ -8,8 +8,6 @@ date: 2026-10-15
 lang: "en"
 ---
 
-# Cost of Owning a Home in Antigua Guatemala
-
 Most owners in Antigua Guatemala spend between $2,000 and $5,000 USD a year to keep a home running after they buy it. That covers property tax, insurance, maintenance, security and the small repairs a colonial house never stops asking for. A larger property with a pool, a big garden and hired help runs past $8,000.
 
 The purchase price is easy to compare. The yearly cost of ownership is where budgets quietly break.

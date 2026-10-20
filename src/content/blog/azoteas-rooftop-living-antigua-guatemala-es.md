@@ -8,8 +8,6 @@ date: 2026-09-23
 lang: "es"
 ---
 
-# Azoteas y Vida en las Terrazas de Antigua Guatemala
-
 Preguntale a cualquiera que haya comprado una casa colonial en Antigua Guatemala cuál es su habitación favorita, y un número sorprendente va a señalar hacia arriba. No a un dormitorio ni a un patio, sino a una plataforma plana y abierta por encima del techo: la **azotea**. Es el techo que convirtió una casa en un estilo de vida, y en este pueblo muchas veces es el detalle que decide si un comprador se enamora.
 
 Si estás considerando una compra aquí, entender qué es realmente una azotea, y cuánto cuesta mantenerla, va a cambiar la forma en que leés los anuncios. Esto es lo que hay que buscar, lo que hay que presupuestar y por qué estos techos valen más que cualquier metro cuadrado a nivel de calle.

@@ -8,8 +8,6 @@ date: 2026-10-05
 lang: "es"
 ---
 
-# Derechos de Inquilinos y Arrendadores en Antigua
-
 Alquilar en Antigua Guatemala se basa en un contrato escrito, un depósito de aproximadamente un mes de renta y una regla firme: ninguna de las dos partes puede ser sacada ni forzada a pagar más en medio del contrato. Guatemala no tiene control de rentas, así que casi todo se define por lo que acuerden arrendador e inquilino. El detalle está en que ese acuerdo igual debe respetar el Código Civil, y ciertas medidas, como cambiar la cerradura a un inquilino o dejar de pagar la renta sin aviso, son ilegales sin importar lo que diga el contrato.
 
 Esta guía explica cómo funcionan de verdad los contratos, los depósitos, las reparaciones, los aumentos, los avisos y el desalojo en Antigua, tanto para quien llega a alquilar como para quien es dueño de una propiedad y quiere rentarla.
