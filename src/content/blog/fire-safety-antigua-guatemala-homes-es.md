@@ -8,8 +8,6 @@ date: 2026-10-20
 lang: "es"
 ---
 
-# Seguridad contra Incendios en Casas de Antigua
-
 Un incendio en una casa no es el riesgo de todos los días en Antigua Guatemala como sí lo es en muchas ciudades de Estados Unidos o Europa, pero acá los incendios empiezan de otra manera y una casa colonial cambia la forma en que salís. La mayoría de las casas no tiene detector de humo, muchas tienen un calentador de gas montado en una pared interior, y una instalación eléctrica de los años setenta nunca se pensó para los aparatos que hoy están enchufados. Diez minutos de revisión durante una visita suelen mostrar dónde está el riesgo.
 
 ## ¿Es real el riesgo de incendio en Antigua Guatemala?

@@ -8,8 +8,6 @@ date: 2026-10-20
 lang: "en"
 ---
 
-# Fire Safety in Antigua Guatemala Homes
-
 A house fire is not the everyday risk in Antigua Guatemala that it is in North American or European cities, but fires start differently here, and a colonial house changes how you get out. Most homes have no smoke detector, many have a gas water heater on an interior wall, and a 1970s house was never wired for the appliances now plugged into it. Ten minutes of checking during a viewing usually shows where the risk sits.
 
 ## Is fire a real risk in Antigua Guatemala?
