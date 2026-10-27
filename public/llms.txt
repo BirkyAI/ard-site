@@ -1,0 +1,64 @@
+# Antigua Real Estate Development (ARD)
+
+> Antigua Real Estate Development (ARD) is a real estate company in Antigua Guatemala. We help foreign and local buyers find, buy and own property in Antigua and its surrounding villages (Ciudad Vieja, Jocotenango, San Pedro Las Huertas, Santa Lucia Milpas Altas, San Miguel Duenas, Pastores, San Juan del Obispo and the historic center). Services cover buying guidance, property management and AI tools for real estate agents. Buying with us is your choice, and expert help is described on the site.
+
+## Services and core pages
+
+- [Home](https://antiguarealestatedevelopment.com/): Antigua Guatemala property for sale, listings and buyer guidance.
+- [Services](https://antiguarealestatedevelopment.com/services/): What ARD does for buyers, from search and viewings through closing and property management.
+- [About](https://antiguarealestatedevelopment.com/about/): Who runs ARD and how we work with clients.
+- [Contact](https://antiguarealestatedevelopment.com/contact/): Get in touch with ARD.
+- [AI Agent for Realtors](https://antiguarealestatedevelopment.com/ai-agent-for-realtors/): The AI automation ARD offers licensed real estate agents.
+- [Notion for Real Estate](https://antiguarealestatedevelopment.com/notion-for-real-estate/): How to run a real estate business out of a Notion CRM.
+- [Relocation Checklist](https://antiguarealestatedevelopment.com/relocation-checklist/): A free checklist for moving to Antigua Guatemala.
+
+## Neighborhoods
+
+- [Neighborhoods Overview](https://antiguarealestatedevelopment.com/neighborhoods/): All villages around Antigua compared for living.
+- [Historic Center](https://antiguarealestatedevelopment.com/neighborhoods/historic-center/): Property in the center of Antigua.
+- [Ciudad Vieja](https://antiguarealestatedevelopment.com/neighborhoods/ciudad-vieja/): A quiet village minutes south of Antigua.
+- [Jocotenango](https://antiguarealestatedevelopment.com/neighborhoods/jocotenango/): Upscale village on the north edge of Antigua.
+- [San Pedro Las Huertas](https://antiguarealestatedevelopment.com/neighborhoods/san-pedro-las-huertas/): Residential area with easy access to town.
+- [San Miguel Duenas](https://antiguarealestatedevelopment.com/neighborhoods/san-miguel-duenas/): A growing village with lower land prices.
+- [Pastores](https://antiguarealestatedevelopment.com/neighborhoods/pastores/): Traditional leather-goods town southwest of Antigua.
+- [San Juan del Obispo](https://antiguarealestatedevelopment.com/neighborhoods/san-juan-del-obispo/): Quiet village with colonial character.
+- [Santa Lucia Milpas Altas](https://antiguarealestatedevelopment.com/neighborhoods/santa-lucia-milpas-altas/): Cooler mountain town above Antigua.
+
+## Buyer guides (how to buy here)
+
+- [How to Buy Property in Guatemala as a Foreigner](https://antiguarealestatedevelopment.com/blog/how-to-buy-property-guatemala-foreigner/): The step by step process for foreign buyers.
+- [Cost of Living in Antigua Guatemala for Expats](https://antiguarealestadevelopment.com/blog/cost-of-living-antigua-guatemala-expats/): What a single person can live on comfortably per month.
+- [Best Time to Buy Property in Antigua](https://antiguarealestadevelopment.com/blog/best-time-buy-property-antigua-guatemala/): Seasonality and timing in the local market.
+- [Buying vs Building in Antigua Guatemala](https://antiguarealestadevelopment.com/blog/buying-vs-building-antigua-guatemala/): The tradeoffs between buying an existing home and building.
+- [Renting vs Buying in Antigua](https://antiguarealestadevelopment.com/blog/renting-vs-buying-antigua-guatemala/): When renting makes sense versus owning.
+- [Cost of Owning a Home](https://antiguarealestadevelopment.com/blog/cost-of-owning-home-antigua-guatemala/): Ongoing costs of homeownership beyond the sale price.
+- [Best Neighborhoods in Antigua Guatemala](https://antiguarealestadevelopment.com/blog/best-neighborhoods-antigua-guatemala/): Which area suits which kind of buyer.
+- [Property Due Diligence in Guatemala](https://antiguarealestadevelopment.com/blog/guatemala-property-due-diligence/): What to check before you commit.
+- [Closing Process in Guatemala](https://antiguarealestadevelopment.com/blog/guatemala-real-estate-closing-process/): What happens at closing and the notary's role.
+- [Foreign Buyer Mistakes](https://antiguarealestadevelopment.com/blog/top-mistakes-foreign-buyers-antigua-guatemala/): Common errors to avoid.
+- [Property Appraisal and Valuation](https://antiguarealestadevelopment.com/blog/property-appraisal-valuation-guatemala/): How property is valued in Guatemala.
+- [Guatemala Mortgage Financing for Foreigners](https://antiguarealestadevelopment.com/blog/guatemala-mortgage-financing-foreigners/): Financing options for out-of-country buyers.
+
+## Living in Antigua (quality of life)
+
+- [Retiring in Antigua Guatemala](https://antiguarealestadevelopment.com/blog/retiring-antigua-guatemala-guide/): A full guide for retirees.
+- [Pros and Cons of Living in Antigua](https://antiguarealestadevelopment.com/blog/pros-cons-living-antigua-guatemala/): An honest balance for potential residents.
+- [Antigua Guatemala Weather and Climate](https://antiguarealestadevelopment.com/blog/antigua-guatemala-weather-climate-guide/): What the climate is really like year round.
+- [Safety for Expats in Antigua](https://antiguarealestadevelopment.com/blog/antigua-guatemala-safety-expats/): Practical safety information for newcomers.
+- [Healthcare for Expats](https://antiguarealestadevelopment.com/blog/antigua-guatemala-healthcare-expats/): Hospitals, clinics and health services nearby.
+- [Internet and Wi-Fi for Expats](https://antiguarealestadevelopment.com/blog/internet-wifi-expats-antigua-guatemala/): Connectivity and speeds available.
+- [Public vs Private Schools](https://antiguarealestadevelopment.com/blog/international-schools-antigua-guatemala/): Schooling options for families.
+
+## Property types and investment
+
+- [Colonial Homes and Restoration](https://antiguarealestadevelopment.com/blog/colonial-homes-antigua-guatemala-restoration/): Buying and restoring colonial architecture.
+- [Condos and Apartments](https://antiguarealestadevelopment.com/blog/condos-apartments-antigua-guatemala/): Modern condo options in and near Antigua.
+- [Land for Sale](https://antiguarealestadevelopment.com/blog/buying-land-antigua-guatemala/): Buying land and understanding measurements like varas and manzanas.
+- [Investment Market 2026](https://antiguarealestadevelopment.com/blog/guatemala-real-estate-investment-2026/): A snapshot of the investment landscape.
+- [Rental Income Potential](https://antiguarealestadevelopment.com/blog/rental-income-potential-antigua-guatemala/): What a rental property can earn.
+- [Property Management for Absentee Owners](https://antiguarealestadevelopment.com/blog/property-management-absentee-owners-antigua/): Having your property managed from afar.
+
+## Spanish version
+
+- [Inicio (Spanish home)](https://antiguarealestadevelopment.com/es/): La pagina principal en espanol.
+- [Servicios](https://antiguarealestadevelopment.com/es/services/): Servicios de ARD en espanol.
