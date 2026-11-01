@@ -43,7 +43,7 @@ Antigua no tiene un solo mercado. Tiene cuatro, y se comportan de manera distint
 
 **De $600,000 en adelante** está el inventario excepcional: grandes residencias coloniales en las mejores partes del casco, desde unos $600,000, con lotes privilegiados, múltiples patios y detalle arquitectónico original a partir de $800,000. El lujo moderno se cotiza de otra forma, en general desde $400,000 y llegando a $2,000,000 o más en propiedades de ladera con vistas dominantes.
 
-Para dar escala, dos ejemplos reales: [Los Apostoles](/es/properties/los-apostoles/), una comunidad de cinco casas en preventa a $615,000, y [Casas Massima Reforma](/es/properties/casas-massima-reforma/), residencias de alto nivel ya construidas en torno a $1,500,000.
+Para dar escala, dos ejemplos reales: [Los Apostoles](/es/properties/los-apostoles-es/), una comunidad de cinco casas en preventa a $615,000, y [Casas Massima Reforma](/es/properties/casas-massima-reforma-es/), residencias de alto nivel ya construidas en torno a $1,500,000.
 
 ## Qué moldeará los precios en 2027
 
@@ -53,7 +53,7 @@ Cinco fuerzas ya están en marcha.
 
 **La inflación del costo de restauración.** La restauración cuesta entre $150 y $400 por metro cuadrado según cuánto sea estructural, y amueblar añade entre $15,000 y $50,000. Cuando los costos de renovación suben más rápido que los precios de las casas terminadas, la brecha entre un cascarón en bruto y una casa restaurada se amplía, y los cascarones se quedan más tiempo en el mercado.
 
-**La prima de la obra nueva.** La construcción nueva costaba en 2026 alrededor de 15% más por metro cuadrado que casas existentes comparables. La preventa sigue siendo la forma de comprar a precios modernos sin pagar esa prima de golpe, que es exactamente el intercambio sobre el que está armada la estructura de [Los Apostoles](/es/properties/los-apostoles/).
+**La prima de la obra nueva.** La construcción nueva costaba en 2026 alrededor de 15% más por metro cuadrado que casas existentes comparables. La preventa sigue siendo la forma de comprar a precios modernos sin pagar esa prima de golpe, que es exactamente el intercambio sobre el que está armada la estructura de [Los Apostoles](/es/properties/los-apostoles-es/).
 
 **La regulación de alquileres de corto plazo.** Las reglas de alquiler corto de Antigua se endurecieron a lo largo de 2026, y eso convierte la rentabilidad turística de una simple historia de demanda en una variable de política. Si vas a comprar para generar ingresos por Airbnb, lee la [Regulación de Alquiler Corto en Antigua](/es/blog/short-term-rental-regulations-antigua-guatemala-2026-es/) antes de calcular cualquier rendimiento, porque las reglas cambian las cuentas.
 

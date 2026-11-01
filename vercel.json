@@ -55,6 +55,16 @@
       "permanent": true
     },
     {
+      "source": "/es/properties/los-apostoles/",
+      "destination": "/es/properties/los-apostoles-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/properties/casas-massima-reforma/",
+      "destination": "/es/properties/casas-massima-reforma-es/",
+      "permanent": true
+    },
+    {
       "source": "/es/neighborhoods/(.*)",
       "destination": "/neighborhoods/$1",
       "permanent": true
