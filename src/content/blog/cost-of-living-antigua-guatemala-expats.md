@@ -94,7 +94,7 @@ Many expats in Antigua either carry international health insurance or pay out of
 - **Uber/taxi to Guatemala City airport:** $30–$45
 - **Chicken bus to nearby towns:** $0.25–$0.50
 - **Renting a car:** $300–$500/month
-- **Gasoline (per liter):** $1.00–$1.20
+- **Gasoline (per liter):** $1.20–$1.35
 
 Most expats in the center walk everywhere since Antigua is only about one square mile. A car is useful for exploring the country or if you live outside the center, but it's not a daily necessity.
 
@@ -166,6 +166,17 @@ Antigua consistently comes in 30–50% less than comparable expat-friendly citie
 4. **Walk everywhere**, the center is compact and safe for pedestrians.
 5. **Rent before buying**, spend at least six months understanding neighborhoods before investing in property.
 6. **Use local services**, dentists, mechanics, and handymen charge a fraction of US prices.
+
+## Frequently asked questions
+
+**How much does a single person need to live in Antigua Guatemala?**
+Plan on $1,200 to $1,800 a month for a comfortable single life, including a furnished apartment in or near the center, groceries, dining out, utilities, and healthcare. A frugal budget outside the colonial grid can run closer to $1,000.
+
+**Is Antigua Guatemala cheaper than Costa Rica or Mexico City?**
+Yes. Antigua comes in roughly 30% to 50% below comparable expat cities such as San José, Costa Rica, and Mexico City's popular neighborhoods, mostly because rent, healthcare, and dining out cost less here.
+
+**What currency is used in Antigua Guatemala?**
+Guatemala uses the quetzal (Q). The rate hovered near 7.5 to 7.7 quetzales to the US dollar in 2026, so local prices quoted in quetzales convert close to the figures above. Reconvert before you commit to a lease, since the rate drifts.
 
 ## Ready to Make the Move?
 

@@ -19,9 +19,11 @@ La mayoría de nacionalidades pueden ingresar a Guatemala sin visa por hasta 90 
 ## Encontrando tu Primer Hogar
 
 El mercado de alquiler en Antigua ofrece opciones para cada presupuesto:
-- **Económico:** $300-500/mes por un apartamento básico
-- **Rango medio:** $500-1,000/mes por una casa colonial amueblada
-- **Premium:** $1,000-2,500/mes por una propiedad de lujo
+- **Económico:** $350-600/mes por un apartamento básico
+- **Rango medio:** $550-1,100/mes por una casa colonial amueblada
+- **Premium:** $1,100-2,500/mes por una propiedad de lujo
+
+Los precios subieron con la demanda a lo largo de 2026; los rangos de arriba reflejan el mercado al cierre del año.
 
 ## Costo de Vida
 
@@ -35,3 +37,23 @@ Antigua ofrece un estilo de vida increíblemente accesible:
 ## Cómo Desplazarte
 
 Antigua es una ciudad ideal para caminar, la mayoría de las cosas están a 15 minutos a pie. Para viajes más largos, los tuk-tuks cuestan $1-2 y Uber está disponible para traslados a la Ciudad de Guatemala.
+
+## Cuánto Cuesta el Alquiler en 2026
+
+Los precios del alquiler subieron con la demanda, y la diferencia entre el centro y las afueras es el dato más útil para quien recién llega. A finales de 2026, un apartamento de un dormitorio dentro del centro histórico promedia unos $877 al mes, mientras que el mismo apartamento justo fuera del centro promedia unos $523, un descuento de casi el 40% por una caminata corta. Una casa de tres dormitorios en el centro promedia unos $1,900.
+
+Esas cifras se mueven con el quetzal, así que tómalas como referencia y no como contrato. La lectura práctica es simple: paga el sobreprecio si quieres vivir dentro de la cuadrícula colonial, y ahorra entre 30% y 40% si no te molesta caminar hasta el centro.
+
+## Dónde Vivir Cuando Llegas
+
+- **Centro histórico:** el alquiler más alto, y todo a menos de 15 minutos a pie. Es la Antigua que casi todos se imaginan.
+- **Bordes de la cuadrícula (San Felipe, Santa Ana):** de 10 a 20 minutos a pie del centro, con alquileres entre 30% y 40% más bajos.
+- **Aldeas (Jocotenango, San Pedro Las Huertas, Ciudad Vieja):** más tranquilas, mejor relación calidad-precio, y más fáciles con auto o tuk-tuk.
+
+## Preguntas frecuentes
+
+**¿Cuánto cuesta alquilar un apartamento de un dormitorio en Antigua Guatemala?**
+Un apartamento amueblado de un dormitorio promedia unos $877 al mes dentro del centro histórico y unos $523 fuera de él a finales de 2026, un descuento de casi el 40% por una caminata corta. Los precios varían con el quetzal, así que reconvierte antes de firmar.
+
+**¿Necesito un auto para vivir en Antigua Guatemala?**
+No si vives dentro o cerca del centro. Antigua mide aproximadamente una milla cuadrada y se recorre a pie, con tuk-tuks a $1 o $2 por viaje. Un auto ayuda si te instalas en una de las aldeas cercanas o si viajas seguido a la Ciudad de Guatemala.

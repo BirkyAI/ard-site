@@ -95,7 +95,7 @@ Muchos expatriados en Antigua ya sea tienen seguro médico internacional o pagan
 - **Uber/taxi al aeropuerto de la Ciudad de Guatemala:** $30–$45
 - **Camioneta (chicken bus) a pueblos cercanos:** $0.25–$0.50
 - **Alquiler de auto:** $300–$500/mes
-- **Gasolina (por litro):** $1.00–$1.20
+- **Gasolina (por litro):** $1.20–$1.35
 
 La mayoría de los expatriados en el centro caminan a todas partes, ya que Antigua mide aproximadamente una milla cuadrada. Un auto es útil para explorar el país o si vives fuera del centro, pero no es una necesidad diaria.
 
@@ -167,6 +167,17 @@ Antigua consistentemente resulta un 30–50% más económica que ciudades compar
 4. **Camina a todas partes**, el centro es compacto y seguro para peatones.
 5. **Alquila antes de comprar**, pasa al menos seis meses conociendo los barrios antes de invertir en propiedad.
 6. **Usa servicios locales**, dentistas, mecánicos y handymans cobran una fracción de los precios de EE.UU.
+
+## Preguntas frecuentes
+
+**¿Cuánto necesita una persona soltera para vivir en Antigua Guatemala?**
+Calcula entre $1,200 y $1,800 al mes para una vida cómoda de soltero, incluyendo un apartamento amueblado dentro o cerca del centro, comestibles, comidas fuera, servicios y salud. Un presupuesto austero fuera de la cuadrícula colonial puede acercarse a los $1,000.
+
+**¿Es Antigua Guatemala más barata que Costa Rica o Ciudad de México?**
+Sí. Antigua resulta entre 30% y 50% más económica que ciudades comparables para expatriados como San José, Costa Rica, o los barrios populares de Ciudad de México, sobre todo porque el alquiler, la salud y las comidas fuera cuestan menos aquí.
+
+**¿Qué moneda se usa en Antigua Guatemala?**
+Guatemala usa el quetzal (Q). El tipo de cambio rondó entre 7.5 y 7.7 quetzales por dólar estadounidense en 2026, así que los precios locales en quetzales se convierten cerca de las cifras de arriba. Reconviene antes de firmar un contrato, porque el tipo de cambio varía.
 
 ## ¿Listo para Dar el Salto?
 
