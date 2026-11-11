@@ -7,22 +7,22 @@ baths: 4
 area: "298m²"
 status: "For Sale"
 badge: "For Sale"
-image: "/images/properties/hacienda-san-juan-1/1.png"
+image: "/images/properties/hacienda-san-juan-1/1.jpg"
 alt: "Open concept kitchen and living area with a granite island, dark wood cabinets and exposed cedar beams in a house in Hacienda San Juan"
 featured: false
 hidden: false
 date: 2026-11-11
 gallery:
-  - "/images/properties/hacienda-san-juan-1/1.png"
-  - "/images/properties/hacienda-san-juan-1/2.png"
-  - "/images/properties/hacienda-san-juan-1/3.png"
-  - "/images/properties/hacienda-san-juan-1/4.png"
-  - "/images/properties/hacienda-san-juan-1/5.png"
-  - "/images/properties/hacienda-san-juan-1/6.png"
-  - "/images/properties/hacienda-san-juan-1/7.png"
-  - "/images/properties/hacienda-san-juan-1/8.png"
-  - "/images/properties/hacienda-san-juan-1/9.png"
-  - "/images/properties/hacienda-san-juan-1/10.png"
+  - "/images/properties/hacienda-san-juan-1/1.jpg"
+  - "/images/properties/hacienda-san-juan-1/2.jpg"
+  - "/images/properties/hacienda-san-juan-1/3.jpg"
+  - "/images/properties/hacienda-san-juan-1/4.jpg"
+  - "/images/properties/hacienda-san-juan-1/5.jpg"
+  - "/images/properties/hacienda-san-juan-1/6.jpg"
+  - "/images/properties/hacienda-san-juan-1/7.jpg"
+  - "/images/properties/hacienda-san-juan-1/8.jpg"
+  - "/images/properties/hacienda-san-juan-1/9.jpg"
+  - "/images/properties/hacienda-san-juan-1/10.jpg"
 ---
 
 ## About This Property
