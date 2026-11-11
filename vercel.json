@@ -60,6 +60,11 @@
       "permanent": true
     },
     {
+      "source": "/es/properties/hacienda-san-juan-1/",
+      "destination": "/es/properties/hacienda-san-juan-1-es/",
+      "permanent": true
+    },
+    {
       "source": "/es/properties/casas-massima-reforma/",
       "destination": "/es/properties/casas-massima-reforma-es/",
       "permanent": true
