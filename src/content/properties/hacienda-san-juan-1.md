@@ -45,3 +45,5 @@ The asking price is US$475,000 plus taxes. Monthly HOA maintenance is Q400.
 ## Location
 
 Hacienda San Juan is a private residential community on the south side of the Antigua valley, a short drive from the town center while staying set apart from the bustle. The setting offers views toward the surrounding volcanoes, easy access to everyday services, and the peace of a low density, controlled-access development.
+
+To learn more about the area, see our [guide to Alotenango and the southern valley](/neighborhoods/alotenango/).

@@ -46,3 +46,5 @@ El precio de venta es de US$475,000 más impuestos. El mantenimiento mensual del
 ## Ubicación
 
 Hacienda San Juan es una comunidad residencial privada al sur del valle de Antigua, a un corto trayecto del casco urbano pero alejada del bullicio. El entorno ofrece vistas hacia los volcanes circundantes, fácil acceso a los servicios del día a día y la tranquilidad de un desarrollo de baja densidad con acceso controlado.
+
+Para conocer mejor la zona, consulta nuestra [guía de Alotenango y el valle sur](/neighborhoods/alotenango/).
