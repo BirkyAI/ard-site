@@ -8,7 +8,7 @@ area: "315m² construction on 210m² lot"
 status: "Pre-Construction"
 badge: "Pre-Construction"
 description: "3-bedroom modern colonial home in gated community near Antigua. 315m² on 210m² lot, volcano views. Currently in obra gris, estimated completion November 2026."
-image: "/images/properties/casa-h7-hacienda-comendador/1.jpg"
+image: "/images/properties/casa-h7-hacienda-comendador/featured-portrait.jpg"
 alt: "Modern colonial home for sale in Hacienda del Comendador, San Miguel Dueñas near Antigua Guatemala with volcano views"
 featured: true
 hidden: false
