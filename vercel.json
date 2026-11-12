@@ -65,6 +65,21 @@
       "permanent": true
     },
     {
+      "source": "/es/properties/villa-magna/",
+      "destination": "/es/properties/villa-magna-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/properties/villa-real/",
+      "destination": "/es/properties/villa-real-es/",
+      "permanent": true
+    },
+    {
+      "source": "/es/properties/villa-san-juan/",
+      "destination": "/es/properties/villa-san-juan-es/",
+      "permanent": true
+    },
+    {
       "source": "/es/properties/casas-massima-reforma/",
       "destination": "/es/properties/casas-massima-reforma-es/",
       "permanent": true
