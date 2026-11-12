@@ -1,7 +1,7 @@
 ---
 title: "Villa Real en Venta en Antigua Guatemala"
 location: "Antigua Guatemala"
-price: 625000
+price: 660000
 beds: 3
 baths: 3
 area: "440m²"
@@ -42,7 +42,7 @@ Cada habitación incluye su propio walk-in closet y baño privado, y la master b
 - **Parqueo** para hasta 4 vehículos
 - **440 m² de construcción** en dos niveles
 
-El precio de venta es de US$625,000 más impuestos. Se espera que la casa esté lista en aproximadamente cuatro semanas.
+El precio de venta es de US$660,000 más impuestos. Se espera que la casa esté lista en aproximadamente cuatro semanas.
 
 ## Ubicación
 

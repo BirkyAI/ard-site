@@ -1,7 +1,7 @@
 ---
 title: "Villa Real for Sale in Antigua Guatemala"
 location: "Antigua Guatemala"
-price: 625000
+price: 660000
 beds: 3
 baths: 3
 area: "440m²"
@@ -41,7 +41,7 @@ Each bedroom includes its own walk-in closet and bathroom, and the master bedroo
 - **Parking** for up to 4 vehicles
 - **440 m² of construction** on two levels
 
-The asking price is US$625,000 plus taxes. The home is expected to be ready in approximately four weeks.
+The asking price is US$660,000 plus taxes. The home is expected to be ready in approximately four weeks.
 
 ## Location
 
