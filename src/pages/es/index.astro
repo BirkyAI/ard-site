@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 import { getTranslation } from '../../i18n';
 const t = getTranslation('es');
 const allProperties = await getCollection('properties');
-const featuredOrder = ['casa-h7-hacienda-comendador-es', 'rental-san-gaspar-vivar-es', 'los-apostoles-es'];
+const featuredOrder = ['villa-magna-es', 'villa-real-es', 'hacienda-san-juan-1-es'];
 const featured = featuredOrder.map(id => allProperties.find(p => p.id === id && p.data.lang === 'es' && !p.data.hidden)).filter(Boolean);
 const allBlog = await getCollection('blog');
 const recentBlog = allBlog.filter(p => p.data.lang === 'es').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
