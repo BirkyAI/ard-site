@@ -23,6 +23,8 @@ gallery:
   - "/images/properties/hacienda-san-juan-1/8.jpg"
   - "/images/properties/hacienda-san-juan-1/9.jpg"
   - "/images/properties/hacienda-san-juan-1/10.jpg"
+  - "/images/properties/hacienda-san-juan-1/11.jpg"
+  - "/images/properties/hacienda-san-juan-1/12.jpg"
 ---
 
 ## About This Property
