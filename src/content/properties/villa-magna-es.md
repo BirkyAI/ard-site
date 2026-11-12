@@ -20,6 +20,8 @@ gallery:
   - "/images/properties/villa-magna/4.jpg"
   - "/images/properties/villa-magna/5.jpg"
   - "/images/properties/villa-magna/6.jpg"
+  - "/images/properties/villa-magna/7.jpg"
+  - "/images/properties/villa-magna/8.jpg"
 ---
 
 ## Acerca de Esta Propiedad

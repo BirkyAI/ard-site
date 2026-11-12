@@ -19,6 +19,8 @@ gallery:
   - "/images/properties/villa-real/3.jpg"
   - "/images/properties/villa-real/4.jpg"
   - "/images/properties/villa-real/5.jpg"
+  - "/images/properties/villa-real/6.jpg"
+  - "/images/properties/villa-real/7.jpg"
 ---
 
 ## Acerca de Esta Propiedad
