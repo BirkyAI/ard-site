@@ -7,8 +7,8 @@ baths: 4
 area: "298m²"
 status: "En Venta"
 badge: "En Venta"
-image: "/images/properties/hacienda-san-juan-1/1.jpg"
-alt: "Área de cocina y sala de concepto abierto con una isla de granito, gabinetes de madera oscura y vigas de cedro a la vista en una casa en Hacienda San Juan"
+image: "/images/properties/hacienda-san-juan-1/featured.jpg"
+alt: "El frente exterior de una casa colonial de dos niveles con garaje y balcones, en la comunidad de Hacienda San Juan"
 featured: false
 hidden: false
 date: 2026-11-11
@@ -26,6 +26,26 @@ gallery:
   - "/images/properties/hacienda-san-juan-1/10.jpg"
   - "/images/properties/hacienda-san-juan-1/11.jpg"
   - "/images/properties/hacienda-san-juan-1/12.jpg"
+  - "/images/properties/hacienda-san-juan-1/13.jpg"
+  - "/images/properties/hacienda-san-juan-1/14.jpg"
+  - "/images/properties/hacienda-san-juan-1/15.jpg"
+  - "/images/properties/hacienda-san-juan-1/16.jpg"
+  - "/images/properties/hacienda-san-juan-1/17.jpg"
+  - "/images/properties/hacienda-san-juan-1/18.jpg"
+  - "/images/properties/hacienda-san-juan-1/19.jpg"
+  - "/images/properties/hacienda-san-juan-1/20.jpg"
+  - "/images/properties/hacienda-san-juan-1/21.jpg"
+  - "/images/properties/hacienda-san-juan-1/22.jpg"
+  - "/images/properties/hacienda-san-juan-1/23.jpg"
+  - "/images/properties/hacienda-san-juan-1/24.jpg"
+  - "/images/properties/hacienda-san-juan-1/25.jpg"
+  - "/images/properties/hacienda-san-juan-1/26.jpg"
+  - "/images/properties/hacienda-san-juan-1/27.jpg"
+  - "/images/properties/hacienda-san-juan-1/28.jpg"
+  - "/images/properties/hacienda-san-juan-1/29.jpg"
+  - "/images/properties/hacienda-san-juan-1/30.jpg"
+  - "/images/properties/hacienda-san-juan-1/31.jpg"
+  - "/images/properties/hacienda-san-juan-1/32.jpg"
 ---
 
 ## Acerca de Esta Propiedad

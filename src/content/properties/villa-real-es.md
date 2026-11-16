@@ -8,7 +8,7 @@ area: "440m²"
 status: "En Venta"
 badge: "En Venta"
 image: "/images/properties/villa-real/featured.jpg"
-alt: "Un ambiente interior con chimenea blanca, piso de cerámica y techo de madera a la vista, en Villa Real cerca de Antigua Guatemala"
+alt: "El frente exterior de una casa colonial blanca con portón azul y acceso ajardinado, en Villa Real cerca de Antigua Guatemala"
 featured: false
 hidden: false
 date: 2026-11-12
@@ -21,6 +21,27 @@ gallery:
   - "/images/properties/villa-real/5.jpg"
   - "/images/properties/villa-real/6.jpg"
   - "/images/properties/villa-real/7.jpg"
+  - "/images/properties/villa-real/8.jpg"
+  - "/images/properties/villa-real/9.jpg"
+  - "/images/properties/villa-real/10.jpg"
+  - "/images/properties/villa-real/11.jpg"
+  - "/images/properties/villa-real/12.jpg"
+  - "/images/properties/villa-real/13.jpg"
+  - "/images/properties/villa-real/14.jpg"
+  - "/images/properties/villa-real/15.jpg"
+  - "/images/properties/villa-real/16.jpg"
+  - "/images/properties/villa-real/17.jpg"
+  - "/images/properties/villa-real/18.jpg"
+  - "/images/properties/villa-real/19.jpg"
+  - "/images/properties/villa-real/20.jpg"
+  - "/images/properties/villa-real/21.jpg"
+  - "/images/properties/villa-real/22.jpg"
+  - "/images/properties/villa-real/23.jpg"
+  - "/images/properties/villa-real/24.jpg"
+  - "/images/properties/villa-real/25.jpg"
+  - "/images/properties/villa-real/26.jpg"
+  - "/images/properties/villa-real/27.jpg"
+  - "/images/properties/villa-real/28.jpg"
 ---
 
 ## Acerca de Esta Propiedad

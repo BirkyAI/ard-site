@@ -8,7 +8,7 @@ area: "320m²"
 status: "En Venta"
 badge: "En Venta"
 image: "/images/properties/villa-magna/featured.jpg"
-alt: "Un patio interior lleno de plantas con un corredor techado, columnas de madera y un balcón superior, en Villa Magna cerca de Antigua Guatemala"
+alt: "El frente exterior de una casa colonial moderna con jardín y sendero empedrado, en Villa Magna cerca de Antigua Guatemala"
 featured: false
 hidden: false
 date: 2026-11-12
@@ -22,6 +22,23 @@ gallery:
   - "/images/properties/villa-magna/6.jpg"
   - "/images/properties/villa-magna/7.jpg"
   - "/images/properties/villa-magna/8.jpg"
+  - "/images/properties/villa-magna/9.jpg"
+  - "/images/properties/villa-magna/10.jpg"
+  - "/images/properties/villa-magna/11.jpg"
+  - "/images/properties/villa-magna/12.jpg"
+  - "/images/properties/villa-magna/13.jpg"
+  - "/images/properties/villa-magna/14.jpg"
+  - "/images/properties/villa-magna/15.jpg"
+  - "/images/properties/villa-magna/16.jpg"
+  - "/images/properties/villa-magna/17.jpg"
+  - "/images/properties/villa-magna/18.jpg"
+  - "/images/properties/villa-magna/19.jpg"
+  - "/images/properties/villa-magna/20.jpg"
+  - "/images/properties/villa-magna/21.jpg"
+  - "/images/properties/villa-magna/22.jpg"
+  - "/images/properties/villa-magna/23.jpg"
+  - "/images/properties/villa-magna/24.jpg"
+  - "/images/properties/villa-magna/25.jpg"
 ---
 
 ## Acerca de Esta Propiedad

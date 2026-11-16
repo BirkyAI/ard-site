@@ -7,8 +7,8 @@ baths: 4
 area: "298m²"
 status: "For Sale"
 badge: "For Sale"
-image: "/images/properties/hacienda-san-juan-1/1.jpg"
-alt: "Open concept kitchen and living area with a granite island, dark wood cabinets and exposed cedar beams in a house in Hacienda San Juan"
+image: "/images/properties/hacienda-san-juan-1/featured.jpg"
+alt: "The front exterior of a two-storey colonial home with a garage and balconies, in the Hacienda San Juan community"
 featured: false
 hidden: false
 date: 2026-11-11
@@ -25,6 +25,26 @@ gallery:
   - "/images/properties/hacienda-san-juan-1/10.jpg"
   - "/images/properties/hacienda-san-juan-1/11.jpg"
   - "/images/properties/hacienda-san-juan-1/12.jpg"
+  - "/images/properties/hacienda-san-juan-1/13.jpg"
+  - "/images/properties/hacienda-san-juan-1/14.jpg"
+  - "/images/properties/hacienda-san-juan-1/15.jpg"
+  - "/images/properties/hacienda-san-juan-1/16.jpg"
+  - "/images/properties/hacienda-san-juan-1/17.jpg"
+  - "/images/properties/hacienda-san-juan-1/18.jpg"
+  - "/images/properties/hacienda-san-juan-1/19.jpg"
+  - "/images/properties/hacienda-san-juan-1/20.jpg"
+  - "/images/properties/hacienda-san-juan-1/21.jpg"
+  - "/images/properties/hacienda-san-juan-1/22.jpg"
+  - "/images/properties/hacienda-san-juan-1/23.jpg"
+  - "/images/properties/hacienda-san-juan-1/24.jpg"
+  - "/images/properties/hacienda-san-juan-1/25.jpg"
+  - "/images/properties/hacienda-san-juan-1/26.jpg"
+  - "/images/properties/hacienda-san-juan-1/27.jpg"
+  - "/images/properties/hacienda-san-juan-1/28.jpg"
+  - "/images/properties/hacienda-san-juan-1/29.jpg"
+  - "/images/properties/hacienda-san-juan-1/30.jpg"
+  - "/images/properties/hacienda-san-juan-1/31.jpg"
+  - "/images/properties/hacienda-san-juan-1/32.jpg"
 ---
 
 ## About This Property

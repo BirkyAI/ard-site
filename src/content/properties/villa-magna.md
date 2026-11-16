@@ -8,7 +8,7 @@ area: "320m²"
 status: "For Sale"
 badge: "For Sale"
 image: "/images/properties/villa-magna/featured.jpg"
-alt: "A leafy inner courtyard with a covered walkway, wooden columns and an upper balcony, in Villa Magna near Antigua Guatemala"
+alt: "The front exterior of a modern colonial home with a landscaped lawn and tiled path, in Villa Magna near Antigua Guatemala"
 featured: false
 hidden: false
 date: 2026-11-12
@@ -21,6 +21,23 @@ gallery:
   - "/images/properties/villa-magna/6.jpg"
   - "/images/properties/villa-magna/7.jpg"
   - "/images/properties/villa-magna/8.jpg"
+  - "/images/properties/villa-magna/9.jpg"
+  - "/images/properties/villa-magna/10.jpg"
+  - "/images/properties/villa-magna/11.jpg"
+  - "/images/properties/villa-magna/12.jpg"
+  - "/images/properties/villa-magna/13.jpg"
+  - "/images/properties/villa-magna/14.jpg"
+  - "/images/properties/villa-magna/15.jpg"
+  - "/images/properties/villa-magna/16.jpg"
+  - "/images/properties/villa-magna/17.jpg"
+  - "/images/properties/villa-magna/18.jpg"
+  - "/images/properties/villa-magna/19.jpg"
+  - "/images/properties/villa-magna/20.jpg"
+  - "/images/properties/villa-magna/21.jpg"
+  - "/images/properties/villa-magna/22.jpg"
+  - "/images/properties/villa-magna/23.jpg"
+  - "/images/properties/villa-magna/24.jpg"
+  - "/images/properties/villa-magna/25.jpg"
 ---
 
 ## About This Property

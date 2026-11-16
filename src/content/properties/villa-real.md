@@ -8,7 +8,7 @@ area: "440m²"
 status: "For Sale"
 badge: "For Sale"
 image: "/images/properties/villa-real/featured.jpg"
-alt: "An interior room with a white fireplace, tiled floor and exposed timber ceiling, in Villa Real near Antigua Guatemala"
+alt: "The front exterior of a white colonial home with a blue gate and landscaped driveway, in Villa Real near Antigua Guatemala"
 featured: false
 hidden: false
 date: 2026-11-12
@@ -20,6 +20,27 @@ gallery:
   - "/images/properties/villa-real/5.jpg"
   - "/images/properties/villa-real/6.jpg"
   - "/images/properties/villa-real/7.jpg"
+  - "/images/properties/villa-real/8.jpg"
+  - "/images/properties/villa-real/9.jpg"
+  - "/images/properties/villa-real/10.jpg"
+  - "/images/properties/villa-real/11.jpg"
+  - "/images/properties/villa-real/12.jpg"
+  - "/images/properties/villa-real/13.jpg"
+  - "/images/properties/villa-real/14.jpg"
+  - "/images/properties/villa-real/15.jpg"
+  - "/images/properties/villa-real/16.jpg"
+  - "/images/properties/villa-real/17.jpg"
+  - "/images/properties/villa-real/18.jpg"
+  - "/images/properties/villa-real/19.jpg"
+  - "/images/properties/villa-real/20.jpg"
+  - "/images/properties/villa-real/21.jpg"
+  - "/images/properties/villa-real/22.jpg"
+  - "/images/properties/villa-real/23.jpg"
+  - "/images/properties/villa-real/24.jpg"
+  - "/images/properties/villa-real/25.jpg"
+  - "/images/properties/villa-real/26.jpg"
+  - "/images/properties/villa-real/27.jpg"
+  - "/images/properties/villa-real/28.jpg"
 ---
 
 ## About This Property
